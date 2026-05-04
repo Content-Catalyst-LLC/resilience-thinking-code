@@ -1,0 +1,6 @@
+scenario_name,description,disturbance_type,disturbance_intensity,disturbance_frequency,adaptive_capacity,threshold_distance,learning_capacity,redundancy,interpretation_note
+baseline,Ordinary disturbance conditions,mixed,0.10,0.20,0.65,0.60,0.60,0.55,Reference scenario
+repeated_shocks,Frequent repeated shocks,mixed,0.16,0.55,0.65,0.60,0.60,0.55,Stress-test scenario
+low_redundancy,Low backup capacity,mixed,0.14,0.35,0.62,0.55,0.58,0.30,Brittleness scenario
+high_adaptation,High adaptive capacity,mixed,0.14,0.35,0.82,0.68,0.76,0.66,Resilience investment scenario
+threshold_risk,Close to threshold boundary,mixed,0.22,0.45,0.48,0.38,0.46,0.42,Regime-shift concern scenario

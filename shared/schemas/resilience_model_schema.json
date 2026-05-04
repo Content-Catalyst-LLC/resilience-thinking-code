@@ -1,0 +1,20 @@
+{
+  "schema_name": "resilience_model_schema",
+  "description": "Metadata schema for resilience-thinking models.",
+  "fields": [
+    {"name": "system_id", "type": "integer"},
+    {"name": "system_name", "type": "string"},
+    {"name": "system_type", "type": "string"},
+    {"name": "boundary_note", "type": "string"},
+    {"name": "disturbance_type", "type": "string"},
+    {"name": "disturbance_intensity", "type": "number"},
+    {"name": "disturbance_frequency", "type": "number"},
+    {"name": "adaptive_capacity", "type": "number"},
+    {"name": "threshold_distance", "type": "number"},
+    {"name": "learning_capacity", "type": "number"},
+    {"name": "redundancy", "type": "number"},
+    {"name": "governance_capacity", "type": "number"},
+    {"name": "equity_capacity", "type": "number"},
+    {"name": "interpretation_note", "type": "string"}
+  ]
+}
