@@ -1,0 +1,1921 @@
+system_id,system_type,scenario_id,scenario_name,time_step,resilience_margin,threshold_flag
+S001,Hardened Infrastructure,D001,Short operational outage,1,0.7172,viable margin
+S001,Hardened Infrastructure,D001,Short operational outage,2,0.7144,viable margin
+S001,Hardened Infrastructure,D001,Short operational outage,3,0.7116,viable margin
+S001,Hardened Infrastructure,D001,Short operational outage,4,0.7088,viable margin
+S001,Hardened Infrastructure,D001,Short operational outage,5,0.706,viable margin
+S001,Hardened Infrastructure,D001,Short operational outage,6,0.7032,viable margin
+S001,Hardened Infrastructure,D001,Short operational outage,7,0.7004,viable margin
+S001,Hardened Infrastructure,D001,Short operational outage,8,0.6976,viable margin
+S001,Hardened Infrastructure,D001,Short operational outage,9,0.6948,viable margin
+S001,Hardened Infrastructure,D001,Short operational outage,10,0.692,viable margin
+S001,Hardened Infrastructure,D001,Short operational outage,11,0.6892,viable margin
+S001,Hardened Infrastructure,D001,Short operational outage,12,0.6752,viable margin
+S001,Hardened Infrastructure,D001,Short operational outage,13,0.6724,viable margin
+S001,Hardened Infrastructure,D001,Short operational outage,14,0.6696,viable margin
+S001,Hardened Infrastructure,D001,Short operational outage,15,0.6668,viable margin
+S001,Hardened Infrastructure,D001,Short operational outage,16,0.664,viable margin
+S001,Hardened Infrastructure,D001,Short operational outage,17,0.6612,viable margin
+S001,Hardened Infrastructure,D001,Short operational outage,18,0.6584,viable margin
+S001,Hardened Infrastructure,D001,Short operational outage,19,0.6556,viable margin
+S001,Hardened Infrastructure,D001,Short operational outage,20,0.6528,viable margin
+S001,Hardened Infrastructure,D001,Short operational outage,21,0.65,viable margin
+S001,Hardened Infrastructure,D001,Short operational outage,22,0.6472,viable margin
+S001,Hardened Infrastructure,D001,Short operational outage,23,0.6444,viable margin
+S001,Hardened Infrastructure,D001,Short operational outage,24,0.6303,viable margin
+S001,Hardened Infrastructure,D001,Short operational outage,25,0.6275,viable margin
+S001,Hardened Infrastructure,D001,Short operational outage,26,0.6247,viable margin
+S001,Hardened Infrastructure,D001,Short operational outage,27,0.6219,viable margin
+S001,Hardened Infrastructure,D001,Short operational outage,28,0.6191,viable margin
+S001,Hardened Infrastructure,D001,Short operational outage,29,0.6163,viable margin
+S001,Hardened Infrastructure,D001,Short operational outage,30,0.6135,viable margin
+S001,Hardened Infrastructure,D001,Short operational outage,31,0.6107,viable margin
+S001,Hardened Infrastructure,D001,Short operational outage,32,0.6079,viable margin
+S001,Hardened Infrastructure,D001,Short operational outage,33,0.6051,viable margin
+S001,Hardened Infrastructure,D001,Short operational outage,34,0.6023,viable margin
+S001,Hardened Infrastructure,D001,Short operational outage,35,0.5995,viable margin
+S001,Hardened Infrastructure,D001,Short operational outage,36,0.5855,viable margin
+S001,Hardened Infrastructure,D001,Short operational outage,37,0.5827,viable margin
+S001,Hardened Infrastructure,D001,Short operational outage,38,0.5799,viable margin
+S001,Hardened Infrastructure,D001,Short operational outage,39,0.5771,viable margin
+S001,Hardened Infrastructure,D001,Short operational outage,40,0.5743,viable margin
+S001,Hardened Infrastructure,D001,Short operational outage,41,0.5715,viable margin
+S001,Hardened Infrastructure,D001,Short operational outage,42,0.5687,viable margin
+S001,Hardened Infrastructure,D001,Short operational outage,43,0.5659,viable margin
+S001,Hardened Infrastructure,D001,Short operational outage,44,0.5631,viable margin
+S001,Hardened Infrastructure,D001,Short operational outage,45,0.5603,viable margin
+S001,Hardened Infrastructure,D001,Short operational outage,46,0.5575,viable margin
+S001,Hardened Infrastructure,D001,Short operational outage,47,0.5547,viable margin
+S001,Hardened Infrastructure,D001,Short operational outage,48,0.5406,viable margin
+S001,Hardened Infrastructure,D001,Short operational outage,49,0.5378,viable margin
+S001,Hardened Infrastructure,D001,Short operational outage,50,0.535,viable margin
+S001,Hardened Infrastructure,D001,Short operational outage,51,0.5322,viable margin
+S001,Hardened Infrastructure,D001,Short operational outage,52,0.5294,viable margin
+S001,Hardened Infrastructure,D001,Short operational outage,53,0.5266,viable margin
+S001,Hardened Infrastructure,D001,Short operational outage,54,0.5238,viable margin
+S001,Hardened Infrastructure,D001,Short operational outage,55,0.521,viable margin
+S001,Hardened Infrastructure,D001,Short operational outage,56,0.5182,viable margin
+S001,Hardened Infrastructure,D001,Short operational outage,57,0.5154,viable margin
+S001,Hardened Infrastructure,D001,Short operational outage,58,0.5126,viable margin
+S001,Hardened Infrastructure,D001,Short operational outage,59,0.5098,viable margin
+S001,Hardened Infrastructure,D001,Short operational outage,60,0.507,viable margin
+S001,Hardened Infrastructure,D002,Repeated climate stress,1,0.6964,viable margin
+S001,Hardened Infrastructure,D002,Repeated climate stress,2,0.6728,viable margin
+S001,Hardened Infrastructure,D002,Repeated climate stress,3,0.6492,viable margin
+S001,Hardened Infrastructure,D002,Repeated climate stress,4,0.6256,viable margin
+S001,Hardened Infrastructure,D002,Repeated climate stress,5,0.602,viable margin
+S001,Hardened Infrastructure,D002,Repeated climate stress,6,0.5784,viable margin
+S001,Hardened Infrastructure,D002,Repeated climate stress,7,0.5548,viable margin
+S001,Hardened Infrastructure,D002,Repeated climate stress,8,0.5312,viable margin
+S001,Hardened Infrastructure,D002,Repeated climate stress,9,0.5076,viable margin
+S001,Hardened Infrastructure,D002,Repeated climate stress,10,0.484,viable margin
+S001,Hardened Infrastructure,D002,Repeated climate stress,11,0.4604,viable margin
+S001,Hardened Infrastructure,D002,Repeated climate stress,12,0.4136,viable margin
+S001,Hardened Infrastructure,D002,Repeated climate stress,13,0.39,viable margin
+S001,Hardened Infrastructure,D002,Repeated climate stress,14,0.3664,viable margin
+S001,Hardened Infrastructure,D002,Repeated climate stress,15,0.3428,viable margin
+S001,Hardened Infrastructure,D002,Repeated climate stress,16,0.3192,viable margin
+S001,Hardened Infrastructure,D002,Repeated climate stress,17,0.2956,viable margin
+S001,Hardened Infrastructure,D002,Repeated climate stress,18,0.272,viable margin
+S001,Hardened Infrastructure,D002,Repeated climate stress,19,0.2484,viable margin
+S001,Hardened Infrastructure,D002,Repeated climate stress,20,0.2248,viable margin
+S001,Hardened Infrastructure,D002,Repeated climate stress,21,0.2012,viable margin
+S001,Hardened Infrastructure,D002,Repeated climate stress,22,0.1776,threshold risk
+S001,Hardened Infrastructure,D002,Repeated climate stress,23,0.154,threshold risk
+S001,Hardened Infrastructure,D002,Repeated climate stress,24,0.1071,threshold risk
+S001,Hardened Infrastructure,D002,Repeated climate stress,25,0.0835,threshold risk
+S001,Hardened Infrastructure,D002,Repeated climate stress,26,0.0599,threshold risk
+S001,Hardened Infrastructure,D002,Repeated climate stress,27,0.0363,threshold risk
+S001,Hardened Infrastructure,D002,Repeated climate stress,28,0.0127,threshold risk
+S001,Hardened Infrastructure,D002,Repeated climate stress,29,-0.0109,threshold risk
+S001,Hardened Infrastructure,D002,Repeated climate stress,30,-0.0345,threshold risk
+S001,Hardened Infrastructure,D002,Repeated climate stress,31,-0.0581,threshold risk
+S001,Hardened Infrastructure,D002,Repeated climate stress,32,-0.0817,threshold risk
+S001,Hardened Infrastructure,D002,Repeated climate stress,33,-0.1053,threshold risk
+S001,Hardened Infrastructure,D002,Repeated climate stress,34,-0.1289,threshold risk
+S001,Hardened Infrastructure,D002,Repeated climate stress,35,-0.1525,threshold risk
+S001,Hardened Infrastructure,D002,Repeated climate stress,36,-0.1993,threshold risk
+S001,Hardened Infrastructure,D002,Repeated climate stress,37,-0.2229,threshold risk
+S001,Hardened Infrastructure,D002,Repeated climate stress,38,-0.2465,threshold risk
+S001,Hardened Infrastructure,D002,Repeated climate stress,39,-0.2701,threshold risk
+S001,Hardened Infrastructure,D002,Repeated climate stress,40,-0.2937,threshold risk
+S001,Hardened Infrastructure,D002,Repeated climate stress,41,-0.3173,threshold risk
+S001,Hardened Infrastructure,D002,Repeated climate stress,42,-0.3409,threshold risk
+S001,Hardened Infrastructure,D002,Repeated climate stress,43,-0.3645,threshold risk
+S001,Hardened Infrastructure,D002,Repeated climate stress,44,-0.3881,threshold risk
+S001,Hardened Infrastructure,D002,Repeated climate stress,45,-0.4117,threshold risk
+S001,Hardened Infrastructure,D002,Repeated climate stress,46,-0.4353,threshold risk
+S001,Hardened Infrastructure,D002,Repeated climate stress,47,-0.4589,threshold risk
+S001,Hardened Infrastructure,D002,Repeated climate stress,48,-0.5058,threshold risk
+S001,Hardened Infrastructure,D002,Repeated climate stress,49,-0.5294,threshold risk
+S001,Hardened Infrastructure,D002,Repeated climate stress,50,-0.553,threshold risk
+S001,Hardened Infrastructure,D002,Repeated climate stress,51,-0.5766,threshold risk
+S001,Hardened Infrastructure,D002,Repeated climate stress,52,-0.6002,threshold risk
+S001,Hardened Infrastructure,D002,Repeated climate stress,53,-0.6238,threshold risk
+S001,Hardened Infrastructure,D002,Repeated climate stress,54,-0.6474,threshold risk
+S001,Hardened Infrastructure,D002,Repeated climate stress,55,-0.671,threshold risk
+S001,Hardened Infrastructure,D002,Repeated climate stress,56,-0.6946,threshold risk
+S001,Hardened Infrastructure,D002,Repeated climate stress,57,-0.7182,threshold risk
+S001,Hardened Infrastructure,D002,Repeated climate stress,58,-0.7418,threshold risk
+S001,Hardened Infrastructure,D002,Repeated climate stress,59,-0.7654,threshold risk
+S001,Hardened Infrastructure,D002,Repeated climate stress,60,-0.789,threshold risk
+S001,Hardened Infrastructure,D003,Compound infrastructure-ecosystem shock,1,0.6889,viable margin
+S001,Hardened Infrastructure,D003,Compound infrastructure-ecosystem shock,2,0.6577,viable margin
+S001,Hardened Infrastructure,D003,Compound infrastructure-ecosystem shock,3,0.6266,viable margin
+S001,Hardened Infrastructure,D003,Compound infrastructure-ecosystem shock,4,0.5955,viable margin
+S001,Hardened Infrastructure,D003,Compound infrastructure-ecosystem shock,5,0.5643,viable margin
+S001,Hardened Infrastructure,D003,Compound infrastructure-ecosystem shock,6,0.5332,viable margin
+S001,Hardened Infrastructure,D003,Compound infrastructure-ecosystem shock,7,0.5021,viable margin
+S001,Hardened Infrastructure,D003,Compound infrastructure-ecosystem shock,8,0.471,viable margin
+S001,Hardened Infrastructure,D003,Compound infrastructure-ecosystem shock,9,0.4398,viable margin
+S001,Hardened Infrastructure,D003,Compound infrastructure-ecosystem shock,10,0.4087,viable margin
+S001,Hardened Infrastructure,D003,Compound infrastructure-ecosystem shock,11,0.3776,viable margin
+S001,Hardened Infrastructure,D003,Compound infrastructure-ecosystem shock,12,0.3187,viable margin
+S001,Hardened Infrastructure,D003,Compound infrastructure-ecosystem shock,13,0.2876,viable margin
+S001,Hardened Infrastructure,D003,Compound infrastructure-ecosystem shock,14,0.2564,viable margin
+S001,Hardened Infrastructure,D003,Compound infrastructure-ecosystem shock,15,0.2253,viable margin
+S001,Hardened Infrastructure,D003,Compound infrastructure-ecosystem shock,16,0.1942,threshold risk
+S001,Hardened Infrastructure,D003,Compound infrastructure-ecosystem shock,17,0.163,threshold risk
+S001,Hardened Infrastructure,D003,Compound infrastructure-ecosystem shock,18,0.1319,threshold risk
+S001,Hardened Infrastructure,D003,Compound infrastructure-ecosystem shock,19,0.1008,threshold risk
+S001,Hardened Infrastructure,D003,Compound infrastructure-ecosystem shock,20,0.0696,threshold risk
+S001,Hardened Infrastructure,D003,Compound infrastructure-ecosystem shock,21,0.0385,threshold risk
+S001,Hardened Infrastructure,D003,Compound infrastructure-ecosystem shock,22,0.0074,threshold risk
+S001,Hardened Infrastructure,D003,Compound infrastructure-ecosystem shock,23,-0.0238,threshold risk
+S001,Hardened Infrastructure,D003,Compound infrastructure-ecosystem shock,24,-0.0826,threshold risk
+S001,Hardened Infrastructure,D003,Compound infrastructure-ecosystem shock,25,-0.1138,threshold risk
+S001,Hardened Infrastructure,D003,Compound infrastructure-ecosystem shock,26,-0.1449,threshold risk
+S001,Hardened Infrastructure,D003,Compound infrastructure-ecosystem shock,27,-0.176,threshold risk
+S001,Hardened Infrastructure,D003,Compound infrastructure-ecosystem shock,28,-0.2071,threshold risk
+S001,Hardened Infrastructure,D003,Compound infrastructure-ecosystem shock,29,-0.2383,threshold risk
+S001,Hardened Infrastructure,D003,Compound infrastructure-ecosystem shock,30,-0.2694,threshold risk
+S001,Hardened Infrastructure,D003,Compound infrastructure-ecosystem shock,31,-0.3005,threshold risk
+S001,Hardened Infrastructure,D003,Compound infrastructure-ecosystem shock,32,-0.3317,threshold risk
+S001,Hardened Infrastructure,D003,Compound infrastructure-ecosystem shock,33,-0.3628,threshold risk
+S001,Hardened Infrastructure,D003,Compound infrastructure-ecosystem shock,34,-0.3939,threshold risk
+S001,Hardened Infrastructure,D003,Compound infrastructure-ecosystem shock,35,-0.4251,threshold risk
+S001,Hardened Infrastructure,D003,Compound infrastructure-ecosystem shock,36,-0.4839,threshold risk
+S001,Hardened Infrastructure,D003,Compound infrastructure-ecosystem shock,37,-0.5151,threshold risk
+S001,Hardened Infrastructure,D003,Compound infrastructure-ecosystem shock,38,-0.5462,threshold risk
+S001,Hardened Infrastructure,D003,Compound infrastructure-ecosystem shock,39,-0.5773,threshold risk
+S001,Hardened Infrastructure,D003,Compound infrastructure-ecosystem shock,40,-0.6085,threshold risk
+S001,Hardened Infrastructure,D003,Compound infrastructure-ecosystem shock,41,-0.6396,threshold risk
+S001,Hardened Infrastructure,D003,Compound infrastructure-ecosystem shock,42,-0.6707,threshold risk
+S001,Hardened Infrastructure,D003,Compound infrastructure-ecosystem shock,43,-0.7019,threshold risk
+S001,Hardened Infrastructure,D003,Compound infrastructure-ecosystem shock,44,-0.733,threshold risk
+S001,Hardened Infrastructure,D003,Compound infrastructure-ecosystem shock,45,-0.7641,threshold risk
+S001,Hardened Infrastructure,D003,Compound infrastructure-ecosystem shock,46,-0.7952,threshold risk
+S001,Hardened Infrastructure,D003,Compound infrastructure-ecosystem shock,47,-0.8264,threshold risk
+S001,Hardened Infrastructure,D003,Compound infrastructure-ecosystem shock,48,-0.8852,threshold risk
+S001,Hardened Infrastructure,D003,Compound infrastructure-ecosystem shock,49,-0.9164,threshold risk
+S001,Hardened Infrastructure,D003,Compound infrastructure-ecosystem shock,50,-0.9475,threshold risk
+S001,Hardened Infrastructure,D003,Compound infrastructure-ecosystem shock,51,-0.9786,threshold risk
+S001,Hardened Infrastructure,D003,Compound infrastructure-ecosystem shock,52,-1.0,threshold risk
+S001,Hardened Infrastructure,D003,Compound infrastructure-ecosystem shock,53,-1.0,threshold risk
+S001,Hardened Infrastructure,D003,Compound infrastructure-ecosystem shock,54,-1.0,threshold risk
+S001,Hardened Infrastructure,D003,Compound infrastructure-ecosystem shock,55,-1.0,threshold risk
+S001,Hardened Infrastructure,D003,Compound infrastructure-ecosystem shock,56,-1.0,threshold risk
+S001,Hardened Infrastructure,D003,Compound infrastructure-ecosystem shock,57,-1.0,threshold risk
+S001,Hardened Infrastructure,D003,Compound infrastructure-ecosystem shock,58,-1.0,threshold risk
+S001,Hardened Infrastructure,D003,Compound infrastructure-ecosystem shock,59,-1.0,threshold risk
+S001,Hardened Infrastructure,D003,Compound infrastructure-ecosystem shock,60,-1.0,threshold risk
+S001,Hardened Infrastructure,D004,Slow threshold erosion,1,0.7007,viable margin
+S001,Hardened Infrastructure,D004,Slow threshold erosion,2,0.6814,viable margin
+S001,Hardened Infrastructure,D004,Slow threshold erosion,3,0.6621,viable margin
+S001,Hardened Infrastructure,D004,Slow threshold erosion,4,0.6427,viable margin
+S001,Hardened Infrastructure,D004,Slow threshold erosion,5,0.6234,viable margin
+S001,Hardened Infrastructure,D004,Slow threshold erosion,6,0.6041,viable margin
+S001,Hardened Infrastructure,D004,Slow threshold erosion,7,0.5848,viable margin
+S001,Hardened Infrastructure,D004,Slow threshold erosion,8,0.5655,viable margin
+S001,Hardened Infrastructure,D004,Slow threshold erosion,9,0.5462,viable margin
+S001,Hardened Infrastructure,D004,Slow threshold erosion,10,0.5269,viable margin
+S001,Hardened Infrastructure,D004,Slow threshold erosion,11,0.5076,viable margin
+S001,Hardened Infrastructure,D004,Slow threshold erosion,12,0.4717,viable margin
+S001,Hardened Infrastructure,D004,Slow threshold erosion,13,0.4524,viable margin
+S001,Hardened Infrastructure,D004,Slow threshold erosion,14,0.4331,viable margin
+S001,Hardened Infrastructure,D004,Slow threshold erosion,15,0.4138,viable margin
+S001,Hardened Infrastructure,D004,Slow threshold erosion,16,0.3945,viable margin
+S001,Hardened Infrastructure,D004,Slow threshold erosion,17,0.3752,viable margin
+S001,Hardened Infrastructure,D004,Slow threshold erosion,18,0.3559,viable margin
+S001,Hardened Infrastructure,D004,Slow threshold erosion,19,0.3366,viable margin
+S001,Hardened Infrastructure,D004,Slow threshold erosion,20,0.3172,viable margin
+S001,Hardened Infrastructure,D004,Slow threshold erosion,21,0.2979,viable margin
+S001,Hardened Infrastructure,D004,Slow threshold erosion,22,0.2786,viable margin
+S001,Hardened Infrastructure,D004,Slow threshold erosion,23,0.2593,viable margin
+S001,Hardened Infrastructure,D004,Slow threshold erosion,24,0.2235,viable margin
+S001,Hardened Infrastructure,D004,Slow threshold erosion,25,0.2042,viable margin
+S001,Hardened Infrastructure,D004,Slow threshold erosion,26,0.1849,threshold risk
+S001,Hardened Infrastructure,D004,Slow threshold erosion,27,0.1656,threshold risk
+S001,Hardened Infrastructure,D004,Slow threshold erosion,28,0.1462,threshold risk
+S001,Hardened Infrastructure,D004,Slow threshold erosion,29,0.1269,threshold risk
+S001,Hardened Infrastructure,D004,Slow threshold erosion,30,0.1076,threshold risk
+S001,Hardened Infrastructure,D004,Slow threshold erosion,31,0.0883,threshold risk
+S001,Hardened Infrastructure,D004,Slow threshold erosion,32,0.069,threshold risk
+S001,Hardened Infrastructure,D004,Slow threshold erosion,33,0.0497,threshold risk
+S001,Hardened Infrastructure,D004,Slow threshold erosion,34,0.0304,threshold risk
+S001,Hardened Infrastructure,D004,Slow threshold erosion,35,0.011,threshold risk
+S001,Hardened Infrastructure,D004,Slow threshold erosion,36,-0.0248,threshold risk
+S001,Hardened Infrastructure,D004,Slow threshold erosion,37,-0.0441,threshold risk
+S001,Hardened Infrastructure,D004,Slow threshold erosion,38,-0.0634,threshold risk
+S001,Hardened Infrastructure,D004,Slow threshold erosion,39,-0.0827,threshold risk
+S001,Hardened Infrastructure,D004,Slow threshold erosion,40,-0.102,threshold risk
+S001,Hardened Infrastructure,D004,Slow threshold erosion,41,-0.1213,threshold risk
+S001,Hardened Infrastructure,D004,Slow threshold erosion,42,-0.1406,threshold risk
+S001,Hardened Infrastructure,D004,Slow threshold erosion,43,-0.16,threshold risk
+S001,Hardened Infrastructure,D004,Slow threshold erosion,44,-0.1793,threshold risk
+S001,Hardened Infrastructure,D004,Slow threshold erosion,45,-0.1986,threshold risk
+S001,Hardened Infrastructure,D004,Slow threshold erosion,46,-0.2179,threshold risk
+S001,Hardened Infrastructure,D004,Slow threshold erosion,47,-0.2372,threshold risk
+S001,Hardened Infrastructure,D004,Slow threshold erosion,48,-0.273,threshold risk
+S001,Hardened Infrastructure,D004,Slow threshold erosion,49,-0.2923,threshold risk
+S001,Hardened Infrastructure,D004,Slow threshold erosion,50,-0.3116,threshold risk
+S001,Hardened Infrastructure,D004,Slow threshold erosion,51,-0.331,threshold risk
+S001,Hardened Infrastructure,D004,Slow threshold erosion,52,-0.3503,threshold risk
+S001,Hardened Infrastructure,D004,Slow threshold erosion,53,-0.3696,threshold risk
+S001,Hardened Infrastructure,D004,Slow threshold erosion,54,-0.3889,threshold risk
+S001,Hardened Infrastructure,D004,Slow threshold erosion,55,-0.4082,threshold risk
+S001,Hardened Infrastructure,D004,Slow threshold erosion,56,-0.4275,threshold risk
+S001,Hardened Infrastructure,D004,Slow threshold erosion,57,-0.4468,threshold risk
+S001,Hardened Infrastructure,D004,Slow threshold erosion,58,-0.4662,threshold risk
+S001,Hardened Infrastructure,D004,Slow threshold erosion,59,-0.4855,threshold risk
+S001,Hardened Infrastructure,D004,Slow threshold erosion,60,-0.5048,threshold risk
+S002,Fire-Adapted Forest,D001,Short operational outage,1,1.2244,viable margin
+S002,Fire-Adapted Forest,D001,Short operational outage,2,1.2288,viable margin
+S002,Fire-Adapted Forest,D001,Short operational outage,3,1.2333,viable margin
+S002,Fire-Adapted Forest,D001,Short operational outage,4,1.2377,viable margin
+S002,Fire-Adapted Forest,D001,Short operational outage,5,1.2421,viable margin
+S002,Fire-Adapted Forest,D001,Short operational outage,6,1.2465,viable margin
+S002,Fire-Adapted Forest,D001,Short operational outage,7,1.2509,viable margin
+S002,Fire-Adapted Forest,D001,Short operational outage,8,1.2554,viable margin
+S002,Fire-Adapted Forest,D001,Short operational outage,9,1.2598,viable margin
+S002,Fire-Adapted Forest,D001,Short operational outage,10,1.2642,viable margin
+S002,Fire-Adapted Forest,D001,Short operational outage,11,1.2686,viable margin
+S002,Fire-Adapted Forest,D001,Short operational outage,12,1.2625,viable margin
+S002,Fire-Adapted Forest,D001,Short operational outage,13,1.267,viable margin
+S002,Fire-Adapted Forest,D001,Short operational outage,14,1.2714,viable margin
+S002,Fire-Adapted Forest,D001,Short operational outage,15,1.2758,viable margin
+S002,Fire-Adapted Forest,D001,Short operational outage,16,1.2802,viable margin
+S002,Fire-Adapted Forest,D001,Short operational outage,17,1.2846,viable margin
+S002,Fire-Adapted Forest,D001,Short operational outage,18,1.2891,viable margin
+S002,Fire-Adapted Forest,D001,Short operational outage,19,1.2935,viable margin
+S002,Fire-Adapted Forest,D001,Short operational outage,20,1.2979,viable margin
+S002,Fire-Adapted Forest,D001,Short operational outage,21,1.3023,viable margin
+S002,Fire-Adapted Forest,D001,Short operational outage,22,1.3067,viable margin
+S002,Fire-Adapted Forest,D001,Short operational outage,23,1.3112,viable margin
+S002,Fire-Adapted Forest,D001,Short operational outage,24,1.3051,viable margin
+S002,Fire-Adapted Forest,D001,Short operational outage,25,1.3095,viable margin
+S002,Fire-Adapted Forest,D001,Short operational outage,26,1.3139,viable margin
+S002,Fire-Adapted Forest,D001,Short operational outage,27,1.3183,viable margin
+S002,Fire-Adapted Forest,D001,Short operational outage,28,1.3228,viable margin
+S002,Fire-Adapted Forest,D001,Short operational outage,29,1.3272,viable margin
+S002,Fire-Adapted Forest,D001,Short operational outage,30,1.3316,viable margin
+S002,Fire-Adapted Forest,D001,Short operational outage,31,1.336,viable margin
+S002,Fire-Adapted Forest,D001,Short operational outage,32,1.3404,viable margin
+S002,Fire-Adapted Forest,D001,Short operational outage,33,1.3449,viable margin
+S002,Fire-Adapted Forest,D001,Short operational outage,34,1.3493,viable margin
+S002,Fire-Adapted Forest,D001,Short operational outage,35,1.3537,viable margin
+S002,Fire-Adapted Forest,D001,Short operational outage,36,1.3476,viable margin
+S002,Fire-Adapted Forest,D001,Short operational outage,37,1.3521,viable margin
+S002,Fire-Adapted Forest,D001,Short operational outage,38,1.3565,viable margin
+S002,Fire-Adapted Forest,D001,Short operational outage,39,1.3609,viable margin
+S002,Fire-Adapted Forest,D001,Short operational outage,40,1.3653,viable margin
+S002,Fire-Adapted Forest,D001,Short operational outage,41,1.3697,viable margin
+S002,Fire-Adapted Forest,D001,Short operational outage,42,1.3742,viable margin
+S002,Fire-Adapted Forest,D001,Short operational outage,43,1.3786,viable margin
+S002,Fire-Adapted Forest,D001,Short operational outage,44,1.383,viable margin
+S002,Fire-Adapted Forest,D001,Short operational outage,45,1.3874,viable margin
+S002,Fire-Adapted Forest,D001,Short operational outage,46,1.3918,viable margin
+S002,Fire-Adapted Forest,D001,Short operational outage,47,1.3962,viable margin
+S002,Fire-Adapted Forest,D001,Short operational outage,48,1.3902,viable margin
+S002,Fire-Adapted Forest,D001,Short operational outage,49,1.3946,viable margin
+S002,Fire-Adapted Forest,D001,Short operational outage,50,1.399,viable margin
+S002,Fire-Adapted Forest,D001,Short operational outage,51,1.4034,viable margin
+S002,Fire-Adapted Forest,D001,Short operational outage,52,1.4079,viable margin
+S002,Fire-Adapted Forest,D001,Short operational outage,53,1.4123,viable margin
+S002,Fire-Adapted Forest,D001,Short operational outage,54,1.4167,viable margin
+S002,Fire-Adapted Forest,D001,Short operational outage,55,1.4211,viable margin
+S002,Fire-Adapted Forest,D001,Short operational outage,56,1.4255,viable margin
+S002,Fire-Adapted Forest,D001,Short operational outage,57,1.43,viable margin
+S002,Fire-Adapted Forest,D001,Short operational outage,58,1.4344,viable margin
+S002,Fire-Adapted Forest,D001,Short operational outage,59,1.4388,viable margin
+S002,Fire-Adapted Forest,D001,Short operational outage,60,1.4432,viable margin
+S002,Fire-Adapted Forest,D002,Repeated climate stress,1,1.2073,viable margin
+S002,Fire-Adapted Forest,D002,Repeated climate stress,2,1.1945,viable margin
+S002,Fire-Adapted Forest,D002,Repeated climate stress,3,1.1818,viable margin
+S002,Fire-Adapted Forest,D002,Repeated climate stress,4,1.1691,viable margin
+S002,Fire-Adapted Forest,D002,Repeated climate stress,5,1.1564,viable margin
+S002,Fire-Adapted Forest,D002,Repeated climate stress,6,1.1436,viable margin
+S002,Fire-Adapted Forest,D002,Repeated climate stress,7,1.1309,viable margin
+S002,Fire-Adapted Forest,D002,Repeated climate stress,8,1.1182,viable margin
+S002,Fire-Adapted Forest,D002,Repeated climate stress,9,1.1055,viable margin
+S002,Fire-Adapted Forest,D002,Repeated climate stress,10,1.0927,viable margin
+S002,Fire-Adapted Forest,D002,Repeated climate stress,11,1.08,viable margin
+S002,Fire-Adapted Forest,D002,Repeated climate stress,12,1.0456,viable margin
+S002,Fire-Adapted Forest,D002,Repeated climate stress,13,1.0329,viable margin
+S002,Fire-Adapted Forest,D002,Repeated climate stress,14,1.0201,viable margin
+S002,Fire-Adapted Forest,D002,Repeated climate stress,15,1.0074,viable margin
+S002,Fire-Adapted Forest,D002,Repeated climate stress,16,0.9947,viable margin
+S002,Fire-Adapted Forest,D002,Repeated climate stress,17,0.982,viable margin
+S002,Fire-Adapted Forest,D002,Repeated climate stress,18,0.9692,viable margin
+S002,Fire-Adapted Forest,D002,Repeated climate stress,19,0.9565,viable margin
+S002,Fire-Adapted Forest,D002,Repeated climate stress,20,0.9438,viable margin
+S002,Fire-Adapted Forest,D002,Repeated climate stress,21,0.931,viable margin
+S002,Fire-Adapted Forest,D002,Repeated climate stress,22,0.9183,viable margin
+S002,Fire-Adapted Forest,D002,Repeated climate stress,23,0.9056,viable margin
+S002,Fire-Adapted Forest,D002,Repeated climate stress,24,0.8712,viable margin
+S002,Fire-Adapted Forest,D002,Repeated climate stress,25,0.8585,viable margin
+S002,Fire-Adapted Forest,D002,Repeated climate stress,26,0.8457,viable margin
+S002,Fire-Adapted Forest,D002,Repeated climate stress,27,0.833,viable margin
+S002,Fire-Adapted Forest,D002,Repeated climate stress,28,0.8203,viable margin
+S002,Fire-Adapted Forest,D002,Repeated climate stress,29,0.8076,viable margin
+S002,Fire-Adapted Forest,D002,Repeated climate stress,30,0.7948,viable margin
+S002,Fire-Adapted Forest,D002,Repeated climate stress,31,0.7821,viable margin
+S002,Fire-Adapted Forest,D002,Repeated climate stress,32,0.7694,viable margin
+S002,Fire-Adapted Forest,D002,Repeated climate stress,33,0.7566,viable margin
+S002,Fire-Adapted Forest,D002,Repeated climate stress,34,0.7439,viable margin
+S002,Fire-Adapted Forest,D002,Repeated climate stress,35,0.7312,viable margin
+S002,Fire-Adapted Forest,D002,Repeated climate stress,36,0.6968,viable margin
+S002,Fire-Adapted Forest,D002,Repeated climate stress,37,0.6841,viable margin
+S002,Fire-Adapted Forest,D002,Repeated climate stress,38,0.6713,viable margin
+S002,Fire-Adapted Forest,D002,Repeated climate stress,39,0.6586,viable margin
+S002,Fire-Adapted Forest,D002,Repeated climate stress,40,0.6459,viable margin
+S002,Fire-Adapted Forest,D002,Repeated climate stress,41,0.6332,viable margin
+S002,Fire-Adapted Forest,D002,Repeated climate stress,42,0.6204,viable margin
+S002,Fire-Adapted Forest,D002,Repeated climate stress,43,0.6077,viable margin
+S002,Fire-Adapted Forest,D002,Repeated climate stress,44,0.595,viable margin
+S002,Fire-Adapted Forest,D002,Repeated climate stress,45,0.5822,viable margin
+S002,Fire-Adapted Forest,D002,Repeated climate stress,46,0.5695,viable margin
+S002,Fire-Adapted Forest,D002,Repeated climate stress,47,0.5568,viable margin
+S002,Fire-Adapted Forest,D002,Repeated climate stress,48,0.5224,viable margin
+S002,Fire-Adapted Forest,D002,Repeated climate stress,49,0.5097,viable margin
+S002,Fire-Adapted Forest,D002,Repeated climate stress,50,0.4969,viable margin
+S002,Fire-Adapted Forest,D002,Repeated climate stress,51,0.4842,viable margin
+S002,Fire-Adapted Forest,D002,Repeated climate stress,52,0.4715,viable margin
+S002,Fire-Adapted Forest,D002,Repeated climate stress,53,0.4587,viable margin
+S002,Fire-Adapted Forest,D002,Repeated climate stress,54,0.446,viable margin
+S002,Fire-Adapted Forest,D002,Repeated climate stress,55,0.4333,viable margin
+S002,Fire-Adapted Forest,D002,Repeated climate stress,56,0.4206,viable margin
+S002,Fire-Adapted Forest,D002,Repeated climate stress,57,0.4078,viable margin
+S002,Fire-Adapted Forest,D002,Repeated climate stress,58,0.3951,viable margin
+S002,Fire-Adapted Forest,D002,Repeated climate stress,59,0.3824,viable margin
+S002,Fire-Adapted Forest,D002,Repeated climate stress,60,0.3697,viable margin
+S002,Fire-Adapted Forest,D003,Compound infrastructure-ecosystem shock,1,1.2011,viable margin
+S002,Fire-Adapted Forest,D003,Compound infrastructure-ecosystem shock,2,1.1822,viable margin
+S002,Fire-Adapted Forest,D003,Compound infrastructure-ecosystem shock,3,1.1634,viable margin
+S002,Fire-Adapted Forest,D003,Compound infrastructure-ecosystem shock,4,1.1445,viable margin
+S002,Fire-Adapted Forest,D003,Compound infrastructure-ecosystem shock,5,1.1256,viable margin
+S002,Fire-Adapted Forest,D003,Compound infrastructure-ecosystem shock,6,1.1067,viable margin
+S002,Fire-Adapted Forest,D003,Compound infrastructure-ecosystem shock,7,1.0879,viable margin
+S002,Fire-Adapted Forest,D003,Compound infrastructure-ecosystem shock,8,1.069,viable margin
+S002,Fire-Adapted Forest,D003,Compound infrastructure-ecosystem shock,9,1.0501,viable margin
+S002,Fire-Adapted Forest,D003,Compound infrastructure-ecosystem shock,10,1.0312,viable margin
+S002,Fire-Adapted Forest,D003,Compound infrastructure-ecosystem shock,11,1.0124,viable margin
+S002,Fire-Adapted Forest,D003,Compound infrastructure-ecosystem shock,12,0.9676,viable margin
+S002,Fire-Adapted Forest,D003,Compound infrastructure-ecosystem shock,13,0.9488,viable margin
+S002,Fire-Adapted Forest,D003,Compound infrastructure-ecosystem shock,14,0.9299,viable margin
+S002,Fire-Adapted Forest,D003,Compound infrastructure-ecosystem shock,15,0.911,viable margin
+S002,Fire-Adapted Forest,D003,Compound infrastructure-ecosystem shock,16,0.8921,viable margin
+S002,Fire-Adapted Forest,D003,Compound infrastructure-ecosystem shock,17,0.8733,viable margin
+S002,Fire-Adapted Forest,D003,Compound infrastructure-ecosystem shock,18,0.8544,viable margin
+S002,Fire-Adapted Forest,D003,Compound infrastructure-ecosystem shock,19,0.8355,viable margin
+S002,Fire-Adapted Forest,D003,Compound infrastructure-ecosystem shock,20,0.8166,viable margin
+S002,Fire-Adapted Forest,D003,Compound infrastructure-ecosystem shock,21,0.7977,viable margin
+S002,Fire-Adapted Forest,D003,Compound infrastructure-ecosystem shock,22,0.7789,viable margin
+S002,Fire-Adapted Forest,D003,Compound infrastructure-ecosystem shock,23,0.76,viable margin
+S002,Fire-Adapted Forest,D003,Compound infrastructure-ecosystem shock,24,0.7153,viable margin
+S002,Fire-Adapted Forest,D003,Compound infrastructure-ecosystem shock,25,0.6964,viable margin
+S002,Fire-Adapted Forest,D003,Compound infrastructure-ecosystem shock,26,0.6775,viable margin
+S002,Fire-Adapted Forest,D003,Compound infrastructure-ecosystem shock,27,0.6586,viable margin
+S002,Fire-Adapted Forest,D003,Compound infrastructure-ecosystem shock,28,0.6398,viable margin
+S002,Fire-Adapted Forest,D003,Compound infrastructure-ecosystem shock,29,0.6209,viable margin
+S002,Fire-Adapted Forest,D003,Compound infrastructure-ecosystem shock,30,0.602,viable margin
+S002,Fire-Adapted Forest,D003,Compound infrastructure-ecosystem shock,31,0.5831,viable margin
+S002,Fire-Adapted Forest,D003,Compound infrastructure-ecosystem shock,32,0.5643,viable margin
+S002,Fire-Adapted Forest,D003,Compound infrastructure-ecosystem shock,33,0.5454,viable margin
+S002,Fire-Adapted Forest,D003,Compound infrastructure-ecosystem shock,34,0.5265,viable margin
+S002,Fire-Adapted Forest,D003,Compound infrastructure-ecosystem shock,35,0.5076,viable margin
+S002,Fire-Adapted Forest,D003,Compound infrastructure-ecosystem shock,36,0.4629,viable margin
+S002,Fire-Adapted Forest,D003,Compound infrastructure-ecosystem shock,37,0.444,viable margin
+S002,Fire-Adapted Forest,D003,Compound infrastructure-ecosystem shock,38,0.4251,viable margin
+S002,Fire-Adapted Forest,D003,Compound infrastructure-ecosystem shock,39,0.4063,viable margin
+S002,Fire-Adapted Forest,D003,Compound infrastructure-ecosystem shock,40,0.3874,viable margin
+S002,Fire-Adapted Forest,D003,Compound infrastructure-ecosystem shock,41,0.3685,viable margin
+S002,Fire-Adapted Forest,D003,Compound infrastructure-ecosystem shock,42,0.3496,viable margin
+S002,Fire-Adapted Forest,D003,Compound infrastructure-ecosystem shock,43,0.3308,viable margin
+S002,Fire-Adapted Forest,D003,Compound infrastructure-ecosystem shock,44,0.3119,viable margin
+S002,Fire-Adapted Forest,D003,Compound infrastructure-ecosystem shock,45,0.293,viable margin
+S002,Fire-Adapted Forest,D003,Compound infrastructure-ecosystem shock,46,0.2741,viable margin
+S002,Fire-Adapted Forest,D003,Compound infrastructure-ecosystem shock,47,0.2553,viable margin
+S002,Fire-Adapted Forest,D003,Compound infrastructure-ecosystem shock,48,0.2105,viable margin
+S002,Fire-Adapted Forest,D003,Compound infrastructure-ecosystem shock,49,0.1916,threshold risk
+S002,Fire-Adapted Forest,D003,Compound infrastructure-ecosystem shock,50,0.1728,threshold risk
+S002,Fire-Adapted Forest,D003,Compound infrastructure-ecosystem shock,51,0.1539,threshold risk
+S002,Fire-Adapted Forest,D003,Compound infrastructure-ecosystem shock,52,0.135,threshold risk
+S002,Fire-Adapted Forest,D003,Compound infrastructure-ecosystem shock,53,0.1161,threshold risk
+S002,Fire-Adapted Forest,D003,Compound infrastructure-ecosystem shock,54,0.0973,threshold risk
+S002,Fire-Adapted Forest,D003,Compound infrastructure-ecosystem shock,55,0.0784,threshold risk
+S002,Fire-Adapted Forest,D003,Compound infrastructure-ecosystem shock,56,0.0595,threshold risk
+S002,Fire-Adapted Forest,D003,Compound infrastructure-ecosystem shock,57,0.0406,threshold risk
+S002,Fire-Adapted Forest,D003,Compound infrastructure-ecosystem shock,58,0.0218,threshold risk
+S002,Fire-Adapted Forest,D003,Compound infrastructure-ecosystem shock,59,0.0029,threshold risk
+S002,Fire-Adapted Forest,D003,Compound infrastructure-ecosystem shock,60,-0.016,threshold risk
+S002,Fire-Adapted Forest,D004,Slow threshold erosion,1,1.2106,viable margin
+S002,Fire-Adapted Forest,D004,Slow threshold erosion,2,1.2013,viable margin
+S002,Fire-Adapted Forest,D004,Slow threshold erosion,3,1.1919,viable margin
+S002,Fire-Adapted Forest,D004,Slow threshold erosion,4,1.1826,viable margin
+S002,Fire-Adapted Forest,D004,Slow threshold erosion,5,1.1732,viable margin
+S002,Fire-Adapted Forest,D004,Slow threshold erosion,6,1.1639,viable margin
+S002,Fire-Adapted Forest,D004,Slow threshold erosion,7,1.1545,viable margin
+S002,Fire-Adapted Forest,D004,Slow threshold erosion,8,1.1452,viable margin
+S002,Fire-Adapted Forest,D004,Slow threshold erosion,9,1.1358,viable margin
+S002,Fire-Adapted Forest,D004,Slow threshold erosion,10,1.1264,viable margin
+S002,Fire-Adapted Forest,D004,Slow threshold erosion,11,1.1171,viable margin
+S002,Fire-Adapted Forest,D004,Slow threshold erosion,12,1.0924,viable margin
+S002,Fire-Adapted Forest,D004,Slow threshold erosion,13,1.083,viable margin
+S002,Fire-Adapted Forest,D004,Slow threshold erosion,14,1.0736,viable margin
+S002,Fire-Adapted Forest,D004,Slow threshold erosion,15,1.0643,viable margin
+S002,Fire-Adapted Forest,D004,Slow threshold erosion,16,1.0549,viable margin
+S002,Fire-Adapted Forest,D004,Slow threshold erosion,17,1.0456,viable margin
+S002,Fire-Adapted Forest,D004,Slow threshold erosion,18,1.0362,viable margin
+S002,Fire-Adapted Forest,D004,Slow threshold erosion,19,1.0269,viable margin
+S002,Fire-Adapted Forest,D004,Slow threshold erosion,20,1.0175,viable margin
+S002,Fire-Adapted Forest,D004,Slow threshold erosion,21,1.0082,viable margin
+S002,Fire-Adapted Forest,D004,Slow threshold erosion,22,0.9988,viable margin
+S002,Fire-Adapted Forest,D004,Slow threshold erosion,23,0.9895,viable margin
+S002,Fire-Adapted Forest,D004,Slow threshold erosion,24,0.9647,viable margin
+S002,Fire-Adapted Forest,D004,Slow threshold erosion,25,0.9554,viable margin
+S002,Fire-Adapted Forest,D004,Slow threshold erosion,26,0.946,viable margin
+S002,Fire-Adapted Forest,D004,Slow threshold erosion,27,0.9367,viable margin
+S002,Fire-Adapted Forest,D004,Slow threshold erosion,28,0.9273,viable margin
+S002,Fire-Adapted Forest,D004,Slow threshold erosion,29,0.9179,viable margin
+S002,Fire-Adapted Forest,D004,Slow threshold erosion,30,0.9086,viable margin
+S002,Fire-Adapted Forest,D004,Slow threshold erosion,31,0.8992,viable margin
+S002,Fire-Adapted Forest,D004,Slow threshold erosion,32,0.8899,viable margin
+S002,Fire-Adapted Forest,D004,Slow threshold erosion,33,0.8805,viable margin
+S002,Fire-Adapted Forest,D004,Slow threshold erosion,34,0.8712,viable margin
+S002,Fire-Adapted Forest,D004,Slow threshold erosion,35,0.8618,viable margin
+S002,Fire-Adapted Forest,D004,Slow threshold erosion,36,0.8371,viable margin
+S002,Fire-Adapted Forest,D004,Slow threshold erosion,37,0.8277,viable margin
+S002,Fire-Adapted Forest,D004,Slow threshold erosion,38,0.8184,viable margin
+S002,Fire-Adapted Forest,D004,Slow threshold erosion,39,0.809,viable margin
+S002,Fire-Adapted Forest,D004,Slow threshold erosion,40,0.7997,viable margin
+S002,Fire-Adapted Forest,D004,Slow threshold erosion,41,0.7903,viable margin
+S002,Fire-Adapted Forest,D004,Slow threshold erosion,42,0.7809,viable margin
+S002,Fire-Adapted Forest,D004,Slow threshold erosion,43,0.7716,viable margin
+S002,Fire-Adapted Forest,D004,Slow threshold erosion,44,0.7622,viable margin
+S002,Fire-Adapted Forest,D004,Slow threshold erosion,45,0.7529,viable margin
+S002,Fire-Adapted Forest,D004,Slow threshold erosion,46,0.7435,viable margin
+S002,Fire-Adapted Forest,D004,Slow threshold erosion,47,0.7342,viable margin
+S002,Fire-Adapted Forest,D004,Slow threshold erosion,48,0.7094,viable margin
+S002,Fire-Adapted Forest,D004,Slow threshold erosion,49,0.7001,viable margin
+S002,Fire-Adapted Forest,D004,Slow threshold erosion,50,0.6907,viable margin
+S002,Fire-Adapted Forest,D004,Slow threshold erosion,51,0.6814,viable margin
+S002,Fire-Adapted Forest,D004,Slow threshold erosion,52,0.672,viable margin
+S002,Fire-Adapted Forest,D004,Slow threshold erosion,53,0.6627,viable margin
+S002,Fire-Adapted Forest,D004,Slow threshold erosion,54,0.6533,viable margin
+S002,Fire-Adapted Forest,D004,Slow threshold erosion,55,0.644,viable margin
+S002,Fire-Adapted Forest,D004,Slow threshold erosion,56,0.6346,viable margin
+S002,Fire-Adapted Forest,D004,Slow threshold erosion,57,0.6252,viable margin
+S002,Fire-Adapted Forest,D004,Slow threshold erosion,58,0.6159,viable margin
+S002,Fire-Adapted Forest,D004,Slow threshold erosion,59,0.6065,viable margin
+S002,Fire-Adapted Forest,D004,Slow threshold erosion,60,0.5972,viable margin
+S003,Wetland System,D001,Short operational outage,1,1.2545,viable margin
+S003,Wetland System,D001,Short operational outage,2,1.2589,viable margin
+S003,Wetland System,D001,Short operational outage,3,1.2634,viable margin
+S003,Wetland System,D001,Short operational outage,4,1.2678,viable margin
+S003,Wetland System,D001,Short operational outage,5,1.2723,viable margin
+S003,Wetland System,D001,Short operational outage,6,1.2767,viable margin
+S003,Wetland System,D001,Short operational outage,7,1.2812,viable margin
+S003,Wetland System,D001,Short operational outage,8,1.2856,viable margin
+S003,Wetland System,D001,Short operational outage,9,1.2901,viable margin
+S003,Wetland System,D001,Short operational outage,10,1.2945,viable margin
+S003,Wetland System,D001,Short operational outage,11,1.299,viable margin
+S003,Wetland System,D001,Short operational outage,12,1.2928,viable margin
+S003,Wetland System,D001,Short operational outage,13,1.2973,viable margin
+S003,Wetland System,D001,Short operational outage,14,1.3017,viable margin
+S003,Wetland System,D001,Short operational outage,15,1.3062,viable margin
+S003,Wetland System,D001,Short operational outage,16,1.3106,viable margin
+S003,Wetland System,D001,Short operational outage,17,1.3151,viable margin
+S003,Wetland System,D001,Short operational outage,18,1.3195,viable margin
+S003,Wetland System,D001,Short operational outage,19,1.324,viable margin
+S003,Wetland System,D001,Short operational outage,20,1.3284,viable margin
+S003,Wetland System,D001,Short operational outage,21,1.3329,viable margin
+S003,Wetland System,D001,Short operational outage,22,1.3373,viable margin
+S003,Wetland System,D001,Short operational outage,23,1.3418,viable margin
+S003,Wetland System,D001,Short operational outage,24,1.3357,viable margin
+S003,Wetland System,D001,Short operational outage,25,1.3401,viable margin
+S003,Wetland System,D001,Short operational outage,26,1.3446,viable margin
+S003,Wetland System,D001,Short operational outage,27,1.349,viable margin
+S003,Wetland System,D001,Short operational outage,28,1.3535,viable margin
+S003,Wetland System,D001,Short operational outage,29,1.3579,viable margin
+S003,Wetland System,D001,Short operational outage,30,1.3624,viable margin
+S003,Wetland System,D001,Short operational outage,31,1.3668,viable margin
+S003,Wetland System,D001,Short operational outage,32,1.3713,viable margin
+S003,Wetland System,D001,Short operational outage,33,1.3757,viable margin
+S003,Wetland System,D001,Short operational outage,34,1.3802,viable margin
+S003,Wetland System,D001,Short operational outage,35,1.3846,viable margin
+S003,Wetland System,D001,Short operational outage,36,1.3785,viable margin
+S003,Wetland System,D001,Short operational outage,37,1.383,viable margin
+S003,Wetland System,D001,Short operational outage,38,1.3874,viable margin
+S003,Wetland System,D001,Short operational outage,39,1.3919,viable margin
+S003,Wetland System,D001,Short operational outage,40,1.3963,viable margin
+S003,Wetland System,D001,Short operational outage,41,1.4008,viable margin
+S003,Wetland System,D001,Short operational outage,42,1.4052,viable margin
+S003,Wetland System,D001,Short operational outage,43,1.4097,viable margin
+S003,Wetland System,D001,Short operational outage,44,1.4141,viable margin
+S003,Wetland System,D001,Short operational outage,45,1.4186,viable margin
+S003,Wetland System,D001,Short operational outage,46,1.423,viable margin
+S003,Wetland System,D001,Short operational outage,47,1.4275,viable margin
+S003,Wetland System,D001,Short operational outage,48,1.4214,viable margin
+S003,Wetland System,D001,Short operational outage,49,1.4258,viable margin
+S003,Wetland System,D001,Short operational outage,50,1.4303,viable margin
+S003,Wetland System,D001,Short operational outage,51,1.4347,viable margin
+S003,Wetland System,D001,Short operational outage,52,1.4392,viable margin
+S003,Wetland System,D001,Short operational outage,53,1.4436,viable margin
+S003,Wetland System,D001,Short operational outage,54,1.4481,viable margin
+S003,Wetland System,D001,Short operational outage,55,1.4525,viable margin
+S003,Wetland System,D001,Short operational outage,56,1.457,viable margin
+S003,Wetland System,D001,Short operational outage,57,1.4614,viable margin
+S003,Wetland System,D001,Short operational outage,58,1.4659,viable margin
+S003,Wetland System,D001,Short operational outage,59,1.4703,viable margin
+S003,Wetland System,D001,Short operational outage,60,1.4748,viable margin
+S003,Wetland System,D002,Repeated climate stress,1,1.2379,viable margin
+S003,Wetland System,D002,Repeated climate stress,2,1.2259,viable margin
+S003,Wetland System,D002,Repeated climate stress,3,1.2138,viable margin
+S003,Wetland System,D002,Repeated climate stress,4,1.2017,viable margin
+S003,Wetland System,D002,Repeated climate stress,5,1.1897,viable margin
+S003,Wetland System,D002,Repeated climate stress,6,1.1776,viable margin
+S003,Wetland System,D002,Repeated climate stress,7,1.1655,viable margin
+S003,Wetland System,D002,Repeated climate stress,8,1.1535,viable margin
+S003,Wetland System,D002,Repeated climate stress,9,1.1414,viable margin
+S003,Wetland System,D002,Repeated climate stress,10,1.1293,viable margin
+S003,Wetland System,D002,Repeated climate stress,11,1.1173,viable margin
+S003,Wetland System,D002,Repeated climate stress,12,1.0834,viable margin
+S003,Wetland System,D002,Repeated climate stress,13,1.0713,viable margin
+S003,Wetland System,D002,Repeated climate stress,14,1.0592,viable margin
+S003,Wetland System,D002,Repeated climate stress,15,1.0472,viable margin
+S003,Wetland System,D002,Repeated climate stress,16,1.0351,viable margin
+S003,Wetland System,D002,Repeated climate stress,17,1.023,viable margin
+S003,Wetland System,D002,Repeated climate stress,18,1.011,viable margin
+S003,Wetland System,D002,Repeated climate stress,19,0.9989,viable margin
+S003,Wetland System,D002,Repeated climate stress,20,0.9869,viable margin
+S003,Wetland System,D002,Repeated climate stress,21,0.9748,viable margin
+S003,Wetland System,D002,Repeated climate stress,22,0.9627,viable margin
+S003,Wetland System,D002,Repeated climate stress,23,0.9507,viable margin
+S003,Wetland System,D002,Repeated climate stress,24,0.9168,viable margin
+S003,Wetland System,D002,Repeated climate stress,25,0.9047,viable margin
+S003,Wetland System,D002,Repeated climate stress,26,0.8926,viable margin
+S003,Wetland System,D002,Repeated climate stress,27,0.8806,viable margin
+S003,Wetland System,D002,Repeated climate stress,28,0.8685,viable margin
+S003,Wetland System,D002,Repeated climate stress,29,0.8564,viable margin
+S003,Wetland System,D002,Repeated climate stress,30,0.8444,viable margin
+S003,Wetland System,D002,Repeated climate stress,31,0.8323,viable margin
+S003,Wetland System,D002,Repeated climate stress,32,0.8202,viable margin
+S003,Wetland System,D002,Repeated climate stress,33,0.8082,viable margin
+S003,Wetland System,D002,Repeated climate stress,34,0.7961,viable margin
+S003,Wetland System,D002,Repeated climate stress,35,0.784,viable margin
+S003,Wetland System,D002,Repeated climate stress,36,0.7501,viable margin
+S003,Wetland System,D002,Repeated climate stress,37,0.7381,viable margin
+S003,Wetland System,D002,Repeated climate stress,38,0.726,viable margin
+S003,Wetland System,D002,Repeated climate stress,39,0.7139,viable margin
+S003,Wetland System,D002,Repeated climate stress,40,0.7019,viable margin
+S003,Wetland System,D002,Repeated climate stress,41,0.6898,viable margin
+S003,Wetland System,D002,Repeated climate stress,42,0.6777,viable margin
+S003,Wetland System,D002,Repeated climate stress,43,0.6657,viable margin
+S003,Wetland System,D002,Repeated climate stress,44,0.6536,viable margin
+S003,Wetland System,D002,Repeated climate stress,45,0.6415,viable margin
+S003,Wetland System,D002,Repeated climate stress,46,0.6295,viable margin
+S003,Wetland System,D002,Repeated climate stress,47,0.6174,viable margin
+S003,Wetland System,D002,Repeated climate stress,48,0.5835,viable margin
+S003,Wetland System,D002,Repeated climate stress,49,0.5714,viable margin
+S003,Wetland System,D002,Repeated climate stress,50,0.5594,viable margin
+S003,Wetland System,D002,Repeated climate stress,51,0.5473,viable margin
+S003,Wetland System,D002,Repeated climate stress,52,0.5352,viable margin
+S003,Wetland System,D002,Repeated climate stress,53,0.5232,viable margin
+S003,Wetland System,D002,Repeated climate stress,54,0.5111,viable margin
+S003,Wetland System,D002,Repeated climate stress,55,0.499,viable margin
+S003,Wetland System,D002,Repeated climate stress,56,0.487,viable margin
+S003,Wetland System,D002,Repeated climate stress,57,0.4749,viable margin
+S003,Wetland System,D002,Repeated climate stress,58,0.4629,viable margin
+S003,Wetland System,D002,Repeated climate stress,59,0.4508,viable margin
+S003,Wetland System,D002,Repeated climate stress,60,0.4387,viable margin
+S003,Wetland System,D003,Compound infrastructure-ecosystem shock,1,1.232,viable margin
+S003,Wetland System,D003,Compound infrastructure-ecosystem shock,2,1.2141,viable margin
+S003,Wetland System,D003,Compound infrastructure-ecosystem shock,3,1.1961,viable margin
+S003,Wetland System,D003,Compound infrastructure-ecosystem shock,4,1.1781,viable margin
+S003,Wetland System,D003,Compound infrastructure-ecosystem shock,5,1.1602,viable margin
+S003,Wetland System,D003,Compound infrastructure-ecosystem shock,6,1.1422,viable margin
+S003,Wetland System,D003,Compound infrastructure-ecosystem shock,7,1.1243,viable margin
+S003,Wetland System,D003,Compound infrastructure-ecosystem shock,8,1.1063,viable margin
+S003,Wetland System,D003,Compound infrastructure-ecosystem shock,9,1.0883,viable margin
+S003,Wetland System,D003,Compound infrastructure-ecosystem shock,10,1.0704,viable margin
+S003,Wetland System,D003,Compound infrastructure-ecosystem shock,11,1.0524,viable margin
+S003,Wetland System,D003,Compound infrastructure-ecosystem shock,12,1.0084,viable margin
+S003,Wetland System,D003,Compound infrastructure-ecosystem shock,13,0.9904,viable margin
+S003,Wetland System,D003,Compound infrastructure-ecosystem shock,14,0.9724,viable margin
+S003,Wetland System,D003,Compound infrastructure-ecosystem shock,15,0.9545,viable margin
+S003,Wetland System,D003,Compound infrastructure-ecosystem shock,16,0.9365,viable margin
+S003,Wetland System,D003,Compound infrastructure-ecosystem shock,17,0.9185,viable margin
+S003,Wetland System,D003,Compound infrastructure-ecosystem shock,18,0.9006,viable margin
+S003,Wetland System,D003,Compound infrastructure-ecosystem shock,19,0.8826,viable margin
+S003,Wetland System,D003,Compound infrastructure-ecosystem shock,20,0.8647,viable margin
+S003,Wetland System,D003,Compound infrastructure-ecosystem shock,21,0.8467,viable margin
+S003,Wetland System,D003,Compound infrastructure-ecosystem shock,22,0.8287,viable margin
+S003,Wetland System,D003,Compound infrastructure-ecosystem shock,23,0.8108,viable margin
+S003,Wetland System,D003,Compound infrastructure-ecosystem shock,24,0.7667,viable margin
+S003,Wetland System,D003,Compound infrastructure-ecosystem shock,25,0.7488,viable margin
+S003,Wetland System,D003,Compound infrastructure-ecosystem shock,26,0.7308,viable margin
+S003,Wetland System,D003,Compound infrastructure-ecosystem shock,27,0.7128,viable margin
+S003,Wetland System,D003,Compound infrastructure-ecosystem shock,28,0.6949,viable margin
+S003,Wetland System,D003,Compound infrastructure-ecosystem shock,29,0.6769,viable margin
+S003,Wetland System,D003,Compound infrastructure-ecosystem shock,30,0.659,viable margin
+S003,Wetland System,D003,Compound infrastructure-ecosystem shock,31,0.641,viable margin
+S003,Wetland System,D003,Compound infrastructure-ecosystem shock,32,0.623,viable margin
+S003,Wetland System,D003,Compound infrastructure-ecosystem shock,33,0.6051,viable margin
+S003,Wetland System,D003,Compound infrastructure-ecosystem shock,34,0.5871,viable margin
+S003,Wetland System,D003,Compound infrastructure-ecosystem shock,35,0.5691,viable margin
+S003,Wetland System,D003,Compound infrastructure-ecosystem shock,36,0.5251,viable margin
+S003,Wetland System,D003,Compound infrastructure-ecosystem shock,37,0.5071,viable margin
+S003,Wetland System,D003,Compound infrastructure-ecosystem shock,38,0.4892,viable margin
+S003,Wetland System,D003,Compound infrastructure-ecosystem shock,39,0.4712,viable margin
+S003,Wetland System,D003,Compound infrastructure-ecosystem shock,40,0.4533,viable margin
+S003,Wetland System,D003,Compound infrastructure-ecosystem shock,41,0.4353,viable margin
+S003,Wetland System,D003,Compound infrastructure-ecosystem shock,42,0.4173,viable margin
+S003,Wetland System,D003,Compound infrastructure-ecosystem shock,43,0.3994,viable margin
+S003,Wetland System,D003,Compound infrastructure-ecosystem shock,44,0.3814,viable margin
+S003,Wetland System,D003,Compound infrastructure-ecosystem shock,45,0.3634,viable margin
+S003,Wetland System,D003,Compound infrastructure-ecosystem shock,46,0.3455,viable margin
+S003,Wetland System,D003,Compound infrastructure-ecosystem shock,47,0.3275,viable margin
+S003,Wetland System,D003,Compound infrastructure-ecosystem shock,48,0.2835,viable margin
+S003,Wetland System,D003,Compound infrastructure-ecosystem shock,49,0.2655,viable margin
+S003,Wetland System,D003,Compound infrastructure-ecosystem shock,50,0.2475,viable margin
+S003,Wetland System,D003,Compound infrastructure-ecosystem shock,51,0.2296,viable margin
+S003,Wetland System,D003,Compound infrastructure-ecosystem shock,52,0.2116,viable margin
+S003,Wetland System,D003,Compound infrastructure-ecosystem shock,53,0.1937,threshold risk
+S003,Wetland System,D003,Compound infrastructure-ecosystem shock,54,0.1757,threshold risk
+S003,Wetland System,D003,Compound infrastructure-ecosystem shock,55,0.1577,threshold risk
+S003,Wetland System,D003,Compound infrastructure-ecosystem shock,56,0.1398,threshold risk
+S003,Wetland System,D003,Compound infrastructure-ecosystem shock,57,0.1218,threshold risk
+S003,Wetland System,D003,Compound infrastructure-ecosystem shock,58,0.1038,threshold risk
+S003,Wetland System,D003,Compound infrastructure-ecosystem shock,59,0.0859,threshold risk
+S003,Wetland System,D003,Compound infrastructure-ecosystem shock,60,0.0679,threshold risk
+S003,Wetland System,D004,Slow threshold erosion,1,1.2411,viable margin
+S003,Wetland System,D004,Slow threshold erosion,2,1.2322,viable margin
+S003,Wetland System,D004,Slow threshold erosion,3,1.2234,viable margin
+S003,Wetland System,D004,Slow threshold erosion,4,1.2145,viable margin
+S003,Wetland System,D004,Slow threshold erosion,5,1.2056,viable margin
+S003,Wetland System,D004,Slow threshold erosion,6,1.1967,viable margin
+S003,Wetland System,D004,Slow threshold erosion,7,1.1878,viable margin
+S003,Wetland System,D004,Slow threshold erosion,8,1.179,viable margin
+S003,Wetland System,D004,Slow threshold erosion,9,1.1701,viable margin
+S003,Wetland System,D004,Slow threshold erosion,10,1.1612,viable margin
+S003,Wetland System,D004,Slow threshold erosion,11,1.1523,viable margin
+S003,Wetland System,D004,Slow threshold erosion,12,1.128,viable margin
+S003,Wetland System,D004,Slow threshold erosion,13,1.1191,viable margin
+S003,Wetland System,D004,Slow threshold erosion,14,1.1102,viable margin
+S003,Wetland System,D004,Slow threshold erosion,15,1.1013,viable margin
+S003,Wetland System,D004,Slow threshold erosion,16,1.0924,viable margin
+S003,Wetland System,D004,Slow threshold erosion,17,1.0836,viable margin
+S003,Wetland System,D004,Slow threshold erosion,18,1.0747,viable margin
+S003,Wetland System,D004,Slow threshold erosion,19,1.0658,viable margin
+S003,Wetland System,D004,Slow threshold erosion,20,1.0569,viable margin
+S003,Wetland System,D004,Slow threshold erosion,21,1.048,viable margin
+S003,Wetland System,D004,Slow threshold erosion,22,1.0392,viable margin
+S003,Wetland System,D004,Slow threshold erosion,23,1.0303,viable margin
+S003,Wetland System,D004,Slow threshold erosion,24,1.0059,viable margin
+S003,Wetland System,D004,Slow threshold erosion,25,0.997,viable margin
+S003,Wetland System,D004,Slow threshold erosion,26,0.9882,viable margin
+S003,Wetland System,D004,Slow threshold erosion,27,0.9793,viable margin
+S003,Wetland System,D004,Slow threshold erosion,28,0.9704,viable margin
+S003,Wetland System,D004,Slow threshold erosion,29,0.9615,viable margin
+S003,Wetland System,D004,Slow threshold erosion,30,0.9526,viable margin
+S003,Wetland System,D004,Slow threshold erosion,31,0.9438,viable margin
+S003,Wetland System,D004,Slow threshold erosion,32,0.9349,viable margin
+S003,Wetland System,D004,Slow threshold erosion,33,0.926,viable margin
+S003,Wetland System,D004,Slow threshold erosion,34,0.9171,viable margin
+S003,Wetland System,D004,Slow threshold erosion,35,0.9082,viable margin
+S003,Wetland System,D004,Slow threshold erosion,36,0.8839,viable margin
+S003,Wetland System,D004,Slow threshold erosion,37,0.875,viable margin
+S003,Wetland System,D004,Slow threshold erosion,38,0.8661,viable margin
+S003,Wetland System,D004,Slow threshold erosion,39,0.8572,viable margin
+S003,Wetland System,D004,Slow threshold erosion,40,0.8484,viable margin
+S003,Wetland System,D004,Slow threshold erosion,41,0.8395,viable margin
+S003,Wetland System,D004,Slow threshold erosion,42,0.8306,viable margin
+S003,Wetland System,D004,Slow threshold erosion,43,0.8217,viable margin
+S003,Wetland System,D004,Slow threshold erosion,44,0.8128,viable margin
+S003,Wetland System,D004,Slow threshold erosion,45,0.804,viable margin
+S003,Wetland System,D004,Slow threshold erosion,46,0.7951,viable margin
+S003,Wetland System,D004,Slow threshold erosion,47,0.7862,viable margin
+S003,Wetland System,D004,Slow threshold erosion,48,0.7618,viable margin
+S003,Wetland System,D004,Slow threshold erosion,49,0.7529,viable margin
+S003,Wetland System,D004,Slow threshold erosion,50,0.7441,viable margin
+S003,Wetland System,D004,Slow threshold erosion,51,0.7352,viable margin
+S003,Wetland System,D004,Slow threshold erosion,52,0.7263,viable margin
+S003,Wetland System,D004,Slow threshold erosion,53,0.7174,viable margin
+S003,Wetland System,D004,Slow threshold erosion,54,0.7085,viable margin
+S003,Wetland System,D004,Slow threshold erosion,55,0.6997,viable margin
+S003,Wetland System,D004,Slow threshold erosion,56,0.6908,viable margin
+S003,Wetland System,D004,Slow threshold erosion,57,0.6819,viable margin
+S003,Wetland System,D004,Slow threshold erosion,58,0.673,viable margin
+S003,Wetland System,D004,Slow threshold erosion,59,0.6642,viable margin
+S003,Wetland System,D004,Slow threshold erosion,60,0.6553,viable margin
+S004,Centralized Supply Chain,D001,Short operational outage,1,0.5907,viable margin
+S004,Centralized Supply Chain,D001,Short operational outage,2,0.5814,viable margin
+S004,Centralized Supply Chain,D001,Short operational outage,3,0.5721,viable margin
+S004,Centralized Supply Chain,D001,Short operational outage,4,0.5629,viable margin
+S004,Centralized Supply Chain,D001,Short operational outage,5,0.5536,viable margin
+S004,Centralized Supply Chain,D001,Short operational outage,6,0.5443,viable margin
+S004,Centralized Supply Chain,D001,Short operational outage,7,0.535,viable margin
+S004,Centralized Supply Chain,D001,Short operational outage,8,0.5257,viable margin
+S004,Centralized Supply Chain,D001,Short operational outage,9,0.5164,viable margin
+S004,Centralized Supply Chain,D001,Short operational outage,10,0.5072,viable margin
+S004,Centralized Supply Chain,D001,Short operational outage,11,0.4979,viable margin
+S004,Centralized Supply Chain,D001,Short operational outage,12,0.4766,viable margin
+S004,Centralized Supply Chain,D001,Short operational outage,13,0.4673,viable margin
+S004,Centralized Supply Chain,D001,Short operational outage,14,0.458,viable margin
+S004,Centralized Supply Chain,D001,Short operational outage,15,0.4487,viable margin
+S004,Centralized Supply Chain,D001,Short operational outage,16,0.4394,viable margin
+S004,Centralized Supply Chain,D001,Short operational outage,17,0.4301,viable margin
+S004,Centralized Supply Chain,D001,Short operational outage,18,0.4208,viable margin
+S004,Centralized Supply Chain,D001,Short operational outage,19,0.4116,viable margin
+S004,Centralized Supply Chain,D001,Short operational outage,20,0.4023,viable margin
+S004,Centralized Supply Chain,D001,Short operational outage,21,0.393,viable margin
+S004,Centralized Supply Chain,D001,Short operational outage,22,0.3837,viable margin
+S004,Centralized Supply Chain,D001,Short operational outage,23,0.3744,viable margin
+S004,Centralized Supply Chain,D001,Short operational outage,24,0.3531,viable margin
+S004,Centralized Supply Chain,D001,Short operational outage,25,0.3438,viable margin
+S004,Centralized Supply Chain,D001,Short operational outage,26,0.3345,viable margin
+S004,Centralized Supply Chain,D001,Short operational outage,27,0.3252,viable margin
+S004,Centralized Supply Chain,D001,Short operational outage,28,0.316,viable margin
+S004,Centralized Supply Chain,D001,Short operational outage,29,0.3067,viable margin
+S004,Centralized Supply Chain,D001,Short operational outage,30,0.2974,viable margin
+S004,Centralized Supply Chain,D001,Short operational outage,31,0.2881,viable margin
+S004,Centralized Supply Chain,D001,Short operational outage,32,0.2788,viable margin
+S004,Centralized Supply Chain,D001,Short operational outage,33,0.2695,viable margin
+S004,Centralized Supply Chain,D001,Short operational outage,34,0.2603,viable margin
+S004,Centralized Supply Chain,D001,Short operational outage,35,0.251,viable margin
+S004,Centralized Supply Chain,D001,Short operational outage,36,0.2297,viable margin
+S004,Centralized Supply Chain,D001,Short operational outage,37,0.2204,viable margin
+S004,Centralized Supply Chain,D001,Short operational outage,38,0.2111,viable margin
+S004,Centralized Supply Chain,D001,Short operational outage,39,0.2018,viable margin
+S004,Centralized Supply Chain,D001,Short operational outage,40,0.1925,threshold risk
+S004,Centralized Supply Chain,D001,Short operational outage,41,0.1832,threshold risk
+S004,Centralized Supply Chain,D001,Short operational outage,42,0.1739,threshold risk
+S004,Centralized Supply Chain,D001,Short operational outage,43,0.1647,threshold risk
+S004,Centralized Supply Chain,D001,Short operational outage,44,0.1554,threshold risk
+S004,Centralized Supply Chain,D001,Short operational outage,45,0.1461,threshold risk
+S004,Centralized Supply Chain,D001,Short operational outage,46,0.1368,threshold risk
+S004,Centralized Supply Chain,D001,Short operational outage,47,0.1275,threshold risk
+S004,Centralized Supply Chain,D001,Short operational outage,48,0.1062,threshold risk
+S004,Centralized Supply Chain,D001,Short operational outage,49,0.0969,threshold risk
+S004,Centralized Supply Chain,D001,Short operational outage,50,0.0876,threshold risk
+S004,Centralized Supply Chain,D001,Short operational outage,51,0.0783,threshold risk
+S004,Centralized Supply Chain,D001,Short operational outage,52,0.0691,threshold risk
+S004,Centralized Supply Chain,D001,Short operational outage,53,0.0598,threshold risk
+S004,Centralized Supply Chain,D001,Short operational outage,54,0.0505,threshold risk
+S004,Centralized Supply Chain,D001,Short operational outage,55,0.0412,threshold risk
+S004,Centralized Supply Chain,D001,Short operational outage,56,0.0319,threshold risk
+S004,Centralized Supply Chain,D001,Short operational outage,57,0.0226,threshold risk
+S004,Centralized Supply Chain,D001,Short operational outage,58,0.0134,threshold risk
+S004,Centralized Supply Chain,D001,Short operational outage,59,0.0041,threshold risk
+S004,Centralized Supply Chain,D001,Short operational outage,60,-0.0052,threshold risk
+S004,Centralized Supply Chain,D002,Repeated climate stress,1,0.5636,viable margin
+S004,Centralized Supply Chain,D002,Repeated climate stress,2,0.5273,viable margin
+S004,Centralized Supply Chain,D002,Repeated climate stress,3,0.4909,viable margin
+S004,Centralized Supply Chain,D002,Repeated climate stress,4,0.4545,viable margin
+S004,Centralized Supply Chain,D002,Repeated climate stress,5,0.4182,viable margin
+S004,Centralized Supply Chain,D002,Repeated climate stress,6,0.3818,viable margin
+S004,Centralized Supply Chain,D002,Repeated climate stress,7,0.3454,viable margin
+S004,Centralized Supply Chain,D002,Repeated climate stress,8,0.309,viable margin
+S004,Centralized Supply Chain,D002,Repeated climate stress,9,0.2727,viable margin
+S004,Centralized Supply Chain,D002,Repeated climate stress,10,0.2363,viable margin
+S004,Centralized Supply Chain,D002,Repeated climate stress,11,0.1999,threshold risk
+S004,Centralized Supply Chain,D002,Repeated climate stress,12,0.1387,threshold risk
+S004,Centralized Supply Chain,D002,Repeated climate stress,13,0.1023,threshold risk
+S004,Centralized Supply Chain,D002,Repeated climate stress,14,0.066,threshold risk
+S004,Centralized Supply Chain,D002,Repeated climate stress,15,0.0296,threshold risk
+S004,Centralized Supply Chain,D002,Repeated climate stress,16,-0.0068,threshold risk
+S004,Centralized Supply Chain,D002,Repeated climate stress,17,-0.0431,threshold risk
+S004,Centralized Supply Chain,D002,Repeated climate stress,18,-0.0795,threshold risk
+S004,Centralized Supply Chain,D002,Repeated climate stress,19,-0.1159,threshold risk
+S004,Centralized Supply Chain,D002,Repeated climate stress,20,-0.1522,threshold risk
+S004,Centralized Supply Chain,D002,Repeated climate stress,21,-0.1886,threshold risk
+S004,Centralized Supply Chain,D002,Repeated climate stress,22,-0.225,threshold risk
+S004,Centralized Supply Chain,D002,Repeated climate stress,23,-0.2614,threshold risk
+S004,Centralized Supply Chain,D002,Repeated climate stress,24,-0.3226,threshold risk
+S004,Centralized Supply Chain,D002,Repeated climate stress,25,-0.359,threshold risk
+S004,Centralized Supply Chain,D002,Repeated climate stress,26,-0.3953,threshold risk
+S004,Centralized Supply Chain,D002,Repeated climate stress,27,-0.4317,threshold risk
+S004,Centralized Supply Chain,D002,Repeated climate stress,28,-0.4681,threshold risk
+S004,Centralized Supply Chain,D002,Repeated climate stress,29,-0.5044,threshold risk
+S004,Centralized Supply Chain,D002,Repeated climate stress,30,-0.5408,threshold risk
+S004,Centralized Supply Chain,D002,Repeated climate stress,31,-0.5772,threshold risk
+S004,Centralized Supply Chain,D002,Repeated climate stress,32,-0.6135,threshold risk
+S004,Centralized Supply Chain,D002,Repeated climate stress,33,-0.6499,threshold risk
+S004,Centralized Supply Chain,D002,Repeated climate stress,34,-0.6863,threshold risk
+S004,Centralized Supply Chain,D002,Repeated climate stress,35,-0.7227,threshold risk
+S004,Centralized Supply Chain,D002,Repeated climate stress,36,-0.7839,threshold risk
+S004,Centralized Supply Chain,D002,Repeated climate stress,37,-0.8203,threshold risk
+S004,Centralized Supply Chain,D002,Repeated climate stress,38,-0.8566,threshold risk
+S004,Centralized Supply Chain,D002,Repeated climate stress,39,-0.893,threshold risk
+S004,Centralized Supply Chain,D002,Repeated climate stress,40,-0.9294,threshold risk
+S004,Centralized Supply Chain,D002,Repeated climate stress,41,-0.9657,threshold risk
+S004,Centralized Supply Chain,D002,Repeated climate stress,42,-1.0,threshold risk
+S004,Centralized Supply Chain,D002,Repeated climate stress,43,-1.0,threshold risk
+S004,Centralized Supply Chain,D002,Repeated climate stress,44,-1.0,threshold risk
+S004,Centralized Supply Chain,D002,Repeated climate stress,45,-1.0,threshold risk
+S004,Centralized Supply Chain,D002,Repeated climate stress,46,-1.0,threshold risk
+S004,Centralized Supply Chain,D002,Repeated climate stress,47,-1.0,threshold risk
+S004,Centralized Supply Chain,D002,Repeated climate stress,48,-1.0,threshold risk
+S004,Centralized Supply Chain,D002,Repeated climate stress,49,-1.0,threshold risk
+S004,Centralized Supply Chain,D002,Repeated climate stress,50,-1.0,threshold risk
+S004,Centralized Supply Chain,D002,Repeated climate stress,51,-1.0,threshold risk
+S004,Centralized Supply Chain,D002,Repeated climate stress,52,-1.0,threshold risk
+S004,Centralized Supply Chain,D002,Repeated climate stress,53,-1.0,threshold risk
+S004,Centralized Supply Chain,D002,Repeated climate stress,54,-1.0,threshold risk
+S004,Centralized Supply Chain,D002,Repeated climate stress,55,-1.0,threshold risk
+S004,Centralized Supply Chain,D002,Repeated climate stress,56,-1.0,threshold risk
+S004,Centralized Supply Chain,D002,Repeated climate stress,57,-1.0,threshold risk
+S004,Centralized Supply Chain,D002,Repeated climate stress,58,-1.0,threshold risk
+S004,Centralized Supply Chain,D002,Repeated climate stress,59,-1.0,threshold risk
+S004,Centralized Supply Chain,D002,Repeated climate stress,60,-1.0,threshold risk
+S004,Centralized Supply Chain,D003,Compound infrastructure-ecosystem shock,1,0.5537,viable margin
+S004,Centralized Supply Chain,D003,Compound infrastructure-ecosystem shock,2,0.5074,viable margin
+S004,Centralized Supply Chain,D003,Compound infrastructure-ecosystem shock,3,0.4611,viable margin
+S004,Centralized Supply Chain,D003,Compound infrastructure-ecosystem shock,4,0.4148,viable margin
+S004,Centralized Supply Chain,D003,Compound infrastructure-ecosystem shock,5,0.3685,viable margin
+S004,Centralized Supply Chain,D003,Compound infrastructure-ecosystem shock,6,0.3222,viable margin
+S004,Centralized Supply Chain,D003,Compound infrastructure-ecosystem shock,7,0.2759,viable margin
+S004,Centralized Supply Chain,D003,Compound infrastructure-ecosystem shock,8,0.2296,viable margin
+S004,Centralized Supply Chain,D003,Compound infrastructure-ecosystem shock,9,0.1833,threshold risk
+S004,Centralized Supply Chain,D003,Compound infrastructure-ecosystem shock,10,0.137,threshold risk
+S004,Centralized Supply Chain,D003,Compound infrastructure-ecosystem shock,11,0.0906,threshold risk
+S004,Centralized Supply Chain,D003,Compound infrastructure-ecosystem shock,12,0.0147,threshold risk
+S004,Centralized Supply Chain,D003,Compound infrastructure-ecosystem shock,13,-0.0316,threshold risk
+S004,Centralized Supply Chain,D003,Compound infrastructure-ecosystem shock,14,-0.0779,threshold risk
+S004,Centralized Supply Chain,D003,Compound infrastructure-ecosystem shock,15,-0.1243,threshold risk
+S004,Centralized Supply Chain,D003,Compound infrastructure-ecosystem shock,16,-0.1706,threshold risk
+S004,Centralized Supply Chain,D003,Compound infrastructure-ecosystem shock,17,-0.2169,threshold risk
+S004,Centralized Supply Chain,D003,Compound infrastructure-ecosystem shock,18,-0.2632,threshold risk
+S004,Centralized Supply Chain,D003,Compound infrastructure-ecosystem shock,19,-0.3095,threshold risk
+S004,Centralized Supply Chain,D003,Compound infrastructure-ecosystem shock,20,-0.3558,threshold risk
+S004,Centralized Supply Chain,D003,Compound infrastructure-ecosystem shock,21,-0.4021,threshold risk
+S004,Centralized Supply Chain,D003,Compound infrastructure-ecosystem shock,22,-0.4484,threshold risk
+S004,Centralized Supply Chain,D003,Compound infrastructure-ecosystem shock,23,-0.4947,threshold risk
+S004,Centralized Supply Chain,D003,Compound infrastructure-ecosystem shock,24,-0.5707,threshold risk
+S004,Centralized Supply Chain,D003,Compound infrastructure-ecosystem shock,25,-0.617,threshold risk
+S004,Centralized Supply Chain,D003,Compound infrastructure-ecosystem shock,26,-0.6633,threshold risk
+S004,Centralized Supply Chain,D003,Compound infrastructure-ecosystem shock,27,-0.7096,threshold risk
+S004,Centralized Supply Chain,D003,Compound infrastructure-ecosystem shock,28,-0.7559,threshold risk
+S004,Centralized Supply Chain,D003,Compound infrastructure-ecosystem shock,29,-0.8022,threshold risk
+S004,Centralized Supply Chain,D003,Compound infrastructure-ecosystem shock,30,-0.8485,threshold risk
+S004,Centralized Supply Chain,D003,Compound infrastructure-ecosystem shock,31,-0.8948,threshold risk
+S004,Centralized Supply Chain,D003,Compound infrastructure-ecosystem shock,32,-0.9411,threshold risk
+S004,Centralized Supply Chain,D003,Compound infrastructure-ecosystem shock,33,-0.9874,threshold risk
+S004,Centralized Supply Chain,D003,Compound infrastructure-ecosystem shock,34,-1.0,threshold risk
+S004,Centralized Supply Chain,D003,Compound infrastructure-ecosystem shock,35,-1.0,threshold risk
+S004,Centralized Supply Chain,D003,Compound infrastructure-ecosystem shock,36,-1.0,threshold risk
+S004,Centralized Supply Chain,D003,Compound infrastructure-ecosystem shock,37,-1.0,threshold risk
+S004,Centralized Supply Chain,D003,Compound infrastructure-ecosystem shock,38,-1.0,threshold risk
+S004,Centralized Supply Chain,D003,Compound infrastructure-ecosystem shock,39,-1.0,threshold risk
+S004,Centralized Supply Chain,D003,Compound infrastructure-ecosystem shock,40,-1.0,threshold risk
+S004,Centralized Supply Chain,D003,Compound infrastructure-ecosystem shock,41,-1.0,threshold risk
+S004,Centralized Supply Chain,D003,Compound infrastructure-ecosystem shock,42,-1.0,threshold risk
+S004,Centralized Supply Chain,D003,Compound infrastructure-ecosystem shock,43,-1.0,threshold risk
+S004,Centralized Supply Chain,D003,Compound infrastructure-ecosystem shock,44,-1.0,threshold risk
+S004,Centralized Supply Chain,D003,Compound infrastructure-ecosystem shock,45,-1.0,threshold risk
+S004,Centralized Supply Chain,D003,Compound infrastructure-ecosystem shock,46,-1.0,threshold risk
+S004,Centralized Supply Chain,D003,Compound infrastructure-ecosystem shock,47,-1.0,threshold risk
+S004,Centralized Supply Chain,D003,Compound infrastructure-ecosystem shock,48,-1.0,threshold risk
+S004,Centralized Supply Chain,D003,Compound infrastructure-ecosystem shock,49,-1.0,threshold risk
+S004,Centralized Supply Chain,D003,Compound infrastructure-ecosystem shock,50,-1.0,threshold risk
+S004,Centralized Supply Chain,D003,Compound infrastructure-ecosystem shock,51,-1.0,threshold risk
+S004,Centralized Supply Chain,D003,Compound infrastructure-ecosystem shock,52,-1.0,threshold risk
+S004,Centralized Supply Chain,D003,Compound infrastructure-ecosystem shock,53,-1.0,threshold risk
+S004,Centralized Supply Chain,D003,Compound infrastructure-ecosystem shock,54,-1.0,threshold risk
+S004,Centralized Supply Chain,D003,Compound infrastructure-ecosystem shock,55,-1.0,threshold risk
+S004,Centralized Supply Chain,D003,Compound infrastructure-ecosystem shock,56,-1.0,threshold risk
+S004,Centralized Supply Chain,D003,Compound infrastructure-ecosystem shock,57,-1.0,threshold risk
+S004,Centralized Supply Chain,D003,Compound infrastructure-ecosystem shock,58,-1.0,threshold risk
+S004,Centralized Supply Chain,D003,Compound infrastructure-ecosystem shock,59,-1.0,threshold risk
+S004,Centralized Supply Chain,D003,Compound infrastructure-ecosystem shock,60,-1.0,threshold risk
+S004,Centralized Supply Chain,D004,Slow threshold erosion,1,0.5696,viable margin
+S004,Centralized Supply Chain,D004,Slow threshold erosion,2,0.5391,viable margin
+S004,Centralized Supply Chain,D004,Slow threshold erosion,3,0.5087,viable margin
+S004,Centralized Supply Chain,D004,Slow threshold erosion,4,0.4782,viable margin
+S004,Centralized Supply Chain,D004,Slow threshold erosion,5,0.4478,viable margin
+S004,Centralized Supply Chain,D004,Slow threshold erosion,6,0.4174,viable margin
+S004,Centralized Supply Chain,D004,Slow threshold erosion,7,0.3869,viable margin
+S004,Centralized Supply Chain,D004,Slow threshold erosion,8,0.3565,viable margin
+S004,Centralized Supply Chain,D004,Slow threshold erosion,9,0.326,viable margin
+S004,Centralized Supply Chain,D004,Slow threshold erosion,10,0.2956,viable margin
+S004,Centralized Supply Chain,D004,Slow threshold erosion,11,0.2651,viable margin
+S004,Centralized Supply Chain,D004,Slow threshold erosion,12,0.2171,viable margin
+S004,Centralized Supply Chain,D004,Slow threshold erosion,13,0.1866,threshold risk
+S004,Centralized Supply Chain,D004,Slow threshold erosion,14,0.1562,threshold risk
+S004,Centralized Supply Chain,D004,Slow threshold erosion,15,0.1257,threshold risk
+S004,Centralized Supply Chain,D004,Slow threshold erosion,16,0.0953,threshold risk
+S004,Centralized Supply Chain,D004,Slow threshold erosion,17,0.0649,threshold risk
+S004,Centralized Supply Chain,D004,Slow threshold erosion,18,0.0344,threshold risk
+S004,Centralized Supply Chain,D004,Slow threshold erosion,19,0.004,threshold risk
+S004,Centralized Supply Chain,D004,Slow threshold erosion,20,-0.0265,threshold risk
+S004,Centralized Supply Chain,D004,Slow threshold erosion,21,-0.0569,threshold risk
+S004,Centralized Supply Chain,D004,Slow threshold erosion,22,-0.0873,threshold risk
+S004,Centralized Supply Chain,D004,Slow threshold erosion,23,-0.1178,threshold risk
+S004,Centralized Supply Chain,D004,Slow threshold erosion,24,-0.1659,threshold risk
+S004,Centralized Supply Chain,D004,Slow threshold erosion,25,-0.1963,threshold risk
+S004,Centralized Supply Chain,D004,Slow threshold erosion,26,-0.2268,threshold risk
+S004,Centralized Supply Chain,D004,Slow threshold erosion,27,-0.2572,threshold risk
+S004,Centralized Supply Chain,D004,Slow threshold erosion,28,-0.2876,threshold risk
+S004,Centralized Supply Chain,D004,Slow threshold erosion,29,-0.3181,threshold risk
+S004,Centralized Supply Chain,D004,Slow threshold erosion,30,-0.3485,threshold risk
+S004,Centralized Supply Chain,D004,Slow threshold erosion,31,-0.379,threshold risk
+S004,Centralized Supply Chain,D004,Slow threshold erosion,32,-0.4094,threshold risk
+S004,Centralized Supply Chain,D004,Slow threshold erosion,33,-0.4398,threshold risk
+S004,Centralized Supply Chain,D004,Slow threshold erosion,34,-0.4703,threshold risk
+S004,Centralized Supply Chain,D004,Slow threshold erosion,35,-0.5007,threshold risk
+S004,Centralized Supply Chain,D004,Slow threshold erosion,36,-0.5488,threshold risk
+S004,Centralized Supply Chain,D004,Slow threshold erosion,37,-0.5793,threshold risk
+S004,Centralized Supply Chain,D004,Slow threshold erosion,38,-0.6097,threshold risk
+S004,Centralized Supply Chain,D004,Slow threshold erosion,39,-0.6401,threshold risk
+S004,Centralized Supply Chain,D004,Slow threshold erosion,40,-0.6706,threshold risk
+S004,Centralized Supply Chain,D004,Slow threshold erosion,41,-0.701,threshold risk
+S004,Centralized Supply Chain,D004,Slow threshold erosion,42,-0.7315,threshold risk
+S004,Centralized Supply Chain,D004,Slow threshold erosion,43,-0.7619,threshold risk
+S004,Centralized Supply Chain,D004,Slow threshold erosion,44,-0.7923,threshold risk
+S004,Centralized Supply Chain,D004,Slow threshold erosion,45,-0.8228,threshold risk
+S004,Centralized Supply Chain,D004,Slow threshold erosion,46,-0.8532,threshold risk
+S004,Centralized Supply Chain,D004,Slow threshold erosion,47,-0.8837,threshold risk
+S004,Centralized Supply Chain,D004,Slow threshold erosion,48,-0.9318,threshold risk
+S004,Centralized Supply Chain,D004,Slow threshold erosion,49,-0.9622,threshold risk
+S004,Centralized Supply Chain,D004,Slow threshold erosion,50,-0.9926,threshold risk
+S004,Centralized Supply Chain,D004,Slow threshold erosion,51,-1.0,threshold risk
+S004,Centralized Supply Chain,D004,Slow threshold erosion,52,-1.0,threshold risk
+S004,Centralized Supply Chain,D004,Slow threshold erosion,53,-1.0,threshold risk
+S004,Centralized Supply Chain,D004,Slow threshold erosion,54,-1.0,threshold risk
+S004,Centralized Supply Chain,D004,Slow threshold erosion,55,-1.0,threshold risk
+S004,Centralized Supply Chain,D004,Slow threshold erosion,56,-1.0,threshold risk
+S004,Centralized Supply Chain,D004,Slow threshold erosion,57,-1.0,threshold risk
+S004,Centralized Supply Chain,D004,Slow threshold erosion,58,-1.0,threshold risk
+S004,Centralized Supply Chain,D004,Slow threshold erosion,59,-1.0,threshold risk
+S004,Centralized Supply Chain,D004,Slow threshold erosion,60,-1.0,threshold risk
+S005,Distributed Energy Network,D001,Short operational outage,1,1.082,viable margin
+S005,Distributed Energy Network,D001,Short operational outage,2,1.0841,viable margin
+S005,Distributed Energy Network,D001,Short operational outage,3,1.0861,viable margin
+S005,Distributed Energy Network,D001,Short operational outage,4,1.0881,viable margin
+S005,Distributed Energy Network,D001,Short operational outage,5,1.0901,viable margin
+S005,Distributed Energy Network,D001,Short operational outage,6,1.0922,viable margin
+S005,Distributed Energy Network,D001,Short operational outage,7,1.0942,viable margin
+S005,Distributed Energy Network,D001,Short operational outage,8,1.0962,viable margin
+S005,Distributed Energy Network,D001,Short operational outage,9,1.0982,viable margin
+S005,Distributed Energy Network,D001,Short operational outage,10,1.1003,viable margin
+S005,Distributed Energy Network,D001,Short operational outage,11,1.1023,viable margin
+S005,Distributed Energy Network,D001,Short operational outage,12,1.0938,viable margin
+S005,Distributed Energy Network,D001,Short operational outage,13,1.0958,viable margin
+S005,Distributed Energy Network,D001,Short operational outage,14,1.0978,viable margin
+S005,Distributed Energy Network,D001,Short operational outage,15,1.0999,viable margin
+S005,Distributed Energy Network,D001,Short operational outage,16,1.1019,viable margin
+S005,Distributed Energy Network,D001,Short operational outage,17,1.1039,viable margin
+S005,Distributed Energy Network,D001,Short operational outage,18,1.1059,viable margin
+S005,Distributed Energy Network,D001,Short operational outage,19,1.108,viable margin
+S005,Distributed Energy Network,D001,Short operational outage,20,1.11,viable margin
+S005,Distributed Energy Network,D001,Short operational outage,21,1.112,viable margin
+S005,Distributed Energy Network,D001,Short operational outage,22,1.114,viable margin
+S005,Distributed Energy Network,D001,Short operational outage,23,1.1161,viable margin
+S005,Distributed Energy Network,D001,Short operational outage,24,1.1076,viable margin
+S005,Distributed Energy Network,D001,Short operational outage,25,1.1096,viable margin
+S005,Distributed Energy Network,D001,Short operational outage,26,1.1116,viable margin
+S005,Distributed Energy Network,D001,Short operational outage,27,1.1136,viable margin
+S005,Distributed Energy Network,D001,Short operational outage,28,1.1157,viable margin
+S005,Distributed Energy Network,D001,Short operational outage,29,1.1177,viable margin
+S005,Distributed Energy Network,D001,Short operational outage,30,1.1197,viable margin
+S005,Distributed Energy Network,D001,Short operational outage,31,1.1217,viable margin
+S005,Distributed Energy Network,D001,Short operational outage,32,1.1238,viable margin
+S005,Distributed Energy Network,D001,Short operational outage,33,1.1258,viable margin
+S005,Distributed Energy Network,D001,Short operational outage,34,1.1278,viable margin
+S005,Distributed Energy Network,D001,Short operational outage,35,1.1298,viable margin
+S005,Distributed Energy Network,D001,Short operational outage,36,1.1213,viable margin
+S005,Distributed Energy Network,D001,Short operational outage,37,1.1234,viable margin
+S005,Distributed Energy Network,D001,Short operational outage,38,1.1254,viable margin
+S005,Distributed Energy Network,D001,Short operational outage,39,1.1274,viable margin
+S005,Distributed Energy Network,D001,Short operational outage,40,1.1294,viable margin
+S005,Distributed Energy Network,D001,Short operational outage,41,1.1315,viable margin
+S005,Distributed Energy Network,D001,Short operational outage,42,1.1335,viable margin
+S005,Distributed Energy Network,D001,Short operational outage,43,1.1355,viable margin
+S005,Distributed Energy Network,D001,Short operational outage,44,1.1375,viable margin
+S005,Distributed Energy Network,D001,Short operational outage,45,1.1396,viable margin
+S005,Distributed Energy Network,D001,Short operational outage,46,1.1416,viable margin
+S005,Distributed Energy Network,D001,Short operational outage,47,1.1436,viable margin
+S005,Distributed Energy Network,D001,Short operational outage,48,1.1351,viable margin
+S005,Distributed Energy Network,D001,Short operational outage,49,1.1371,viable margin
+S005,Distributed Energy Network,D001,Short operational outage,50,1.1392,viable margin
+S005,Distributed Energy Network,D001,Short operational outage,51,1.1412,viable margin
+S005,Distributed Energy Network,D001,Short operational outage,52,1.1432,viable margin
+S005,Distributed Energy Network,D001,Short operational outage,53,1.1452,viable margin
+S005,Distributed Energy Network,D001,Short operational outage,54,1.1473,viable margin
+S005,Distributed Energy Network,D001,Short operational outage,55,1.1493,viable margin
+S005,Distributed Energy Network,D001,Short operational outage,56,1.1513,viable margin
+S005,Distributed Energy Network,D001,Short operational outage,57,1.1533,viable margin
+S005,Distributed Energy Network,D001,Short operational outage,58,1.1554,viable margin
+S005,Distributed Energy Network,D001,Short operational outage,59,1.1574,viable margin
+S005,Distributed Energy Network,D001,Short operational outage,60,1.1594,viable margin
+S005,Distributed Energy Network,D002,Repeated climate stress,1,1.0629,viable margin
+S005,Distributed Energy Network,D002,Repeated climate stress,2,1.0458,viable margin
+S005,Distributed Energy Network,D002,Repeated climate stress,3,1.0288,viable margin
+S005,Distributed Energy Network,D002,Repeated climate stress,4,1.0117,viable margin
+S005,Distributed Energy Network,D002,Repeated climate stress,5,0.9946,viable margin
+S005,Distributed Energy Network,D002,Repeated climate stress,6,0.9775,viable margin
+S005,Distributed Energy Network,D002,Repeated climate stress,7,0.9604,viable margin
+S005,Distributed Energy Network,D002,Repeated climate stress,8,0.9434,viable margin
+S005,Distributed Energy Network,D002,Repeated climate stress,9,0.9263,viable margin
+S005,Distributed Energy Network,D002,Repeated climate stress,10,0.9092,viable margin
+S005,Distributed Energy Network,D002,Repeated climate stress,11,0.8921,viable margin
+S005,Distributed Energy Network,D002,Repeated climate stress,12,0.8533,viable margin
+S005,Distributed Energy Network,D002,Repeated climate stress,13,0.8362,viable margin
+S005,Distributed Energy Network,D002,Repeated climate stress,14,0.8191,viable margin
+S005,Distributed Energy Network,D002,Repeated climate stress,15,0.802,viable margin
+S005,Distributed Energy Network,D002,Repeated climate stress,16,0.785,viable margin
+S005,Distributed Energy Network,D002,Repeated climate stress,17,0.7679,viable margin
+S005,Distributed Energy Network,D002,Repeated climate stress,18,0.7508,viable margin
+S005,Distributed Energy Network,D002,Repeated climate stress,19,0.7337,viable margin
+S005,Distributed Energy Network,D002,Repeated climate stress,20,0.7166,viable margin
+S005,Distributed Energy Network,D002,Repeated climate stress,21,0.6996,viable margin
+S005,Distributed Energy Network,D002,Repeated climate stress,22,0.6825,viable margin
+S005,Distributed Energy Network,D002,Repeated climate stress,23,0.6654,viable margin
+S005,Distributed Energy Network,D002,Repeated climate stress,24,0.6266,viable margin
+S005,Distributed Energy Network,D002,Repeated climate stress,25,0.6095,viable margin
+S005,Distributed Energy Network,D002,Repeated climate stress,26,0.5924,viable margin
+S005,Distributed Energy Network,D002,Repeated climate stress,27,0.5753,viable margin
+S005,Distributed Energy Network,D002,Repeated climate stress,28,0.5582,viable margin
+S005,Distributed Energy Network,D002,Repeated climate stress,29,0.5412,viable margin
+S005,Distributed Energy Network,D002,Repeated climate stress,30,0.5241,viable margin
+S005,Distributed Energy Network,D002,Repeated climate stress,31,0.507,viable margin
+S005,Distributed Energy Network,D002,Repeated climate stress,32,0.4899,viable margin
+S005,Distributed Energy Network,D002,Repeated climate stress,33,0.4728,viable margin
+S005,Distributed Energy Network,D002,Repeated climate stress,34,0.4558,viable margin
+S005,Distributed Energy Network,D002,Repeated climate stress,35,0.4387,viable margin
+S005,Distributed Energy Network,D002,Repeated climate stress,36,0.3998,viable margin
+S005,Distributed Energy Network,D002,Repeated climate stress,37,0.3828,viable margin
+S005,Distributed Energy Network,D002,Repeated climate stress,38,0.3657,viable margin
+S005,Distributed Energy Network,D002,Repeated climate stress,39,0.3486,viable margin
+S005,Distributed Energy Network,D002,Repeated climate stress,40,0.3315,viable margin
+S005,Distributed Energy Network,D002,Repeated climate stress,41,0.3144,viable margin
+S005,Distributed Energy Network,D002,Repeated climate stress,42,0.2974,viable margin
+S005,Distributed Energy Network,D002,Repeated climate stress,43,0.2803,viable margin
+S005,Distributed Energy Network,D002,Repeated climate stress,44,0.2632,viable margin
+S005,Distributed Energy Network,D002,Repeated climate stress,45,0.2461,viable margin
+S005,Distributed Energy Network,D002,Repeated climate stress,46,0.229,viable margin
+S005,Distributed Energy Network,D002,Repeated climate stress,47,0.212,viable margin
+S005,Distributed Energy Network,D002,Repeated climate stress,48,0.1731,threshold risk
+S005,Distributed Energy Network,D002,Repeated climate stress,49,0.156,threshold risk
+S005,Distributed Energy Network,D002,Repeated climate stress,50,0.139,threshold risk
+S005,Distributed Energy Network,D002,Repeated climate stress,51,0.1219,threshold risk
+S005,Distributed Energy Network,D002,Repeated climate stress,52,0.1048,threshold risk
+S005,Distributed Energy Network,D002,Repeated climate stress,53,0.0877,threshold risk
+S005,Distributed Energy Network,D002,Repeated climate stress,54,0.0706,threshold risk
+S005,Distributed Energy Network,D002,Repeated climate stress,55,0.0536,threshold risk
+S005,Distributed Energy Network,D002,Repeated climate stress,56,0.0365,threshold risk
+S005,Distributed Energy Network,D002,Repeated climate stress,57,0.0194,threshold risk
+S005,Distributed Energy Network,D002,Repeated climate stress,58,0.0023,threshold risk
+S005,Distributed Energy Network,D002,Repeated climate stress,59,-0.0148,threshold risk
+S005,Distributed Energy Network,D002,Repeated climate stress,60,-0.0318,threshold risk
+S005,Distributed Energy Network,D003,Compound infrastructure-ecosystem shock,1,1.056,viable margin
+S005,Distributed Energy Network,D003,Compound infrastructure-ecosystem shock,2,1.032,viable margin
+S005,Distributed Energy Network,D003,Compound infrastructure-ecosystem shock,3,1.008,viable margin
+S005,Distributed Energy Network,D003,Compound infrastructure-ecosystem shock,4,0.9841,viable margin
+S005,Distributed Energy Network,D003,Compound infrastructure-ecosystem shock,5,0.9601,viable margin
+S005,Distributed Energy Network,D003,Compound infrastructure-ecosystem shock,6,0.9361,viable margin
+S005,Distributed Energy Network,D003,Compound infrastructure-ecosystem shock,7,0.9121,viable margin
+S005,Distributed Energy Network,D003,Compound infrastructure-ecosystem shock,8,0.8881,viable margin
+S005,Distributed Energy Network,D003,Compound infrastructure-ecosystem shock,9,0.8641,viable margin
+S005,Distributed Energy Network,D003,Compound infrastructure-ecosystem shock,10,0.8401,viable margin
+S005,Distributed Energy Network,D003,Compound infrastructure-ecosystem shock,11,0.8161,viable margin
+S005,Distributed Energy Network,D003,Compound infrastructure-ecosystem shock,12,0.7662,viable margin
+S005,Distributed Energy Network,D003,Compound infrastructure-ecosystem shock,13,0.7422,viable margin
+S005,Distributed Energy Network,D003,Compound infrastructure-ecosystem shock,14,0.7182,viable margin
+S005,Distributed Energy Network,D003,Compound infrastructure-ecosystem shock,15,0.6942,viable margin
+S005,Distributed Energy Network,D003,Compound infrastructure-ecosystem shock,16,0.6702,viable margin
+S005,Distributed Energy Network,D003,Compound infrastructure-ecosystem shock,17,0.6462,viable margin
+S005,Distributed Energy Network,D003,Compound infrastructure-ecosystem shock,18,0.6223,viable margin
+S005,Distributed Energy Network,D003,Compound infrastructure-ecosystem shock,19,0.5983,viable margin
+S005,Distributed Energy Network,D003,Compound infrastructure-ecosystem shock,20,0.5743,viable margin
+S005,Distributed Energy Network,D003,Compound infrastructure-ecosystem shock,21,0.5503,viable margin
+S005,Distributed Energy Network,D003,Compound infrastructure-ecosystem shock,22,0.5263,viable margin
+S005,Distributed Energy Network,D003,Compound infrastructure-ecosystem shock,23,0.5023,viable margin
+S005,Distributed Energy Network,D003,Compound infrastructure-ecosystem shock,24,0.4524,viable margin
+S005,Distributed Energy Network,D003,Compound infrastructure-ecosystem shock,25,0.4284,viable margin
+S005,Distributed Energy Network,D003,Compound infrastructure-ecosystem shock,26,0.4044,viable margin
+S005,Distributed Energy Network,D003,Compound infrastructure-ecosystem shock,27,0.3804,viable margin
+S005,Distributed Energy Network,D003,Compound infrastructure-ecosystem shock,28,0.3564,viable margin
+S005,Distributed Energy Network,D003,Compound infrastructure-ecosystem shock,29,0.3324,viable margin
+S005,Distributed Energy Network,D003,Compound infrastructure-ecosystem shock,30,0.3084,viable margin
+S005,Distributed Energy Network,D003,Compound infrastructure-ecosystem shock,31,0.2845,viable margin
+S005,Distributed Energy Network,D003,Compound infrastructure-ecosystem shock,32,0.2605,viable margin
+S005,Distributed Energy Network,D003,Compound infrastructure-ecosystem shock,33,0.2365,viable margin
+S005,Distributed Energy Network,D003,Compound infrastructure-ecosystem shock,34,0.2125,viable margin
+S005,Distributed Energy Network,D003,Compound infrastructure-ecosystem shock,35,0.1885,threshold risk
+S005,Distributed Energy Network,D003,Compound infrastructure-ecosystem shock,36,0.1385,threshold risk
+S005,Distributed Energy Network,D003,Compound infrastructure-ecosystem shock,37,0.1146,threshold risk
+S005,Distributed Energy Network,D003,Compound infrastructure-ecosystem shock,38,0.0906,threshold risk
+S005,Distributed Energy Network,D003,Compound infrastructure-ecosystem shock,39,0.0666,threshold risk
+S005,Distributed Energy Network,D003,Compound infrastructure-ecosystem shock,40,0.0426,threshold risk
+S005,Distributed Energy Network,D003,Compound infrastructure-ecosystem shock,41,0.0186,threshold risk
+S005,Distributed Energy Network,D003,Compound infrastructure-ecosystem shock,42,-0.0054,threshold risk
+S005,Distributed Energy Network,D003,Compound infrastructure-ecosystem shock,43,-0.0294,threshold risk
+S005,Distributed Energy Network,D003,Compound infrastructure-ecosystem shock,44,-0.0534,threshold risk
+S005,Distributed Energy Network,D003,Compound infrastructure-ecosystem shock,45,-0.0773,threshold risk
+S005,Distributed Energy Network,D003,Compound infrastructure-ecosystem shock,46,-0.1013,threshold risk
+S005,Distributed Energy Network,D003,Compound infrastructure-ecosystem shock,47,-0.1253,threshold risk
+S005,Distributed Energy Network,D003,Compound infrastructure-ecosystem shock,48,-0.1753,threshold risk
+S005,Distributed Energy Network,D003,Compound infrastructure-ecosystem shock,49,-0.1993,threshold risk
+S005,Distributed Energy Network,D003,Compound infrastructure-ecosystem shock,50,-0.2233,threshold risk
+S005,Distributed Energy Network,D003,Compound infrastructure-ecosystem shock,51,-0.2472,threshold risk
+S005,Distributed Energy Network,D003,Compound infrastructure-ecosystem shock,52,-0.2712,threshold risk
+S005,Distributed Energy Network,D003,Compound infrastructure-ecosystem shock,53,-0.2952,threshold risk
+S005,Distributed Energy Network,D003,Compound infrastructure-ecosystem shock,54,-0.3192,threshold risk
+S005,Distributed Energy Network,D003,Compound infrastructure-ecosystem shock,55,-0.3432,threshold risk
+S005,Distributed Energy Network,D003,Compound infrastructure-ecosystem shock,56,-0.3672,threshold risk
+S005,Distributed Energy Network,D003,Compound infrastructure-ecosystem shock,57,-0.3912,threshold risk
+S005,Distributed Energy Network,D003,Compound infrastructure-ecosystem shock,58,-0.4151,threshold risk
+S005,Distributed Energy Network,D003,Compound infrastructure-ecosystem shock,59,-0.4391,threshold risk
+S005,Distributed Energy Network,D003,Compound infrastructure-ecosystem shock,60,-0.4631,threshold risk
+S005,Distributed Energy Network,D004,Slow threshold erosion,1,1.0668,viable margin
+S005,Distributed Energy Network,D004,Slow threshold erosion,2,1.0537,viable margin
+S005,Distributed Energy Network,D004,Slow threshold erosion,3,1.0405,viable margin
+S005,Distributed Energy Network,D004,Slow threshold erosion,4,1.0273,viable margin
+S005,Distributed Energy Network,D004,Slow threshold erosion,5,1.0142,viable margin
+S005,Distributed Energy Network,D004,Slow threshold erosion,6,1.001,viable margin
+S005,Distributed Energy Network,D004,Slow threshold erosion,7,0.9878,viable margin
+S005,Distributed Energy Network,D004,Slow threshold erosion,8,0.9746,viable margin
+S005,Distributed Energy Network,D004,Slow threshold erosion,9,0.9615,viable margin
+S005,Distributed Energy Network,D004,Slow threshold erosion,10,0.9483,viable margin
+S005,Distributed Energy Network,D004,Slow threshold erosion,11,0.9351,viable margin
+S005,Distributed Energy Network,D004,Slow threshold erosion,12,0.9065,viable margin
+S005,Distributed Energy Network,D004,Slow threshold erosion,13,0.8934,viable margin
+S005,Distributed Energy Network,D004,Slow threshold erosion,14,0.8802,viable margin
+S005,Distributed Energy Network,D004,Slow threshold erosion,15,0.867,viable margin
+S005,Distributed Energy Network,D004,Slow threshold erosion,16,0.8539,viable margin
+S005,Distributed Energy Network,D004,Slow threshold erosion,17,0.8407,viable margin
+S005,Distributed Energy Network,D004,Slow threshold erosion,18,0.8275,viable margin
+S005,Distributed Energy Network,D004,Slow threshold erosion,19,0.8143,viable margin
+S005,Distributed Energy Network,D004,Slow threshold erosion,20,0.8012,viable margin
+S005,Distributed Energy Network,D004,Slow threshold erosion,21,0.788,viable margin
+S005,Distributed Energy Network,D004,Slow threshold erosion,22,0.7748,viable margin
+S005,Distributed Energy Network,D004,Slow threshold erosion,23,0.7617,viable margin
+S005,Distributed Energy Network,D004,Slow threshold erosion,24,0.7331,viable margin
+S005,Distributed Energy Network,D004,Slow threshold erosion,25,0.7199,viable margin
+S005,Distributed Energy Network,D004,Slow threshold erosion,26,0.7067,viable margin
+S005,Distributed Energy Network,D004,Slow threshold erosion,27,0.6935,viable margin
+S005,Distributed Energy Network,D004,Slow threshold erosion,28,0.6804,viable margin
+S005,Distributed Energy Network,D004,Slow threshold erosion,29,0.6672,viable margin
+S005,Distributed Energy Network,D004,Slow threshold erosion,30,0.654,viable margin
+S005,Distributed Energy Network,D004,Slow threshold erosion,31,0.6409,viable margin
+S005,Distributed Energy Network,D004,Slow threshold erosion,32,0.6277,viable margin
+S005,Distributed Energy Network,D004,Slow threshold erosion,33,0.6145,viable margin
+S005,Distributed Energy Network,D004,Slow threshold erosion,34,0.6014,viable margin
+S005,Distributed Energy Network,D004,Slow threshold erosion,35,0.5882,viable margin
+S005,Distributed Energy Network,D004,Slow threshold erosion,36,0.5596,viable margin
+S005,Distributed Energy Network,D004,Slow threshold erosion,37,0.5464,viable margin
+S005,Distributed Energy Network,D004,Slow threshold erosion,38,0.5332,viable margin
+S005,Distributed Energy Network,D004,Slow threshold erosion,39,0.5201,viable margin
+S005,Distributed Energy Network,D004,Slow threshold erosion,40,0.5069,viable margin
+S005,Distributed Energy Network,D004,Slow threshold erosion,41,0.4937,viable margin
+S005,Distributed Energy Network,D004,Slow threshold erosion,42,0.4806,viable margin
+S005,Distributed Energy Network,D004,Slow threshold erosion,43,0.4674,viable margin
+S005,Distributed Energy Network,D004,Slow threshold erosion,44,0.4542,viable margin
+S005,Distributed Energy Network,D004,Slow threshold erosion,45,0.4411,viable margin
+S005,Distributed Energy Network,D004,Slow threshold erosion,46,0.4279,viable margin
+S005,Distributed Energy Network,D004,Slow threshold erosion,47,0.4147,viable margin
+S005,Distributed Energy Network,D004,Slow threshold erosion,48,0.3861,viable margin
+S005,Distributed Energy Network,D004,Slow threshold erosion,49,0.3729,viable margin
+S005,Distributed Energy Network,D004,Slow threshold erosion,50,0.3598,viable margin
+S005,Distributed Energy Network,D004,Slow threshold erosion,51,0.3466,viable margin
+S005,Distributed Energy Network,D004,Slow threshold erosion,52,0.3334,viable margin
+S005,Distributed Energy Network,D004,Slow threshold erosion,53,0.3203,viable margin
+S005,Distributed Energy Network,D004,Slow threshold erosion,54,0.3071,viable margin
+S005,Distributed Energy Network,D004,Slow threshold erosion,55,0.2939,viable margin
+S005,Distributed Energy Network,D004,Slow threshold erosion,56,0.2808,viable margin
+S005,Distributed Energy Network,D004,Slow threshold erosion,57,0.2676,viable margin
+S005,Distributed Energy Network,D004,Slow threshold erosion,58,0.2544,viable margin
+S005,Distributed Energy Network,D004,Slow threshold erosion,59,0.2413,viable margin
+S005,Distributed Energy Network,D004,Slow threshold erosion,60,0.2281,viable margin
+S006,Community Health System,D001,Short operational outage,1,1.0558,viable margin
+S006,Community Health System,D001,Short operational outage,2,1.0566,viable margin
+S006,Community Health System,D001,Short operational outage,3,1.0574,viable margin
+S006,Community Health System,D001,Short operational outage,4,1.0582,viable margin
+S006,Community Health System,D001,Short operational outage,5,1.059,viable margin
+S006,Community Health System,D001,Short operational outage,6,1.0598,viable margin
+S006,Community Health System,D001,Short operational outage,7,1.0606,viable margin
+S006,Community Health System,D001,Short operational outage,8,1.0614,viable margin
+S006,Community Health System,D001,Short operational outage,9,1.0622,viable margin
+S006,Community Health System,D001,Short operational outage,10,1.0631,viable margin
+S006,Community Health System,D001,Short operational outage,11,1.0639,viable margin
+S006,Community Health System,D001,Short operational outage,12,1.0539,viable margin
+S006,Community Health System,D001,Short operational outage,13,1.0547,viable margin
+S006,Community Health System,D001,Short operational outage,14,1.0555,viable margin
+S006,Community Health System,D001,Short operational outage,15,1.0563,viable margin
+S006,Community Health System,D001,Short operational outage,16,1.0571,viable margin
+S006,Community Health System,D001,Short operational outage,17,1.0579,viable margin
+S006,Community Health System,D001,Short operational outage,18,1.0587,viable margin
+S006,Community Health System,D001,Short operational outage,19,1.0596,viable margin
+S006,Community Health System,D001,Short operational outage,20,1.0604,viable margin
+S006,Community Health System,D001,Short operational outage,21,1.0612,viable margin
+S006,Community Health System,D001,Short operational outage,22,1.062,viable margin
+S006,Community Health System,D001,Short operational outage,23,1.0628,viable margin
+S006,Community Health System,D001,Short operational outage,24,1.0528,viable margin
+S006,Community Health System,D001,Short operational outage,25,1.0536,viable margin
+S006,Community Health System,D001,Short operational outage,26,1.0544,viable margin
+S006,Community Health System,D001,Short operational outage,27,1.0552,viable margin
+S006,Community Health System,D001,Short operational outage,28,1.0561,viable margin
+S006,Community Health System,D001,Short operational outage,29,1.0569,viable margin
+S006,Community Health System,D001,Short operational outage,30,1.0577,viable margin
+S006,Community Health System,D001,Short operational outage,31,1.0585,viable margin
+S006,Community Health System,D001,Short operational outage,32,1.0593,viable margin
+S006,Community Health System,D001,Short operational outage,33,1.0601,viable margin
+S006,Community Health System,D001,Short operational outage,34,1.0609,viable margin
+S006,Community Health System,D001,Short operational outage,35,1.0617,viable margin
+S006,Community Health System,D001,Short operational outage,36,1.0517,viable margin
+S006,Community Health System,D001,Short operational outage,37,1.0525,viable margin
+S006,Community Health System,D001,Short operational outage,38,1.0534,viable margin
+S006,Community Health System,D001,Short operational outage,39,1.0542,viable margin
+S006,Community Health System,D001,Short operational outage,40,1.055,viable margin
+S006,Community Health System,D001,Short operational outage,41,1.0558,viable margin
+S006,Community Health System,D001,Short operational outage,42,1.0566,viable margin
+S006,Community Health System,D001,Short operational outage,43,1.0574,viable margin
+S006,Community Health System,D001,Short operational outage,44,1.0582,viable margin
+S006,Community Health System,D001,Short operational outage,45,1.059,viable margin
+S006,Community Health System,D001,Short operational outage,46,1.0598,viable margin
+S006,Community Health System,D001,Short operational outage,47,1.0606,viable margin
+S006,Community Health System,D001,Short operational outage,48,1.0507,viable margin
+S006,Community Health System,D001,Short operational outage,49,1.0515,viable margin
+S006,Community Health System,D001,Short operational outage,50,1.0523,viable margin
+S006,Community Health System,D001,Short operational outage,51,1.0531,viable margin
+S006,Community Health System,D001,Short operational outage,52,1.0539,viable margin
+S006,Community Health System,D001,Short operational outage,53,1.0547,viable margin
+S006,Community Health System,D001,Short operational outage,54,1.0555,viable margin
+S006,Community Health System,D001,Short operational outage,55,1.0563,viable margin
+S006,Community Health System,D001,Short operational outage,56,1.0571,viable margin
+S006,Community Health System,D001,Short operational outage,57,1.0579,viable margin
+S006,Community Health System,D001,Short operational outage,58,1.0587,viable margin
+S006,Community Health System,D001,Short operational outage,59,1.0595,viable margin
+S006,Community Health System,D001,Short operational outage,60,1.0603,viable margin
+S006,Community Health System,D002,Repeated climate stress,1,1.0345,viable margin
+S006,Community Health System,D002,Repeated climate stress,2,1.014,viable margin
+S006,Community Health System,D002,Repeated climate stress,3,0.9934,viable margin
+S006,Community Health System,D002,Repeated climate stress,4,0.9729,viable margin
+S006,Community Health System,D002,Repeated climate stress,5,0.9524,viable margin
+S006,Community Health System,D002,Repeated climate stress,6,0.9319,viable margin
+S006,Community Health System,D002,Repeated climate stress,7,0.9114,viable margin
+S006,Community Health System,D002,Repeated climate stress,8,0.8909,viable margin
+S006,Community Health System,D002,Repeated climate stress,9,0.8703,viable margin
+S006,Community Health System,D002,Repeated climate stress,10,0.8498,viable margin
+S006,Community Health System,D002,Repeated climate stress,11,0.8293,viable margin
+S006,Community Health System,D002,Repeated climate stress,12,0.7866,viable margin
+S006,Community Health System,D002,Repeated climate stress,13,0.766,viable margin
+S006,Community Health System,D002,Repeated climate stress,14,0.7455,viable margin
+S006,Community Health System,D002,Repeated climate stress,15,0.725,viable margin
+S006,Community Health System,D002,Repeated climate stress,16,0.7045,viable margin
+S006,Community Health System,D002,Repeated climate stress,17,0.684,viable margin
+S006,Community Health System,D002,Repeated climate stress,18,0.6635,viable margin
+S006,Community Health System,D002,Repeated climate stress,19,0.6429,viable margin
+S006,Community Health System,D002,Repeated climate stress,20,0.6224,viable margin
+S006,Community Health System,D002,Repeated climate stress,21,0.6019,viable margin
+S006,Community Health System,D002,Repeated climate stress,22,0.5814,viable margin
+S006,Community Health System,D002,Repeated climate stress,23,0.5609,viable margin
+S006,Community Health System,D002,Repeated climate stress,24,0.5181,viable margin
+S006,Community Health System,D002,Repeated climate stress,25,0.4976,viable margin
+S006,Community Health System,D002,Repeated climate stress,26,0.4771,viable margin
+S006,Community Health System,D002,Repeated climate stress,27,0.4566,viable margin
+S006,Community Health System,D002,Repeated climate stress,28,0.4361,viable margin
+S006,Community Health System,D002,Repeated climate stress,29,0.4155,viable margin
+S006,Community Health System,D002,Repeated climate stress,30,0.395,viable margin
+S006,Community Health System,D002,Repeated climate stress,31,0.3745,viable margin
+S006,Community Health System,D002,Repeated climate stress,32,0.354,viable margin
+S006,Community Health System,D002,Repeated climate stress,33,0.3335,viable margin
+S006,Community Health System,D002,Repeated climate stress,34,0.3129,viable margin
+S006,Community Health System,D002,Repeated climate stress,35,0.2924,viable margin
+S006,Community Health System,D002,Repeated climate stress,36,0.2497,viable margin
+S006,Community Health System,D002,Repeated climate stress,37,0.2292,viable margin
+S006,Community Health System,D002,Repeated climate stress,38,0.2087,viable margin
+S006,Community Health System,D002,Repeated climate stress,39,0.1881,threshold risk
+S006,Community Health System,D002,Repeated climate stress,40,0.1676,threshold risk
+S006,Community Health System,D002,Repeated climate stress,41,0.1471,threshold risk
+S006,Community Health System,D002,Repeated climate stress,42,0.1266,threshold risk
+S006,Community Health System,D002,Repeated climate stress,43,0.1061,threshold risk
+S006,Community Health System,D002,Repeated climate stress,44,0.0855,threshold risk
+S006,Community Health System,D002,Repeated climate stress,45,0.065,threshold risk
+S006,Community Health System,D002,Repeated climate stress,46,0.0445,threshold risk
+S006,Community Health System,D002,Repeated climate stress,47,0.024,threshold risk
+S006,Community Health System,D002,Repeated climate stress,48,-0.0187,threshold risk
+S006,Community Health System,D002,Repeated climate stress,49,-0.0393,threshold risk
+S006,Community Health System,D002,Repeated climate stress,50,-0.0598,threshold risk
+S006,Community Health System,D002,Repeated climate stress,51,-0.0803,threshold risk
+S006,Community Health System,D002,Repeated climate stress,52,-0.1008,threshold risk
+S006,Community Health System,D002,Repeated climate stress,53,-0.1213,threshold risk
+S006,Community Health System,D002,Repeated climate stress,54,-0.1419,threshold risk
+S006,Community Health System,D002,Repeated climate stress,55,-0.1624,threshold risk
+S006,Community Health System,D002,Repeated climate stress,56,-0.1829,threshold risk
+S006,Community Health System,D002,Repeated climate stress,57,-0.2034,threshold risk
+S006,Community Health System,D002,Repeated climate stress,58,-0.2239,threshold risk
+S006,Community Health System,D002,Repeated climate stress,59,-0.2444,threshold risk
+S006,Community Health System,D002,Repeated climate stress,60,-0.265,threshold risk
+S006,Community Health System,D003,Compound infrastructure-ecosystem shock,1,1.0267,viable margin
+S006,Community Health System,D003,Compound infrastructure-ecosystem shock,2,0.9984,viable margin
+S006,Community Health System,D003,Compound infrastructure-ecosystem shock,3,0.9702,viable margin
+S006,Community Health System,D003,Compound infrastructure-ecosystem shock,4,0.9419,viable margin
+S006,Community Health System,D003,Compound infrastructure-ecosystem shock,5,0.9136,viable margin
+S006,Community Health System,D003,Compound infrastructure-ecosystem shock,6,0.8853,viable margin
+S006,Community Health System,D003,Compound infrastructure-ecosystem shock,7,0.8571,viable margin
+S006,Community Health System,D003,Compound infrastructure-ecosystem shock,8,0.8288,viable margin
+S006,Community Health System,D003,Compound infrastructure-ecosystem shock,9,0.8005,viable margin
+S006,Community Health System,D003,Compound infrastructure-ecosystem shock,10,0.7722,viable margin
+S006,Community Health System,D003,Compound infrastructure-ecosystem shock,11,0.744,viable margin
+S006,Community Health System,D003,Compound infrastructure-ecosystem shock,12,0.6892,viable margin
+S006,Community Health System,D003,Compound infrastructure-ecosystem shock,13,0.6609,viable margin
+S006,Community Health System,D003,Compound infrastructure-ecosystem shock,14,0.6326,viable margin
+S006,Community Health System,D003,Compound infrastructure-ecosystem shock,15,0.6043,viable margin
+S006,Community Health System,D003,Compound infrastructure-ecosystem shock,16,0.576,viable margin
+S006,Community Health System,D003,Compound infrastructure-ecosystem shock,17,0.5478,viable margin
+S006,Community Health System,D003,Compound infrastructure-ecosystem shock,18,0.5195,viable margin
+S006,Community Health System,D003,Compound infrastructure-ecosystem shock,19,0.4912,viable margin
+S006,Community Health System,D003,Compound infrastructure-ecosystem shock,20,0.4629,viable margin
+S006,Community Health System,D003,Compound infrastructure-ecosystem shock,21,0.4347,viable margin
+S006,Community Health System,D003,Compound infrastructure-ecosystem shock,22,0.4064,viable margin
+S006,Community Health System,D003,Compound infrastructure-ecosystem shock,23,0.3781,viable margin
+S006,Community Health System,D003,Compound infrastructure-ecosystem shock,24,0.3233,viable margin
+S006,Community Health System,D003,Compound infrastructure-ecosystem shock,25,0.295,viable margin
+S006,Community Health System,D003,Compound infrastructure-ecosystem shock,26,0.2668,viable margin
+S006,Community Health System,D003,Compound infrastructure-ecosystem shock,27,0.2385,viable margin
+S006,Community Health System,D003,Compound infrastructure-ecosystem shock,28,0.2102,viable margin
+S006,Community Health System,D003,Compound infrastructure-ecosystem shock,29,0.1819,threshold risk
+S006,Community Health System,D003,Compound infrastructure-ecosystem shock,30,0.1536,threshold risk
+S006,Community Health System,D003,Compound infrastructure-ecosystem shock,31,0.1254,threshold risk
+S006,Community Health System,D003,Compound infrastructure-ecosystem shock,32,0.0971,threshold risk
+S006,Community Health System,D003,Compound infrastructure-ecosystem shock,33,0.0688,threshold risk
+S006,Community Health System,D003,Compound infrastructure-ecosystem shock,34,0.0405,threshold risk
+S006,Community Health System,D003,Compound infrastructure-ecosystem shock,35,0.0123,threshold risk
+S006,Community Health System,D003,Compound infrastructure-ecosystem shock,36,-0.0425,threshold risk
+S006,Community Health System,D003,Compound infrastructure-ecosystem shock,37,-0.0708,threshold risk
+S006,Community Health System,D003,Compound infrastructure-ecosystem shock,38,-0.0991,threshold risk
+S006,Community Health System,D003,Compound infrastructure-ecosystem shock,39,-0.1274,threshold risk
+S006,Community Health System,D003,Compound infrastructure-ecosystem shock,40,-0.1556,threshold risk
+S006,Community Health System,D003,Compound infrastructure-ecosystem shock,41,-0.1839,threshold risk
+S006,Community Health System,D003,Compound infrastructure-ecosystem shock,42,-0.2122,threshold risk
+S006,Community Health System,D003,Compound infrastructure-ecosystem shock,43,-0.2405,threshold risk
+S006,Community Health System,D003,Compound infrastructure-ecosystem shock,44,-0.2688,threshold risk
+S006,Community Health System,D003,Compound infrastructure-ecosystem shock,45,-0.297,threshold risk
+S006,Community Health System,D003,Compound infrastructure-ecosystem shock,46,-0.3253,threshold risk
+S006,Community Health System,D003,Compound infrastructure-ecosystem shock,47,-0.3536,threshold risk
+S006,Community Health System,D003,Compound infrastructure-ecosystem shock,48,-0.4084,threshold risk
+S006,Community Health System,D003,Compound infrastructure-ecosystem shock,49,-0.4367,threshold risk
+S006,Community Health System,D003,Compound infrastructure-ecosystem shock,50,-0.4649,threshold risk
+S006,Community Health System,D003,Compound infrastructure-ecosystem shock,51,-0.4932,threshold risk
+S006,Community Health System,D003,Compound infrastructure-ecosystem shock,52,-0.5215,threshold risk
+S006,Community Health System,D003,Compound infrastructure-ecosystem shock,53,-0.5498,threshold risk
+S006,Community Health System,D003,Compound infrastructure-ecosystem shock,54,-0.578,threshold risk
+S006,Community Health System,D003,Compound infrastructure-ecosystem shock,55,-0.6063,threshold risk
+S006,Community Health System,D003,Compound infrastructure-ecosystem shock,56,-0.6346,threshold risk
+S006,Community Health System,D003,Compound infrastructure-ecosystem shock,57,-0.6629,threshold risk
+S006,Community Health System,D003,Compound infrastructure-ecosystem shock,58,-0.6911,threshold risk
+S006,Community Health System,D003,Compound infrastructure-ecosystem shock,59,-0.7194,threshold risk
+S006,Community Health System,D003,Compound infrastructure-ecosystem shock,60,-0.7477,threshold risk
+S006,Community Health System,D004,Slow threshold erosion,1,1.039,viable margin
+S006,Community Health System,D004,Slow threshold erosion,2,1.023,viable margin
+S006,Community Health System,D004,Slow threshold erosion,3,1.0069,viable margin
+S006,Community Health System,D004,Slow threshold erosion,4,0.9909,viable margin
+S006,Community Health System,D004,Slow threshold erosion,5,0.9749,viable margin
+S006,Community Health System,D004,Slow threshold erosion,6,0.9589,viable margin
+S006,Community Health System,D004,Slow threshold erosion,7,0.9429,viable margin
+S006,Community Health System,D004,Slow threshold erosion,8,0.9268,viable margin
+S006,Community Health System,D004,Slow threshold erosion,9,0.9108,viable margin
+S006,Community Health System,D004,Slow threshold erosion,10,0.8948,viable margin
+S006,Community Health System,D004,Slow threshold erosion,11,0.8788,viable margin
+S006,Community Health System,D004,Slow threshold erosion,12,0.847,viable margin
+S006,Community Health System,D004,Slow threshold erosion,13,0.831,viable margin
+S006,Community Health System,D004,Slow threshold erosion,14,0.8149,viable margin
+S006,Community Health System,D004,Slow threshold erosion,15,0.7989,viable margin
+S006,Community Health System,D004,Slow threshold erosion,16,0.7829,viable margin
+S006,Community Health System,D004,Slow threshold erosion,17,0.7669,viable margin
+S006,Community Health System,D004,Slow threshold erosion,18,0.7509,viable margin
+S006,Community Health System,D004,Slow threshold erosion,19,0.7348,viable margin
+S006,Community Health System,D004,Slow threshold erosion,20,0.7188,viable margin
+S006,Community Health System,D004,Slow threshold erosion,21,0.7028,viable margin
+S006,Community Health System,D004,Slow threshold erosion,22,0.6868,viable margin
+S006,Community Health System,D004,Slow threshold erosion,23,0.6708,viable margin
+S006,Community Health System,D004,Slow threshold erosion,24,0.639,viable margin
+S006,Community Health System,D004,Slow threshold erosion,25,0.623,viable margin
+S006,Community Health System,D004,Slow threshold erosion,26,0.6069,viable margin
+S006,Community Health System,D004,Slow threshold erosion,27,0.5909,viable margin
+S006,Community Health System,D004,Slow threshold erosion,28,0.5749,viable margin
+S006,Community Health System,D004,Slow threshold erosion,29,0.5589,viable margin
+S006,Community Health System,D004,Slow threshold erosion,30,0.5428,viable margin
+S006,Community Health System,D004,Slow threshold erosion,31,0.5268,viable margin
+S006,Community Health System,D004,Slow threshold erosion,32,0.5108,viable margin
+S006,Community Health System,D004,Slow threshold erosion,33,0.4948,viable margin
+S006,Community Health System,D004,Slow threshold erosion,34,0.4788,viable margin
+S006,Community Health System,D004,Slow threshold erosion,35,0.4627,viable margin
+S006,Community Health System,D004,Slow threshold erosion,36,0.431,viable margin
+S006,Community Health System,D004,Slow threshold erosion,37,0.4149,viable margin
+S006,Community Health System,D004,Slow threshold erosion,38,0.3989,viable margin
+S006,Community Health System,D004,Slow threshold erosion,39,0.3829,viable margin
+S006,Community Health System,D004,Slow threshold erosion,40,0.3669,viable margin
+S006,Community Health System,D004,Slow threshold erosion,41,0.3509,viable margin
+S006,Community Health System,D004,Slow threshold erosion,42,0.3348,viable margin
+S006,Community Health System,D004,Slow threshold erosion,43,0.3188,viable margin
+S006,Community Health System,D004,Slow threshold erosion,44,0.3028,viable margin
+S006,Community Health System,D004,Slow threshold erosion,45,0.2868,viable margin
+S006,Community Health System,D004,Slow threshold erosion,46,0.2708,viable margin
+S006,Community Health System,D004,Slow threshold erosion,47,0.2547,viable margin
+S006,Community Health System,D004,Slow threshold erosion,48,0.2229,viable margin
+S006,Community Health System,D004,Slow threshold erosion,49,0.2069,viable margin
+S006,Community Health System,D004,Slow threshold erosion,50,0.1909,threshold risk
+S006,Community Health System,D004,Slow threshold erosion,51,0.1749,threshold risk
+S006,Community Health System,D004,Slow threshold erosion,52,0.1589,threshold risk
+S006,Community Health System,D004,Slow threshold erosion,53,0.1428,threshold risk
+S006,Community Health System,D004,Slow threshold erosion,54,0.1268,threshold risk
+S006,Community Health System,D004,Slow threshold erosion,55,0.1108,threshold risk
+S006,Community Health System,D004,Slow threshold erosion,56,0.0948,threshold risk
+S006,Community Health System,D004,Slow threshold erosion,57,0.0788,threshold risk
+S006,Community Health System,D004,Slow threshold erosion,58,0.0627,threshold risk
+S006,Community Health System,D004,Slow threshold erosion,59,0.0467,threshold risk
+S006,Community Health System,D004,Slow threshold erosion,60,0.0307,threshold risk
+S007,Urban Flood System,D001,Short operational outage,1,0.8774,viable margin
+S007,Urban Flood System,D001,Short operational outage,2,0.8747,viable margin
+S007,Urban Flood System,D001,Short operational outage,3,0.8721,viable margin
+S007,Urban Flood System,D001,Short operational outage,4,0.8694,viable margin
+S007,Urban Flood System,D001,Short operational outage,5,0.8668,viable margin
+S007,Urban Flood System,D001,Short operational outage,6,0.8641,viable margin
+S007,Urban Flood System,D001,Short operational outage,7,0.8615,viable margin
+S007,Urban Flood System,D001,Short operational outage,8,0.8588,viable margin
+S007,Urban Flood System,D001,Short operational outage,9,0.8562,viable margin
+S007,Urban Flood System,D001,Short operational outage,10,0.8535,viable margin
+S007,Urban Flood System,D001,Short operational outage,11,0.8509,viable margin
+S007,Urban Flood System,D001,Short operational outage,12,0.8373,viable margin
+S007,Urban Flood System,D001,Short operational outage,13,0.8346,viable margin
+S007,Urban Flood System,D001,Short operational outage,14,0.832,viable margin
+S007,Urban Flood System,D001,Short operational outage,15,0.8293,viable margin
+S007,Urban Flood System,D001,Short operational outage,16,0.8267,viable margin
+S007,Urban Flood System,D001,Short operational outage,17,0.824,viable margin
+S007,Urban Flood System,D001,Short operational outage,18,0.8214,viable margin
+S007,Urban Flood System,D001,Short operational outage,19,0.8187,viable margin
+S007,Urban Flood System,D001,Short operational outage,20,0.8161,viable margin
+S007,Urban Flood System,D001,Short operational outage,21,0.8134,viable margin
+S007,Urban Flood System,D001,Short operational outage,22,0.8108,viable margin
+S007,Urban Flood System,D001,Short operational outage,23,0.8081,viable margin
+S007,Urban Flood System,D001,Short operational outage,24,0.7946,viable margin
+S007,Urban Flood System,D001,Short operational outage,25,0.7919,viable margin
+S007,Urban Flood System,D001,Short operational outage,26,0.7893,viable margin
+S007,Urban Flood System,D001,Short operational outage,27,0.7866,viable margin
+S007,Urban Flood System,D001,Short operational outage,28,0.784,viable margin
+S007,Urban Flood System,D001,Short operational outage,29,0.7813,viable margin
+S007,Urban Flood System,D001,Short operational outage,30,0.7787,viable margin
+S007,Urban Flood System,D001,Short operational outage,31,0.776,viable margin
+S007,Urban Flood System,D001,Short operational outage,32,0.7734,viable margin
+S007,Urban Flood System,D001,Short operational outage,33,0.7707,viable margin
+S007,Urban Flood System,D001,Short operational outage,34,0.7681,viable margin
+S007,Urban Flood System,D001,Short operational outage,35,0.7654,viable margin
+S007,Urban Flood System,D001,Short operational outage,36,0.7519,viable margin
+S007,Urban Flood System,D001,Short operational outage,37,0.7492,viable margin
+S007,Urban Flood System,D001,Short operational outage,38,0.7466,viable margin
+S007,Urban Flood System,D001,Short operational outage,39,0.7439,viable margin
+S007,Urban Flood System,D001,Short operational outage,40,0.7413,viable margin
+S007,Urban Flood System,D001,Short operational outage,41,0.7386,viable margin
+S007,Urban Flood System,D001,Short operational outage,42,0.736,viable margin
+S007,Urban Flood System,D001,Short operational outage,43,0.7333,viable margin
+S007,Urban Flood System,D001,Short operational outage,44,0.7307,viable margin
+S007,Urban Flood System,D001,Short operational outage,45,0.728,viable margin
+S007,Urban Flood System,D001,Short operational outage,46,0.7254,viable margin
+S007,Urban Flood System,D001,Short operational outage,47,0.7227,viable margin
+S007,Urban Flood System,D001,Short operational outage,48,0.7092,viable margin
+S007,Urban Flood System,D001,Short operational outage,49,0.7065,viable margin
+S007,Urban Flood System,D001,Short operational outage,50,0.7039,viable margin
+S007,Urban Flood System,D001,Short operational outage,51,0.7012,viable margin
+S007,Urban Flood System,D001,Short operational outage,52,0.6986,viable margin
+S007,Urban Flood System,D001,Short operational outage,53,0.6959,viable margin
+S007,Urban Flood System,D001,Short operational outage,54,0.6933,viable margin
+S007,Urban Flood System,D001,Short operational outage,55,0.6906,viable margin
+S007,Urban Flood System,D001,Short operational outage,56,0.688,viable margin
+S007,Urban Flood System,D001,Short operational outage,57,0.6853,viable margin
+S007,Urban Flood System,D001,Short operational outage,58,0.6827,viable margin
+S007,Urban Flood System,D001,Short operational outage,59,0.68,viable margin
+S007,Urban Flood System,D001,Short operational outage,60,0.6774,viable margin
+S007,Urban Flood System,D002,Repeated climate stress,1,0.8535,viable margin
+S007,Urban Flood System,D002,Repeated climate stress,2,0.827,viable margin
+S007,Urban Flood System,D002,Repeated climate stress,3,0.8005,viable margin
+S007,Urban Flood System,D002,Repeated climate stress,4,0.774,viable margin
+S007,Urban Flood System,D002,Repeated climate stress,5,0.7475,viable margin
+S007,Urban Flood System,D002,Repeated climate stress,6,0.721,viable margin
+S007,Urban Flood System,D002,Repeated climate stress,7,0.6945,viable margin
+S007,Urban Flood System,D002,Repeated climate stress,8,0.668,viable margin
+S007,Urban Flood System,D002,Repeated climate stress,9,0.6415,viable margin
+S007,Urban Flood System,D002,Repeated climate stress,10,0.615,viable margin
+S007,Urban Flood System,D002,Repeated climate stress,11,0.5885,viable margin
+S007,Urban Flood System,D002,Repeated climate stress,12,0.5394,viable margin
+S007,Urban Flood System,D002,Repeated climate stress,13,0.5129,viable margin
+S007,Urban Flood System,D002,Repeated climate stress,14,0.4864,viable margin
+S007,Urban Flood System,D002,Repeated climate stress,15,0.4599,viable margin
+S007,Urban Flood System,D002,Repeated climate stress,16,0.4334,viable margin
+S007,Urban Flood System,D002,Repeated climate stress,17,0.4069,viable margin
+S007,Urban Flood System,D002,Repeated climate stress,18,0.3804,viable margin
+S007,Urban Flood System,D002,Repeated climate stress,19,0.3539,viable margin
+S007,Urban Flood System,D002,Repeated climate stress,20,0.3274,viable margin
+S007,Urban Flood System,D002,Repeated climate stress,21,0.3009,viable margin
+S007,Urban Flood System,D002,Repeated climate stress,22,0.2744,viable margin
+S007,Urban Flood System,D002,Repeated climate stress,23,0.2479,viable margin
+S007,Urban Flood System,D002,Repeated climate stress,24,0.1988,threshold risk
+S007,Urban Flood System,D002,Repeated climate stress,25,0.1723,threshold risk
+S007,Urban Flood System,D002,Repeated climate stress,26,0.1458,threshold risk
+S007,Urban Flood System,D002,Repeated climate stress,27,0.1193,threshold risk
+S007,Urban Flood System,D002,Repeated climate stress,28,0.0928,threshold risk
+S007,Urban Flood System,D002,Repeated climate stress,29,0.0663,threshold risk
+S007,Urban Flood System,D002,Repeated climate stress,30,0.0398,threshold risk
+S007,Urban Flood System,D002,Repeated climate stress,31,0.0133,threshold risk
+S007,Urban Flood System,D002,Repeated climate stress,32,-0.0132,threshold risk
+S007,Urban Flood System,D002,Repeated climate stress,33,-0.0397,threshold risk
+S007,Urban Flood System,D002,Repeated climate stress,34,-0.0662,threshold risk
+S007,Urban Flood System,D002,Repeated climate stress,35,-0.0928,threshold risk
+S007,Urban Flood System,D002,Repeated climate stress,36,-0.1418,threshold risk
+S007,Urban Flood System,D002,Repeated climate stress,37,-0.1683,threshold risk
+S007,Urban Flood System,D002,Repeated climate stress,38,-0.1948,threshold risk
+S007,Urban Flood System,D002,Repeated climate stress,39,-0.2213,threshold risk
+S007,Urban Flood System,D002,Repeated climate stress,40,-0.2478,threshold risk
+S007,Urban Flood System,D002,Repeated climate stress,41,-0.2743,threshold risk
+S007,Urban Flood System,D002,Repeated climate stress,42,-0.3008,threshold risk
+S007,Urban Flood System,D002,Repeated climate stress,43,-0.3273,threshold risk
+S007,Urban Flood System,D002,Repeated climate stress,44,-0.3538,threshold risk
+S007,Urban Flood System,D002,Repeated climate stress,45,-0.3804,threshold risk
+S007,Urban Flood System,D002,Repeated climate stress,46,-0.4069,threshold risk
+S007,Urban Flood System,D002,Repeated climate stress,47,-0.4334,threshold risk
+S007,Urban Flood System,D002,Repeated climate stress,48,-0.4824,threshold risk
+S007,Urban Flood System,D002,Repeated climate stress,49,-0.5089,threshold risk
+S007,Urban Flood System,D002,Repeated climate stress,50,-0.5354,threshold risk
+S007,Urban Flood System,D002,Repeated climate stress,51,-0.5619,threshold risk
+S007,Urban Flood System,D002,Repeated climate stress,52,-0.5884,threshold risk
+S007,Urban Flood System,D002,Repeated climate stress,53,-0.6149,threshold risk
+S007,Urban Flood System,D002,Repeated climate stress,54,-0.6414,threshold risk
+S007,Urban Flood System,D002,Repeated climate stress,55,-0.668,threshold risk
+S007,Urban Flood System,D002,Repeated climate stress,56,-0.6945,threshold risk
+S007,Urban Flood System,D002,Repeated climate stress,57,-0.721,threshold risk
+S007,Urban Flood System,D002,Repeated climate stress,58,-0.7475,threshold risk
+S007,Urban Flood System,D002,Repeated climate stress,59,-0.774,threshold risk
+S007,Urban Flood System,D002,Repeated climate stress,60,-0.8005,threshold risk
+S007,Urban Flood System,D003,Compound infrastructure-ecosystem shock,1,0.8448,viable margin
+S007,Urban Flood System,D003,Compound infrastructure-ecosystem shock,2,0.8095,viable margin
+S007,Urban Flood System,D003,Compound infrastructure-ecosystem shock,3,0.7743,viable margin
+S007,Urban Flood System,D003,Compound infrastructure-ecosystem shock,4,0.739,viable margin
+S007,Urban Flood System,D003,Compound infrastructure-ecosystem shock,5,0.7038,viable margin
+S007,Urban Flood System,D003,Compound infrastructure-ecosystem shock,6,0.6686,viable margin
+S007,Urban Flood System,D003,Compound infrastructure-ecosystem shock,7,0.6333,viable margin
+S007,Urban Flood System,D003,Compound infrastructure-ecosystem shock,8,0.5981,viable margin
+S007,Urban Flood System,D003,Compound infrastructure-ecosystem shock,9,0.5629,viable margin
+S007,Urban Flood System,D003,Compound infrastructure-ecosystem shock,10,0.5276,viable margin
+S007,Urban Flood System,D003,Compound infrastructure-ecosystem shock,11,0.4924,viable margin
+S007,Urban Flood System,D003,Compound infrastructure-ecosystem shock,12,0.4302,viable margin
+S007,Urban Flood System,D003,Compound infrastructure-ecosystem shock,13,0.395,viable margin
+S007,Urban Flood System,D003,Compound infrastructure-ecosystem shock,14,0.3597,viable margin
+S007,Urban Flood System,D003,Compound infrastructure-ecosystem shock,15,0.3245,viable margin
+S007,Urban Flood System,D003,Compound infrastructure-ecosystem shock,16,0.2893,viable margin
+S007,Urban Flood System,D003,Compound infrastructure-ecosystem shock,17,0.254,viable margin
+S007,Urban Flood System,D003,Compound infrastructure-ecosystem shock,18,0.2188,viable margin
+S007,Urban Flood System,D003,Compound infrastructure-ecosystem shock,19,0.1835,threshold risk
+S007,Urban Flood System,D003,Compound infrastructure-ecosystem shock,20,0.1483,threshold risk
+S007,Urban Flood System,D003,Compound infrastructure-ecosystem shock,21,0.1131,threshold risk
+S007,Urban Flood System,D003,Compound infrastructure-ecosystem shock,22,0.0778,threshold risk
+S007,Urban Flood System,D003,Compound infrastructure-ecosystem shock,23,0.0426,threshold risk
+S007,Urban Flood System,D003,Compound infrastructure-ecosystem shock,24,-0.0196,threshold risk
+S007,Urban Flood System,D003,Compound infrastructure-ecosystem shock,25,-0.0548,threshold risk
+S007,Urban Flood System,D003,Compound infrastructure-ecosystem shock,26,-0.0901,threshold risk
+S007,Urban Flood System,D003,Compound infrastructure-ecosystem shock,27,-0.1253,threshold risk
+S007,Urban Flood System,D003,Compound infrastructure-ecosystem shock,28,-0.1605,threshold risk
+S007,Urban Flood System,D003,Compound infrastructure-ecosystem shock,29,-0.1958,threshold risk
+S007,Urban Flood System,D003,Compound infrastructure-ecosystem shock,30,-0.231,threshold risk
+S007,Urban Flood System,D003,Compound infrastructure-ecosystem shock,31,-0.2663,threshold risk
+S007,Urban Flood System,D003,Compound infrastructure-ecosystem shock,32,-0.3015,threshold risk
+S007,Urban Flood System,D003,Compound infrastructure-ecosystem shock,33,-0.3367,threshold risk
+S007,Urban Flood System,D003,Compound infrastructure-ecosystem shock,34,-0.372,threshold risk
+S007,Urban Flood System,D003,Compound infrastructure-ecosystem shock,35,-0.4072,threshold risk
+S007,Urban Flood System,D003,Compound infrastructure-ecosystem shock,36,-0.4694,threshold risk
+S007,Urban Flood System,D003,Compound infrastructure-ecosystem shock,37,-0.5046,threshold risk
+S007,Urban Flood System,D003,Compound infrastructure-ecosystem shock,38,-0.5399,threshold risk
+S007,Urban Flood System,D003,Compound infrastructure-ecosystem shock,39,-0.5751,threshold risk
+S007,Urban Flood System,D003,Compound infrastructure-ecosystem shock,40,-0.6103,threshold risk
+S007,Urban Flood System,D003,Compound infrastructure-ecosystem shock,41,-0.6456,threshold risk
+S007,Urban Flood System,D003,Compound infrastructure-ecosystem shock,42,-0.6808,threshold risk
+S007,Urban Flood System,D003,Compound infrastructure-ecosystem shock,43,-0.716,threshold risk
+S007,Urban Flood System,D003,Compound infrastructure-ecosystem shock,44,-0.7513,threshold risk
+S007,Urban Flood System,D003,Compound infrastructure-ecosystem shock,45,-0.7865,threshold risk
+S007,Urban Flood System,D003,Compound infrastructure-ecosystem shock,46,-0.8218,threshold risk
+S007,Urban Flood System,D003,Compound infrastructure-ecosystem shock,47,-0.857,threshold risk
+S007,Urban Flood System,D003,Compound infrastructure-ecosystem shock,48,-0.9192,threshold risk
+S007,Urban Flood System,D003,Compound infrastructure-ecosystem shock,49,-0.9544,threshold risk
+S007,Urban Flood System,D003,Compound infrastructure-ecosystem shock,50,-0.9896,threshold risk
+S007,Urban Flood System,D003,Compound infrastructure-ecosystem shock,51,-1.0,threshold risk
+S007,Urban Flood System,D003,Compound infrastructure-ecosystem shock,52,-1.0,threshold risk
+S007,Urban Flood System,D003,Compound infrastructure-ecosystem shock,53,-1.0,threshold risk
+S007,Urban Flood System,D003,Compound infrastructure-ecosystem shock,54,-1.0,threshold risk
+S007,Urban Flood System,D003,Compound infrastructure-ecosystem shock,55,-1.0,threshold risk
+S007,Urban Flood System,D003,Compound infrastructure-ecosystem shock,56,-1.0,threshold risk
+S007,Urban Flood System,D003,Compound infrastructure-ecosystem shock,57,-1.0,threshold risk
+S007,Urban Flood System,D003,Compound infrastructure-ecosystem shock,58,-1.0,threshold risk
+S007,Urban Flood System,D003,Compound infrastructure-ecosystem shock,59,-1.0,threshold risk
+S007,Urban Flood System,D003,Compound infrastructure-ecosystem shock,60,-1.0,threshold risk
+S007,Urban Flood System,D004,Slow threshold erosion,1,0.8587,viable margin
+S007,Urban Flood System,D004,Slow threshold erosion,2,0.8373,viable margin
+S007,Urban Flood System,D004,Slow threshold erosion,3,0.816,viable margin
+S007,Urban Flood System,D004,Slow threshold erosion,4,0.7947,viable margin
+S007,Urban Flood System,D004,Slow threshold erosion,5,0.7734,viable margin
+S007,Urban Flood System,D004,Slow threshold erosion,6,0.752,viable margin
+S007,Urban Flood System,D004,Slow threshold erosion,7,0.7307,viable margin
+S007,Urban Flood System,D004,Slow threshold erosion,8,0.7094,viable margin
+S007,Urban Flood System,D004,Slow threshold erosion,9,0.6881,viable margin
+S007,Urban Flood System,D004,Slow threshold erosion,10,0.6667,viable margin
+S007,Urban Flood System,D004,Slow threshold erosion,11,0.6454,viable margin
+S007,Urban Flood System,D004,Slow threshold erosion,12,0.6081,viable margin
+S007,Urban Flood System,D004,Slow threshold erosion,13,0.5868,viable margin
+S007,Urban Flood System,D004,Slow threshold erosion,14,0.5654,viable margin
+S007,Urban Flood System,D004,Slow threshold erosion,15,0.5441,viable margin
+S007,Urban Flood System,D004,Slow threshold erosion,16,0.5228,viable margin
+S007,Urban Flood System,D004,Slow threshold erosion,17,0.5015,viable margin
+S007,Urban Flood System,D004,Slow threshold erosion,18,0.4801,viable margin
+S007,Urban Flood System,D004,Slow threshold erosion,19,0.4588,viable margin
+S007,Urban Flood System,D004,Slow threshold erosion,20,0.4375,viable margin
+S007,Urban Flood System,D004,Slow threshold erosion,21,0.4162,viable margin
+S007,Urban Flood System,D004,Slow threshold erosion,22,0.3948,viable margin
+S007,Urban Flood System,D004,Slow threshold erosion,23,0.3735,viable margin
+S007,Urban Flood System,D004,Slow threshold erosion,24,0.3362,viable margin
+S007,Urban Flood System,D004,Slow threshold erosion,25,0.3148,viable margin
+S007,Urban Flood System,D004,Slow threshold erosion,26,0.2935,viable margin
+S007,Urban Flood System,D004,Slow threshold erosion,27,0.2722,viable margin
+S007,Urban Flood System,D004,Slow threshold erosion,28,0.2509,viable margin
+S007,Urban Flood System,D004,Slow threshold erosion,29,0.2295,viable margin
+S007,Urban Flood System,D004,Slow threshold erosion,30,0.2082,viable margin
+S007,Urban Flood System,D004,Slow threshold erosion,31,0.1869,threshold risk
+S007,Urban Flood System,D004,Slow threshold erosion,32,0.1656,threshold risk
+S007,Urban Flood System,D004,Slow threshold erosion,33,0.1442,threshold risk
+S007,Urban Flood System,D004,Slow threshold erosion,34,0.1229,threshold risk
+S007,Urban Flood System,D004,Slow threshold erosion,35,0.1016,threshold risk
+S007,Urban Flood System,D004,Slow threshold erosion,36,0.0643,threshold risk
+S007,Urban Flood System,D004,Slow threshold erosion,37,0.0429,threshold risk
+S007,Urban Flood System,D004,Slow threshold erosion,38,0.0216,threshold risk
+S007,Urban Flood System,D004,Slow threshold erosion,39,0.0003,threshold risk
+S007,Urban Flood System,D004,Slow threshold erosion,40,-0.021,threshold risk
+S007,Urban Flood System,D004,Slow threshold erosion,41,-0.0424,threshold risk
+S007,Urban Flood System,D004,Slow threshold erosion,42,-0.0637,threshold risk
+S007,Urban Flood System,D004,Slow threshold erosion,43,-0.085,threshold risk
+S007,Urban Flood System,D004,Slow threshold erosion,44,-0.1063,threshold risk
+S007,Urban Flood System,D004,Slow threshold erosion,45,-0.1277,threshold risk
+S007,Urban Flood System,D004,Slow threshold erosion,46,-0.149,threshold risk
+S007,Urban Flood System,D004,Slow threshold erosion,47,-0.1703,threshold risk
+S007,Urban Flood System,D004,Slow threshold erosion,48,-0.2077,threshold risk
+S007,Urban Flood System,D004,Slow threshold erosion,49,-0.229,threshold risk
+S007,Urban Flood System,D004,Slow threshold erosion,50,-0.2503,threshold risk
+S007,Urban Flood System,D004,Slow threshold erosion,51,-0.2716,threshold risk
+S007,Urban Flood System,D004,Slow threshold erosion,52,-0.293,threshold risk
+S007,Urban Flood System,D004,Slow threshold erosion,53,-0.3143,threshold risk
+S007,Urban Flood System,D004,Slow threshold erosion,54,-0.3356,threshold risk
+S007,Urban Flood System,D004,Slow threshold erosion,55,-0.3569,threshold risk
+S007,Urban Flood System,D004,Slow threshold erosion,56,-0.3783,threshold risk
+S007,Urban Flood System,D004,Slow threshold erosion,57,-0.3996,threshold risk
+S007,Urban Flood System,D004,Slow threshold erosion,58,-0.4209,threshold risk
+S007,Urban Flood System,D004,Slow threshold erosion,59,-0.4422,threshold risk
+S007,Urban Flood System,D004,Slow threshold erosion,60,-0.4636,threshold risk
+S008,Coral Reef System,D001,Short operational outage,1,0.7732,viable margin
+S008,Coral Reef System,D001,Short operational outage,2,0.7665,viable margin
+S008,Coral Reef System,D001,Short operational outage,3,0.7597,viable margin
+S008,Coral Reef System,D001,Short operational outage,4,0.753,viable margin
+S008,Coral Reef System,D001,Short operational outage,5,0.7462,viable margin
+S008,Coral Reef System,D001,Short operational outage,6,0.7395,viable margin
+S008,Coral Reef System,D001,Short operational outage,7,0.7327,viable margin
+S008,Coral Reef System,D001,Short operational outage,8,0.7259,viable margin
+S008,Coral Reef System,D001,Short operational outage,9,0.7192,viable margin
+S008,Coral Reef System,D001,Short operational outage,10,0.7124,viable margin
+S008,Coral Reef System,D001,Short operational outage,11,0.7057,viable margin
+S008,Coral Reef System,D001,Short operational outage,12,0.6876,viable margin
+S008,Coral Reef System,D001,Short operational outage,13,0.6808,viable margin
+S008,Coral Reef System,D001,Short operational outage,14,0.6741,viable margin
+S008,Coral Reef System,D001,Short operational outage,15,0.6673,viable margin
+S008,Coral Reef System,D001,Short operational outage,16,0.6606,viable margin
+S008,Coral Reef System,D001,Short operational outage,17,0.6538,viable margin
+S008,Coral Reef System,D001,Short operational outage,18,0.6471,viable margin
+S008,Coral Reef System,D001,Short operational outage,19,0.6403,viable margin
+S008,Coral Reef System,D001,Short operational outage,20,0.6335,viable margin
+S008,Coral Reef System,D001,Short operational outage,21,0.6268,viable margin
+S008,Coral Reef System,D001,Short operational outage,22,0.62,viable margin
+S008,Coral Reef System,D001,Short operational outage,23,0.6133,viable margin
+S008,Coral Reef System,D001,Short operational outage,24,0.5952,viable margin
+S008,Coral Reef System,D001,Short operational outage,25,0.5884,viable margin
+S008,Coral Reef System,D001,Short operational outage,26,0.5817,viable margin
+S008,Coral Reef System,D001,Short operational outage,27,0.5749,viable margin
+S008,Coral Reef System,D001,Short operational outage,28,0.5682,viable margin
+S008,Coral Reef System,D001,Short operational outage,29,0.5614,viable margin
+S008,Coral Reef System,D001,Short operational outage,30,0.5547,viable margin
+S008,Coral Reef System,D001,Short operational outage,31,0.5479,viable margin
+S008,Coral Reef System,D001,Short operational outage,32,0.5411,viable margin
+S008,Coral Reef System,D001,Short operational outage,33,0.5344,viable margin
+S008,Coral Reef System,D001,Short operational outage,34,0.5276,viable margin
+S008,Coral Reef System,D001,Short operational outage,35,0.5209,viable margin
+S008,Coral Reef System,D001,Short operational outage,36,0.5028,viable margin
+S008,Coral Reef System,D001,Short operational outage,37,0.496,viable margin
+S008,Coral Reef System,D001,Short operational outage,38,0.4893,viable margin
+S008,Coral Reef System,D001,Short operational outage,39,0.4825,viable margin
+S008,Coral Reef System,D001,Short operational outage,40,0.4758,viable margin
+S008,Coral Reef System,D001,Short operational outage,41,0.469,viable margin
+S008,Coral Reef System,D001,Short operational outage,42,0.4623,viable margin
+S008,Coral Reef System,D001,Short operational outage,43,0.4555,viable margin
+S008,Coral Reef System,D001,Short operational outage,44,0.4487,viable margin
+S008,Coral Reef System,D001,Short operational outage,45,0.442,viable margin
+S008,Coral Reef System,D001,Short operational outage,46,0.4352,viable margin
+S008,Coral Reef System,D001,Short operational outage,47,0.4285,viable margin
+S008,Coral Reef System,D001,Short operational outage,48,0.4104,viable margin
+S008,Coral Reef System,D001,Short operational outage,49,0.4036,viable margin
+S008,Coral Reef System,D001,Short operational outage,50,0.3969,viable margin
+S008,Coral Reef System,D001,Short operational outage,51,0.3901,viable margin
+S008,Coral Reef System,D001,Short operational outage,52,0.3834,viable margin
+S008,Coral Reef System,D001,Short operational outage,53,0.3766,viable margin
+S008,Coral Reef System,D001,Short operational outage,54,0.3698,viable margin
+S008,Coral Reef System,D001,Short operational outage,55,0.3631,viable margin
+S008,Coral Reef System,D001,Short operational outage,56,0.3563,viable margin
+S008,Coral Reef System,D001,Short operational outage,57,0.3496,viable margin
+S008,Coral Reef System,D001,Short operational outage,58,0.3428,viable margin
+S008,Coral Reef System,D001,Short operational outage,59,0.3361,viable margin
+S008,Coral Reef System,D001,Short operational outage,60,0.3293,viable margin
+S008,Coral Reef System,D002,Repeated climate stress,1,0.7442,viable margin
+S008,Coral Reef System,D002,Repeated climate stress,2,0.7084,viable margin
+S008,Coral Reef System,D002,Repeated climate stress,3,0.6726,viable margin
+S008,Coral Reef System,D002,Repeated climate stress,4,0.6368,viable margin
+S008,Coral Reef System,D002,Repeated climate stress,5,0.601,viable margin
+S008,Coral Reef System,D002,Repeated climate stress,6,0.5651,viable margin
+S008,Coral Reef System,D002,Repeated climate stress,7,0.5293,viable margin
+S008,Coral Reef System,D002,Repeated climate stress,8,0.4935,viable margin
+S008,Coral Reef System,D002,Repeated climate stress,9,0.4577,viable margin
+S008,Coral Reef System,D002,Repeated climate stress,10,0.4219,viable margin
+S008,Coral Reef System,D002,Repeated climate stress,11,0.3861,viable margin
+S008,Coral Reef System,D002,Repeated climate stress,12,0.3269,viable margin
+S008,Coral Reef System,D002,Repeated climate stress,13,0.2911,viable margin
+S008,Coral Reef System,D002,Repeated climate stress,14,0.2553,viable margin
+S008,Coral Reef System,D002,Repeated climate stress,15,0.2195,viable margin
+S008,Coral Reef System,D002,Repeated climate stress,16,0.1837,threshold risk
+S008,Coral Reef System,D002,Repeated climate stress,17,0.1479,threshold risk
+S008,Coral Reef System,D002,Repeated climate stress,18,0.1121,threshold risk
+S008,Coral Reef System,D002,Repeated climate stress,19,0.0763,threshold risk
+S008,Coral Reef System,D002,Repeated climate stress,20,0.0405,threshold risk
+S008,Coral Reef System,D002,Repeated climate stress,21,0.0046,threshold risk
+S008,Coral Reef System,D002,Repeated climate stress,22,-0.0312,threshold risk
+S008,Coral Reef System,D002,Repeated climate stress,23,-0.067,threshold risk
+S008,Coral Reef System,D002,Repeated climate stress,24,-0.1262,threshold risk
+S008,Coral Reef System,D002,Repeated climate stress,25,-0.162,threshold risk
+S008,Coral Reef System,D002,Repeated climate stress,26,-0.1978,threshold risk
+S008,Coral Reef System,D002,Repeated climate stress,27,-0.2336,threshold risk
+S008,Coral Reef System,D002,Repeated climate stress,28,-0.2694,threshold risk
+S008,Coral Reef System,D002,Repeated climate stress,29,-0.3052,threshold risk
+S008,Coral Reef System,D002,Repeated climate stress,30,-0.341,threshold risk
+S008,Coral Reef System,D002,Repeated climate stress,31,-0.3768,threshold risk
+S008,Coral Reef System,D002,Repeated climate stress,32,-0.4126,threshold risk
+S008,Coral Reef System,D002,Repeated climate stress,33,-0.4484,threshold risk
+S008,Coral Reef System,D002,Repeated climate stress,34,-0.4842,threshold risk
+S008,Coral Reef System,D002,Repeated climate stress,35,-0.5201,threshold risk
+S008,Coral Reef System,D002,Repeated climate stress,36,-0.5792,threshold risk
+S008,Coral Reef System,D002,Repeated climate stress,37,-0.615,threshold risk
+S008,Coral Reef System,D002,Repeated climate stress,38,-0.6508,threshold risk
+S008,Coral Reef System,D002,Repeated climate stress,39,-0.6867,threshold risk
+S008,Coral Reef System,D002,Repeated climate stress,40,-0.7225,threshold risk
+S008,Coral Reef System,D002,Repeated climate stress,41,-0.7583,threshold risk
+S008,Coral Reef System,D002,Repeated climate stress,42,-0.7941,threshold risk
+S008,Coral Reef System,D002,Repeated climate stress,43,-0.8299,threshold risk
+S008,Coral Reef System,D002,Repeated climate stress,44,-0.8657,threshold risk
+S008,Coral Reef System,D002,Repeated climate stress,45,-0.9015,threshold risk
+S008,Coral Reef System,D002,Repeated climate stress,46,-0.9373,threshold risk
+S008,Coral Reef System,D002,Repeated climate stress,47,-0.9731,threshold risk
+S008,Coral Reef System,D002,Repeated climate stress,48,-1.0,threshold risk
+S008,Coral Reef System,D002,Repeated climate stress,49,-1.0,threshold risk
+S008,Coral Reef System,D002,Repeated climate stress,50,-1.0,threshold risk
+S008,Coral Reef System,D002,Repeated climate stress,51,-1.0,threshold risk
+S008,Coral Reef System,D002,Repeated climate stress,52,-1.0,threshold risk
+S008,Coral Reef System,D002,Repeated climate stress,53,-1.0,threshold risk
+S008,Coral Reef System,D002,Repeated climate stress,54,-1.0,threshold risk
+S008,Coral Reef System,D002,Repeated climate stress,55,-1.0,threshold risk
+S008,Coral Reef System,D002,Repeated climate stress,56,-1.0,threshold risk
+S008,Coral Reef System,D002,Repeated climate stress,57,-1.0,threshold risk
+S008,Coral Reef System,D002,Repeated climate stress,58,-1.0,threshold risk
+S008,Coral Reef System,D002,Repeated climate stress,59,-1.0,threshold risk
+S008,Coral Reef System,D002,Repeated climate stress,60,-1.0,threshold risk
+S008,Coral Reef System,D003,Compound infrastructure-ecosystem shock,1,0.7335,viable margin
+S008,Coral Reef System,D003,Compound infrastructure-ecosystem shock,2,0.6869,viable margin
+S008,Coral Reef System,D003,Compound infrastructure-ecosystem shock,3,0.6404,viable margin
+S008,Coral Reef System,D003,Compound infrastructure-ecosystem shock,4,0.5938,viable margin
+S008,Coral Reef System,D003,Compound infrastructure-ecosystem shock,5,0.5473,viable margin
+S008,Coral Reef System,D003,Compound infrastructure-ecosystem shock,6,0.5007,viable margin
+S008,Coral Reef System,D003,Compound infrastructure-ecosystem shock,7,0.4542,viable margin
+S008,Coral Reef System,D003,Compound infrastructure-ecosystem shock,8,0.4076,viable margin
+S008,Coral Reef System,D003,Compound infrastructure-ecosystem shock,9,0.3611,viable margin
+S008,Coral Reef System,D003,Compound infrastructure-ecosystem shock,10,0.3145,viable margin
+S008,Coral Reef System,D003,Compound infrastructure-ecosystem shock,11,0.268,viable margin
+S008,Coral Reef System,D003,Compound infrastructure-ecosystem shock,12,0.1936,threshold risk
+S008,Coral Reef System,D003,Compound infrastructure-ecosystem shock,13,0.147,threshold risk
+S008,Coral Reef System,D003,Compound infrastructure-ecosystem shock,14,0.1005,threshold risk
+S008,Coral Reef System,D003,Compound infrastructure-ecosystem shock,15,0.0539,threshold risk
+S008,Coral Reef System,D003,Compound infrastructure-ecosystem shock,16,0.0074,threshold risk
+S008,Coral Reef System,D003,Compound infrastructure-ecosystem shock,17,-0.0392,threshold risk
+S008,Coral Reef System,D003,Compound infrastructure-ecosystem shock,18,-0.0857,threshold risk
+S008,Coral Reef System,D003,Compound infrastructure-ecosystem shock,19,-0.1323,threshold risk
+S008,Coral Reef System,D003,Compound infrastructure-ecosystem shock,20,-0.1788,threshold risk
+S008,Coral Reef System,D003,Compound infrastructure-ecosystem shock,21,-0.2253,threshold risk
+S008,Coral Reef System,D003,Compound infrastructure-ecosystem shock,22,-0.2719,threshold risk
+S008,Coral Reef System,D003,Compound infrastructure-ecosystem shock,23,-0.3184,threshold risk
+S008,Coral Reef System,D003,Compound infrastructure-ecosystem shock,24,-0.3929,threshold risk
+S008,Coral Reef System,D003,Compound infrastructure-ecosystem shock,25,-0.4394,threshold risk
+S008,Coral Reef System,D003,Compound infrastructure-ecosystem shock,26,-0.486,threshold risk
+S008,Coral Reef System,D003,Compound infrastructure-ecosystem shock,27,-0.5325,threshold risk
+S008,Coral Reef System,D003,Compound infrastructure-ecosystem shock,28,-0.5791,threshold risk
+S008,Coral Reef System,D003,Compound infrastructure-ecosystem shock,29,-0.6256,threshold risk
+S008,Coral Reef System,D003,Compound infrastructure-ecosystem shock,30,-0.6721,threshold risk
+S008,Coral Reef System,D003,Compound infrastructure-ecosystem shock,31,-0.7187,threshold risk
+S008,Coral Reef System,D003,Compound infrastructure-ecosystem shock,32,-0.7652,threshold risk
+S008,Coral Reef System,D003,Compound infrastructure-ecosystem shock,33,-0.8118,threshold risk
+S008,Coral Reef System,D003,Compound infrastructure-ecosystem shock,34,-0.8583,threshold risk
+S008,Coral Reef System,D003,Compound infrastructure-ecosystem shock,35,-0.9049,threshold risk
+S008,Coral Reef System,D003,Compound infrastructure-ecosystem shock,36,-0.9793,threshold risk
+S008,Coral Reef System,D003,Compound infrastructure-ecosystem shock,37,-1.0,threshold risk
+S008,Coral Reef System,D003,Compound infrastructure-ecosystem shock,38,-1.0,threshold risk
+S008,Coral Reef System,D003,Compound infrastructure-ecosystem shock,39,-1.0,threshold risk
+S008,Coral Reef System,D003,Compound infrastructure-ecosystem shock,40,-1.0,threshold risk
+S008,Coral Reef System,D003,Compound infrastructure-ecosystem shock,41,-1.0,threshold risk
+S008,Coral Reef System,D003,Compound infrastructure-ecosystem shock,42,-1.0,threshold risk
+S008,Coral Reef System,D003,Compound infrastructure-ecosystem shock,43,-1.0,threshold risk
+S008,Coral Reef System,D003,Compound infrastructure-ecosystem shock,44,-1.0,threshold risk
+S008,Coral Reef System,D003,Compound infrastructure-ecosystem shock,45,-1.0,threshold risk
+S008,Coral Reef System,D003,Compound infrastructure-ecosystem shock,46,-1.0,threshold risk
+S008,Coral Reef System,D003,Compound infrastructure-ecosystem shock,47,-1.0,threshold risk
+S008,Coral Reef System,D003,Compound infrastructure-ecosystem shock,48,-1.0,threshold risk
+S008,Coral Reef System,D003,Compound infrastructure-ecosystem shock,49,-1.0,threshold risk
+S008,Coral Reef System,D003,Compound infrastructure-ecosystem shock,50,-1.0,threshold risk
+S008,Coral Reef System,D003,Compound infrastructure-ecosystem shock,51,-1.0,threshold risk
+S008,Coral Reef System,D003,Compound infrastructure-ecosystem shock,52,-1.0,threshold risk
+S008,Coral Reef System,D003,Compound infrastructure-ecosystem shock,53,-1.0,threshold risk
+S008,Coral Reef System,D003,Compound infrastructure-ecosystem shock,54,-1.0,threshold risk
+S008,Coral Reef System,D003,Compound infrastructure-ecosystem shock,55,-1.0,threshold risk
+S008,Coral Reef System,D003,Compound infrastructure-ecosystem shock,56,-1.0,threshold risk
+S008,Coral Reef System,D003,Compound infrastructure-ecosystem shock,57,-1.0,threshold risk
+S008,Coral Reef System,D003,Compound infrastructure-ecosystem shock,58,-1.0,threshold risk
+S008,Coral Reef System,D003,Compound infrastructure-ecosystem shock,59,-1.0,threshold risk
+S008,Coral Reef System,D003,Compound infrastructure-ecosystem shock,60,-1.0,threshold risk
+S008,Coral Reef System,D004,Slow threshold erosion,1,0.7508,viable margin
+S008,Coral Reef System,D004,Slow threshold erosion,2,0.7215,viable margin
+S008,Coral Reef System,D004,Slow threshold erosion,3,0.6923,viable margin
+S008,Coral Reef System,D004,Slow threshold erosion,4,0.663,viable margin
+S008,Coral Reef System,D004,Slow threshold erosion,5,0.6338,viable margin
+S008,Coral Reef System,D004,Slow threshold erosion,6,0.6046,viable margin
+S008,Coral Reef System,D004,Slow threshold erosion,7,0.5753,viable margin
+S008,Coral Reef System,D004,Slow threshold erosion,8,0.5461,viable margin
+S008,Coral Reef System,D004,Slow threshold erosion,9,0.5169,viable margin
+S008,Coral Reef System,D004,Slow threshold erosion,10,0.4876,viable margin
+S008,Coral Reef System,D004,Slow threshold erosion,11,0.4584,viable margin
+S008,Coral Reef System,D004,Slow threshold erosion,12,0.4126,viable margin
+S008,Coral Reef System,D004,Slow threshold erosion,13,0.3833,viable margin
+S008,Coral Reef System,D004,Slow threshold erosion,14,0.3541,viable margin
+S008,Coral Reef System,D004,Slow threshold erosion,15,0.3248,viable margin
+S008,Coral Reef System,D004,Slow threshold erosion,16,0.2956,viable margin
+S008,Coral Reef System,D004,Slow threshold erosion,17,0.2664,viable margin
+S008,Coral Reef System,D004,Slow threshold erosion,18,0.2371,viable margin
+S008,Coral Reef System,D004,Slow threshold erosion,19,0.2079,viable margin
+S008,Coral Reef System,D004,Slow threshold erosion,20,0.1786,threshold risk
+S008,Coral Reef System,D004,Slow threshold erosion,21,0.1494,threshold risk
+S008,Coral Reef System,D004,Slow threshold erosion,22,0.1202,threshold risk
+S008,Coral Reef System,D004,Slow threshold erosion,23,0.0909,threshold risk
+S008,Coral Reef System,D004,Slow threshold erosion,24,0.0451,threshold risk
+S008,Coral Reef System,D004,Slow threshold erosion,25,0.0159,threshold risk
+S008,Coral Reef System,D004,Slow threshold erosion,26,-0.0134,threshold risk
+S008,Coral Reef System,D004,Slow threshold erosion,27,-0.0426,threshold risk
+S008,Coral Reef System,D004,Slow threshold erosion,28,-0.0718,threshold risk
+S008,Coral Reef System,D004,Slow threshold erosion,29,-0.1011,threshold risk
+S008,Coral Reef System,D004,Slow threshold erosion,30,-0.1303,threshold risk
+S008,Coral Reef System,D004,Slow threshold erosion,31,-0.1596,threshold risk
+S008,Coral Reef System,D004,Slow threshold erosion,32,-0.1888,threshold risk
+S008,Coral Reef System,D004,Slow threshold erosion,33,-0.218,threshold risk
+S008,Coral Reef System,D004,Slow threshold erosion,34,-0.2473,threshold risk
+S008,Coral Reef System,D004,Slow threshold erosion,35,-0.2765,threshold risk
+S008,Coral Reef System,D004,Slow threshold erosion,36,-0.3223,threshold risk
+S008,Coral Reef System,D004,Slow threshold erosion,37,-0.3516,threshold risk
+S008,Coral Reef System,D004,Slow threshold erosion,38,-0.3808,threshold risk
+S008,Coral Reef System,D004,Slow threshold erosion,39,-0.4101,threshold risk
+S008,Coral Reef System,D004,Slow threshold erosion,40,-0.4393,threshold risk
+S008,Coral Reef System,D004,Slow threshold erosion,41,-0.4685,threshold risk
+S008,Coral Reef System,D004,Slow threshold erosion,42,-0.4978,threshold risk
+S008,Coral Reef System,D004,Slow threshold erosion,43,-0.527,threshold risk
+S008,Coral Reef System,D004,Slow threshold erosion,44,-0.5562,threshold risk
+S008,Coral Reef System,D004,Slow threshold erosion,45,-0.5855,threshold risk
+S008,Coral Reef System,D004,Slow threshold erosion,46,-0.6147,threshold risk
+S008,Coral Reef System,D004,Slow threshold erosion,47,-0.644,threshold risk
+S008,Coral Reef System,D004,Slow threshold erosion,48,-0.6898,threshold risk
+S008,Coral Reef System,D004,Slow threshold erosion,49,-0.719,threshold risk
+S008,Coral Reef System,D004,Slow threshold erosion,50,-0.7483,threshold risk
+S008,Coral Reef System,D004,Slow threshold erosion,51,-0.7775,threshold risk
+S008,Coral Reef System,D004,Slow threshold erosion,52,-0.8067,threshold risk
+S008,Coral Reef System,D004,Slow threshold erosion,53,-0.836,threshold risk
+S008,Coral Reef System,D004,Slow threshold erosion,54,-0.8652,threshold risk
+S008,Coral Reef System,D004,Slow threshold erosion,55,-0.8945,threshold risk
+S008,Coral Reef System,D004,Slow threshold erosion,56,-0.9237,threshold risk
+S008,Coral Reef System,D004,Slow threshold erosion,57,-0.9529,threshold risk
+S008,Coral Reef System,D004,Slow threshold erosion,58,-0.9822,threshold risk
+S008,Coral Reef System,D004,Slow threshold erosion,59,-1.0,threshold risk
+S008,Coral Reef System,D004,Slow threshold erosion,60,-1.0,threshold risk

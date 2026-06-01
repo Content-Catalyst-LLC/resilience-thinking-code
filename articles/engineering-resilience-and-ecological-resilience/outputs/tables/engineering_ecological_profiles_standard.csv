@@ -1,0 +1,9 @@
+system_id,system_type,critical_function,engineering_resilience,ecological_resilience,resilience_gap,interpretation
+S001,Hardened Infrastructure,service continuity,0.8284,0.3644,-0.464,strong engineering return but weaker threshold persistence
+S002,Fire-Adapted Forest,ecological renewal,0.383,0.6532,0.2702,stronger ecological adaptive capacity than operational return
+S003,Wetland System,flood absorption and nutrient cycling,0.4356,0.672,0.2364,stronger ecological adaptive capacity than operational return
+S004,Centralized Supply Chain,critical goods flow,0.6534,0.2315,-0.4219,strong engineering return but weaker threshold persistence
+S005,Distributed Energy Network,electric service continuity,0.7179,0.5754,-0.1425,more balanced engineering/ecological resilience profile
+S006,Community Health System,care access and public trust,0.5977,0.5488,-0.0489,more balanced engineering/ecological resilience profile
+S007,Urban Flood System,flood risk reduction,0.7114,0.435,-0.2764,strong engineering return but weaker threshold persistence
+S008,Coral Reef System,habitat and biodiversity function,0.274,0.3808,0.1068,more balanced engineering/ecological resilience profile

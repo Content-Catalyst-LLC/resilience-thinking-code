@@ -1,0 +1,9 @@
+system_id,system_type,minimum_margin,average_margin,threshold_risk_steps
+S001,Hardened Infrastructure,-1.0,0.0984,119
+S002,Fire-Adapted Forest,-0.016,0.9035,12
+S003,Wetland System,0.0679,0.949,8
+S004,Centralized Supply Chain,-1.0,-0.2665,171
+S005,Distributed Energy Network,-0.4631,0.6438,39
+S006,Community Health System,-0.7477,0.528,65
+S007,Urban Flood System,-1.0,0.1946,109
+S008,Coral Reef System,-1.0,-0.0921,135

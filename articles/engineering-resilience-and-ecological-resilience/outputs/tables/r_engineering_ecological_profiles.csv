@@ -1,0 +1,9 @@
+system_id,system_type,return_speed,reliability,repair_capacity,backup_capacity,service_continuity,threshold_distance,basin_width,adaptive_capacity,functional_diversity,redundancy,modularity,disturbance_exposure,regime_shift_sensitivity,critical_function,engineering_resilience,ecological_resilience,resilience_gap,interpretation
+S001,Hardened Infrastructure,0.88,0.84,0.78,0.74,0.86,0.48,0.5,0.44,0.38,0.64,0.55,0.62,0.58,service continuity,0.8284,0.3644,-0.464,Strong engineering return but weaker threshold persistence
+S002,Fire-Adapted Forest,0.38,0.44,0.35,0.3,0.42,0.76,0.82,0.8,0.84,0.76,0.68,0.58,0.46,ecological renewal,0.383,0.6532,0.2702,Stronger ecological adaptive capacity than operational return
+S003,Wetland System,0.42,0.5,0.4,0.36,0.48,0.82,0.86,0.78,0.86,0.74,0.66,0.54,0.44,flood absorption and nutrient cycling,0.4356,0.6719999999999999,0.23639999999999994,Stronger ecological adaptive capacity than operational return
+S004,Centralized Supply Chain,0.72,0.7,0.66,0.42,0.68,0.39,0.42,0.36,0.32,0.35,0.38,0.76,0.72,critical goods flow,0.6534,0.23149999999999998,-0.4219,Strong engineering return but weaker threshold persistence
+S005,Distributed Energy Network,0.66,0.74,0.7,0.78,0.75,0.68,0.72,0.72,0.7,0.72,0.76,0.66,0.52,electric service continuity,0.7179,0.5754,-0.14249999999999996,More balanced engineering/ecological profile
+S006,Community Health System,0.58,0.62,0.6,0.55,0.64,0.64,0.68,0.75,0.78,0.68,0.62,0.7,0.6,care access and public trust,0.5977,0.5488,-0.048900000000000055,More balanced engineering/ecological profile
+S007,Urban Flood System,0.76,0.72,0.71,0.62,0.7,0.52,0.58,0.6,0.56,0.66,0.64,0.78,0.66,flood risk reduction,0.7113999999999999,0.435,-0.2763999999999999,Strong engineering return but weaker threshold persistence
+S008,Coral Reef System,0.28,0.35,0.22,0.18,0.3,0.45,0.5,0.56,0.74,0.58,0.48,0.82,0.86,habitat and biodiversity function,0.27399999999999997,0.3808,0.10680000000000006,More balanced engineering/ecological profile
