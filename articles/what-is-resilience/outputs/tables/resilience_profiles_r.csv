@@ -1,0 +1,7 @@
+system_id,system_type,adaptive_capacity,threshold_distance,learning_capacity,modularity,redundancy,exposure,sensitivity,critical_function,resilience_profile,risk_pressure,viability_margin,vulnerability_flag
+S001,Ecological System,0.82,0.74,0.71,0.62,0.69,0.54,0.47,habitat continuity,0.6055,0.5085000000000001,0.8369999999999999,lower threshold risk
+S002,Urban Infrastructure,0.58,0.55,0.52,0.7,0.66,0.72,0.63,service continuity,0.4657,0.6795,0.33620000000000005,lower threshold risk
+S003,Institutional System,0.63,0.6,0.72,0.48,0.43,0.5,0.58,legitimate coordination,0.47419999999999995,0.536,0.5381999999999998,lower threshold risk
+S004,Supply Chain Network,0.49,0.44,0.46,0.51,0.38,0.77,0.71,critical goods flow,0.3390000000000001,0.7430000000000001,0.03600000000000003,high threshold risk
+S005,Community System,0.76,0.68,0.79,0.57,0.61,0.61,0.56,mutual aid capacity,0.5673,0.5875000000000001,0.6597999999999999,lower threshold risk
+S006,Public Health System,0.67,0.57,0.64,0.54,0.59,0.69,0.65,care access,0.48120000000000007,0.672,0.3792000000000001,lower threshold risk

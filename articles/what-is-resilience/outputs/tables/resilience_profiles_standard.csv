@@ -1,0 +1,7 @@
+system_id,system_type,critical_function,resilience_profile,risk_pressure,initial_viability_margin,risk_flag
+S001,Ecological System,habitat continuity,0.6055,0.5085,0.837,lower threshold risk
+S002,Urban Infrastructure,service continuity,0.4657,0.6795,0.3362,lower threshold risk
+S003,Institutional System,legitimate coordination,0.4742,0.536,0.5382,lower threshold risk
+S004,Supply Chain Network,critical goods flow,0.339,0.743,0.036,high threshold risk
+S005,Community System,mutual aid capacity,0.5673,0.5875,0.6598,lower threshold risk
+S006,Public Health System,care access,0.4812,0.672,0.3792,lower threshold risk

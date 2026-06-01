@@ -1,0 +1,2 @@
+network_viability=0.6000
+diagnostic=dependency concentration requires resilience review

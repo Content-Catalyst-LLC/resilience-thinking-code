@@ -1,0 +1,43 @@
+system_type,dimension,value
+Ecological System,adaptive_capacity,0.82
+Ecological System,threshold_distance,0.74
+Ecological System,learning_capacity,0.71
+Ecological System,modularity,0.62
+Ecological System,redundancy,0.69
+Ecological System,exposure,0.54
+Ecological System,sensitivity,0.47
+Urban Infrastructure,adaptive_capacity,0.58
+Urban Infrastructure,threshold_distance,0.55
+Urban Infrastructure,learning_capacity,0.52
+Urban Infrastructure,modularity,0.7
+Urban Infrastructure,redundancy,0.66
+Urban Infrastructure,exposure,0.72
+Urban Infrastructure,sensitivity,0.63
+Institutional System,adaptive_capacity,0.63
+Institutional System,threshold_distance,0.6
+Institutional System,learning_capacity,0.72
+Institutional System,modularity,0.48
+Institutional System,redundancy,0.43
+Institutional System,exposure,0.5
+Institutional System,sensitivity,0.58
+Supply Chain Network,adaptive_capacity,0.49
+Supply Chain Network,threshold_distance,0.44
+Supply Chain Network,learning_capacity,0.46
+Supply Chain Network,modularity,0.51
+Supply Chain Network,redundancy,0.38
+Supply Chain Network,exposure,0.77
+Supply Chain Network,sensitivity,0.71
+Community System,adaptive_capacity,0.76
+Community System,threshold_distance,0.68
+Community System,learning_capacity,0.79
+Community System,modularity,0.57
+Community System,redundancy,0.61
+Community System,exposure,0.61
+Community System,sensitivity,0.56
+Public Health System,adaptive_capacity,0.67
+Public Health System,threshold_distance,0.57
+Public Health System,learning_capacity,0.64
+Public Health System,modularity,0.54
+Public Health System,redundancy,0.59
+Public Health System,exposure,0.69
+Public Health System,sensitivity,0.65

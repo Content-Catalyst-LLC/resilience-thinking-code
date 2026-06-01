@@ -1,0 +1,5 @@
+scenario_id,scenario_name,baseline_disturbance,shock_intensity,shock_frequency,description
+D001,Recurring moderate disturbance,0.08,0.16,8,Frequent manageable disturbances that test learning capacity.
+D002,Compound climate-infrastructure shock,0.10,0.32,12,Large overlapping stress on infrastructure, health, and household stability.
+D003,Slow-burn institutional erosion,0.05,0.12,6,Low visible disturbance with gradual capacity decline.
+D004,Supply-chain cascade,0.09,0.28,10,Network disruption amplified by dependency concentration.

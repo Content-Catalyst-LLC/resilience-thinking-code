@@ -1,0 +1,7 @@
+system_id,system_type,adaptive_capacity,threshold_distance,learning_capacity,modularity,redundancy,exposure,sensitivity,critical_function
+S001,Ecological System,0.82,0.74,0.71,0.62,0.69,0.54,0.47,habitat continuity
+S002,Urban Infrastructure,0.58,0.55,0.52,0.70,0.66,0.72,0.63,service continuity
+S003,Institutional System,0.63,0.60,0.72,0.48,0.43,0.50,0.58,legitimate coordination
+S004,Supply Chain Network,0.49,0.44,0.46,0.51,0.38,0.77,0.71,critical goods flow
+S005,Community System,0.76,0.68,0.79,0.57,0.61,0.61,0.56,mutual aid capacity
+S006,Public Health System,0.67,0.57,0.64,0.54,0.59,0.69,0.65,care access

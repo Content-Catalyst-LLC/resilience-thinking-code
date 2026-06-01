@@ -1,0 +1,7 @@
+system_id,system_type,minimum_viability,average_viability,minimum_margin,threshold_risk_steps
+S001,Ecological System,0.0,0.2067,0.2315,37
+S002,Urban Infrastructure,0.0,0.1034,-0.1295,53
+S003,Institutional System,0.0,0.1367,0.064,49
+S004,Supply Chain Network,0.0,0.0796,-0.303,56
+S005,Community System,0.0,0.1457,0.0925,49
+S006,Public Health System,0.0,0.1046,-0.102,52
