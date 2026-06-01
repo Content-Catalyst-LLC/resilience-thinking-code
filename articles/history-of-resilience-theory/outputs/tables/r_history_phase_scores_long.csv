@@ -1,0 +1,41 @@
+phase_id,period,start_year,domain,core_contribution,influence_score,dimension,value
+P001,Pre-1970s Equilibrium Thinking,1950,ecology and systems analysis,Stable-state and return-to-equilibrium assumptions dominate much ecological and systems thinking.,0.165,conceptual_scope,0.2
+P001,Pre-1970s Equilibrium Thinking,1950,ecology and systems analysis,Stable-state and return-to-equilibrium assumptions dominate much ecological and systems thinking.,0.165,governance_relevance,0.1
+P001,Pre-1970s Equilibrium Thinking,1950,ecology and systems analysis,Stable-state and return-to-equilibrium assumptions dominate much ecological and systems thinking.,0.165,system_complexity,0.25
+P001,Pre-1970s Equilibrium Thinking,1950,ecology and systems analysis,Stable-state and return-to-equilibrium assumptions dominate much ecological and systems thinking.,0.165,justice_relevance,0.05
+P002,Holling 1973,1973,ecology,Resilience is distinguished from stability and linked to disturbance absorption before regime shift.,0.2845,conceptual_scope,0.35
+P002,Holling 1973,1973,ecology,Resilience is distinguished from stability and linked to disturbance absorption before regime shift.,0.2845,governance_relevance,0.18
+P002,Holling 1973,1973,ecology,Resilience is distinguished from stability and linked to disturbance absorption before regime shift.,0.2845,system_complexity,0.42
+P002,Holling 1973,1973,ecology,Resilience is distinguished from stability and linked to disturbance absorption before regime shift.,0.2845,justice_relevance,0.08
+P003,Nonlinear Systems and Thresholds,1985,ecology and complex systems,Alternative stable states slow variables thresholds and nonlinear change become central.,0.396,conceptual_scope,0.48
+P003,Nonlinear Systems and Thresholds,1985,ecology and complex systems,Alternative stable states slow variables thresholds and nonlinear change become central.,0.396,governance_relevance,0.24
+P003,Nonlinear Systems and Thresholds,1985,ecology and complex systems,Alternative stable states slow variables thresholds and nonlinear change become central.,0.396,system_complexity,0.6
+P003,Nonlinear Systems and Thresholds,1985,ecology and complex systems,Alternative stable states slow variables thresholds and nonlinear change become central.,0.396,justice_relevance,0.12
+P004,Adaptive Management,1990,resource governance,Management is framed as structured learning under uncertainty.,0.5,conceptual_scope,0.55
+P004,Adaptive Management,1990,resource governance,Management is framed as structured learning under uncertainty.,0.5,governance_relevance,0.45
+P004,Adaptive Management,1990,resource governance,Management is framed as structured learning under uncertainty.,0.5,system_complexity,0.66
+P004,Adaptive Management,1990,resource governance,Management is framed as structured learning under uncertainty.,0.5,justice_relevance,0.2
+P005,Adaptive Cycle and Panarchy,2002,cross-scale systems,Growth conservation release and reorganization are theorized across nested scales.,0.605,conceptual_scope,0.68
+P005,Adaptive Cycle and Panarchy,2002,cross-scale systems,Growth conservation release and reorganization are theorized across nested scales.,0.605,governance_relevance,0.52
+P005,Adaptive Cycle and Panarchy,2002,cross-scale systems,Growth conservation release and reorganization are theorized across nested scales.,0.605,system_complexity,0.78
+P005,Adaptive Cycle and Panarchy,2002,cross-scale systems,Growth conservation release and reorganization are theorized across nested scales.,0.605,justice_relevance,0.28
+P006,Social-Ecological Systems,2004,linked human-natural systems,Resilience expands into governance livelihoods institutions knowledge and transformability.,0.726,conceptual_scope,0.78
+P006,Social-Ecological Systems,2004,linked human-natural systems,Resilience expands into governance livelihoods institutions knowledge and transformability.,0.726,governance_relevance,0.7
+P006,Social-Ecological Systems,2004,linked human-natural systems,Resilience expands into governance livelihoods institutions knowledge and transformability.,0.726,system_complexity,0.86
+P006,Social-Ecological Systems,2004,linked human-natural systems,Resilience expands into governance livelihoods institutions knowledge and transformability.,0.726,justice_relevance,0.42
+P007,Sustainability Science,2008,sustainability and planetary change,Resilience becomes central to ecological limits stewardship and transformation pathways.,0.84,conceptual_scope,0.88
+P007,Sustainability Science,2008,sustainability and planetary change,Resilience becomes central to ecological limits stewardship and transformation pathways.,0.84,governance_relevance,0.86
+P007,Sustainability Science,2008,sustainability and planetary change,Resilience becomes central to ecological limits stewardship and transformation pathways.,0.84,system_complexity,0.92
+P007,Sustainability Science,2008,sustainability and planetary change,Resilience becomes central to ecological limits stewardship and transformation pathways.,0.84,justice_relevance,0.58
+P008,Disaster Risk Reduction,2010,policy and hazard governance,Resilience enters policy language around hazards vulnerability preparedness and recovery.,0.881,conceptual_scope,0.91
+P008,Disaster Risk Reduction,2010,policy and hazard governance,Resilience enters policy language around hazards vulnerability preparedness and recovery.,0.881,governance_relevance,0.9
+P008,Disaster Risk Reduction,2010,policy and hazard governance,Resilience enters policy language around hazards vulnerability preparedness and recovery.,0.881,system_complexity,0.93
+P008,Disaster Risk Reduction,2010,policy and hazard governance,Resilience enters policy language around hazards vulnerability preparedness and recovery.,0.881,justice_relevance,0.7
+P009,Climate-Resilient Development,2014,climate adaptation,Resilience is integrated with climate adaptation vulnerability development and long-horizon risk.,0.9214999999999999,conceptual_scope,0.94
+P009,Climate-Resilient Development,2014,climate adaptation,Resilience is integrated with climate adaptation vulnerability development and long-horizon risk.,0.9214999999999999,governance_relevance,0.94
+P009,Climate-Resilient Development,2014,climate adaptation,Resilience is integrated with climate adaptation vulnerability development and long-horizon risk.,0.9214999999999999,system_complexity,0.95
+P009,Climate-Resilient Development,2014,climate adaptation,Resilience is integrated with climate adaptation vulnerability development and long-horizon risk.,0.9214999999999999,justice_relevance,0.8
+P010,Critical Resilience and Justice,2015,critical policy and justice,Scholars critique burden shifting and connect resilience to power justice and accountability.,0.957,conceptual_scope,0.96
+P010,Critical Resilience and Justice,2015,critical policy and justice,Scholars critique burden shifting and connect resilience to power justice and accountability.,0.957,governance_relevance,0.96
+P010,Critical Resilience and Justice,2015,critical policy and justice,Scholars critique burden shifting and connect resilience to power justice and accountability.,0.957,system_complexity,0.96
+P010,Critical Resilience and Justice,2015,critical policy and justice,Scholars critique burden shifting and connect resilience to power justice and accountability.,0.957,justice_relevance,0.94

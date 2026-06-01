@@ -1,0 +1,12 @@
+concept_id,concept,associated_phase,description
+C001,Stability,Pre-1970s Equilibrium Thinking,Return toward equilibrium after perturbation.
+C002,Ecological Resilience,Holling 1973,Capacity to absorb disturbance before shifting into a different regime.
+C003,Alternative Stable States,Nonlinear Systems and Thresholds,Multiple persistent configurations governed by feedbacks and thresholds.
+C004,Slow Variables,Nonlinear Systems and Thresholds,Gradually changing variables that shape long-term system behavior.
+C005,Adaptive Management,Adaptive Management,Structured learning approach to management under uncertainty.
+C006,Adaptive Cycle,Adaptive Cycle and Panarchy,Growth conservation release and reorganization pattern.
+C007,Panarchy,Adaptive Cycle and Panarchy,Nested adaptive cycles interacting across scales.
+C008,Social-Ecological Systems,Social-Ecological Systems,Linked human and natural systems shaped by institutions knowledge and ecology.
+C009,Transformability,Social-Ecological Systems,Capacity to create a fundamentally new system when the old regime is untenable.
+C010,Climate-Resilient Development,Climate-Resilient Development,Development pathways that combine adaptation mitigation sustainability and equity.
+C011,Critical Resilience,Critical Resilience and Justice,Analysis of power responsibility vulnerability and burden shifting in resilience language.

@@ -1,0 +1,11 @@
+phase_id,period,start_year,domain,conceptual_scope,governance_relevance,system_complexity,justice_relevance,core_contribution,influence_score
+P001,Pre-1970s Equilibrium Thinking,1950,ecology and systems analysis,0.20,0.10,0.25,0.05,Stable-state and return-to-equilibrium assumptions dominate much ecological and systems thinking.,0.165
+P002,Holling 1973,1973,ecology,0.35,0.18,0.42,0.08,Resilience is distinguished from stability and linked to disturbance absorption before regime shift.,0.2845
+P003,Nonlinear Systems and Thresholds,1985,ecology and complex systems,0.48,0.24,0.60,0.12,Alternative stable states slow variables thresholds and nonlinear change become central.,0.396
+P004,Adaptive Management,1990,resource governance,0.55,0.45,0.66,0.20,Management is framed as structured learning under uncertainty.,0.5
+P005,Adaptive Cycle and Panarchy,2002,cross-scale systems,0.68,0.52,0.78,0.28,Growth conservation release and reorganization are theorized across nested scales.,0.605
+P006,Social-Ecological Systems,2004,linked human-natural systems,0.78,0.70,0.86,0.42,Resilience expands into governance livelihoods institutions knowledge and transformability.,0.726
+P007,Sustainability Science,2008,sustainability and planetary change,0.88,0.86,0.92,0.58,Resilience becomes central to ecological limits stewardship and transformation pathways.,0.84
+P008,Disaster Risk Reduction,2010,policy and hazard governance,0.91,0.90,0.93,0.70,Resilience enters policy language around hazards vulnerability preparedness and recovery.,0.881
+P009,Climate-Resilient Development,2014,climate adaptation,0.94,0.94,0.95,0.80,Resilience is integrated with climate adaptation vulnerability development and long-horizon risk.,0.9215
+P010,Critical Resilience and Justice,2015,critical policy and justice,0.96,0.96,0.96,0.94,Scholars critique burden shifting and connect resilience to power justice and accountability.,0.957
