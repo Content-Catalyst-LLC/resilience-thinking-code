@@ -1,0 +1,15 @@
+feature,coefficient
+threshold_distance,-1.233207
+equilibrium_return,-1.034303
+compound_disturbance_index,0.767996
+dependency_concentration,0.65043
+stress_tolerance,-0.582224
+sensitivity,0.553376
+exposure,0.552731
+shock_intensity,0.425874
+adaptive_capacity,-0.411888
+shock_frequency,0.407113
+modularity,-0.386988
+redundancy,-0.349688
+learning_capacity,-0.348753
+__bias__,1.86308

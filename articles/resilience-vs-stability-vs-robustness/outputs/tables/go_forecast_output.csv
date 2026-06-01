@@ -1,0 +1,4 @@
+scenario,predicted_failure_probability
+adaptive_resilient,0.0494
+stable_but_brittle,0.3071
+robust_but_inflexible,0.2378

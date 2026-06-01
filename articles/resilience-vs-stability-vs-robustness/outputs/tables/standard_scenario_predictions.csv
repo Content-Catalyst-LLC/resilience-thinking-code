@@ -1,0 +1,4 @@
+scenario_name,predicted_failure_probability,prediction_band
+Stable but brittle institution,0.992,high predicted resilience failure risk
+Robust but inflexible infrastructure,0.9782,high predicted resilience failure risk
+Adaptive resilient system,0.2223,lower predicted resilience failure risk

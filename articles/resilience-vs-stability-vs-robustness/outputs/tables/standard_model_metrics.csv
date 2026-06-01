@@ -1,0 +1,10 @@
+metric,value
+accuracy,0.8836
+precision,0.9028
+recall,0.9431
+f1,0.9225
+brier_score,0.0786
+true_positive,381
+true_negative,105
+false_positive,41
+false_negative,23
