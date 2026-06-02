@@ -1,0 +1,4 @@
+landscape_type,landscape_resilience_profile,disturbance_risk_index,diagnostic
+Fire-Prone Forest Mosaic,0.4260,0.5850,mixed landscape-resilience profile
+Urban Watershed,0.3140,0.7040,high disturbance-regime risk
+River-Floodplain Landscape,0.5350,0.5280,mixed landscape-resilience profile

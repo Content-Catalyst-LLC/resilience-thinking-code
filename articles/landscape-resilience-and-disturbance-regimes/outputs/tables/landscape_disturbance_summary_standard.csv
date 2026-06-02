@@ -1,0 +1,5 @@
+scenario_id,scenario_name,minimum_mean_condition,maximum_mean_disturbance,minimum_mean_resilience_margin,threshold_risk_patch_steps
+DR001,Moderate historical disturbance,0.0,1.4,-0.1934,1684
+DR002,Climate-amplified disturbance,0.0,1.4,-0.2214,1728
+DR003,Compound spatial risk,0.0,1.4,-0.2414,1741
+DR004,Slow fragmentation pressure,0.0,1.4,-0.2334,1726

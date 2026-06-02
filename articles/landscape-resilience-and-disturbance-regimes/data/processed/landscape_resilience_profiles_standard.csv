@@ -1,0 +1,9 @@
+landscape_id,landscape_type,dominant_disturbance,critical_function,landscape_resilience_profile,disturbance_risk_index,diagnostic
+L001,Fire-Prone Forest Mosaic,fire,forest regeneration habitat continuity and watershed protection,0.3397,0.5598,mixed landscape-resilience profile requiring monitoring
+L002,River-Floodplain Landscape,flood,water storage sediment movement habitat renewal and flood buffering,0.4258,0.4828,mixed landscape-resilience profile requiring monitoring
+L003,Agricultural Mosaic,drought,soil retention pollination food production and water regulation,0.2739,0.5662,refugia or ecological-memory concern
+L004,Urban Watershed,heat-flood,stormwater regulation cooling public health and green access,0.1932,0.6672,refugia or ecological-memory concern
+L005,Coastal Wetland Complex,storm-surge,coastal protection carbon storage fisheries and wetland habitat,0.3854,0.5276,mixed landscape-resilience profile requiring monitoring
+L006,Dryland Rangeland,drought-grazing,forage soil cover pastoral livelihoods and erosion control,0.31,0.5724,mixed landscape-resilience profile requiring monitoring
+L007,Mountain Headwater Landscape,fire-flood,snowmelt regulation cold-water habitat and downstream water supply,0.4275,0.4576,mixed landscape-resilience profile requiring monitoring
+L008,Suburban Wildland Interface,fire-heat,fire risk buffering habitat connectivity and community safety,0.2036,0.67,refugia or ecological-memory concern

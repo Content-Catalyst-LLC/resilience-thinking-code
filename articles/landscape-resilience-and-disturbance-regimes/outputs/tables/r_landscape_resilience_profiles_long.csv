@@ -1,0 +1,81 @@
+landscape_type,dimension,value
+Fire-Prone Forest Mosaic,spatial_heterogeneity,0.68
+Fire-Prone Forest Mosaic,viable_connectivity,0.6
+Fire-Prone Forest Mosaic,refugia_capacity,0.57
+Fire-Prone Forest Mosaic,ecological_memory,0.62
+Fire-Prone Forest Mosaic,disturbance_pressure,0.78
+Fire-Prone Forest Mosaic,fragmentation,0.52
+Fire-Prone Forest Mosaic,governance_capacity,0.58
+Fire-Prone Forest Mosaic,social_vulnerability,0.54
+Fire-Prone Forest Mosaic,landscape_resilience_profile,0.3397
+Fire-Prone Forest Mosaic,disturbance_risk_index,0.5598000000000001
+River-Floodplain Landscape,spatial_heterogeneity,0.72
+River-Floodplain Landscape,viable_connectivity,0.76
+River-Floodplain Landscape,refugia_capacity,0.66
+River-Floodplain Landscape,ecological_memory,0.7
+River-Floodplain Landscape,disturbance_pressure,0.66
+River-Floodplain Landscape,fragmentation,0.4
+River-Floodplain Landscape,governance_capacity,0.64
+River-Floodplain Landscape,social_vulnerability,0.58
+River-Floodplain Landscape,landscape_resilience_profile,0.4258
+River-Floodplain Landscape,disturbance_risk_index,0.48280000000000006
+Agricultural Mosaic,spatial_heterogeneity,0.55
+Agricultural Mosaic,viable_connectivity,0.52
+Agricultural Mosaic,refugia_capacity,0.46
+Agricultural Mosaic,ecological_memory,0.5
+Agricultural Mosaic,disturbance_pressure,0.62
+Agricultural Mosaic,fragmentation,0.66
+Agricultural Mosaic,governance_capacity,0.55
+Agricultural Mosaic,social_vulnerability,0.5
+Agricultural Mosaic,landscape_resilience_profile,0.27390000000000003
+Agricultural Mosaic,disturbance_risk_index,0.5662
+Urban Watershed,spatial_heterogeneity,0.48
+Urban Watershed,viable_connectivity,0.44
+Urban Watershed,refugia_capacity,0.4
+Urban Watershed,ecological_memory,0.42
+Urban Watershed,disturbance_pressure,0.74
+Urban Watershed,fragmentation,0.72
+Urban Watershed,governance_capacity,0.52
+Urban Watershed,social_vulnerability,0.7
+Urban Watershed,landscape_resilience_profile,0.19319999999999998
+Urban Watershed,disturbance_risk_index,0.6672000000000001
+Coastal Wetland Complex,spatial_heterogeneity,0.7
+Coastal Wetland Complex,viable_connectivity,0.68
+Coastal Wetland Complex,refugia_capacity,0.64
+Coastal Wetland Complex,ecological_memory,0.68
+Coastal Wetland Complex,disturbance_pressure,0.72
+Coastal Wetland Complex,fragmentation,0.46
+Coastal Wetland Complex,governance_capacity,0.6
+Coastal Wetland Complex,social_vulnerability,0.62
+Coastal Wetland Complex,landscape_resilience_profile,0.38539999999999996
+Coastal Wetland Complex,disturbance_risk_index,0.5276
+Dryland Rangeland,spatial_heterogeneity,0.62
+Dryland Rangeland,viable_connectivity,0.58
+Dryland Rangeland,refugia_capacity,0.54
+Dryland Rangeland,ecological_memory,0.56
+Dryland Rangeland,disturbance_pressure,0.7
+Dryland Rangeland,fragmentation,0.58
+Dryland Rangeland,governance_capacity,0.56
+Dryland Rangeland,social_vulnerability,0.6
+Dryland Rangeland,landscape_resilience_profile,0.31000000000000005
+Dryland Rangeland,disturbance_risk_index,0.5724
+Mountain Headwater Landscape,spatial_heterogeneity,0.76
+Mountain Headwater Landscape,viable_connectivity,0.63
+Mountain Headwater Landscape,refugia_capacity,0.7
+Mountain Headwater Landscape,ecological_memory,0.72
+Mountain Headwater Landscape,disturbance_pressure,0.64
+Mountain Headwater Landscape,fragmentation,0.42
+Mountain Headwater Landscape,governance_capacity,0.62
+Mountain Headwater Landscape,social_vulnerability,0.48
+Mountain Headwater Landscape,landscape_resilience_profile,0.42750000000000005
+Mountain Headwater Landscape,disturbance_risk_index,0.4576000000000001
+Suburban Wildland Interface,spatial_heterogeneity,0.5
+Suburban Wildland Interface,viable_connectivity,0.48
+Suburban Wildland Interface,refugia_capacity,0.42
+Suburban Wildland Interface,ecological_memory,0.44
+Suburban Wildland Interface,disturbance_pressure,0.8
+Suburban Wildland Interface,fragmentation,0.7
+Suburban Wildland Interface,governance_capacity,0.5
+Suburban Wildland Interface,social_vulnerability,0.66
+Suburban Wildland Interface,landscape_resilience_profile,0.20360000000000003
+Suburban Wildland Interface,disturbance_risk_index,0.6700000000000002

@@ -1,0 +1,5 @@
+scenario_id,scenario_name,disturbance_load,spread_amplifier,climate_pressure,governance_response,description
+DR001,Moderate historical disturbance,0.24,0.32,0.28,0.62,Disturbance remains closer to historical range with moderate climate pressure and stronger response.
+DR002,Climate-amplified disturbance,0.42,0.46,0.58,0.48,Climate stress increases intensity frequency and compound disturbance pressure.
+DR003,Compound spatial risk,0.58,0.60,0.68,0.38,Fire flood drought pests infrastructure and social vulnerability interact across space.
+DR004,Slow fragmentation pressure,0.36,0.42,0.48,0.42,Fragmentation and edge effects reduce recovery pathways and ecological memory over time.

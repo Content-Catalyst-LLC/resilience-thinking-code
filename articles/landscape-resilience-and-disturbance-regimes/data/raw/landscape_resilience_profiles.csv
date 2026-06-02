@@ -1,0 +1,9 @@
+landscape_id,landscape_type,spatial_heterogeneity,viable_connectivity,refugia_capacity,ecological_memory,disturbance_pressure,fragmentation,governance_capacity,social_vulnerability,dominant_disturbance,critical_function
+L001,Fire-Prone Forest Mosaic,0.68,0.60,0.57,0.62,0.78,0.52,0.58,0.54,fire,forest regeneration habitat continuity and watershed protection
+L002,River-Floodplain Landscape,0.72,0.76,0.66,0.70,0.66,0.40,0.64,0.58,flood,water storage sediment movement habitat renewal and flood buffering
+L003,Agricultural Mosaic,0.55,0.52,0.46,0.50,0.62,0.66,0.55,0.50,drought,soil retention pollination food production and water regulation
+L004,Urban Watershed,0.48,0.44,0.40,0.42,0.74,0.72,0.52,0.70,heat-flood,stormwater regulation cooling public health and green access
+L005,Coastal Wetland Complex,0.70,0.68,0.64,0.68,0.72,0.46,0.60,0.62,storm-surge,coastal protection carbon storage fisheries and wetland habitat
+L006,Dryland Rangeland,0.62,0.58,0.54,0.56,0.70,0.58,0.56,0.60,drought-grazing,forage soil cover pastoral livelihoods and erosion control
+L007,Mountain Headwater Landscape,0.76,0.63,0.70,0.72,0.64,0.42,0.62,0.48,fire-flood,snowmelt regulation cold-water habitat and downstream water supply
+L008,Suburban Wildland Interface,0.50,0.48,0.42,0.44,0.80,0.70,0.50,0.66,fire-heat,fire risk buffering habitat connectivity and community safety
