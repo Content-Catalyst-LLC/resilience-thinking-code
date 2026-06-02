@@ -1,0 +1,9 @@
+strategy_id,strategy,mean_adjusted_value,median_adjusted_value,probability_ranked_first,probability_top_two,probability_bottom_two
+ERS006,Watershed Restoration with Indigenous Co-Governance,7.79516,7.80304,46.07,69.63,0.03
+ERS005,Public Housing Climate Retrofit Program,7.65286,7.65927,22.87,46.6,0.0
+ERS007,Equity-Weighted Recovery Fund,7.56016,7.5655,12.97,33.57,0.03
+ERS008,Data Rights and Anti-Surveillance Resilience Program,7.47279,7.47627,8.3,21.63,0.0
+ERS003,Community-Led Heat Resilience Network,7.45211,7.45817,6.87,18.47,0.03
+ERS002,Managed Retreat with Social Protection,7.34671,7.35373,2.93,10.1,0.03
+ERS001,Targeted Flood Defense Upgrade,6.03123,6.02672,0.0,0.0,99.87
+ERS004,Critical Infrastructure Hardening Only,5.10082,5.10252,0.0,0.0,100.0

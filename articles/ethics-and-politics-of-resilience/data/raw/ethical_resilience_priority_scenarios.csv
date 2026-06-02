@@ -1,0 +1,9 @@
+scenario,protection_effectiveness_weight,equity_weight,governance_legitimacy_weight,recognition_weight,accountability_weight,burden_shift_weight,implementation_burden_weight,description
+Balanced,0.24,0.22,0.18,0.14,0.14,0.05,0.03,Balanced ethical resilience scoring across protection equity governance recognition accountability burden shift and implementation burden.
+Protection-first,0.46,0.16,0.12,0.10,0.10,0.04,0.02,Prioritizes protective effectiveness while still penalizing burden shifting.
+Equity-first,0.16,0.42,0.14,0.12,0.10,0.04,0.02,Prioritizes fair distribution of risk resources and recovery.
+Participation-first,0.16,0.16,0.34,0.16,0.12,0.04,0.02,Prioritizes governance legitimacy participation and decision authority.
+Recognition-first,0.16,0.18,0.16,0.34,0.10,0.04,0.02,Prioritizes recognition of histories identities local knowledge cultural continuity and rights.
+Accountability-first,0.16,0.16,0.18,0.12,0.34,0.03,0.01,Prioritizes responsibility assignment corrective action public reporting and answerability.
+Burden-sensitive,0.20,0.18,0.15,0.12,0.12,0.20,0.03,Strongly penalizes strategies that shift cost risk labor or displacement onto vulnerable groups.
+Implementation-aware,0.22,0.20,0.16,0.13,0.13,0.04,0.12,Penalizes high implementation burden where institutional capacity funding or participation resources are limited.

@@ -1,0 +1,9 @@
+strategy_id,strategy,protection_effectiveness,equity,governance_legitimacy,recognition,accountability,burden_shift,implementation_burden,critical_function
+ERS001,Targeted Flood Defense Upgrade,8.7,6.8,6.9,6.5,6.8,4.8,3.5,protects high-risk infrastructure but may privilege asset value over vulnerability
+ERS002,Managed Retreat with Social Protection,8.1,8.8,8.3,8.1,8.4,3.2,3.9,reduces exposure while pairing relocation with housing income legal and community protections
+ERS003,Community-Led Heat Resilience Network,7.9,8.5,8.9,8.7,8.3,3.4,3.1,builds local cooling care networks trusted messengers and neighborhood-scale response capacity
+ERS004,Critical Infrastructure Hardening Only,8.5,5.9,5.7,5.5,5.8,5.6,3.2,protects technical assets while leaving distribution participation and recognition concerns unresolved
+ERS005,Public Housing Climate Retrofit Program,8.4,9.0,8.6,8.3,8.8,2.8,3.8,reduces heat flood and energy burdens for low income residents through public investment and tenant protection
+ERS006,Watershed Restoration with Indigenous Co-Governance,8.2,8.7,9.1,9.4,8.9,2.7,4.0,restores ecological buffers while recognizing Indigenous governance knowledge land relationships and rights
+ERS007,Equity-Weighted Recovery Fund,8.0,9.2,8.4,8.2,8.9,2.9,3.6,directs recovery finance by vulnerability need and prior disinvestment rather than property value alone
+ERS008,Data Rights and Anti-Surveillance Resilience Program,7.6,8.4,8.7,8.8,9.0,2.6,3.4,protects public safety monitoring from surveillance creep through data rights consent minimization and oversight
