@@ -1,0 +1,8 @@
+criterion,definition,measurement_note
+modularity,Degree to which the system contains semi-independent units with structured boundaries,Assess whether disturbance can be localized without total isolation
+redundancy,Functional backup capacity for critical functions,Count backup pathways that are maintained usable and meaningfully independent
+dependency_mapping,Clarity about dependencies across nodes systems sectors and communities,Map physical digital financial ecological institutional and social dependencies
+isolation_capacity,Ability to separate a failing component without disabling the whole,Review islanding service isolation fallback procedures firebreaks and quarantine capacity
+coordination_readiness,Ability to coordinate across modules during stress,Assess protocols standards mutual aid authority information sharing and escalation rules
+justice_protection,Extent to which containment protects vulnerable groups rather than isolating or abandoning them,Use disaggregated exposure backup access repair priority and community participation
+common_mode_risk,Exposure of multiple modules or backups to the same underlying failure source,Map shared suppliers platforms fuels regions authorities assumptions and infrastructure

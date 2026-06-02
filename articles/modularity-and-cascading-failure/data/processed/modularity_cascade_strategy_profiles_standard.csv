@@ -1,0 +1,7 @@
+strategy_id,strategy,system_domain,critical_function,base_containment_value,modularity,redundancy,dependency_mapping,isolation_capacity,coordination_readiness,justice_protection,common_mode_risk,diagnostic
+CS001,Microgrid and Critical Service Islanding,infrastructure,contain power failure and preserve essential services,7.224,8.7,8.4,7.6,8.8,7.6,7.3,3.5,strong containment profile with manageable common-mode risk
+CS002,Regional Supply Network Diversification,supply chains,reduce supplier bottlenecks and logistics cascades,6.776,7.8,8.2,7.9,7.4,7.2,7.6,3.8,coordination readiness constraint
+CS003,Wetland and Floodplain Buffer Network,social-ecological systems,contain flood disturbance and support ecological buffering,6.882,8.2,7.7,7.4,7.9,7.5,7.9,3.4,promising but requires stress testing and dependency validation
+CS004,Cross-Agency Emergency Coordination Cells,governance,coordinate across modular institutions and prevent authority cascades,6.942,7.6,7.8,8.3,7.5,8.7,7.5,4.0,common-mode failure review needed
+CS005,Digital Service Isolation and Offline Fallbacks,digital systems,contain digital outage and preserve access under platform failure,7.29,8.8,8.1,8.4,8.6,7.9,7.0,3.6,strong containment profile with manageable common-mode risk
+CS006,Neighborhood Resilience Hub Network,community resilience,support local continuity trusted communication and equitable emergency access,7.01,8.1,7.9,7.5,7.8,8.0,8.6,3.7,promising but requires stress testing and dependency validation

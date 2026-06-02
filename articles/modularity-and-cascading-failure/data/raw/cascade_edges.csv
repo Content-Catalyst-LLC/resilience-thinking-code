@@ -1,0 +1,19 @@
+edge_id,source,target,coupling_strength,dependency_type,description
+E001,Power,Water,0.75,physical,power supports pumping treatment controls and distribution
+E002,Power,Communications,0.72,physical,power supports networks towers data centers and devices
+E003,Power,Hospitals,0.70,physical,power supports care delivery oxygen refrigeration and medical devices
+E004,Power,Food Distribution,0.62,physical,power supports refrigeration warehouses retail systems and logistics
+E005,Power,Digital Identity,0.58,digital,power supports identity infrastructure and access systems
+E006,Fuel Supply,Power,0.56,physical,fuel supports backup generation and repair logistics
+E007,Fuel Supply,Transportation,0.64,physical,fuel supports vehicle movement logistics emergency response and repair crews
+E008,Communications,Emergency Governance,0.66,information,communications support situational awareness and coordination
+E009,Communications,Hospitals,0.50,information,communications support clinical coordination and emergency routing
+E010,Digital Identity,Emergency Governance,0.52,digital,digital identity supports access to services records and administrative systems
+E011,Digital Identity,Hospitals,0.46,digital,digital access supports records care coordination and medication systems
+E012,Transportation,Food Distribution,0.64,logistics,transport supports food delivery and regional distribution
+E013,Transportation,Hospitals,0.55,logistics,transport supports patient movement staffing and supply delivery
+E014,Water,Hospitals,0.58,physical,water supports sanitation clinical operations and infection control
+E015,Food Distribution,Neighborhood Support,0.60,social,food distribution affects household security and local aid demand
+E016,Emergency Governance,Neighborhood Support,0.57,institutional,governance supports local coordination mutual aid and resource allocation
+E017,Hospitals,Neighborhood Support,0.52,public health,hospital stress affects community care burden and household vulnerability
+E018,Water,Neighborhood Support,0.48,public health,water disruption affects sanitation health and local support needs

@@ -1,0 +1,20 @@
+title: "Modularity and Cascading Failure"
+slug: "modularity-and-cascading-failure"
+article_url: "https://sustainablecatalyst.com/modularity-and-cascading-failure/"
+github_url: "https://github.com/Content-Catalyst-LLC/resilience-thinking-code/tree/main/articles/modularity-and-cascading-failure"
+series: "Resilience Thinking"
+series_url: "https://sustainablecatalyst.com/resilience-thinking/"
+description: "Companion modularity-and-cascade modeling scaffold for dependency-network mapping, cascade propagation simulation, modular containment scoring, common-mode failure diagnostics, justice-weighted impact, and Monte Carlo uncertainty analysis."
+keywords:
+  - modularity
+  - cascading failure
+  - cascade risk
+  - network resilience
+  - dependency mapping
+  - common-mode failure
+  - isolation capacity
+  - resilient infrastructure
+  - systems thinking
+  - adaptive governance
+  - Monte Carlo uncertainty
+  - justice-weighted impact

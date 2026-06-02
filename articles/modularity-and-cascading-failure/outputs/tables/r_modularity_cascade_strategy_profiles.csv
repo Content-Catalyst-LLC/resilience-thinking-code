@@ -1,0 +1,7 @@
+strategy_id,strategy,system_domain,modularity,redundancy,dependency_mapping,isolation_capacity,coordination_readiness,justice_protection,common_mode_risk,critical_function,base_containment_value
+CS001,Microgrid and Critical Service Islanding,infrastructure,8.7,8.4,7.6,8.8,7.6,7.3,3.5,contain power failure and preserve essential services,7.224000000000001
+CS002,Regional Supply Network Diversification,supply chains,7.8,8.2,7.9,7.4,7.2,7.6,3.8,reduce supplier bottlenecks and logistics cascades,6.775999999999999
+CS003,Wetland and Floodplain Buffer Network,social-ecological systems,8.2,7.7,7.4,7.9,7.5,7.9,3.4,contain flood disturbance and support ecological buffering,6.882
+CS004,Cross-Agency Emergency Coordination Cells,governance,7.6,7.8,8.3,7.5,8.7,7.5,4,coordinate across modular institutions and prevent authority cascades,6.941999999999999
+CS005,Digital Service Isolation and Offline Fallbacks,digital systems,8.8,8.1,8.4,8.6,7.9,7,3.6,contain digital outage and preserve access under platform failure,7.29
+CS006,Neighborhood Resilience Hub Network,community resilience,8.1,7.9,7.5,7.8,8,8.6,3.7,support local continuity trusted communication and equitable emergency access,7.01

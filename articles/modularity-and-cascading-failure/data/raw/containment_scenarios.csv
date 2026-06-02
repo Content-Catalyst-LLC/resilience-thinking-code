@@ -1,0 +1,7 @@
+scenario,modularity_weight,redundancy_weight,dependency_mapping_weight,isolation_capacity_weight,coordination_readiness_weight,justice_protection_weight,common_mode_risk_weight,description
+Balanced,0.18,0.16,0.16,0.18,0.14,0.10,0.08,Balanced containment scoring across modularity redundancy dependency mapping isolation coordination justice and common-mode risk.
+Modularity-first,0.36,0.12,0.14,0.16,0.10,0.06,0.06,Prioritizes modular structure and bounded interdependence.
+Isolation-first,0.16,0.12,0.14,0.36,0.10,0.06,0.06,Prioritizes the ability to isolate failing subsystems without total breakdown.
+Coordination-first,0.14,0.12,0.16,0.14,0.34,0.06,0.04,Prioritizes cross-module coordination and institutional readiness.
+Justice-first,0.13,0.12,0.14,0.13,0.10,0.34,0.04,Prioritizes protection for vulnerable groups and equitable containment.
+Common-mode-sensitive,0.14,0.12,0.15,0.14,0.10,0.06,0.29,Prioritizes penalties for shared failure modes and false redundancy.

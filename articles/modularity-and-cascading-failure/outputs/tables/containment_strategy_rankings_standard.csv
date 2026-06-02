@@ -1,0 +1,37 @@
+scenario,strategy_id,strategy,system_domain,rank,containment_value,common_mode_risk,critical_function
+Balanced,CS005,Digital Service Isolation and Offline Fallbacks,digital systems,1,7.29,3.6,contain digital outage and preserve access under platform failure
+Balanced,CS001,Microgrid and Critical Service Islanding,infrastructure,2,7.224,3.5,contain power failure and preserve essential services
+Balanced,CS006,Neighborhood Resilience Hub Network,community resilience,3,7.01,3.7,support local continuity trusted communication and equitable emergency access
+Balanced,CS004,Cross-Agency Emergency Coordination Cells,governance,4,6.942,4.0,coordinate across modular institutions and prevent authority cascades
+Balanced,CS003,Wetland and Floodplain Buffer Network,social-ecological systems,5,6.882,3.4,contain flood disturbance and support ecological buffering
+Balanced,CS002,Regional Supply Network Diversification,supply chains,6,6.776,3.8,reduce supplier bottlenecks and logistics cascades
+Modularity-first,CS005,Digital Service Isolation and Offline Fallbacks,digital systems,1,7.686,3.6,contain digital outage and preserve access under platform failure
+Modularity-first,CS001,Microgrid and Critical Service Islanding,infrastructure,2,7.6,3.5,contain power failure and preserve essential services
+Modularity-first,CS006,Neighborhood Resilience Hub Network,community resilience,3,7.256,3.7,support local continuity trusted communication and equitable emergency access
+Modularity-first,CS003,Wetland and Floodplain Buffer Network,social-ecological systems,4,7.196,3.4,contain flood disturbance and support ecological buffering
+Modularity-first,CS004,Cross-Agency Emergency Coordination Cells,governance,5,7.114,4.0,coordinate across modular institutions and prevent authority cascades
+Modularity-first,CS002,Regional Supply Network Diversification,supply chains,6,7.03,3.8,reduce supplier bottlenecks and logistics cascades
+Isolation-first,CS005,Digital Service Isolation and Offline Fallbacks,digital systems,1,7.646,3.6,contain digital outage and preserve access under platform failure
+Isolation-first,CS001,Microgrid and Critical Service Islanding,infrastructure,2,7.62,3.5,contain power failure and preserve essential services
+Isolation-first,CS006,Neighborhood Resilience Hub Network,community resilience,3,7.196,3.7,support local continuity trusted communication and equitable emergency access
+Isolation-first,CS003,Wetland and Floodplain Buffer Network,social-ecological systems,4,7.136,3.4,contain flood disturbance and support ecological buffering
+Isolation-first,CS004,Cross-Agency Emergency Coordination Cells,governance,5,7.094,4.0,coordinate across modular institutions and prevent authority cascades
+Isolation-first,CS002,Regional Supply Network Diversification,supply chains,6,6.95,3.8,reduce supplier bottlenecks and logistics cascades
+Coordination-first,CS005,Digital Service Isolation and Offline Fallbacks,digital systems,1,7.714,3.6,contain digital outage and preserve access under platform failure
+Coordination-first,CS004,Cross-Agency Emergency Coordination Cells,governance,2,7.626,4.0,coordinate across modular institutions and prevent authority cascades
+Coordination-first,CS001,Microgrid and Critical Service Islanding,infrastructure,3,7.556,3.5,contain power failure and preserve essential services
+Coordination-first,CS006,Neighborhood Resilience Hub Network,community resilience,4,7.462,3.7,support local continuity trusted communication and equitable emergency access
+Coordination-first,CS003,Wetland and Floodplain Buffer Network,social-ecological systems,5,7.25,3.4,contain flood disturbance and support ecological buffering
+Coordination-first,CS002,Regional Supply Network Diversification,supply chains,6,7.128,3.8,reduce supplier bottlenecks and logistics cascades
+Justice-first,CS006,Neighborhood Resilience Hub Network,community resilience,1,7.641,3.7,support local continuity trusted communication and equitable emergency access
+Justice-first,CS001,Microgrid and Critical Service Islanding,infrastructure,2,7.449,3.5,contain power failure and preserve essential services
+Justice-first,CS005,Digital Service Isolation and Offline Fallbacks,digital systems,3,7.436,3.6,contain digital outage and preserve access under platform failure
+Justice-first,CS003,Wetland and Floodplain Buffer Network,social-ecological systems,4,7.353,3.4,contain flood disturbance and support ecological buffering
+Justice-first,CS004,Cross-Agency Emergency Coordination Cells,governance,5,7.321,4.0,coordinate across modular institutions and prevent authority cascades
+Justice-first,CS002,Regional Supply Network Diversification,supply chains,6,7.218,3.8,reduce supplier bottlenecks and logistics cascades
+Common-mode-sensitive,CS005,Digital Service Isolation and Offline Fallbacks,digital systems,1,4.834,3.6,contain digital outage and preserve access under platform failure
+Common-mode-sensitive,CS001,Microgrid and Critical Service Islanding,infrastructure,2,4.781,3.5,contain power failure and preserve essential services
+Common-mode-sensitive,CS006,Neighborhood Resilience Hub Network,community resilience,3,4.542,3.7,support local continuity trusted communication and equitable emergency access
+Common-mode-sensitive,CS003,Wetland and Floodplain Buffer Network,social-ecological systems,4,4.526,3.4,contain flood disturbance and support ecological buffering
+Common-mode-sensitive,CS004,Cross-Agency Emergency Coordination Cells,governance,5,4.455,4.0,coordinate across modular institutions and prevent authority cascades
+Common-mode-sensitive,CS002,Regional Supply Network Diversification,supply chains,6,4.371,3.8,reduce supplier bottlenecks and logistics cascades

@@ -1,0 +1,11 @@
+node_id,node,system_domain,redundancy,isolation_capacity,common_mode_exposure,justice_sensitivity,critical_function
+N001,Power,infrastructure,0.62,0.55,0.42,0.60,electricity for water communications hospitals refrigeration transport signals and emergency operations
+N002,Water,infrastructure,0.58,0.48,0.46,0.68,safe drinking water sanitation firefighting health and ecological support
+N003,Communications,digital infrastructure,0.55,0.52,0.40,0.54,public alerts emergency coordination data exchange and service access
+N004,Hospitals,public health,0.60,0.50,0.44,0.74,acute care emergency care oxygen medication and surge response
+N005,Transportation,infrastructure,0.52,0.46,0.48,0.58,worker movement emergency response goods delivery repair access and evacuation
+N006,Food Distribution,food systems,0.50,0.44,0.50,0.70,food availability storage distribution household access and critical supply continuity
+N007,Emergency Governance,governance,0.57,0.49,0.38,0.62,public coordination authority resource allocation communication and mutual aid
+N008,Neighborhood Support,community resilience,0.64,0.58,0.36,0.76,local aid trusted communication care networks and immediate support
+N009,Digital Identity,digital infrastructure,0.48,0.42,0.56,0.52,authentication payment access service coordination and administrative continuity
+N010,Fuel Supply,energy systems,0.50,0.40,0.54,0.57,generator operation emergency vehicles logistics heating and backup systems

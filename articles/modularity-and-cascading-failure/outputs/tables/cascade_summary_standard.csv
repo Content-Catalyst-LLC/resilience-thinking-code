@@ -1,0 +1,11 @@
+initial_failure,system_domain,critical_function,mean_final_failures,median_final_failures,probability_large_cascade,mean_justice_weighted_impact,max_justice_weighted_impact
+Power,infrastructure,electricity for water communications hospitals refrigeration transport signals and emergency operations,7.3805,8.0,96.15,4.75979,5.16
+Fuel Supply,energy systems,generator operation emergency vehicles logistics heating and backup systems,6.258,9.0,61.2,3.93413,6.31
+Water,infrastructure,safe drinking water sanitation firefighting health and ecological support,1.9145,2.0,0.0,1.36519,2.18
+Communications,digital infrastructure,public alerts emergency coordination data exchange and service access,2.402,2.0,0.0,1.51321,2.66
+Hospitals,public health,acute care emergency care oxygen medication and surge response,1.3075,1.0,0.0,0.9737,1.5
+Transportation,infrastructure,worker movement emergency response goods delivery repair access and evacuation,2.6525,3.0,0.0,1.7841,2.78
+Food Distribution,food systems,food availability storage distribution household access and critical supply continuity,1.3975,1.0,0.0,1.0021,1.46
+Emergency Governance,governance,public coordination authority resource allocation communication and mutual aid,1.379,1.0,0.0,0.90804,1.38
+Neighborhood Support,community resilience,local aid trusted communication care networks and immediate support,1,1.0,0.0,0.76,0.76
+Digital Identity,digital infrastructure,authentication payment access service coordination and administrative continuity,2.1275,2.0,0.0,1.30637,2.64

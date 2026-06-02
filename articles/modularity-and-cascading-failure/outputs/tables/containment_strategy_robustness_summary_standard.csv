@@ -1,0 +1,7 @@
+strategy_id,strategy,mean_containment_value,median_containment_value,probability_ranked_first,probability_top_two,probability_bottom_two
+CS005,Digital Service Isolation and Offline Fallbacks,7.29134,7.29198,47.3,74.57,4.93
+CS001,Microgrid and Critical Service Islanding,7.2209,7.22396,34.5,63.7,7.63
+CS006,Neighborhood Resilience Hub Network,7.00658,7.00383,8.73,25.97,29.6
+CS004,Cross-Agency Emergency Coordination Cells,6.94129,6.94528,4.83,17.17,38.77
+CS003,Wetland and Floodplain Buffer Network,6.88658,6.88208,3.43,12.9,51.1
+CS002,Regional Supply Network Diversification,6.78484,6.78741,1.2,5.7,67.97
