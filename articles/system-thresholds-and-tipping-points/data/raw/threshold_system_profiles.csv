@@ -1,0 +1,9 @@
+system_id,system_name,system_type,pressure,feedback_strength,disturbance_load,adaptive_capacity,system_memory,recovery_speed,exposure,critical_function
+ST001,Shallow Lake Nutrient System,ecological,0.68,0.72,0.46,0.48,0.56,0.42,0.62,clear water aquatic habitat nutrient cycling and recreational function
+ST002,Dryland Vegetation System,ecological,0.70,0.68,0.58,0.46,0.50,0.38,0.66,soil retention vegetation cover infiltration and pastoral livelihoods
+ST003,Urban Stormwater Network,infrastructure,0.74,0.66,0.62,0.44,0.46,0.36,0.78,flood control drainage mobility public health and property protection
+ST004,Public Health Surge System,institutional,0.72,0.64,0.70,0.50,0.52,0.40,0.76,surveillance care access communication and surge response
+ST005,Financial Liquidity Network,economic,0.76,0.78,0.56,0.45,0.42,0.34,0.70,liquidity credit flows confidence and payment continuity
+ST006,Forest Regeneration System,ecological,0.66,0.70,0.60,0.52,0.58,0.44,0.68,forest regeneration soil protection habitat and watershed function
+ST007,Institutional Legitimacy System,institutional,0.62,0.74,0.50,0.46,0.48,0.32,0.58,public trust compliance legitimacy and administrative capacity
+ST008,Regional Food Supply System,social-ecological,0.70,0.62,0.64,0.50,0.54,0.42,0.72,food availability distribution labor and household security

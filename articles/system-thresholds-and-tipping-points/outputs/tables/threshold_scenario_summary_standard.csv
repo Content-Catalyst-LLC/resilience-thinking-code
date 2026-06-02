@@ -1,0 +1,5 @@
+scenario_id,scenario_name,forward_transition_pressure,return_transition_pressure,maximum_state,minimum_state
+TH001,Gradual pressure with moderate recovery,,0.8,1.2322,-1.3204
+TH002,High feedback amplification,,0.9,1.3319,-1.3328
+TH003,Weak adaptive capacity,,0.85,1.3014,-1.3053
+TH004,Precautionary adaptive response,,0.7,-0.4081,-1.3522

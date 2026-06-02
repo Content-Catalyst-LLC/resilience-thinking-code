@@ -1,0 +1,4 @@
+system,threshold_risk,threshold_protection,diagnostic
+Urban Stormwater Network,0.5720,0.3880,high threshold-risk concern
+Institutional Legitimacy System,0.5480,0.4020,low recovery-speed concern
+Shallow Lake Nutrient System,0.5360,0.4300,feedback amplification concern

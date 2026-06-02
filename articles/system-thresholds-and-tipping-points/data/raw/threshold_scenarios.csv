@@ -1,0 +1,5 @@
+scenario_id,scenario_name,pressure_start,pressure_end,steps,noise_level,recovery_coefficient,adaptive_capacity_gain,feedback_growth,description
+TH001,Gradual pressure with moderate recovery,-0.80,0.80,160,0.015,0.62,0.010,0.006,Pressure increases gradually while recovery remains moderate.
+TH002,High feedback amplification,-0.80,0.90,160,0.020,0.52,0.006,0.014,Feedback strength rises and increases threshold-crossing risk.
+TH003,Weak adaptive capacity,-0.70,0.85,160,0.018,0.42,0.002,0.010,Adaptive capacity does not improve enough to offset pressure.
+TH004,Precautionary adaptive response,-0.80,0.70,160,0.012,0.70,0.018,0.004,Adaptive capacity improves early and reduces threshold proximity.

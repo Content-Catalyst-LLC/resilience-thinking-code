@@ -1,0 +1,1281 @@
+scenario_id,scenario_name,step,pressure,state,direction,regime
+TH001,Gradual pressure with moderate recovery,1,-0.8,-0.959711,Increasing Pressure,lower regime
+TH001,Gradual pressure with moderate recovery,2,-0.789937,-1.015188,Increasing Pressure,lower regime
+TH001,Gradual pressure with moderate recovery,3,-0.779874,-1.064449,Increasing Pressure,lower regime
+TH001,Gradual pressure with moderate recovery,4,-0.769811,-1.095973,Increasing Pressure,lower regime
+TH001,Gradual pressure with moderate recovery,5,-0.759748,-1.135811,Increasing Pressure,lower regime
+TH001,Gradual pressure with moderate recovery,6,-0.749686,-1.190641,Increasing Pressure,lower regime
+TH001,Gradual pressure with moderate recovery,7,-0.739623,-1.209681,Increasing Pressure,lower regime
+TH001,Gradual pressure with moderate recovery,8,-0.72956,-1.234242,Increasing Pressure,lower regime
+TH001,Gradual pressure with moderate recovery,9,-0.719497,-1.253517,Increasing Pressure,lower regime
+TH001,Gradual pressure with moderate recovery,10,-0.709434,-1.263978,Increasing Pressure,lower regime
+TH001,Gradual pressure with moderate recovery,11,-0.699371,-1.270332,Increasing Pressure,lower regime
+TH001,Gradual pressure with moderate recovery,12,-0.689308,-1.261064,Increasing Pressure,lower regime
+TH001,Gradual pressure with moderate recovery,13,-0.679245,-1.260568,Increasing Pressure,lower regime
+TH001,Gradual pressure with moderate recovery,14,-0.669182,-1.26785,Increasing Pressure,lower regime
+TH001,Gradual pressure with moderate recovery,15,-0.659119,-1.286052,Increasing Pressure,lower regime
+TH001,Gradual pressure with moderate recovery,16,-0.649057,-1.304536,Increasing Pressure,lower regime
+TH001,Gradual pressure with moderate recovery,17,-0.638994,-1.300059,Increasing Pressure,lower regime
+TH001,Gradual pressure with moderate recovery,18,-0.628931,-1.279978,Increasing Pressure,lower regime
+TH001,Gradual pressure with moderate recovery,19,-0.618868,-1.282243,Increasing Pressure,lower regime
+TH001,Gradual pressure with moderate recovery,20,-0.608805,-1.285803,Increasing Pressure,lower regime
+TH001,Gradual pressure with moderate recovery,21,-0.598742,-1.278621,Increasing Pressure,lower regime
+TH001,Gradual pressure with moderate recovery,22,-0.588679,-1.302056,Increasing Pressure,lower regime
+TH001,Gradual pressure with moderate recovery,23,-0.578616,-1.303423,Increasing Pressure,lower regime
+TH001,Gradual pressure with moderate recovery,24,-0.568553,-1.29198,Increasing Pressure,lower regime
+TH001,Gradual pressure with moderate recovery,25,-0.558491,-1.276493,Increasing Pressure,lower regime
+TH001,Gradual pressure with moderate recovery,26,-0.548428,-1.280115,Increasing Pressure,lower regime
+TH001,Gradual pressure with moderate recovery,27,-0.538365,-1.273306,Increasing Pressure,lower regime
+TH001,Gradual pressure with moderate recovery,28,-0.528302,-1.269175,Increasing Pressure,lower regime
+TH001,Gradual pressure with moderate recovery,29,-0.518239,-1.257283,Increasing Pressure,lower regime
+TH001,Gradual pressure with moderate recovery,30,-0.508176,-1.275454,Increasing Pressure,lower regime
+TH001,Gradual pressure with moderate recovery,31,-0.498113,-1.264619,Increasing Pressure,lower regime
+TH001,Gradual pressure with moderate recovery,32,-0.48805,-1.286493,Increasing Pressure,lower regime
+TH001,Gradual pressure with moderate recovery,33,-0.477987,-1.32042,Increasing Pressure,lower regime
+TH001,Gradual pressure with moderate recovery,34,-0.467925,-1.317037,Increasing Pressure,lower regime
+TH001,Gradual pressure with moderate recovery,35,-0.457862,-1.318463,Increasing Pressure,lower regime
+TH001,Gradual pressure with moderate recovery,36,-0.447799,-1.292224,Increasing Pressure,lower regime
+TH001,Gradual pressure with moderate recovery,37,-0.437736,-1.273789,Increasing Pressure,lower regime
+TH001,Gradual pressure with moderate recovery,38,-0.427673,-1.286548,Increasing Pressure,lower regime
+TH001,Gradual pressure with moderate recovery,39,-0.41761,-1.265436,Increasing Pressure,lower regime
+TH001,Gradual pressure with moderate recovery,40,-0.407547,-1.275453,Increasing Pressure,lower regime
+TH001,Gradual pressure with moderate recovery,41,-0.397484,-1.269404,Increasing Pressure,lower regime
+TH001,Gradual pressure with moderate recovery,42,-0.387421,-1.267073,Increasing Pressure,lower regime
+TH001,Gradual pressure with moderate recovery,43,-0.377358,-1.258536,Increasing Pressure,lower regime
+TH001,Gradual pressure with moderate recovery,44,-0.367296,-1.240463,Increasing Pressure,lower regime
+TH001,Gradual pressure with moderate recovery,45,-0.357233,-1.227738,Increasing Pressure,lower regime
+TH001,Gradual pressure with moderate recovery,46,-0.34717,-1.220982,Increasing Pressure,lower regime
+TH001,Gradual pressure with moderate recovery,47,-0.337107,-1.210335,Increasing Pressure,lower regime
+TH001,Gradual pressure with moderate recovery,48,-0.327044,-1.203478,Increasing Pressure,lower regime
+TH001,Gradual pressure with moderate recovery,49,-0.316981,-1.213787,Increasing Pressure,lower regime
+TH001,Gradual pressure with moderate recovery,50,-0.306918,-1.223309,Increasing Pressure,lower regime
+TH001,Gradual pressure with moderate recovery,51,-0.296855,-1.227066,Increasing Pressure,lower regime
+TH001,Gradual pressure with moderate recovery,52,-0.286792,-1.215161,Increasing Pressure,lower regime
+TH001,Gradual pressure with moderate recovery,53,-0.27673,-1.215942,Increasing Pressure,lower regime
+TH001,Gradual pressure with moderate recovery,54,-0.266667,-1.177307,Increasing Pressure,lower regime
+TH001,Gradual pressure with moderate recovery,55,-0.256604,-1.191474,Increasing Pressure,lower regime
+TH001,Gradual pressure with moderate recovery,56,-0.246541,-1.207201,Increasing Pressure,lower regime
+TH001,Gradual pressure with moderate recovery,57,-0.236478,-1.191965,Increasing Pressure,lower regime
+TH001,Gradual pressure with moderate recovery,58,-0.226415,-1.1688,Increasing Pressure,lower regime
+TH001,Gradual pressure with moderate recovery,59,-0.216352,-1.162326,Increasing Pressure,lower regime
+TH001,Gradual pressure with moderate recovery,60,-0.206289,-1.151327,Increasing Pressure,lower regime
+TH001,Gradual pressure with moderate recovery,61,-0.196226,-1.132516,Increasing Pressure,lower regime
+TH001,Gradual pressure with moderate recovery,62,-0.186164,-1.138558,Increasing Pressure,lower regime
+TH001,Gradual pressure with moderate recovery,63,-0.176101,-1.163224,Increasing Pressure,lower regime
+TH001,Gradual pressure with moderate recovery,64,-0.166038,-1.170603,Increasing Pressure,lower regime
+TH001,Gradual pressure with moderate recovery,65,-0.155975,-1.15414,Increasing Pressure,lower regime
+TH001,Gradual pressure with moderate recovery,66,-0.145912,-1.175471,Increasing Pressure,lower regime
+TH001,Gradual pressure with moderate recovery,67,-0.135849,-1.17108,Increasing Pressure,lower regime
+TH001,Gradual pressure with moderate recovery,68,-0.125786,-1.163533,Increasing Pressure,lower regime
+TH001,Gradual pressure with moderate recovery,69,-0.115723,-1.165105,Increasing Pressure,lower regime
+TH001,Gradual pressure with moderate recovery,70,-0.10566,-1.15036,Increasing Pressure,lower regime
+TH001,Gradual pressure with moderate recovery,71,-0.095597,-1.139334,Increasing Pressure,lower regime
+TH001,Gradual pressure with moderate recovery,72,-0.085535,-1.103203,Increasing Pressure,lower regime
+TH001,Gradual pressure with moderate recovery,73,-0.075472,-1.096736,Increasing Pressure,lower regime
+TH001,Gradual pressure with moderate recovery,74,-0.065409,-1.108992,Increasing Pressure,lower regime
+TH001,Gradual pressure with moderate recovery,75,-0.055346,-1.118531,Increasing Pressure,lower regime
+TH001,Gradual pressure with moderate recovery,76,-0.045283,-1.13041,Increasing Pressure,lower regime
+TH001,Gradual pressure with moderate recovery,77,-0.03522,-1.113488,Increasing Pressure,lower regime
+TH001,Gradual pressure with moderate recovery,78,-0.025157,-1.121029,Increasing Pressure,lower regime
+TH001,Gradual pressure with moderate recovery,79,-0.015094,-1.11966,Increasing Pressure,lower regime
+TH001,Gradual pressure with moderate recovery,80,-0.005031,-1.105669,Increasing Pressure,lower regime
+TH001,Gradual pressure with moderate recovery,81,0.005031,-1.115025,Increasing Pressure,lower regime
+TH001,Gradual pressure with moderate recovery,82,0.015094,-1.116262,Increasing Pressure,lower regime
+TH001,Gradual pressure with moderate recovery,83,0.025157,-1.140054,Increasing Pressure,lower regime
+TH001,Gradual pressure with moderate recovery,84,0.03522,-1.148846,Increasing Pressure,lower regime
+TH001,Gradual pressure with moderate recovery,85,0.045283,-1.148213,Increasing Pressure,lower regime
+TH001,Gradual pressure with moderate recovery,86,0.055346,-1.132413,Increasing Pressure,lower regime
+TH001,Gradual pressure with moderate recovery,87,0.065409,-1.106577,Increasing Pressure,lower regime
+TH001,Gradual pressure with moderate recovery,88,0.075472,-1.101724,Increasing Pressure,lower regime
+TH001,Gradual pressure with moderate recovery,89,0.085535,-1.092767,Increasing Pressure,lower regime
+TH001,Gradual pressure with moderate recovery,90,0.095597,-1.085787,Increasing Pressure,lower regime
+TH001,Gradual pressure with moderate recovery,91,0.10566,-1.065377,Increasing Pressure,lower regime
+TH001,Gradual pressure with moderate recovery,92,0.115723,-1.049651,Increasing Pressure,lower regime
+TH001,Gradual pressure with moderate recovery,93,0.125786,-1.044412,Increasing Pressure,lower regime
+TH001,Gradual pressure with moderate recovery,94,0.135849,-1.058487,Increasing Pressure,lower regime
+TH001,Gradual pressure with moderate recovery,95,0.145912,-1.041853,Increasing Pressure,lower regime
+TH001,Gradual pressure with moderate recovery,96,0.155975,-1.034306,Increasing Pressure,lower regime
+TH001,Gradual pressure with moderate recovery,97,0.166038,-1.014334,Increasing Pressure,lower regime
+TH001,Gradual pressure with moderate recovery,98,0.176101,-1.014656,Increasing Pressure,lower regime
+TH001,Gradual pressure with moderate recovery,99,0.186164,-0.9847,Increasing Pressure,lower regime
+TH001,Gradual pressure with moderate recovery,100,0.196226,-0.991614,Increasing Pressure,lower regime
+TH001,Gradual pressure with moderate recovery,101,0.206289,-0.968148,Increasing Pressure,lower regime
+TH001,Gradual pressure with moderate recovery,102,0.216352,-0.96832,Increasing Pressure,lower regime
+TH001,Gradual pressure with moderate recovery,103,0.226415,-0.977445,Increasing Pressure,lower regime
+TH001,Gradual pressure with moderate recovery,104,0.236478,-0.994502,Increasing Pressure,lower regime
+TH001,Gradual pressure with moderate recovery,105,0.246541,-0.994931,Increasing Pressure,lower regime
+TH001,Gradual pressure with moderate recovery,106,0.256604,-0.971203,Increasing Pressure,lower regime
+TH001,Gradual pressure with moderate recovery,107,0.266667,-0.958093,Increasing Pressure,lower regime
+TH001,Gradual pressure with moderate recovery,108,0.27673,-0.947435,Increasing Pressure,lower regime
+TH001,Gradual pressure with moderate recovery,109,0.286792,-0.983057,Increasing Pressure,lower regime
+TH001,Gradual pressure with moderate recovery,110,0.296855,-0.969032,Increasing Pressure,lower regime
+TH001,Gradual pressure with moderate recovery,111,0.306918,-0.957993,Increasing Pressure,lower regime
+TH001,Gradual pressure with moderate recovery,112,0.316981,-0.963912,Increasing Pressure,lower regime
+TH001,Gradual pressure with moderate recovery,113,0.327044,-0.970026,Increasing Pressure,lower regime
+TH001,Gradual pressure with moderate recovery,114,0.337107,-0.965769,Increasing Pressure,lower regime
+TH001,Gradual pressure with moderate recovery,115,0.34717,-0.935445,Increasing Pressure,lower regime
+TH001,Gradual pressure with moderate recovery,116,0.357233,-0.948608,Increasing Pressure,lower regime
+TH001,Gradual pressure with moderate recovery,117,0.367296,-0.950896,Increasing Pressure,lower regime
+TH001,Gradual pressure with moderate recovery,118,0.377358,-0.925665,Increasing Pressure,lower regime
+TH001,Gradual pressure with moderate recovery,119,0.387421,-0.928868,Increasing Pressure,lower regime
+TH001,Gradual pressure with moderate recovery,120,0.397484,-0.930119,Increasing Pressure,lower regime
+TH001,Gradual pressure with moderate recovery,121,0.407547,-0.923848,Increasing Pressure,lower regime
+TH001,Gradual pressure with moderate recovery,122,0.41761,-0.937593,Increasing Pressure,lower regime
+TH001,Gradual pressure with moderate recovery,123,0.427673,-0.927955,Increasing Pressure,lower regime
+TH001,Gradual pressure with moderate recovery,124,0.437736,-0.939937,Increasing Pressure,lower regime
+TH001,Gradual pressure with moderate recovery,125,0.447799,-0.919144,Increasing Pressure,lower regime
+TH001,Gradual pressure with moderate recovery,126,0.457862,-0.912526,Increasing Pressure,lower regime
+TH001,Gradual pressure with moderate recovery,127,0.467925,-0.871637,Increasing Pressure,lower regime
+TH001,Gradual pressure with moderate recovery,128,0.477987,-0.862712,Increasing Pressure,lower regime
+TH001,Gradual pressure with moderate recovery,129,0.48805,-0.837482,Increasing Pressure,lower regime
+TH001,Gradual pressure with moderate recovery,130,0.498113,-0.853005,Increasing Pressure,lower regime
+TH001,Gradual pressure with moderate recovery,131,0.508176,-0.849575,Increasing Pressure,lower regime
+TH001,Gradual pressure with moderate recovery,132,0.518239,-0.83913,Increasing Pressure,lower regime
+TH001,Gradual pressure with moderate recovery,133,0.528302,-0.807334,Increasing Pressure,lower regime
+TH001,Gradual pressure with moderate recovery,134,0.538365,-0.827759,Increasing Pressure,lower regime
+TH001,Gradual pressure with moderate recovery,135,0.548428,-0.806785,Increasing Pressure,lower regime
+TH001,Gradual pressure with moderate recovery,136,0.558491,-0.792141,Increasing Pressure,lower regime
+TH001,Gradual pressure with moderate recovery,137,0.568553,-0.763385,Increasing Pressure,lower regime
+TH001,Gradual pressure with moderate recovery,138,0.578616,-0.747329,Increasing Pressure,lower regime
+TH001,Gradual pressure with moderate recovery,139,0.588679,-0.741084,Increasing Pressure,lower regime
+TH001,Gradual pressure with moderate recovery,140,0.598742,-0.743086,Increasing Pressure,lower regime
+TH001,Gradual pressure with moderate recovery,141,0.608805,-0.755438,Increasing Pressure,lower regime
+TH001,Gradual pressure with moderate recovery,142,0.618868,-0.745334,Increasing Pressure,lower regime
+TH001,Gradual pressure with moderate recovery,143,0.628931,-0.74078,Increasing Pressure,lower regime
+TH001,Gradual pressure with moderate recovery,144,0.638994,-0.702648,Increasing Pressure,lower regime
+TH001,Gradual pressure with moderate recovery,145,0.649057,-0.704174,Increasing Pressure,lower regime
+TH001,Gradual pressure with moderate recovery,146,0.659119,-0.691204,Increasing Pressure,lower regime
+TH001,Gradual pressure with moderate recovery,147,0.669182,-0.706241,Increasing Pressure,lower regime
+TH001,Gradual pressure with moderate recovery,148,0.679245,-0.702972,Increasing Pressure,lower regime
+TH001,Gradual pressure with moderate recovery,149,0.689308,-0.689398,Increasing Pressure,lower regime
+TH001,Gradual pressure with moderate recovery,150,0.699371,-0.667052,Increasing Pressure,lower regime
+TH001,Gradual pressure with moderate recovery,151,0.709434,-0.635041,Increasing Pressure,lower regime
+TH001,Gradual pressure with moderate recovery,152,0.719497,-0.625026,Increasing Pressure,lower regime
+TH001,Gradual pressure with moderate recovery,153,0.72956,-0.6306,Increasing Pressure,lower regime
+TH001,Gradual pressure with moderate recovery,154,0.739623,-0.612049,Increasing Pressure,lower regime
+TH001,Gradual pressure with moderate recovery,155,0.749686,-0.592069,Increasing Pressure,lower regime
+TH001,Gradual pressure with moderate recovery,156,0.759748,-0.571853,Increasing Pressure,lower regime
+TH001,Gradual pressure with moderate recovery,157,0.769811,-0.568828,Increasing Pressure,lower regime
+TH001,Gradual pressure with moderate recovery,158,0.779874,-0.537761,Increasing Pressure,lower regime
+TH001,Gradual pressure with moderate recovery,159,0.789937,-0.521435,Increasing Pressure,lower regime
+TH001,Gradual pressure with moderate recovery,160,0.8,-0.495135,Increasing Pressure,lower regime
+TH001,Gradual pressure with moderate recovery,1,0.8,-0.459663,Decreasing Pressure,lower regime
+TH001,Gradual pressure with moderate recovery,2,0.789937,-0.433751,Decreasing Pressure,lower regime
+TH001,Gradual pressure with moderate recovery,3,0.779874,-0.412404,Decreasing Pressure,lower regime
+TH001,Gradual pressure with moderate recovery,4,0.769811,-0.362859,Decreasing Pressure,lower regime
+TH001,Gradual pressure with moderate recovery,5,0.759748,-0.340598,Decreasing Pressure,lower regime
+TH001,Gradual pressure with moderate recovery,6,0.749686,-0.326014,Decreasing Pressure,lower regime
+TH001,Gradual pressure with moderate recovery,7,0.739623,-0.305182,Decreasing Pressure,lower regime
+TH001,Gradual pressure with moderate recovery,8,0.72956,-0.263352,Decreasing Pressure,lower regime
+TH001,Gradual pressure with moderate recovery,9,0.719497,-0.240484,Decreasing Pressure,lower regime
+TH001,Gradual pressure with moderate recovery,10,0.709434,-0.210955,Decreasing Pressure,lower regime
+TH001,Gradual pressure with moderate recovery,11,0.699371,-0.170239,Decreasing Pressure,lower regime
+TH001,Gradual pressure with moderate recovery,12,0.689308,-0.153434,Decreasing Pressure,lower regime
+TH001,Gradual pressure with moderate recovery,13,0.679245,-0.154396,Decreasing Pressure,lower regime
+TH001,Gradual pressure with moderate recovery,14,0.669182,-0.125525,Decreasing Pressure,lower regime
+TH001,Gradual pressure with moderate recovery,15,0.659119,-0.096555,Decreasing Pressure,lower regime
+TH001,Gradual pressure with moderate recovery,16,0.649057,-0.078971,Decreasing Pressure,lower regime
+TH001,Gradual pressure with moderate recovery,17,0.638994,-0.038669,Decreasing Pressure,lower regime
+TH001,Gradual pressure with moderate recovery,18,0.628931,-0.000426,Decreasing Pressure,lower regime
+TH001,Gradual pressure with moderate recovery,19,0.618868,0.015567,Decreasing Pressure,upper regime
+TH001,Gradual pressure with moderate recovery,20,0.608805,0.054714,Decreasing Pressure,upper regime
+TH001,Gradual pressure with moderate recovery,21,0.598742,0.084985,Decreasing Pressure,upper regime
+TH001,Gradual pressure with moderate recovery,22,0.588679,0.097242,Decreasing Pressure,upper regime
+TH001,Gradual pressure with moderate recovery,23,0.578616,0.138755,Decreasing Pressure,upper regime
+TH001,Gradual pressure with moderate recovery,24,0.568553,0.174696,Decreasing Pressure,upper regime
+TH001,Gradual pressure with moderate recovery,25,0.558491,0.201657,Decreasing Pressure,upper regime
+TH001,Gradual pressure with moderate recovery,26,0.548428,0.248612,Decreasing Pressure,upper regime
+TH001,Gradual pressure with moderate recovery,27,0.538365,0.297,Decreasing Pressure,upper regime
+TH001,Gradual pressure with moderate recovery,28,0.528302,0.331262,Decreasing Pressure,upper regime
+TH001,Gradual pressure with moderate recovery,29,0.518239,0.381237,Decreasing Pressure,upper regime
+TH001,Gradual pressure with moderate recovery,30,0.508176,0.441976,Decreasing Pressure,upper regime
+TH001,Gradual pressure with moderate recovery,31,0.498113,0.478393,Decreasing Pressure,upper regime
+TH001,Gradual pressure with moderate recovery,32,0.48805,0.531739,Decreasing Pressure,upper regime
+TH001,Gradual pressure with moderate recovery,33,0.477987,0.580066,Decreasing Pressure,upper regime
+TH001,Gradual pressure with moderate recovery,34,0.467925,0.662498,Decreasing Pressure,upper regime
+TH001,Gradual pressure with moderate recovery,35,0.457862,0.682667,Decreasing Pressure,upper regime
+TH001,Gradual pressure with moderate recovery,36,0.447799,0.740539,Decreasing Pressure,upper regime
+TH001,Gradual pressure with moderate recovery,37,0.437736,0.781959,Decreasing Pressure,upper regime
+TH001,Gradual pressure with moderate recovery,38,0.427673,0.824851,Decreasing Pressure,upper regime
+TH001,Gradual pressure with moderate recovery,39,0.41761,0.895685,Decreasing Pressure,upper regime
+TH001,Gradual pressure with moderate recovery,40,0.407547,0.933747,Decreasing Pressure,upper regime
+TH001,Gradual pressure with moderate recovery,41,0.397484,1.002554,Decreasing Pressure,upper regime
+TH001,Gradual pressure with moderate recovery,42,0.387421,1.025062,Decreasing Pressure,upper regime
+TH001,Gradual pressure with moderate recovery,43,0.377358,1.056837,Decreasing Pressure,upper regime
+TH001,Gradual pressure with moderate recovery,44,0.367296,1.07223,Decreasing Pressure,upper regime
+TH001,Gradual pressure with moderate recovery,45,0.357233,1.082429,Decreasing Pressure,upper regime
+TH001,Gradual pressure with moderate recovery,46,0.34717,1.102259,Decreasing Pressure,upper regime
+TH001,Gradual pressure with moderate recovery,47,0.337107,1.114051,Decreasing Pressure,upper regime
+TH001,Gradual pressure with moderate recovery,48,0.327044,1.13115,Decreasing Pressure,upper regime
+TH001,Gradual pressure with moderate recovery,49,0.316981,1.110928,Decreasing Pressure,upper regime
+TH001,Gradual pressure with moderate recovery,50,0.306918,1.154413,Decreasing Pressure,upper regime
+TH001,Gradual pressure with moderate recovery,51,0.296855,1.159093,Decreasing Pressure,upper regime
+TH001,Gradual pressure with moderate recovery,52,0.286792,1.19126,Decreasing Pressure,upper regime
+TH001,Gradual pressure with moderate recovery,53,0.27673,1.17694,Decreasing Pressure,upper regime
+TH001,Gradual pressure with moderate recovery,54,0.266667,1.183763,Decreasing Pressure,upper regime
+TH001,Gradual pressure with moderate recovery,55,0.256604,1.232153,Decreasing Pressure,upper regime
+TH001,Gradual pressure with moderate recovery,56,0.246541,1.211831,Decreasing Pressure,upper regime
+TH001,Gradual pressure with moderate recovery,57,0.236478,1.184954,Decreasing Pressure,upper regime
+TH001,Gradual pressure with moderate recovery,58,0.226415,1.175984,Decreasing Pressure,upper regime
+TH001,Gradual pressure with moderate recovery,59,0.216352,1.183132,Decreasing Pressure,upper regime
+TH001,Gradual pressure with moderate recovery,60,0.206289,1.192027,Decreasing Pressure,upper regime
+TH001,Gradual pressure with moderate recovery,61,0.196226,1.208026,Decreasing Pressure,upper regime
+TH001,Gradual pressure with moderate recovery,62,0.186164,1.197816,Decreasing Pressure,upper regime
+TH001,Gradual pressure with moderate recovery,63,0.176101,1.168527,Decreasing Pressure,upper regime
+TH001,Gradual pressure with moderate recovery,64,0.166038,1.160636,Decreasing Pressure,upper regime
+TH001,Gradual pressure with moderate recovery,65,0.155975,1.178503,Decreasing Pressure,upper regime
+TH001,Gradual pressure with moderate recovery,66,0.145912,1.181655,Decreasing Pressure,upper regime
+TH001,Gradual pressure with moderate recovery,67,0.135849,1.147495,Decreasing Pressure,upper regime
+TH001,Gradual pressure with moderate recovery,68,0.125786,1.14656,Decreasing Pressure,upper regime
+TH001,Gradual pressure with moderate recovery,69,0.115723,1.166749,Decreasing Pressure,upper regime
+TH001,Gradual pressure with moderate recovery,70,0.10566,1.19452,Decreasing Pressure,upper regime
+TH001,Gradual pressure with moderate recovery,71,0.095597,1.194175,Decreasing Pressure,upper regime
+TH001,Gradual pressure with moderate recovery,72,0.085535,1.189594,Decreasing Pressure,upper regime
+TH001,Gradual pressure with moderate recovery,73,0.075472,1.161968,Decreasing Pressure,upper regime
+TH001,Gradual pressure with moderate recovery,74,0.065409,1.143865,Decreasing Pressure,upper regime
+TH001,Gradual pressure with moderate recovery,75,0.055346,1.141135,Decreasing Pressure,upper regime
+TH001,Gradual pressure with moderate recovery,76,0.045283,1.145117,Decreasing Pressure,upper regime
+TH001,Gradual pressure with moderate recovery,77,0.03522,1.149208,Decreasing Pressure,upper regime
+TH001,Gradual pressure with moderate recovery,78,0.025157,1.136359,Decreasing Pressure,upper regime
+TH001,Gradual pressure with moderate recovery,79,0.015094,1.114646,Decreasing Pressure,upper regime
+TH001,Gradual pressure with moderate recovery,80,0.005031,1.100866,Decreasing Pressure,upper regime
+TH001,Gradual pressure with moderate recovery,81,-0.005031,1.082604,Decreasing Pressure,upper regime
+TH001,Gradual pressure with moderate recovery,82,-0.015094,1.093015,Decreasing Pressure,upper regime
+TH001,Gradual pressure with moderate recovery,83,-0.025157,1.057363,Decreasing Pressure,upper regime
+TH001,Gradual pressure with moderate recovery,84,-0.03522,1.054937,Decreasing Pressure,upper regime
+TH001,Gradual pressure with moderate recovery,85,-0.045283,1.064016,Decreasing Pressure,upper regime
+TH001,Gradual pressure with moderate recovery,86,-0.055346,1.08769,Decreasing Pressure,upper regime
+TH001,Gradual pressure with moderate recovery,87,-0.065409,1.08641,Decreasing Pressure,upper regime
+TH001,Gradual pressure with moderate recovery,88,-0.075472,1.098726,Decreasing Pressure,upper regime
+TH001,Gradual pressure with moderate recovery,89,-0.085535,1.088069,Decreasing Pressure,upper regime
+TH001,Gradual pressure with moderate recovery,90,-0.095597,1.072999,Decreasing Pressure,upper regime
+TH001,Gradual pressure with moderate recovery,91,-0.10566,1.060212,Decreasing Pressure,upper regime
+TH001,Gradual pressure with moderate recovery,92,-0.115723,1.081362,Decreasing Pressure,upper regime
+TH001,Gradual pressure with moderate recovery,93,-0.125786,1.091643,Decreasing Pressure,upper regime
+TH001,Gradual pressure with moderate recovery,94,-0.135849,1.092616,Decreasing Pressure,upper regime
+TH001,Gradual pressure with moderate recovery,95,-0.145912,1.135612,Decreasing Pressure,upper regime
+TH001,Gradual pressure with moderate recovery,96,-0.155975,1.12224,Decreasing Pressure,upper regime
+TH001,Gradual pressure with moderate recovery,97,-0.166038,1.119909,Decreasing Pressure,upper regime
+TH001,Gradual pressure with moderate recovery,98,-0.176101,1.112683,Decreasing Pressure,upper regime
+TH001,Gradual pressure with moderate recovery,99,-0.186164,1.097929,Decreasing Pressure,upper regime
+TH001,Gradual pressure with moderate recovery,100,-0.196226,1.122561,Decreasing Pressure,upper regime
+TH001,Gradual pressure with moderate recovery,101,-0.206289,1.13147,Decreasing Pressure,upper regime
+TH001,Gradual pressure with moderate recovery,102,-0.216352,1.095122,Decreasing Pressure,upper regime
+TH001,Gradual pressure with moderate recovery,103,-0.226415,1.077842,Decreasing Pressure,upper regime
+TH001,Gradual pressure with moderate recovery,104,-0.236478,1.074505,Decreasing Pressure,upper regime
+TH001,Gradual pressure with moderate recovery,105,-0.246541,1.076367,Decreasing Pressure,upper regime
+TH001,Gradual pressure with moderate recovery,106,-0.256604,1.04554,Decreasing Pressure,upper regime
+TH001,Gradual pressure with moderate recovery,107,-0.266667,1.003959,Decreasing Pressure,upper regime
+TH001,Gradual pressure with moderate recovery,108,-0.27673,0.971168,Decreasing Pressure,upper regime
+TH001,Gradual pressure with moderate recovery,109,-0.286792,0.968233,Decreasing Pressure,upper regime
+TH001,Gradual pressure with moderate recovery,110,-0.296855,0.964552,Decreasing Pressure,upper regime
+TH001,Gradual pressure with moderate recovery,111,-0.306918,0.967388,Decreasing Pressure,upper regime
+TH001,Gradual pressure with moderate recovery,112,-0.316981,0.952771,Decreasing Pressure,upper regime
+TH001,Gradual pressure with moderate recovery,113,-0.327044,0.931977,Decreasing Pressure,upper regime
+TH001,Gradual pressure with moderate recovery,114,-0.337107,0.900219,Decreasing Pressure,upper regime
+TH001,Gradual pressure with moderate recovery,115,-0.34717,0.905335,Decreasing Pressure,upper regime
+TH001,Gradual pressure with moderate recovery,116,-0.357233,0.910242,Decreasing Pressure,upper regime
+TH001,Gradual pressure with moderate recovery,117,-0.367296,0.923678,Decreasing Pressure,upper regime
+TH001,Gradual pressure with moderate recovery,118,-0.377358,0.93269,Decreasing Pressure,upper regime
+TH001,Gradual pressure with moderate recovery,119,-0.387421,0.925852,Decreasing Pressure,upper regime
+TH001,Gradual pressure with moderate recovery,120,-0.397484,0.942085,Decreasing Pressure,upper regime
+TH001,Gradual pressure with moderate recovery,121,-0.407547,0.934381,Decreasing Pressure,upper regime
+TH001,Gradual pressure with moderate recovery,122,-0.41761,0.918862,Decreasing Pressure,upper regime
+TH001,Gradual pressure with moderate recovery,123,-0.427673,0.906012,Decreasing Pressure,upper regime
+TH001,Gradual pressure with moderate recovery,124,-0.437736,0.892528,Decreasing Pressure,upper regime
+TH001,Gradual pressure with moderate recovery,125,-0.447799,0.855654,Decreasing Pressure,upper regime
+TH001,Gradual pressure with moderate recovery,126,-0.457862,0.855122,Decreasing Pressure,upper regime
+TH001,Gradual pressure with moderate recovery,127,-0.467925,0.855517,Decreasing Pressure,upper regime
+TH001,Gradual pressure with moderate recovery,128,-0.477987,0.846206,Decreasing Pressure,upper regime
+TH001,Gradual pressure with moderate recovery,129,-0.48805,0.831572,Decreasing Pressure,upper regime
+TH001,Gradual pressure with moderate recovery,130,-0.498113,0.833385,Decreasing Pressure,upper regime
+TH001,Gradual pressure with moderate recovery,131,-0.508176,0.854792,Decreasing Pressure,upper regime
+TH001,Gradual pressure with moderate recovery,132,-0.518239,0.849513,Decreasing Pressure,upper regime
+TH001,Gradual pressure with moderate recovery,133,-0.528302,0.835801,Decreasing Pressure,upper regime
+TH001,Gradual pressure with moderate recovery,134,-0.538365,0.820966,Decreasing Pressure,upper regime
+TH001,Gradual pressure with moderate recovery,135,-0.548428,0.81409,Decreasing Pressure,upper regime
+TH001,Gradual pressure with moderate recovery,136,-0.558491,0.789063,Decreasing Pressure,upper regime
+TH001,Gradual pressure with moderate recovery,137,-0.568553,0.781536,Decreasing Pressure,upper regime
+TH001,Gradual pressure with moderate recovery,138,-0.578616,0.776547,Decreasing Pressure,upper regime
+TH001,Gradual pressure with moderate recovery,139,-0.588679,0.797962,Decreasing Pressure,upper regime
+TH001,Gradual pressure with moderate recovery,140,-0.598742,0.80465,Decreasing Pressure,upper regime
+TH001,Gradual pressure with moderate recovery,141,-0.608805,0.81195,Decreasing Pressure,upper regime
+TH001,Gradual pressure with moderate recovery,142,-0.618868,0.792265,Decreasing Pressure,upper regime
+TH001,Gradual pressure with moderate recovery,143,-0.628931,0.793538,Decreasing Pressure,upper regime
+TH001,Gradual pressure with moderate recovery,144,-0.638994,0.767126,Decreasing Pressure,upper regime
+TH001,Gradual pressure with moderate recovery,145,-0.649057,0.762808,Decreasing Pressure,upper regime
+TH001,Gradual pressure with moderate recovery,146,-0.659119,0.759708,Decreasing Pressure,upper regime
+TH001,Gradual pressure with moderate recovery,147,-0.669182,0.738412,Decreasing Pressure,upper regime
+TH001,Gradual pressure with moderate recovery,148,-0.679245,0.758614,Decreasing Pressure,upper regime
+TH001,Gradual pressure with moderate recovery,149,-0.689308,0.756347,Decreasing Pressure,upper regime
+TH001,Gradual pressure with moderate recovery,150,-0.699371,0.716585,Decreasing Pressure,upper regime
+TH001,Gradual pressure with moderate recovery,151,-0.709434,0.714003,Decreasing Pressure,upper regime
+TH001,Gradual pressure with moderate recovery,152,-0.719497,0.696557,Decreasing Pressure,upper regime
+TH001,Gradual pressure with moderate recovery,153,-0.72956,0.684995,Decreasing Pressure,upper regime
+TH001,Gradual pressure with moderate recovery,154,-0.739623,0.68003,Decreasing Pressure,upper regime
+TH001,Gradual pressure with moderate recovery,155,-0.749686,0.673481,Decreasing Pressure,upper regime
+TH001,Gradual pressure with moderate recovery,156,-0.759748,0.630042,Decreasing Pressure,upper regime
+TH001,Gradual pressure with moderate recovery,157,-0.769811,0.599474,Decreasing Pressure,upper regime
+TH001,Gradual pressure with moderate recovery,158,-0.779874,0.597267,Decreasing Pressure,upper regime
+TH001,Gradual pressure with moderate recovery,159,-0.789937,0.602471,Decreasing Pressure,upper regime
+TH001,Gradual pressure with moderate recovery,160,-0.8,0.616232,Decreasing Pressure,upper regime
+TH002,High feedback amplification,1,-0.8,-0.960432,Increasing Pressure,lower regime
+TH002,High feedback amplification,2,-0.789308,-1.016685,Increasing Pressure,lower regime
+TH002,High feedback amplification,3,-0.778616,-1.066298,Increasing Pressure,lower regime
+TH002,High feedback amplification,4,-0.767925,-1.094014,Increasing Pressure,lower regime
+TH002,High feedback amplification,5,-0.757233,-1.134599,Increasing Pressure,lower regime
+TH002,High feedback amplification,6,-0.746541,-1.19692,Increasing Pressure,lower regime
+TH002,High feedback amplification,7,-0.735849,-1.213145,Increasing Pressure,lower regime
+TH002,High feedback amplification,8,-0.725157,-1.238267,Increasing Pressure,lower regime
+TH002,High feedback amplification,9,-0.714465,-1.257694,Increasing Pressure,lower regime
+TH002,High feedback amplification,10,-0.703774,-1.266556,Increasing Pressure,lower regime
+TH002,High feedback amplification,11,-0.693082,-1.270969,Increasing Pressure,lower regime
+TH002,High feedback amplification,12,-0.68239,-1.255422,Increasing Pressure,lower regime
+TH002,High feedback amplification,13,-0.671698,-1.252267,Increasing Pressure,lower regime
+TH002,High feedback amplification,14,-0.661006,-1.260054,Increasing Pressure,lower regime
+TH002,High feedback amplification,15,-0.650314,-1.282908,Increasing Pressure,lower regime
+TH002,High feedback amplification,16,-0.639623,-1.306583,Increasing Pressure,lower regime
+TH002,High feedback amplification,17,-0.628931,-1.29997,Increasing Pressure,lower regime
+TH002,High feedback amplification,18,-0.618239,-1.272817,Increasing Pressure,lower regime
+TH002,High feedback amplification,19,-0.607547,-1.275628,Increasing Pressure,lower regime
+TH002,High feedback amplification,20,-0.596855,-1.280348,Increasing Pressure,lower regime
+TH002,High feedback amplification,21,-0.586164,-1.270898,Increasing Pressure,lower regime
+TH002,High feedback amplification,22,-0.575472,-1.30236,Increasing Pressure,lower regime
+TH002,High feedback amplification,23,-0.56478,-1.304537,Increasing Pressure,lower regime
+TH002,High feedback amplification,24,-0.554088,-1.289702,Increasing Pressure,lower regime
+TH002,High feedback amplification,25,-0.543396,-1.269526,Increasing Pressure,lower regime
+TH002,High feedback amplification,26,-0.532704,-1.274841,Increasing Pressure,lower regime
+TH002,High feedback amplification,27,-0.522013,-1.266305,Increasing Pressure,lower regime
+TH002,High feedback amplification,28,-0.511321,-1.261357,Increasing Pressure,lower regime
+TH002,High feedback amplification,29,-0.500629,-1.246081,Increasing Pressure,lower regime
+TH002,High feedback amplification,30,-0.489937,-1.270867,Increasing Pressure,lower regime
+TH002,High feedback amplification,31,-0.479245,-1.257087,Increasing Pressure,lower regime
+TH002,High feedback amplification,32,-0.468553,-1.286904,Increasing Pressure,lower regime
+TH002,High feedback amplification,33,-0.457862,-1.332846,Increasing Pressure,lower regime
+TH002,High feedback amplification,34,-0.44717,-1.328925,Increasing Pressure,lower regime
+TH002,High feedback amplification,35,-0.436478,-1.331454,Increasing Pressure,lower regime
+TH002,High feedback amplification,36,-0.425786,-1.297092,Increasing Pressure,lower regime
+TH002,High feedback amplification,37,-0.415094,-1.273272,Increasing Pressure,lower regime
+TH002,High feedback amplification,38,-0.404403,-1.291057,Increasing Pressure,lower regime
+TH002,High feedback amplification,39,-0.393711,-1.263661,Increasing Pressure,lower regime
+TH002,High feedback amplification,40,-0.383019,-1.277782,Increasing Pressure,lower regime
+TH002,High feedback amplification,41,-0.372327,-1.270477,Increasing Pressure,lower regime
+TH002,High feedback amplification,42,-0.361635,-1.268131,Increasing Pressure,lower regime
+TH002,High feedback amplification,43,-0.350943,-1.25751,Increasing Pressure,lower regime
+TH002,High feedback amplification,44,-0.340252,-1.234173,Increasing Pressure,lower regime
+TH002,High feedback amplification,45,-0.32956,-1.21794,Increasing Pressure,lower regime
+TH002,High feedback amplification,46,-0.318868,-1.209629,Increasing Pressure,lower regime
+TH002,High feedback amplification,47,-0.308176,-1.19612,Increasing Pressure,lower regime
+TH002,High feedback amplification,48,-0.297484,-1.187627,Increasing Pressure,lower regime
+TH002,High feedback amplification,49,-0.286792,-1.202009,Increasing Pressure,lower regime
+TH002,High feedback amplification,50,-0.276101,-1.215447,Increasing Pressure,lower regime
+TH002,High feedback amplification,51,-0.265409,-1.221264,Increasing Pressure,lower regime
+TH002,High feedback amplification,52,-0.254717,-1.206214,Increasing Pressure,lower regime
+TH002,High feedback amplification,53,-0.244025,-1.208041,Increasing Pressure,lower regime
+TH002,High feedback amplification,54,-0.233333,-1.157327,Increasing Pressure,lower regime
+TH002,High feedback amplification,55,-0.222642,-1.176778,Increasing Pressure,lower regime
+TH002,High feedback amplification,56,-0.21195,-1.198479,Increasing Pressure,lower regime
+TH002,High feedback amplification,57,-0.201258,-1.179009,Increasing Pressure,lower regime
+TH002,High feedback amplification,58,-0.190566,-1.148896,Increasing Pressure,lower regime
+TH002,High feedback amplification,59,-0.179874,-1.140885,Increasing Pressure,lower regime
+TH002,High feedback amplification,60,-0.169182,-1.126831,Increasing Pressure,lower regime
+TH002,High feedback amplification,61,-0.158491,-1.102299,Increasing Pressure,lower regime
+TH002,High feedback amplification,62,-0.147799,-1.110739,Increasing Pressure,lower regime
+TH002,High feedback amplification,63,-0.137107,-1.14418,Increasing Pressure,lower regime
+TH002,High feedback amplification,64,-0.126415,-1.154898,Increasing Pressure,lower regime
+TH002,High feedback amplification,65,-0.115723,-1.133901,Increasing Pressure,lower regime
+TH002,High feedback amplification,66,-0.105031,-1.163165,Increasing Pressure,lower regime
+TH002,High feedback amplification,67,-0.09434,-1.158316,Increasing Pressure,lower regime
+TH002,High feedback amplification,68,-0.083648,-1.149227,Increasing Pressure,lower regime
+TH002,High feedback amplification,69,-0.072956,-1.15225,Increasing Pressure,lower regime
+TH002,High feedback amplification,70,-0.062264,-1.133535,Increasing Pressure,lower regime
+TH002,High feedback amplification,71,-0.051572,-1.119686,Increasing Pressure,lower regime
+TH002,High feedback amplification,72,-0.040881,-1.072295,Increasing Pressure,lower regime
+TH002,High feedback amplification,73,-0.030189,-1.064096,Increasing Pressure,lower regime
+TH002,High feedback amplification,74,-0.019497,-1.080861,Increasing Pressure,lower regime
+TH002,High feedback amplification,75,-0.008805,-1.094252,Increasing Pressure,lower regime
+TH002,High feedback amplification,76,0.001887,-1.110933,Increasing Pressure,lower regime
+TH002,High feedback amplification,77,0.012579,-1.08936,Increasing Pressure,lower regime
+TH002,High feedback amplification,78,0.02327,-1.100257,Increasing Pressure,lower regime
+TH002,High feedback amplification,79,0.033962,-1.099383,Increasing Pressure,lower regime
+TH002,High feedback amplification,80,0.044654,-1.081689,Increasing Pressure,lower regime
+TH002,High feedback amplification,81,0.055346,-1.095011,Increasing Pressure,lower regime
+TH002,High feedback amplification,82,0.066038,-1.097634,Increasing Pressure,lower regime
+TH002,High feedback amplification,83,0.07673,-1.13036,Increasing Pressure,lower regime
+TH002,High feedback amplification,84,0.087421,-1.143246,Increasing Pressure,lower regime
+TH002,High feedback amplification,85,0.098113,-1.143578,Increasing Pressure,lower regime
+TH002,High feedback amplification,86,0.108805,-1.123661,Increasing Pressure,lower regime
+TH002,High feedback amplification,87,0.119497,-1.090298,Increasing Pressure,lower regime
+TH002,High feedback amplification,88,0.130189,-1.084771,Increasing Pressure,lower regime
+TH002,High feedback amplification,89,0.140881,-1.073762,Increasing Pressure,lower regime
+TH002,High feedback amplification,90,0.151572,-1.065349,Increasing Pressure,lower regime
+TH002,High feedback amplification,91,0.162264,-1.039005,Increasing Pressure,lower regime
+TH002,High feedback amplification,92,0.172956,-1.018749,Increasing Pressure,lower regime
+TH002,High feedback amplification,93,0.183648,-1.012352,Increasing Pressure,lower regime
+TH002,High feedback amplification,94,0.19434,-1.031719,Increasing Pressure,lower regime
+TH002,High feedback amplification,95,0.205031,-1.010393,Increasing Pressure,lower regime
+TH002,High feedback amplification,96,0.215723,-1.001034,Increasing Pressure,lower regime
+TH002,High feedback amplification,97,0.226415,-0.975081,Increasing Pressure,lower regime
+TH002,High feedback amplification,98,0.237107,-0.975974,Increasing Pressure,lower regime
+TH002,High feedback amplification,99,0.247799,-0.936599,Increasing Pressure,lower regime
+TH002,High feedback amplification,100,0.258491,-0.945968,Increasing Pressure,lower regime
+TH002,High feedback amplification,101,0.269182,-0.91508,Increasing Pressure,lower regime
+TH002,High feedback amplification,102,0.279874,-0.915376,Increasing Pressure,lower regime
+TH002,High feedback amplification,103,0.290566,-0.927745,Increasing Pressure,lower regime
+TH002,High feedback amplification,104,0.301258,-0.95099,Increasing Pressure,lower regime
+TH002,High feedback amplification,105,0.31195,-0.95247,Increasing Pressure,lower regime
+TH002,High feedback amplification,106,0.322642,-0.921815,Increasing Pressure,lower regime
+TH002,High feedback amplification,107,0.333333,-0.904965,Increasing Pressure,lower regime
+TH002,High feedback amplification,108,0.344025,-0.891227,Increasing Pressure,lower regime
+TH002,High feedback amplification,109,0.354717,-0.939088,Increasing Pressure,lower regime
+TH002,High feedback amplification,110,0.365409,-0.921535,Increasing Pressure,lower regime
+TH002,High feedback amplification,111,0.376101,-0.907775,Increasing Pressure,lower regime
+TH002,High feedback amplification,112,0.386792,-0.916498,Increasing Pressure,lower regime
+TH002,High feedback amplification,113,0.397484,-0.92567,Increasing Pressure,lower regime
+TH002,High feedback amplification,114,0.408176,-0.921189,Increasing Pressure,lower regime
+TH002,High feedback amplification,115,0.418868,-0.881934,Increasing Pressure,lower regime
+TH002,High feedback amplification,116,0.42956,-0.900175,Increasing Pressure,lower regime
+TH002,High feedback amplification,117,0.440252,-0.904258,Increasing Pressure,lower regime
+TH002,High feedback amplification,118,0.450943,-0.871761,Increasing Pressure,lower regime
+TH002,High feedback amplification,119,0.461635,-0.876782,Increasing Pressure,lower regime
+TH002,High feedback amplification,120,0.472327,-0.879356,Increasing Pressure,lower regime
+TH002,High feedback amplification,121,0.483019,-0.872012,Increasing Pressure,lower regime
+TH002,High feedback amplification,122,0.493711,-0.891319,Increasing Pressure,lower regime
+TH002,High feedback amplification,123,0.504403,-0.879774,Increasing Pressure,lower regime
+TH002,High feedback amplification,124,0.515094,-0.896951,Increasing Pressure,lower regime
+TH002,High feedback amplification,125,0.525786,-0.870694,Increasing Pressure,lower regime
+TH002,High feedback amplification,126,0.536478,-0.863044,Increasing Pressure,lower regime
+TH002,High feedback amplification,127,0.54717,-0.809658,Increasing Pressure,lower regime
+TH002,High feedback amplification,128,0.557862,-0.798189,Increasing Pressure,lower regime
+TH002,High feedback amplification,129,0.568553,-0.764912,Increasing Pressure,lower regime
+TH002,High feedback amplification,130,0.579245,-0.785533,Increasing Pressure,lower regime
+TH002,High feedback amplification,131,0.589937,-0.781375,Increasing Pressure,lower regime
+TH002,High feedback amplification,132,0.600629,-0.767909,Increasing Pressure,lower regime
+TH002,High feedback amplification,133,0.611321,-0.725862,Increasing Pressure,lower regime
+TH002,High feedback amplification,134,0.622013,-0.75281,Increasing Pressure,lower regime
+TH002,High feedback amplification,135,0.632704,-0.725199,Increasing Pressure,lower regime
+TH002,High feedback amplification,136,0.643396,-0.705644,Increasing Pressure,lower regime
+TH002,High feedback amplification,137,0.654088,-0.66704,Increasing Pressure,lower regime
+TH002,High feedback amplification,138,0.66478,-0.644736,Increasing Pressure,lower regime
+TH002,High feedback amplification,139,0.675472,-0.635204,Increasing Pressure,lower regime
+TH002,High feedback amplification,140,0.686164,-0.636627,Increasing Pressure,lower regime
+TH002,High feedback amplification,141,0.696855,-0.652044,Increasing Pressure,lower regime
+TH002,High feedback amplification,142,0.707547,-0.63802,Increasing Pressure,lower regime
+TH002,High feedback amplification,143,0.718239,-0.631237,Increasing Pressure,lower regime
+TH002,High feedback amplification,144,0.728931,-0.579683,Increasing Pressure,lower regime
+TH002,High feedback amplification,145,0.739623,-0.579964,Increasing Pressure,lower regime
+TH002,High feedback amplification,146,0.750314,-0.561084,Increasing Pressure,lower regime
+TH002,High feedback amplification,147,0.761006,-0.579247,Increasing Pressure,lower regime
+TH002,High feedback amplification,148,0.771698,-0.573609,Increasing Pressure,lower regime
+TH002,High feedback amplification,149,0.78239,-0.554246,Increasing Pressure,lower regime
+TH002,High feedback amplification,150,0.793082,-0.522855,Increasing Pressure,lower regime
+TH002,High feedback amplification,151,0.803774,-0.477929,Increasing Pressure,lower regime
+TH002,High feedback amplification,152,0.814465,-0.461306,Increasing Pressure,lower regime
+TH002,High feedback amplification,153,0.825157,-0.465163,Increasing Pressure,lower regime
+TH002,High feedback amplification,154,0.835849,-0.43709,Increasing Pressure,lower regime
+TH002,High feedback amplification,155,0.846541,-0.406474,Increasing Pressure,lower regime
+TH002,High feedback amplification,156,0.857233,-0.37481,Increasing Pressure,lower regime
+TH002,High feedback amplification,157,0.867925,-0.365275,Increasing Pressure,lower regime
+TH002,High feedback amplification,158,0.878616,-0.318156,Increasing Pressure,lower regime
+TH002,High feedback amplification,159,0.889308,-0.289412,Increasing Pressure,lower regime
+TH002,High feedback amplification,160,0.9,-0.246568,Increasing Pressure,lower regime
+TH002,High feedback amplification,1,0.9,-0.190131,Decreasing Pressure,lower regime
+TH002,High feedback amplification,2,0.889308,-0.144545,Decreasing Pressure,lower regime
+TH002,High feedback amplification,3,0.878616,-0.103405,Decreasing Pressure,lower regime
+TH002,High feedback amplification,4,0.867925,-0.023102,Decreasing Pressure,lower regime
+TH002,High feedback amplification,5,0.857233,0.023248,Decreasing Pressure,upper regime
+TH002,High feedback amplification,6,0.846541,0.06105,Decreasing Pressure,upper regime
+TH002,High feedback amplification,7,0.835849,0.108734,Decreasing Pressure,upper regime
+TH002,High feedback amplification,8,0.825157,0.186107,Decreasing Pressure,upper regime
+TH002,High feedback amplification,9,0.814465,0.240048,Decreasing Pressure,upper regime
+TH002,High feedback amplification,10,0.803774,0.304336,Decreasing Pressure,upper regime
+TH002,High feedback amplification,11,0.793082,0.384755,Decreasing Pressure,upper regime
+TH002,High feedback amplification,12,0.78239,0.433855,Decreasing Pressure,upper regime
+TH002,High feedback amplification,13,0.771698,0.459857,Decreasing Pressure,upper regime
+TH002,High feedback amplification,14,0.761006,0.526625,Decreasing Pressure,upper regime
+TH002,High feedback amplification,15,0.750314,0.59303,Decreasing Pressure,upper regime
+TH002,High feedback amplification,16,0.739623,0.643005,Decreasing Pressure,upper regime
+TH002,High feedback amplification,17,0.728931,0.722161,Decreasing Pressure,upper regime
+TH002,High feedback amplification,18,0.718239,0.794723,Decreasing Pressure,upper regime
+TH002,High feedback amplification,19,0.707547,0.832787,Decreasing Pressure,upper regime
+TH002,High feedback amplification,20,0.696855,0.899083,Decreasing Pressure,upper regime
+TH002,High feedback amplification,21,0.686164,0.947075,Decreasing Pressure,upper regime
+TH002,High feedback amplification,22,0.675472,0.965539,Decreasing Pressure,upper regime
+TH002,High feedback amplification,23,0.66478,1.020762,Decreasing Pressure,upper regime
+TH002,High feedback amplification,24,0.654088,1.060629,Decreasing Pressure,upper regime
+TH002,High feedback amplification,25,0.643396,1.081874,Decreasing Pressure,upper regime
+TH002,High feedback amplification,26,0.632704,1.125566,Decreasing Pressure,upper regime
+TH002,High feedback amplification,27,0.622013,1.162664,Decreasing Pressure,upper regime
+TH002,High feedback amplification,28,0.611321,1.172855,Decreasing Pressure,upper regime
+TH002,High feedback amplification,29,0.600629,1.200597,Decreasing Pressure,upper regime
+TH002,High feedback amplification,30,0.589937,1.235902,Decreasing Pressure,upper regime
+TH002,High feedback amplification,31,0.579245,1.230376,Decreasing Pressure,upper regime
+TH002,High feedback amplification,32,0.568553,1.247115,Decreasing Pressure,upper regime
+TH002,High feedback amplification,33,0.557862,1.252908,Decreasing Pressure,upper regime
+TH002,High feedback amplification,34,0.54717,1.302422,Decreasing Pressure,upper regime
+TH002,High feedback amplification,35,0.536478,1.25968,Decreasing Pressure,upper regime
+TH002,High feedback amplification,36,0.525786,1.275513,Decreasing Pressure,upper regime
+TH002,High feedback amplification,37,0.515094,1.267915,Decreasing Pressure,upper regime
+TH002,High feedback amplification,38,0.504403,1.265291,Decreasing Pressure,upper regime
+TH002,High feedback amplification,39,0.493711,1.302641,Decreasing Pressure,upper regime
+TH002,High feedback amplification,40,0.483019,1.294258,Decreasing Pressure,upper regime
+TH002,High feedback amplification,41,0.472327,1.331948,Decreasing Pressure,upper regime
+TH002,High feedback amplification,42,0.461635,1.307954,Decreasing Pressure,upper regime
+TH002,High feedback amplification,43,0.450943,1.30411,Decreasing Pressure,upper regime
+TH002,High feedback amplification,44,0.440252,1.283657,Decreasing Pressure,upper regime
+TH002,High feedback amplification,45,0.42956,1.262582,Decreasing Pressure,upper regime
+TH002,High feedback amplification,46,0.418868,1.259895,Decreasing Pressure,upper regime
+TH002,High feedback amplification,47,0.408176,1.250252,Decreasing Pressure,upper regime
+TH002,High feedback amplification,48,0.397484,1.251476,Decreasing Pressure,upper regime
+TH002,High feedback amplification,49,0.386792,1.205801,Decreasing Pressure,upper regime
+TH002,High feedback amplification,50,0.376101,1.249344,Decreasing Pressure,upper regime
+TH002,High feedback amplification,51,0.365409,1.241733,Decreasing Pressure,upper regime
+TH002,High feedback amplification,52,0.354717,1.273099,Decreasing Pressure,upper regime
+TH002,High feedback amplification,53,0.344025,1.243374,Decreasing Pressure,upper regime
+TH002,High feedback amplification,54,0.333333,1.244382,Decreasing Pressure,upper regime
+TH002,High feedback amplification,55,0.322642,1.30213,Decreasing Pressure,upper regime
+TH002,High feedback amplification,56,0.31195,1.26807,Decreasing Pressure,upper regime
+TH002,High feedback amplification,57,0.301258,1.227358,Decreasing Pressure,upper regime
+TH002,High feedback amplification,58,0.290566,1.212153,Decreasing Pressure,upper regime
+TH002,High feedback amplification,59,0.279874,1.219274,Decreasing Pressure,upper regime
+TH002,High feedback amplification,60,0.269182,1.229126,Decreasing Pressure,upper regime
+TH002,High feedback amplification,61,0.258491,1.24876,Decreasing Pressure,upper regime
+TH002,High feedback amplification,62,0.247799,1.233569,Decreasing Pressure,upper regime
+TH002,High feedback amplification,63,0.237107,1.193538,Decreasing Pressure,upper regime
+TH002,High feedback amplification,64,0.226415,1.182759,Decreasing Pressure,upper regime
+TH002,High feedback amplification,65,0.215723,1.206586,Decreasing Pressure,upper regime
+TH002,High feedback amplification,66,0.205031,1.210715,Decreasing Pressure,upper regime
+TH002,High feedback amplification,67,0.19434,1.165201,Decreasing Pressure,upper regime
+TH002,High feedback amplification,68,0.183648,1.164495,Decreasing Pressure,upper regime
+TH002,High feedback amplification,69,0.172956,1.192021,Decreasing Pressure,upper regime
+TH002,High feedback amplification,70,0.162264,1.229498,Decreasing Pressure,upper regime
+TH002,High feedback amplification,71,0.151572,1.229151,Decreasing Pressure,upper regime
+TH002,High feedback amplification,72,0.140881,1.223279,Decreasing Pressure,upper regime
+TH002,High feedback amplification,73,0.130189,1.186855,Decreasing Pressure,upper regime
+TH002,High feedback amplification,74,0.119497,1.163584,Decreasing Pressure,upper regime
+TH002,High feedback amplification,75,0.108805,1.161008,Decreasing Pressure,upper regime
+TH002,High feedback amplification,76,0.098113,1.167389,Decreasing Pressure,upper regime
+TH002,High feedback amplification,77,0.087421,1.173862,Decreasing Pressure,upper regime
+TH002,High feedback amplification,78,0.07673,1.157689,Decreasing Pressure,upper regime
+TH002,High feedback amplification,79,0.066038,1.129834,Decreasing Pressure,upper regime
+TH002,High feedback amplification,80,0.055346,1.112723,Decreasing Pressure,upper regime
+TH002,High feedback amplification,81,0.044654,1.089694,Decreasing Pressure,upper regime
+TH002,High feedback amplification,82,0.033962,1.104945,Decreasing Pressure,upper regime
+TH002,High feedback amplification,83,0.02327,1.058708,Decreasing Pressure,upper regime
+TH002,High feedback amplification,84,0.012579,1.05686,Decreasing Pressure,upper regime
+TH002,High feedback amplification,85,0.001887,1.070341,Decreasing Pressure,upper regime
+TH002,High feedback amplification,86,-0.008805,1.10325,Decreasing Pressure,upper regime
+TH002,High feedback amplification,87,-0.019497,1.102755,Decreasing Pressure,upper regime
+TH002,High feedback amplification,88,-0.030189,1.120385,Decreasing Pressure,upper regime
+TH002,High feedback amplification,89,-0.040881,1.107265,Decreasing Pressure,upper regime
+TH002,High feedback amplification,90,-0.051572,1.088357,Decreasing Pressure,upper regime
+TH002,High feedback amplification,91,-0.062264,1.072598,Decreasing Pressure,upper regime
+TH002,High feedback amplification,92,-0.072956,1.102154,Decreasing Pressure,upper regime
+TH002,High feedback amplification,93,-0.083648,1.117043,Decreasing Pressure,upper regime
+TH002,High feedback amplification,94,-0.09434,1.119405,Decreasing Pressure,upper regime
+TH002,High feedback amplification,95,-0.105031,1.177789,Decreasing Pressure,upper regime
+TH002,High feedback amplification,96,-0.115723,1.160333,Decreasing Pressure,upper regime
+TH002,High feedback amplification,97,-0.126415,1.157927,Decreasing Pressure,upper regime
+TH002,High feedback amplification,98,-0.137107,1.149072,Decreasing Pressure,upper regime
+TH002,High feedback amplification,99,-0.147799,1.130329,Decreasing Pressure,upper regime
+TH002,High feedback amplification,100,-0.158491,1.16434,Decreasing Pressure,upper regime
+TH002,High feedback amplification,101,-0.169182,1.176949,Decreasing Pressure,upper regime
+TH002,High feedback amplification,102,-0.179874,1.129067,Decreasing Pressure,upper regime
+TH002,High feedback amplification,103,-0.190566,1.107319,Decreasing Pressure,upper regime
+TH002,High feedback amplification,104,-0.201258,1.104375,Decreasing Pressure,upper regime
+TH002,High feedback amplification,105,-0.21195,1.108356,Decreasing Pressure,upper regime
+TH002,High feedback amplification,106,-0.222642,1.068678,Decreasing Pressure,upper regime
+TH002,High feedback amplification,107,-0.233333,1.014996,Decreasing Pressure,upper regime
+TH002,High feedback amplification,108,-0.244025,0.973284,Decreasing Pressure,upper regime
+TH002,High feedback amplification,109,-0.254717,0.971424,Decreasing Pressure,upper regime
+TH002,High feedback amplification,110,-0.265409,0.96854,Decreasing Pressure,upper regime
+TH002,High feedback amplification,111,-0.276101,0.974324,Decreasing Pressure,upper regime
+TH002,High feedback amplification,112,-0.286792,0.956804,Decreasing Pressure,upper regime
+TH002,High feedback amplification,113,-0.297484,0.931056,Decreasing Pressure,upper regime
+TH002,High feedback amplification,114,-0.308176,0.890695,Decreasing Pressure,upper regime
+TH002,High feedback amplification,115,-0.318868,0.899446,Decreasing Pressure,upper regime
+TH002,High feedback amplification,116,-0.32956,0.907953,Decreasing Pressure,upper regime
+TH002,High feedback amplification,117,-0.340252,0.927853,Decreasing Pressure,upper regime
+TH002,High feedback amplification,118,-0.350943,0.941853,Decreasing Pressure,upper regime
+TH002,High feedback amplification,119,-0.361635,0.934693,Decreasing Pressure,upper regime
+TH002,High feedback amplification,120,-0.372327,0.958313,Decreasing Pressure,upper regime
+TH002,High feedback amplification,121,-0.383019,0.94993,Decreasing Pressure,upper regime
+TH002,High feedback amplification,122,-0.393711,0.931164,Decreasing Pressure,upper regime
+TH002,High feedback amplification,123,-0.404403,0.916033,Decreasing Pressure,upper regime
+TH002,High feedback amplification,124,-0.415094,0.900111,Decreasing Pressure,upper regime
+TH002,High feedback amplification,125,-0.425786,0.85305,Decreasing Pressure,upper regime
+TH002,High feedback amplification,126,-0.436478,0.854498,Decreasing Pressure,upper regime
+TH002,High feedback amplification,127,-0.44717,0.857211,Decreasing Pressure,upper regime
+TH002,High feedback amplification,128,-0.457862,0.847011,Decreasing Pressure,upper regime
+TH002,High feedback amplification,129,-0.468553,0.829743,Decreasing Pressure,upper regime
+TH002,High feedback amplification,130,-0.479245,0.834439,Decreasing Pressure,upper regime
+TH002,High feedback amplification,131,-0.489937,0.865295,Decreasing Pressure,upper regime
+TH002,High feedback amplification,132,-0.500629,0.860553,Decreasing Pressure,upper regime
+TH002,High feedback amplification,133,-0.511321,0.844603,Decreasing Pressure,upper regime
+TH002,High feedback amplification,134,-0.522013,0.827225,Decreasing Pressure,upper regime
+TH002,High feedback amplification,135,-0.532704,0.820524,Decreasing Pressure,upper regime
+TH002,High feedback amplification,136,-0.543396,0.789669,Decreasing Pressure,upper regime
+TH002,High feedback amplification,137,-0.554088,0.782219,Decreasing Pressure,upper regime
+TH002,High feedback amplification,138,-0.56478,0.778206,Decreasing Pressure,upper regime
+TH002,High feedback amplification,139,-0.575472,0.809454,Decreasing Pressure,upper regime
+TH002,High feedback amplification,140,-0.586164,0.821064,Decreasing Pressure,upper regime
+TH002,High feedback amplification,141,-0.596855,0.83349,Decreasing Pressure,upper regime
+TH002,High feedback amplification,142,-0.607547,0.809912,Decreasing Pressure,upper regime
+TH002,High feedback amplification,143,-0.618239,0.814429,Decreasing Pressure,upper regime
+TH002,High feedback amplification,144,-0.628931,0.782051,Decreasing Pressure,upper regime
+TH002,High feedback amplification,145,-0.639623,0.779316,Decreasing Pressure,upper regime
+TH002,High feedback amplification,146,-0.650314,0.778269,Decreasing Pressure,upper regime
+TH002,High feedback amplification,147,-0.661006,0.753017,Decreasing Pressure,upper regime
+TH002,High feedback amplification,148,-0.671698,0.783251,Decreasing Pressure,upper regime
+TH002,High feedback amplification,149,-0.68239,0.783449,Decreasing Pressure,upper regime
+TH002,High feedback amplification,150,-0.693082,0.733703,Decreasing Pressure,upper regime
+TH002,High feedback amplification,151,-0.703774,0.733846,Decreasing Pressure,upper regime
+TH002,High feedback amplification,152,-0.714465,0.714245,Decreasing Pressure,upper regime
+TH002,High feedback amplification,153,-0.725157,0.702651,Decreasing Pressure,upper regime
+TH002,High feedback amplification,154,-0.735849,0.699987,Decreasing Pressure,upper regime
+TH002,High feedback amplification,155,-0.746541,0.695321,Decreasing Pressure,upper regime
+TH002,High feedback amplification,156,-0.757233,0.641587,Decreasing Pressure,upper regime
+TH002,High feedback amplification,157,-0.767925,0.605315,Decreasing Pressure,upper regime
+TH002,High feedback amplification,158,-0.778616,0.607066,Decreasing Pressure,upper regime
+TH002,High feedback amplification,159,-0.789308,0.618862,Decreasing Pressure,upper regime
+TH002,High feedback amplification,160,-0.8,0.642206,Decreasing Pressure,upper regime
+TH003,Weak adaptive capacity,1,-0.7,-0.955144,Increasing Pressure,lower regime
+TH003,Weak adaptive capacity,2,-0.690252,-1.006508,Increasing Pressure,lower regime
+TH003,Weak adaptive capacity,3,-0.680503,-1.051945,Increasing Pressure,lower regime
+TH003,Weak adaptive capacity,4,-0.670755,-1.07776,Increasing Pressure,lower regime
+TH003,Weak adaptive capacity,5,-0.661006,-1.115178,Increasing Pressure,lower regime
+TH003,Weak adaptive capacity,6,-0.651258,-1.172261,Increasing Pressure,lower regime
+TH003,Weak adaptive capacity,7,-0.641509,-1.188145,Increasing Pressure,lower regime
+TH003,Weak adaptive capacity,8,-0.631761,-1.211969,Increasing Pressure,lower regime
+TH003,Weak adaptive capacity,9,-0.622013,-1.230682,Increasing Pressure,lower regime
+TH003,Weak adaptive capacity,10,-0.612264,-1.239852,Increasing Pressure,lower regime
+TH003,Weak adaptive capacity,11,-0.602516,-1.24489,Increasing Pressure,lower regime
+TH003,Weak adaptive capacity,12,-0.592767,-1.231815,Increasing Pressure,lower regime
+TH003,Weak adaptive capacity,13,-0.583019,-1.229599,Increasing Pressure,lower regime
+TH003,Weak adaptive capacity,14,-0.57327,-1.237097,Increasing Pressure,lower regime
+TH003,Weak adaptive capacity,15,-0.563522,-1.258126,Increasing Pressure,lower regime
+TH003,Weak adaptive capacity,16,-0.553774,-1.279993,Increasing Pressure,lower regime
+TH003,Weak adaptive capacity,17,-0.544025,-1.274703,Increasing Pressure,lower regime
+TH003,Weak adaptive capacity,18,-0.534277,-1.250739,Increasing Pressure,lower regime
+TH003,Weak adaptive capacity,19,-0.524528,-1.25343,Increasing Pressure,lower regime
+TH003,Weak adaptive capacity,20,-0.51478,-1.257826,Increasing Pressure,lower regime
+TH003,Weak adaptive capacity,21,-0.505031,-1.249474,Increasing Pressure,lower regime
+TH003,Weak adaptive capacity,22,-0.495283,-1.277837,Increasing Pressure,lower regime
+TH003,Weak adaptive capacity,23,-0.485535,-1.280078,Increasing Pressure,lower regime
+TH003,Weak adaptive capacity,24,-0.475786,-1.266969,Increasing Pressure,lower regime
+TH003,Weak adaptive capacity,25,-0.466038,-1.24888,Increasing Pressure,lower regime
+TH003,Weak adaptive capacity,26,-0.456289,-1.253565,Increasing Pressure,lower regime
+TH003,Weak adaptive capacity,27,-0.446541,-1.245833,Increasing Pressure,lower regime
+TH003,Weak adaptive capacity,28,-0.436792,-1.241272,Increasing Pressure,lower regime
+TH003,Weak adaptive capacity,29,-0.427044,-1.227393,Increasing Pressure,lower regime
+TH003,Weak adaptive capacity,30,-0.417296,-1.249487,Increasing Pressure,lower regime
+TH003,Weak adaptive capacity,31,-0.407547,-1.237069,Increasing Pressure,lower regime
+TH003,Weak adaptive capacity,32,-0.397799,-1.263787,Increasing Pressure,lower regime
+TH003,Weak adaptive capacity,33,-0.38805,-1.305253,Increasing Pressure,lower regime
+TH003,Weak adaptive capacity,34,-0.378302,-1.30222,Increasing Pressure,lower regime
+TH003,Weak adaptive capacity,35,-0.368553,-1.304852,Increasing Pressure,lower regime
+TH003,Weak adaptive capacity,36,-0.358805,-1.27423,Increasing Pressure,lower regime
+TH003,Weak adaptive capacity,37,-0.349057,-1.252734,Increasing Pressure,lower regime
+TH003,Weak adaptive capacity,38,-0.339308,-1.268509,Increasing Pressure,lower regime
+TH003,Weak adaptive capacity,39,-0.32956,-1.243786,Increasing Pressure,lower regime
+TH003,Weak adaptive capacity,40,-0.319811,-1.256236,Increasing Pressure,lower regime
+TH003,Weak adaptive capacity,41,-0.310063,-1.249541,Increasing Pressure,lower regime
+TH003,Weak adaptive capacity,42,-0.300314,-1.24727,Increasing Pressure,lower regime
+TH003,Weak adaptive capacity,43,-0.290566,-1.237557,Increasing Pressure,lower regime
+TH003,Weak adaptive capacity,44,-0.280818,-1.216347,Increasing Pressure,lower regime
+TH003,Weak adaptive capacity,45,-0.271069,-1.201411,Increasing Pressure,lower regime
+TH003,Weak adaptive capacity,46,-0.261321,-1.193559,Increasing Pressure,lower regime
+TH003,Weak adaptive capacity,47,-0.251572,-1.181036,Increasing Pressure,lower regime
+TH003,Weak adaptive capacity,48,-0.241824,-1.173008,Increasing Pressure,lower regime
+TH003,Weak adaptive capacity,49,-0.232075,-1.185578,Increasing Pressure,lower regime
+TH003,Weak adaptive capacity,50,-0.222327,-1.19742,Increasing Pressure,lower regime
+TH003,Weak adaptive capacity,51,-0.212579,-1.202509,Increasing Pressure,lower regime
+TH003,Weak adaptive capacity,52,-0.20283,-1.18887,Increasing Pressure,lower regime
+TH003,Weak adaptive capacity,53,-0.193082,-1.190341,Increasing Pressure,lower regime
+TH003,Weak adaptive capacity,54,-0.183333,-1.144554,Increasing Pressure,lower regime
+TH003,Weak adaptive capacity,55,-0.173585,-1.161685,Increasing Pressure,lower regime
+TH003,Weak adaptive capacity,56,-0.163836,-1.180972,Increasing Pressure,lower regime
+TH003,Weak adaptive capacity,57,-0.154088,-1.163348,Increasing Pressure,lower regime
+TH003,Weak adaptive capacity,58,-0.14434,-1.13605,Increasing Pressure,lower regime
+TH003,Weak adaptive capacity,59,-0.134591,-1.12853,Increasing Pressure,lower regime
+TH003,Weak adaptive capacity,60,-0.124843,-1.115576,Increasing Pressure,lower regime
+TH003,Weak adaptive capacity,61,-0.115094,-1.093173,Increasing Pressure,lower regime
+TH003,Weak adaptive capacity,62,-0.105346,-1.100405,Increasing Pressure,lower regime
+TH003,Weak adaptive capacity,63,-0.095597,-1.130199,Increasing Pressure,lower regime
+TH003,Weak adaptive capacity,64,-0.085849,-1.139698,Increasing Pressure,lower regime
+TH003,Weak adaptive capacity,65,-0.076101,-1.120714,Increasing Pressure,lower regime
+TH003,Weak adaptive capacity,66,-0.066352,-1.14688,Increasing Pressure,lower regime
+TH003,Weak adaptive capacity,67,-0.056604,-1.142493,Increasing Pressure,lower regime
+TH003,Weak adaptive capacity,68,-0.046855,-1.134263,Increasing Pressure,lower regime
+TH003,Weak adaptive capacity,69,-0.037107,-1.13689,Increasing Pressure,lower regime
+TH003,Weak adaptive capacity,70,-0.027358,-1.119973,Increasing Pressure,lower regime
+TH003,Weak adaptive capacity,71,-0.01761,-1.107357,Increasing Pressure,lower regime
+TH003,Weak adaptive capacity,72,-0.007862,-1.064512,Increasing Pressure,lower regime
+TH003,Weak adaptive capacity,73,0.001887,-1.056814,Increasing Pressure,lower regime
+TH003,Weak adaptive capacity,74,0.011635,-1.071595,Increasing Pressure,lower regime
+TH003,Weak adaptive capacity,75,0.021384,-1.083408,Increasing Pressure,lower regime
+TH003,Weak adaptive capacity,76,0.031132,-1.09824,Increasing Pressure,lower regime
+TH003,Weak adaptive capacity,77,0.040881,-1.078719,Increasing Pressure,lower regime
+TH003,Weak adaptive capacity,78,0.050629,-1.088352,Increasing Pressure,lower regime
+TH003,Weak adaptive capacity,79,0.060377,-1.08744,Increasing Pressure,lower regime
+TH003,Weak adaptive capacity,80,0.070126,-1.071397,Increasing Pressure,lower regime
+TH003,Weak adaptive capacity,81,0.079874,-1.083217,Increasing Pressure,lower regime
+TH003,Weak adaptive capacity,82,0.089623,-1.085464,Increasing Pressure,lower regime
+TH003,Weak adaptive capacity,83,0.099371,-1.11482,Increasing Pressure,lower regime
+TH003,Weak adaptive capacity,84,0.109119,-1.126462,Increasing Pressure,lower regime
+TH003,Weak adaptive capacity,85,0.118868,-1.126856,Increasing Pressure,lower regime
+TH003,Weak adaptive capacity,86,0.128616,-1.109009,Increasing Pressure,lower regime
+TH003,Weak adaptive capacity,87,0.138365,-1.07895,Increasing Pressure,lower regime
+TH003,Weak adaptive capacity,88,0.148113,-1.073811,Increasing Pressure,lower regime
+TH003,Weak adaptive capacity,89,0.157862,-1.063733,Increasing Pressure,lower regime
+TH003,Weak adaptive capacity,90,0.16761,-1.055971,Increasing Pressure,lower regime
+TH003,Weak adaptive capacity,91,0.177358,-1.032062,Increasing Pressure,lower regime
+TH003,Weak adaptive capacity,92,0.187107,-1.013585,Increasing Pressure,lower regime
+TH003,Weak adaptive capacity,93,0.196855,-1.007565,Increasing Pressure,lower regime
+TH003,Weak adaptive capacity,94,0.206604,-1.024742,Increasing Pressure,lower regime
+TH003,Weak adaptive capacity,95,0.216352,-1.005344,Increasing Pressure,lower regime
+TH003,Weak adaptive capacity,96,0.226101,-0.996695,Increasing Pressure,lower regime
+TH003,Weak adaptive capacity,97,0.235849,-0.973114,Increasing Pressure,lower regime
+TH003,Weak adaptive capacity,98,0.245597,-0.973684,Increasing Pressure,lower regime
+TH003,Weak adaptive capacity,99,0.255346,-0.938027,Increasing Pressure,lower regime
+TH003,Weak adaptive capacity,100,0.265094,-0.946245,Increasing Pressure,lower regime
+TH003,Weak adaptive capacity,101,0.274843,-0.91824,Increasing Pressure,lower regime
+TH003,Weak adaptive capacity,102,0.284591,-0.918322,Increasing Pressure,lower regime
+TH003,Weak adaptive capacity,103,0.29434,-0.929275,Increasing Pressure,lower regime
+TH003,Weak adaptive capacity,104,0.304088,-0.950015,Increasing Pressure,lower regime
+TH003,Weak adaptive capacity,105,0.313836,-0.951172,Increasing Pressure,lower regime
+TH003,Weak adaptive capacity,106,0.323585,-0.923416,Increasing Pressure,lower regime
+TH003,Weak adaptive capacity,107,0.333333,-0.90809,Increasing Pressure,lower regime
+TH003,Weak adaptive capacity,108,0.343082,-0.895579,Increasing Pressure,lower regime
+TH003,Weak adaptive capacity,109,0.35283,-0.938523,Increasing Pressure,lower regime
+TH003,Weak adaptive capacity,110,0.362579,-0.922574,Increasing Pressure,lower regime
+TH003,Weak adaptive capacity,111,0.372327,-0.910045,Increasing Pressure,lower regime
+TH003,Weak adaptive capacity,112,0.382075,-0.917758,Increasing Pressure,lower regime
+TH003,Weak adaptive capacity,113,0.391824,-0.925875,Increasing Pressure,lower regime
+TH003,Weak adaptive capacity,114,0.401572,-0.921705,Increasing Pressure,lower regime
+TH003,Weak adaptive capacity,115,0.411321,-0.886243,Increasing Pressure,lower regime
+TH003,Weak adaptive capacity,116,0.421069,-0.902552,Increasing Pressure,lower regime
+TH003,Weak adaptive capacity,117,0.430818,-0.906103,Increasing Pressure,lower regime
+TH003,Weak adaptive capacity,118,0.440566,-0.876733,Increasing Pressure,lower regime
+TH003,Weak adaptive capacity,119,0.450314,-0.881156,Increasing Pressure,lower regime
+TH003,Weak adaptive capacity,120,0.460063,-0.883371,Increasing Pressure,lower regime
+TH003,Weak adaptive capacity,121,0.469811,-0.876656,Increasing Pressure,lower regime
+TH003,Weak adaptive capacity,122,0.47956,-0.893934,Increasing Pressure,lower regime
+TH003,Weak adaptive capacity,123,0.489308,-0.883427,Increasing Pressure,lower regime
+TH003,Weak adaptive capacity,124,0.499057,-0.89878,Increasing Pressure,lower regime
+TH003,Weak adaptive capacity,125,0.508805,-0.875031,Increasing Pressure,lower regime
+TH003,Weak adaptive capacity,126,0.518553,-0.868048,Increasing Pressure,lower regime
+TH003,Weak adaptive capacity,127,0.528302,-0.81991,Increasing Pressure,lower regime
+TH003,Weak adaptive capacity,128,0.53805,-0.809588,Increasing Pressure,lower regime
+TH003,Weak adaptive capacity,129,0.547799,-0.779659,Increasing Pressure,lower regime
+TH003,Weak adaptive capacity,130,0.557547,-0.798324,Increasing Pressure,lower regime
+TH003,Weak adaptive capacity,131,0.567296,-0.794618,Increasing Pressure,lower regime
+TH003,Weak adaptive capacity,132,0.577044,-0.782539,Increasing Pressure,lower regime
+TH003,Weak adaptive capacity,133,0.586792,-0.744769,Increasing Pressure,lower regime
+TH003,Weak adaptive capacity,134,0.596541,-0.769229,Increasing Pressure,lower regime
+TH003,Weak adaptive capacity,135,0.606289,-0.744479,Increasing Pressure,lower regime
+TH003,Weak adaptive capacity,136,0.616038,-0.72707,Increasing Pressure,lower regime
+TH003,Weak adaptive capacity,137,0.625786,-0.692583,Increasing Pressure,lower regime
+TH003,Weak adaptive capacity,138,0.635535,-0.672928,Increasing Pressure,lower regime
+TH003,Weak adaptive capacity,139,0.645283,-0.664866,Increasing Pressure,lower regime
+TH003,Weak adaptive capacity,140,0.655031,-0.666701,Increasing Pressure,lower regime
+TH003,Weak adaptive capacity,141,0.66478,-0.681114,Increasing Pressure,lower regime
+TH003,Weak adaptive capacity,142,0.674528,-0.668938,Increasing Pressure,lower regime
+TH003,Weak adaptive capacity,143,0.684277,-0.663344,Increasing Pressure,lower regime
+TH003,Weak adaptive capacity,144,0.694025,-0.617485,Increasing Pressure,lower regime
+TH003,Weak adaptive capacity,145,0.703774,-0.618571,Increasing Pressure,lower regime
+TH003,Weak adaptive capacity,146,0.713522,-0.602408,Increasing Pressure,lower regime
+TH003,Weak adaptive capacity,147,0.72327,-0.619701,Increasing Pressure,lower regime
+TH003,Weak adaptive capacity,148,0.733019,-0.615451,Increasing Pressure,lower regime
+TH003,Weak adaptive capacity,149,0.742767,-0.598883,Increasing Pressure,lower regime
+TH003,Weak adaptive capacity,150,0.752516,-0.571619,Increasing Pressure,lower regime
+TH003,Weak adaptive capacity,151,0.762264,-0.532399,Increasing Pressure,lower regime
+TH003,Weak adaptive capacity,152,0.772013,-0.518991,Increasing Pressure,lower regime
+TH003,Weak adaptive capacity,153,0.781761,-0.524163,Increasing Pressure,lower regime
+TH003,Weak adaptive capacity,154,0.791509,-0.500596,Increasing Pressure,lower regime
+TH003,Weak adaptive capacity,155,0.801258,-0.474991,Increasing Pressure,lower regime
+TH003,Weak adaptive capacity,156,0.811006,-0.448732,Increasing Pressure,lower regime
+TH003,Weak adaptive capacity,157,0.820755,-0.442705,Increasing Pressure,lower regime
+TH003,Weak adaptive capacity,158,0.830503,-0.403003,Increasing Pressure,lower regime
+TH003,Weak adaptive capacity,159,0.840252,-0.380316,Increasing Pressure,lower regime
+TH003,Weak adaptive capacity,160,0.85,-0.345288,Increasing Pressure,lower regime
+TH003,Weak adaptive capacity,1,0.85,-0.298513,Decreasing Pressure,lower regime
+TH003,Weak adaptive capacity,2,0.840252,-0.262114,Decreasing Pressure,lower regime
+TH003,Weak adaptive capacity,3,0.830503,-0.230258,Decreasing Pressure,lower regime
+TH003,Weak adaptive capacity,4,0.820755,-0.163675,Decreasing Pressure,lower regime
+TH003,Weak adaptive capacity,5,0.811006,-0.12834,Decreasing Pressure,lower regime
+TH003,Weak adaptive capacity,6,0.801258,-0.101199,Decreasing Pressure,lower regime
+TH003,Weak adaptive capacity,7,0.791509,-0.065628,Decreasing Pressure,lower regime
+TH003,Weak adaptive capacity,8,0.781761,-0.003774,Decreasing Pressure,lower regime
+TH003,Weak adaptive capacity,9,0.772013,0.036737,Decreasing Pressure,upper regime
+TH003,Weak adaptive capacity,10,0.762264,0.086401,Decreasing Pressure,upper regime
+TH003,Weak adaptive capacity,11,0.752516,0.150702,Decreasing Pressure,upper regime
+TH003,Weak adaptive capacity,12,0.742767,0.18748,Decreasing Pressure,upper regime
+TH003,Weak adaptive capacity,13,0.733019,0.203972,Decreasing Pressure,upper regime
+TH003,Weak adaptive capacity,14,0.72327,0.257339,Decreasing Pressure,upper regime
+TH003,Weak adaptive capacity,15,0.713522,0.311738,Decreasing Pressure,upper regime
+TH003,Weak adaptive capacity,16,0.703774,0.353172,Decreasing Pressure,upper regime
+TH003,Weak adaptive capacity,17,0.694025,0.422541,Decreasing Pressure,upper regime
+TH003,Weak adaptive capacity,18,0.684277,0.489271,Decreasing Pressure,upper regime
+TH003,Weak adaptive capacity,19,0.674528,0.528588,Decreasing Pressure,upper regime
+TH003,Weak adaptive capacity,20,0.66478,0.595486,Decreasing Pressure,upper regime
+TH003,Weak adaptive capacity,21,0.655031,0.649878,Decreasing Pressure,upper regime
+TH003,Weak adaptive capacity,22,0.645283,0.680717,Decreasing Pressure,upper regime
+TH003,Weak adaptive capacity,23,0.635535,0.745719,Decreasing Pressure,upper regime
+TH003,Weak adaptive capacity,24,0.625786,0.800203,Decreasing Pressure,upper regime
+TH003,Weak adaptive capacity,25,0.616038,0.839982,Decreasing Pressure,upper regime
+TH003,Weak adaptive capacity,26,0.606289,0.900475,Decreasing Pressure,upper regime
+TH003,Weak adaptive capacity,27,0.596541,0.956609,Decreasing Pressure,upper regime
+TH003,Weak adaptive capacity,28,0.586792,0.98918,Decreasing Pressure,upper regime
+TH003,Weak adaptive capacity,29,0.577044,1.036194,Decreasing Pressure,upper regime
+TH003,Weak adaptive capacity,30,0.567296,1.089374,Decreasing Pressure,upper regime
+TH003,Weak adaptive capacity,31,0.557547,1.105146,Decreasing Pressure,upper regime
+TH003,Weak adaptive capacity,32,0.547799,1.138212,Decreasing Pressure,upper regime
+TH003,Weak adaptive capacity,33,0.53805,1.159728,Decreasing Pressure,upper regime
+TH003,Weak adaptive capacity,34,0.528302,1.218525,Decreasing Pressure,upper regime
+TH003,Weak adaptive capacity,35,0.518553,1.193579,Decreasing Pressure,upper regime
+TH003,Weak adaptive capacity,36,0.508805,1.218129,Decreasing Pressure,upper regime
+TH003,Weak adaptive capacity,37,0.499057,1.220282,Decreasing Pressure,upper regime
+TH003,Weak adaptive capacity,38,0.489308,1.225305,Decreasing Pressure,upper regime
+TH003,Weak adaptive capacity,39,0.47956,1.265048,Decreasing Pressure,upper regime
+TH003,Weak adaptive capacity,40,0.469811,1.263061,Decreasing Pressure,upper regime
+TH003,Weak adaptive capacity,41,0.460063,1.301436,Decreasing Pressure,upper regime
+TH003,Weak adaptive capacity,42,0.450314,1.283864,Decreasing Pressure,upper regime
+TH003,Weak adaptive capacity,43,0.440566,1.283424,Decreasing Pressure,upper regime
+TH003,Weak adaptive capacity,44,0.430818,1.267433,Decreasing Pressure,upper regime
+TH003,Weak adaptive capacity,45,0.421069,1.250301,Decreasing Pressure,upper regime
+TH003,Weak adaptive capacity,46,0.411321,1.249283,Decreasing Pressure,upper regime
+TH003,Weak adaptive capacity,47,0.401572,1.241744,Decreasing Pressure,upper regime
+TH003,Weak adaptive capacity,48,0.391824,1.243751,Decreasing Pressure,upper regime
+TH003,Weak adaptive capacity,49,0.382075,1.20339,Decreasing Pressure,upper regime
+TH003,Weak adaptive capacity,50,0.372327,1.24312,Decreasing Pressure,upper regime
+TH003,Weak adaptive capacity,51,0.362579,1.236778,Decreasing Pressure,upper regime
+TH003,Weak adaptive capacity,52,0.35283,1.265408,Decreasing Pressure,upper regime
+TH003,Weak adaptive capacity,53,0.343082,1.239046,Decreasing Pressure,upper regime
+TH003,Weak adaptive capacity,54,0.333333,1.24021,Decreasing Pressure,upper regime
+TH003,Weak adaptive capacity,55,0.323585,1.292391,Decreasing Pressure,upper regime
+TH003,Weak adaptive capacity,56,0.313836,1.262039,Decreasing Pressure,upper regime
+TH003,Weak adaptive capacity,57,0.304088,1.225545,Decreasing Pressure,upper regime
+TH003,Weak adaptive capacity,58,0.29434,1.211922,Decreasing Pressure,upper regime
+TH003,Weak adaptive capacity,59,0.284591,1.218371,Decreasing Pressure,upper regime
+TH003,Weak adaptive capacity,60,0.274843,1.227266,Decreasing Pressure,upper regime
+TH003,Weak adaptive capacity,61,0.265094,1.244959,Decreasing Pressure,upper regime
+TH003,Weak adaptive capacity,62,0.255346,1.231318,Decreasing Pressure,upper regime
+TH003,Weak adaptive capacity,63,0.245597,1.195294,Decreasing Pressure,upper regime
+TH003,Weak adaptive capacity,64,0.235849,1.185586,Decreasing Pressure,upper regime
+TH003,Weak adaptive capacity,65,0.226101,1.207026,Decreasing Pressure,upper regime
+TH003,Weak adaptive capacity,66,0.216352,1.210721,Decreasing Pressure,upper regime
+TH003,Weak adaptive capacity,67,0.206604,1.169733,Decreasing Pressure,upper regime
+TH003,Weak adaptive capacity,68,0.196855,1.169103,Decreasing Pressure,upper regime
+TH003,Weak adaptive capacity,69,0.187107,1.193875,Decreasing Pressure,upper regime
+TH003,Weak adaptive capacity,70,0.177358,1.227569,Decreasing Pressure,upper regime
+TH003,Weak adaptive capacity,71,0.16761,1.227222,Decreasing Pressure,upper regime
+TH003,Weak adaptive capacity,72,0.157862,1.221901,Decreasing Pressure,upper regime
+TH003,Weak adaptive capacity,73,0.148113,1.18908,Decreasing Pressure,upper regime
+TH003,Weak adaptive capacity,74,0.138365,1.168102,Decreasing Pressure,upper regime
+TH003,Weak adaptive capacity,75,0.128616,1.165772,Decreasing Pressure,upper regime
+TH003,Weak adaptive capacity,76,0.118868,1.171503,Decreasing Pressure,upper regime
+TH003,Weak adaptive capacity,77,0.109119,1.177303,Decreasing Pressure,upper regime
+TH003,Weak adaptive capacity,78,0.099371,1.162712,Decreasing Pressure,upper regime
+TH003,Weak adaptive capacity,79,0.089623,1.137628,Decreasing Pressure,upper regime
+TH003,Weak adaptive capacity,80,0.079874,1.122263,Decreasing Pressure,upper regime
+TH003,Weak adaptive capacity,81,0.070126,1.101607,Decreasing Pressure,upper regime
+TH003,Weak adaptive capacity,82,0.060377,1.115461,Decreasing Pressure,upper regime
+TH003,Weak adaptive capacity,83,0.050629,1.073904,Decreasing Pressure,upper regime
+TH003,Weak adaptive capacity,84,0.040881,1.072458,Decreasing Pressure,upper regime
+TH003,Weak adaptive capacity,85,0.031132,1.084785,Decreasing Pressure,upper regime
+TH003,Weak adaptive capacity,86,0.021384,1.114511,Decreasing Pressure,upper regime
+TH003,Weak adaptive capacity,87,0.011635,1.114028,Decreasing Pressure,upper regime
+TH003,Weak adaptive capacity,88,0.001887,1.129858,Decreasing Pressure,upper regime
+TH003,Weak adaptive capacity,89,-0.007862,1.117957,Decreasing Pressure,upper regime
+TH003,Weak adaptive capacity,90,-0.01761,1.100892,Decreasing Pressure,upper regime
+TH003,Weak adaptive capacity,91,-0.027358,1.086726,Decreasing Pressure,upper regime
+TH003,Weak adaptive capacity,92,-0.037107,1.113397,Decreasing Pressure,upper regime
+TH003,Weak adaptive capacity,93,-0.046855,1.126743,Decreasing Pressure,upper regime
+TH003,Weak adaptive capacity,94,-0.056604,1.128767,Decreasing Pressure,upper regime
+TH003,Weak adaptive capacity,95,-0.066352,1.181212,Decreasing Pressure,upper regime
+TH003,Weak adaptive capacity,96,-0.076101,1.165292,Decreasing Pressure,upper regime
+TH003,Weak adaptive capacity,97,-0.085849,1.162966,Decreasing Pressure,upper regime
+TH003,Weak adaptive capacity,98,-0.095597,1.154856,Decreasing Pressure,upper regime
+TH003,Weak adaptive capacity,99,-0.105346,1.137875,Decreasing Pressure,upper regime
+TH003,Weak adaptive capacity,100,-0.115094,1.16842,Decreasing Pressure,upper regime
+TH003,Weak adaptive capacity,101,-0.124843,1.179645,Decreasing Pressure,upper regime
+TH003,Weak adaptive capacity,102,-0.134591,1.136426,Decreasing Pressure,upper regime
+TH003,Weak adaptive capacity,103,-0.14434,1.116815,Decreasing Pressure,upper regime
+TH003,Weak adaptive capacity,104,-0.154088,1.114181,Decreasing Pressure,upper regime
+TH003,Weak adaptive capacity,105,-0.163836,1.11778,Decreasing Pressure,upper regime
+TH003,Weak adaptive capacity,106,-0.173585,1.082066,Decreasing Pressure,upper regime
+TH003,Weak adaptive capacity,107,-0.183333,1.033875,Decreasing Pressure,upper regime
+TH003,Weak adaptive capacity,108,-0.193082,0.996684,Decreasing Pressure,upper regime
+TH003,Weak adaptive capacity,109,-0.20283,0.995559,Decreasing Pressure,upper regime
+TH003,Weak adaptive capacity,110,-0.212579,0.993469,Decreasing Pressure,upper regime
+TH003,Weak adaptive capacity,111,-0.222327,0.999148,Decreasing Pressure,upper regime
+TH003,Weak adaptive capacity,112,-0.232075,0.983767,Decreasing Pressure,upper regime
+TH003,Weak adaptive capacity,113,-0.241824,0.961061,Decreasing Pressure,upper regime
+TH003,Weak adaptive capacity,114,-0.251572,0.925348,Decreasing Pressure,upper regime
+TH003,Weak adaptive capacity,115,-0.261321,0.93411,Decreasing Pressure,upper regime
+TH003,Weak adaptive capacity,116,-0.271069,0.942511,Decreasing Pressure,upper regime
+TH003,Weak adaptive capacity,117,-0.280818,0.961032,Decreasing Pressure,upper regime
+TH003,Weak adaptive capacity,118,-0.290566,0.97402,Decreasing Pressure,upper regime
+TH003,Weak adaptive capacity,119,-0.300314,0.967809,Decreasing Pressure,upper regime
+TH003,Weak adaptive capacity,120,-0.310063,0.989336,Decreasing Pressure,upper regime
+TH003,Weak adaptive capacity,121,-0.319811,0.981834,Decreasing Pressure,upper regime
+TH003,Weak adaptive capacity,122,-0.32956,0.965047,Decreasing Pressure,upper regime
+TH003,Weak adaptive capacity,123,-0.339308,0.951675,Decreasing Pressure,upper regime
+TH003,Weak adaptive capacity,124,-0.349057,0.937701,Decreasing Pressure,upper regime
+TH003,Weak adaptive capacity,125,-0.358805,0.895814,Decreasing Pressure,upper regime
+TH003,Weak adaptive capacity,126,-0.368553,0.898005,Decreasing Pressure,upper regime
+TH003,Weak adaptive capacity,127,-0.378302,0.90126,Decreasing Pressure,upper regime
+TH003,Weak adaptive capacity,128,-0.38805,0.892809,Decreasing Pressure,upper regime
+TH003,Weak adaptive capacity,129,-0.397799,0.878055,Decreasing Pressure,upper regime
+TH003,Weak adaptive capacity,130,-0.407547,0.883206,Decreasing Pressure,upper regime
+TH003,Weak adaptive capacity,131,-0.417296,0.91179,Decreasing Pressure,upper regime
+TH003,Weak adaptive capacity,132,-0.427044,0.907932,Decreasing Pressure,upper regime
+TH003,Weak adaptive capacity,133,-0.436792,0.894009,Decreasing Pressure,upper regime
+TH003,Weak adaptive capacity,134,-0.446541,0.878949,Decreasing Pressure,upper regime
+TH003,Weak adaptive capacity,135,-0.456289,0.873664,Decreasing Pressure,upper regime
+TH003,Weak adaptive capacity,136,-0.466038,0.846674,Decreasing Pressure,upper regime
+TH003,Weak adaptive capacity,137,-0.475786,0.841083,Decreasing Pressure,upper regime
+TH003,Weak adaptive capacity,138,-0.485535,0.838622,Decreasing Pressure,upper regime
+TH003,Weak adaptive capacity,139,-0.495283,0.86789,Decreasing Pressure,upper regime
+TH003,Weak adaptive capacity,140,-0.505031,0.879008,Decreasing Pressure,upper regime
+TH003,Weak adaptive capacity,141,-0.51478,0.890664,Decreasing Pressure,upper regime
+TH003,Weak adaptive capacity,142,-0.524528,0.869717,Decreasing Pressure,upper regime
+TH003,Weak adaptive capacity,143,-0.534277,0.874352,Decreasing Pressure,upper regime
+TH003,Weak adaptive capacity,144,-0.544025,0.845681,Decreasing Pressure,upper regime
+TH003,Weak adaptive capacity,145,-0.553774,0.844108,Decreasing Pressure,upper regime
+TH003,Weak adaptive capacity,146,-0.563522,0.844043,Decreasing Pressure,upper regime
+TH003,Weak adaptive capacity,147,-0.57327,0.822162,Decreasing Pressure,upper regime
+TH003,Weak adaptive capacity,148,-0.583019,0.850542,Decreasing Pressure,upper regime
+TH003,Weak adaptive capacity,149,-0.592767,0.851384,Decreasing Pressure,upper regime
+TH003,Weak adaptive capacity,150,-0.602516,0.807236,Decreasing Pressure,upper regime
+TH003,Weak adaptive capacity,151,-0.612264,0.808707,Decreasing Pressure,upper regime
+TH003,Weak adaptive capacity,152,-0.622013,0.792351,Decreasing Pressure,upper regime
+TH003,Weak adaptive capacity,153,-0.631761,0.783456,Decreasing Pressure,upper regime
+TH003,Weak adaptive capacity,154,-0.641509,0.782727,Decreasing Pressure,upper regime
+TH003,Weak adaptive capacity,155,-0.651258,0.78018,Decreasing Pressure,upper regime
+TH003,Weak adaptive capacity,156,-0.661006,0.733492,Decreasing Pressure,upper regime
+TH003,Weak adaptive capacity,157,-0.670755,0.703383,Decreasing Pressure,upper regime
+TH003,Weak adaptive capacity,158,-0.680503,0.708068,Decreasing Pressure,upper regime
+TH003,Weak adaptive capacity,159,-0.690252,0.721711,Decreasing Pressure,upper regime
+TH003,Weak adaptive capacity,160,-0.7,0.745475,Decreasing Pressure,upper regime
+TH004,Precautionary adaptive response,1,-0.8,-0.959279,Increasing Pressure,lower regime
+TH004,Precautionary adaptive response,2,-0.790566,-1.014302,Increasing Pressure,lower regime
+TH004,Precautionary adaptive response,3,-0.781132,-1.063376,Increasing Pressure,lower regime
+TH004,Precautionary adaptive response,4,-0.771698,-1.097218,Increasing Pressure,lower regime
+TH004,Precautionary adaptive response,5,-0.762264,-1.136649,Increasing Pressure,lower regime
+TH004,Precautionary adaptive response,6,-0.75283,-1.187032,Increasing Pressure,lower regime
+TH004,Precautionary adaptive response,7,-0.743396,-1.207807,Increasing Pressure,lower regime
+TH004,Precautionary adaptive response,8,-0.733962,-1.232084,Increasing Pressure,lower regime
+TH004,Precautionary adaptive response,9,-0.724528,-1.251322,Increasing Pressure,lower regime
+TH004,Precautionary adaptive response,10,-0.715094,-1.262799,Increasing Pressure,lower regime
+TH004,Precautionary adaptive response,11,-0.70566,-1.270376,Increasing Pressure,lower regime
+TH004,Precautionary adaptive response,12,-0.696226,-1.264937,Increasing Pressure,lower regime
+TH004,Precautionary adaptive response,13,-0.686792,-1.266094,Increasing Pressure,lower regime
+TH004,Precautionary adaptive response,14,-0.677358,-1.273124,Increasing Pressure,lower regime
+TH004,Precautionary adaptive response,15,-0.667925,-1.288591,Increasing Pressure,lower regime
+TH004,Precautionary adaptive response,16,-0.658491,-1.304024,Increasing Pressure,lower regime
+TH004,Precautionary adaptive response,17,-0.649057,-1.300889,Increasing Pressure,lower regime
+TH004,Precautionary adaptive response,18,-0.639623,-1.285115,Increasing Pressure,lower regime
+TH004,Precautionary adaptive response,19,-0.630189,-1.287112,Increasing Pressure,lower regime
+TH004,Precautionary adaptive response,20,-0.620755,-1.290037,Increasing Pressure,lower regime
+TH004,Precautionary adaptive response,21,-0.611321,-1.28428,Increasing Pressure,lower regime
+TH004,Precautionary adaptive response,22,-0.601887,-1.302961,Increasing Pressure,lower regime
+TH004,Precautionary adaptive response,23,-0.592453,-1.303906,Increasing Pressure,lower regime
+TH004,Precautionary adaptive response,24,-0.583019,-1.294564,Increasing Pressure,lower regime
+TH004,Precautionary adaptive response,25,-0.573585,-1.281958,Increasing Pressure,lower regime
+TH004,Precautionary adaptive response,26,-0.564151,-1.284631,Increasing Pressure,lower regime
+TH004,Precautionary adaptive response,27,-0.554717,-1.278926,Increasing Pressure,lower regime
+TH004,Precautionary adaptive response,28,-0.545283,-1.275353,Increasing Pressure,lower regime
+TH004,Precautionary adaptive response,29,-0.535849,-1.265559,Increasing Pressure,lower regime
+TH004,Precautionary adaptive response,30,-0.526415,-1.279824,Increasing Pressure,lower regime
+TH004,Precautionary adaptive response,31,-0.516981,-1.270829,Increasing Pressure,lower regime
+TH004,Precautionary adaptive response,32,-0.507547,-1.28801,Increasing Pressure,lower regime
+TH004,Precautionary adaptive response,33,-0.498113,-1.314797,Increasing Pressure,lower regime
+TH004,Precautionary adaptive response,34,-0.488679,-1.311758,Increasing Pressure,lower regime
+TH004,Precautionary adaptive response,35,-0.479245,-1.312558,Increasing Pressure,lower regime
+TH004,Precautionary adaptive response,36,-0.469811,-1.291225,Increasing Pressure,lower regime
+TH004,Precautionary adaptive response,37,-0.460377,-1.276106,Increasing Pressure,lower regime
+TH004,Precautionary adaptive response,38,-0.450943,-1.285945,Increasing Pressure,lower regime
+TH004,Precautionary adaptive response,39,-0.441509,-1.268683,Increasing Pressure,lower regime
+TH004,Precautionary adaptive response,40,-0.432075,-1.276334,Increasing Pressure,lower regime
+TH004,Precautionary adaptive response,41,-0.422642,-1.271121,Increasing Pressure,lower regime
+TH004,Precautionary adaptive response,42,-0.413208,-1.268885,Increasing Pressure,lower regime
+TH004,Precautionary adaptive response,43,-0.403774,-1.261684,Increasing Pressure,lower regime
+TH004,Precautionary adaptive response,44,-0.39434,-1.246858,Increasing Pressure,lower regime
+TH004,Precautionary adaptive response,45,-0.384906,-1.236332,Increasing Pressure,lower regime
+TH004,Precautionary adaptive response,46,-0.375472,-1.230599,Increasing Pressure,lower regime
+TH004,Precautionary adaptive response,47,-0.366038,-1.221758,Increasing Pressure,lower regime
+TH004,Precautionary adaptive response,48,-0.356604,-1.215967,Increasing Pressure,lower regime
+TH004,Precautionary adaptive response,49,-0.34717,-1.223912,Increasing Pressure,lower regime
+TH004,Precautionary adaptive response,50,-0.337736,-1.231173,Increasing Pressure,lower regime
+TH004,Precautionary adaptive response,51,-0.328302,-1.233789,Increasing Pressure,lower regime
+TH004,Precautionary adaptive response,52,-0.318868,-1.223862,Increasing Pressure,lower regime
+TH004,Precautionary adaptive response,53,-0.309434,-1.224109,Increasing Pressure,lower regime
+TH004,Precautionary adaptive response,54,-0.3,-1.192814,Increasing Pressure,lower regime
+TH004,Precautionary adaptive response,55,-0.290566,-1.203885,Increasing Pressure,lower regime
+TH004,Precautionary adaptive response,56,-0.281132,-1.21612,Increasing Pressure,lower regime
+TH004,Precautionary adaptive response,57,-0.271698,-1.203521,Increasing Pressure,lower regime
+TH004,Precautionary adaptive response,58,-0.262264,-1.184621,Increasing Pressure,lower regime
+TH004,Precautionary adaptive response,59,-0.25283,-1.179151,Increasing Pressure,lower regime
+TH004,Precautionary adaptive response,60,-0.243396,-1.170065,Increasing Pressure,lower regime
+TH004,Precautionary adaptive response,61,-0.233962,-1.154757,Increasing Pressure,lower regime
+TH004,Precautionary adaptive response,62,-0.224528,-1.159406,Increasing Pressure,lower regime
+TH004,Precautionary adaptive response,63,-0.215094,-1.178876,Increasing Pressure,lower regime
+TH004,Precautionary adaptive response,64,-0.20566,-1.184359,Increasing Pressure,lower regime
+TH004,Precautionary adaptive response,65,-0.196226,-1.170732,Increasing Pressure,lower regime
+TH004,Precautionary adaptive response,66,-0.186792,-1.187408,Increasing Pressure,lower regime
+TH004,Precautionary adaptive response,67,-0.177358,-1.18341,Increasing Pressure,lower regime
+TH004,Precautionary adaptive response,68,-0.167925,-1.176906,Increasing Pressure,lower regime
+TH004,Precautionary adaptive response,69,-0.158491,-1.177725,Increasing Pressure,lower regime
+TH004,Precautionary adaptive response,70,-0.149057,-1.16548,Increasing Pressure,lower regime
+TH004,Precautionary adaptive response,71,-0.139623,-1.156265,Increasing Pressure,lower regime
+TH004,Precautionary adaptive response,72,-0.130189,-1.127,Increasing Pressure,lower regime
+TH004,Precautionary adaptive response,73,-0.120755,-1.121646,Increasing Pressure,lower regime
+TH004,Precautionary adaptive response,74,-0.111321,-1.131267,Increasing Pressure,lower regime
+TH004,Precautionary adaptive response,75,-0.101887,-1.138591,Increasing Pressure,lower regime
+TH004,Precautionary adaptive response,76,-0.092453,-1.147706,Increasing Pressure,lower regime
+TH004,Precautionary adaptive response,77,-0.083019,-1.133702,Increasing Pressure,lower regime
+TH004,Precautionary adaptive response,78,-0.073585,-1.139349,Increasing Pressure,lower regime
+TH004,Precautionary adaptive response,79,-0.064151,-1.13781,Increasing Pressure,lower regime
+TH004,Precautionary adaptive response,80,-0.054717,-1.126172,Increasing Pressure,lower regime
+TH004,Precautionary adaptive response,81,-0.045283,-1.133274,Increasing Pressure,lower regime
+TH004,Precautionary adaptive response,82,-0.035849,-1.133813,Increasing Pressure,lower regime
+TH004,Precautionary adaptive response,83,-0.026415,-1.15238,Increasing Pressure,lower regime
+TH004,Precautionary adaptive response,84,-0.016981,-1.158845,Increasing Pressure,lower regime
+TH004,Precautionary adaptive response,85,-0.007547,-1.157754,Increasing Pressure,lower regime
+TH004,Precautionary adaptive response,86,0.001887,-1.144543,Increasing Pressure,lower regime
+TH004,Precautionary adaptive response,87,0.011321,-1.123362,Increasing Pressure,lower regime
+TH004,Precautionary adaptive response,88,0.020755,-1.119066,Increasing Pressure,lower regime
+TH004,Precautionary adaptive response,89,0.030189,-1.111494,Increasing Pressure,lower regime
+TH004,Precautionary adaptive response,90,0.039623,-1.105529,Increasing Pressure,lower regime
+TH004,Precautionary adaptive response,91,0.049057,-1.088832,Increasing Pressure,lower regime
+TH004,Precautionary adaptive response,92,0.058491,-1.075974,Increasing Pressure,lower regime
+TH004,Precautionary adaptive response,93,0.067925,-1.071568,Increasing Pressure,lower regime
+TH004,Precautionary adaptive response,94,0.077358,-1.082603,Increasing Pressure,lower regime
+TH004,Precautionary adaptive response,95,0.086792,-1.068937,Increasing Pressure,lower regime
+TH004,Precautionary adaptive response,96,0.096226,-1.06262,Increasing Pressure,lower regime
+TH004,Precautionary adaptive response,97,0.10566,-1.046377,Increasing Pressure,lower regime
+TH004,Precautionary adaptive response,98,0.115094,-1.04648,Increasing Pressure,lower regime
+TH004,Precautionary adaptive response,99,0.124528,-1.022304,Increasing Pressure,lower regime
+TH004,Precautionary adaptive response,100,0.133962,-1.02783,Increasing Pressure,lower regime
+TH004,Precautionary adaptive response,101,0.143396,-1.008921,Increasing Pressure,lower regime
+TH004,Precautionary adaptive response,102,0.15283,-1.009083,Increasing Pressure,lower regime
+TH004,Precautionary adaptive response,103,0.162264,-1.016336,Increasing Pressure,lower regime
+TH004,Precautionary adaptive response,104,0.171698,-1.029782,Increasing Pressure,lower regime
+TH004,Precautionary adaptive response,105,0.181132,-1.029723,Increasing Pressure,lower regime
+TH004,Precautionary adaptive response,106,0.190566,-1.010306,Increasing Pressure,lower regime
+TH004,Precautionary adaptive response,107,0.2,-0.999566,Increasing Pressure,lower regime
+TH004,Precautionary adaptive response,108,0.209434,-0.990866,Increasing Pressure,lower regime
+TH004,Precautionary adaptive response,109,0.218868,-1.019243,Increasing Pressure,lower regime
+TH004,Precautionary adaptive response,110,0.228302,-1.007509,Increasing Pressure,lower regime
+TH004,Precautionary adaptive response,111,0.237736,-0.998267,Increasing Pressure,lower regime
+TH004,Precautionary adaptive response,112,0.24717,-1.002663,Increasing Pressure,lower regime
+TH004,Precautionary adaptive response,113,0.256604,-1.007121,Increasing Pressure,lower regime
+TH004,Precautionary adaptive response,114,0.266038,-1.003198,Increasing Pressure,lower regime
+TH004,Precautionary adaptive response,115,0.275472,-0.978437,Increasing Pressure,lower regime
+TH004,Precautionary adaptive response,116,0.284906,-0.988724,Increasing Pressure,lower regime
+TH004,Precautionary adaptive response,117,0.29434,-0.990137,Increasing Pressure,lower regime
+TH004,Precautionary adaptive response,118,0.303774,-0.96948,Increasing Pressure,lower regime
+TH004,Precautionary adaptive response,119,0.313208,-0.971782,Increasing Pressure,lower regime
+TH004,Precautionary adaptive response,120,0.322642,-0.972442,Increasing Pressure,lower regime
+TH004,Precautionary adaptive response,121,0.332075,-0.967032,Increasing Pressure,lower regime
+TH004,Precautionary adaptive response,122,0.341509,-0.977658,Increasing Pressure,lower regime
+TH004,Precautionary adaptive response,123,0.350943,-0.969408,Increasing Pressure,lower regime
+TH004,Precautionary adaptive response,124,0.360377,-0.978519,Increasing Pressure,lower regime
+TH004,Precautionary adaptive response,125,0.369811,-0.961271,Increasing Pressure,lower regime
+TH004,Precautionary adaptive response,126,0.379245,-0.955534,Increasing Pressure,lower regime
+TH004,Precautionary adaptive response,127,0.388679,-0.922408,Increasing Pressure,lower regime
+TH004,Precautionary adaptive response,128,0.398113,-0.915236,Increasing Pressure,lower regime
+TH004,Precautionary adaptive response,129,0.407547,-0.895052,Increasing Pressure,lower regime
+TH004,Precautionary adaptive response,130,0.416981,-0.907693,Increasing Pressure,lower regime
+TH004,Precautionary adaptive response,131,0.426415,-0.904907,Increasing Pressure,lower regime
+TH004,Precautionary adaptive response,132,0.435849,-0.896482,Increasing Pressure,lower regime
+TH004,Precautionary adaptive response,133,0.445283,-0.871034,Increasing Pressure,lower regime
+TH004,Precautionary adaptive response,134,0.454717,-0.887688,Increasing Pressure,lower regime
+TH004,Precautionary adaptive response,135,0.464151,-0.87088,Increasing Pressure,lower regime
+TH004,Precautionary adaptive response,136,0.473585,-0.859332,Increasing Pressure,lower regime
+TH004,Precautionary adaptive response,137,0.483019,-0.83661,Increasing Pressure,lower regime
+TH004,Precautionary adaptive response,138,0.492453,-0.824357,Increasing Pressure,lower regime
+TH004,Precautionary adaptive response,139,0.501887,-0.820089,Increasing Pressure,lower regime
+TH004,Precautionary adaptive response,140,0.511321,-0.822411,Increasing Pressure,lower regime
+TH004,Precautionary adaptive response,141,0.520755,-0.832884,Increasing Pressure,lower regime
+TH004,Precautionary adaptive response,142,0.530189,-0.825114,Increasing Pressure,lower regime
+TH004,Precautionary adaptive response,143,0.539623,-0.821853,Increasing Pressure,lower regime
+TH004,Precautionary adaptive response,144,0.549057,-0.791712,Increasing Pressure,lower regime
+TH004,Precautionary adaptive response,145,0.558491,-0.79381,Increasing Pressure,lower regime
+TH004,Precautionary adaptive response,146,0.567925,-0.784187,Increasing Pressure,lower regime
+TH004,Precautionary adaptive response,147,0.577358,-0.797087,Increasing Pressure,lower regime
+TH004,Precautionary adaptive response,148,0.586792,-0.794997,Increasing Pressure,lower regime
+TH004,Precautionary adaptive response,149,0.596226,-0.784629,Increasing Pressure,lower regime
+TH004,Precautionary adaptive response,150,0.60566,-0.767383,Increasing Pressure,lower regime
+TH004,Precautionary adaptive response,151,0.615094,-0.7427,Increasing Pressure,lower regime
+TH004,Precautionary adaptive response,152,0.624528,-0.736081,Increasing Pressure,lower regime
+TH004,Precautionary adaptive response,153,0.633962,-0.742014,Increasing Pressure,lower regime
+TH004,Precautionary adaptive response,154,0.643396,-0.728444,Increasing Pressure,lower regime
+TH004,Precautionary adaptive response,155,0.65283,-0.713978,Increasing Pressure,lower regime
+TH004,Precautionary adaptive response,156,0.662264,-0.699606,Increasing Pressure,lower regime
+TH004,Precautionary adaptive response,157,0.671698,-0.69928,Increasing Pressure,lower regime
+TH004,Precautionary adaptive response,158,0.681132,-0.676482,Increasing Pressure,lower regime
+TH004,Precautionary adaptive response,159,0.690566,-0.666009,Increasing Pressure,lower regime
+TH004,Precautionary adaptive response,160,0.7,-0.647801,Increasing Pressure,lower regime
+TH004,Precautionary adaptive response,1,0.7,-0.622787,Decreasing Pressure,lower regime
+TH004,Precautionary adaptive response,2,0.690566,-0.606237,Decreasing Pressure,lower regime
+TH004,Precautionary adaptive response,3,0.681132,-0.593976,Decreasing Pressure,lower regime
+TH004,Precautionary adaptive response,4,0.671698,-0.559719,Decreasing Pressure,lower regime
+TH004,Precautionary adaptive response,5,0.662264,-0.548496,Decreasing Pressure,lower regime
+TH004,Precautionary adaptive response,6,0.65283,-0.544066,Decreasing Pressure,lower regime
+TH004,Precautionary adaptive response,7,0.643396,-0.535144,Decreasing Pressure,lower regime
+TH004,Precautionary adaptive response,8,0.633962,-0.510098,Decreasing Pressure,lower regime
+TH004,Precautionary adaptive response,9,0.624528,-0.501417,Decreasing Pressure,lower regime
+TH004,Precautionary adaptive response,10,0.615094,-0.488211,Decreasing Pressure,lower regime
+TH004,Precautionary adaptive response,11,0.60566,-0.467054,Decreasing Pressure,lower regime
+TH004,Precautionary adaptive response,12,0.596226,-0.466326,Decreasing Pressure,lower regime
+TH004,Precautionary adaptive response,13,0.586792,-0.480615,Decreasing Pressure,lower regime
+TH004,Precautionary adaptive response,14,0.577358,-0.47144,Decreasing Pressure,lower regime
+TH004,Precautionary adaptive response,15,0.567925,-0.463334,Decreasing Pressure,lower regime
+TH004,Precautionary adaptive response,16,0.558491,-0.465532,Decreasing Pressure,lower regime
+TH004,Precautionary adaptive response,17,0.549057,-0.450514,Decreasing Pressure,lower regime
+TH004,Precautionary adaptive response,18,0.539623,-0.438701,Decreasing Pressure,lower regime
+TH004,Precautionary adaptive response,19,0.530189,-0.446232,Decreasing Pressure,lower regime
+TH004,Precautionary adaptive response,20,0.520755,-0.436306,Decreasing Pressure,lower regime
+TH004,Precautionary adaptive response,21,0.511321,-0.435119,Decreasing Pressure,lower regime
+TH004,Precautionary adaptive response,22,0.501887,-0.449809,Decreasing Pressure,lower regime
+TH004,Precautionary adaptive response,23,0.492453,-0.442189,Decreasing Pressure,lower regime
+TH004,Precautionary adaptive response,24,0.483019,-0.440789,Decreasing Pressure,lower regime
+TH004,Precautionary adaptive response,25,0.473585,-0.448219,Decreasing Pressure,lower regime
+TH004,Precautionary adaptive response,26,0.464151,-0.441126,Decreasing Pressure,lower regime
+TH004,Precautionary adaptive response,27,0.454717,-0.434709,Decreasing Pressure,lower regime
+TH004,Precautionary adaptive response,28,0.445283,-0.44135,Decreasing Pressure,lower regime
+TH004,Precautionary adaptive response,29,0.435849,-0.436936,Decreasing Pressure,lower regime
+TH004,Precautionary adaptive response,30,0.426415,-0.42548,Decreasing Pressure,lower regime
+TH004,Precautionary adaptive response,31,0.416981,-0.43486,Decreasing Pressure,lower regime
+TH004,Precautionary adaptive response,32,0.407547,-0.431892,Decreasing Pressure,lower regime
+TH004,Precautionary adaptive response,33,0.398113,-0.433839,Decreasing Pressure,lower regime
+TH004,Precautionary adaptive response,34,0.388679,-0.409161,Decreasing Pressure,lower regime
+TH004,Precautionary adaptive response,35,0.379245,-0.433671,Decreasing Pressure,lower regime
+TH004,Precautionary adaptive response,36,0.369811,-0.428779,Decreasing Pressure,lower regime
+TH004,Precautionary adaptive response,37,0.360377,-0.43622,Decreasing Pressure,lower regime
+TH004,Precautionary adaptive response,38,0.350943,-0.441898,Decreasing Pressure,lower regime
+TH004,Precautionary adaptive response,39,0.341509,-0.424203,Decreasing Pressure,lower regime
+TH004,Precautionary adaptive response,40,0.332075,-0.429338,Decreasing Pressure,lower regime
+TH004,Precautionary adaptive response,41,0.322642,-0.408117,Decreasing Pressure,lower regime
+TH004,Precautionary adaptive response,42,0.313208,-0.418851,Decreasing Pressure,lower regime
+TH004,Precautionary adaptive response,43,0.303774,-0.420913,Decreasing Pressure,lower regime
+TH004,Precautionary adaptive response,44,0.29434,-0.433613,Decreasing Pressure,lower regime
+TH004,Precautionary adaptive response,45,0.284906,-0.449596,Decreasing Pressure,lower regime
+TH004,Precautionary adaptive response,46,0.275472,-0.457504,Decreasing Pressure,lower regime
+TH004,Precautionary adaptive response,47,0.266038,-0.470256,Decreasing Pressure,lower regime
+TH004,Precautionary adaptive response,48,0.256604,-0.478011,Decreasing Pressure,lower regime
+TH004,Precautionary adaptive response,49,0.24717,-0.514132,Decreasing Pressure,lower regime
+TH004,Precautionary adaptive response,50,0.237736,-0.502269,Decreasing Pressure,lower regime
+TH004,Precautionary adaptive response,51,0.228302,-0.516658,Decreasing Pressure,lower regime
+TH004,Precautionary adaptive response,52,0.218868,-0.508904,Decreasing Pressure,lower regime
+TH004,Precautionary adaptive response,53,0.209434,-0.534462,Decreasing Pressure,lower regime
+TH004,Precautionary adaptive response,54,0.2,-0.545386,Decreasing Pressure,lower regime
+TH004,Precautionary adaptive response,55,0.190566,-0.52249,Decreasing Pressure,lower regime
+TH004,Precautionary adaptive response,56,0.181132,-0.548088,Decreasing Pressure,lower regime
+TH004,Precautionary adaptive response,57,0.171698,-0.5821,Decreasing Pressure,lower regime
+TH004,Precautionary adaptive response,58,0.162264,-0.605609,Decreasing Pressure,lower regime
+TH004,Precautionary adaptive response,59,0.15283,-0.617528,Decreasing Pressure,lower regime
+TH004,Precautionary adaptive response,60,0.143396,-0.627315,Decreasing Pressure,lower regime
+TH004,Precautionary adaptive response,61,0.133962,-0.630429,Decreasing Pressure,lower regime
+TH004,Precautionary adaptive response,62,0.124528,-0.652584,Decreasing Pressure,lower regime
+TH004,Precautionary adaptive response,63,0.115094,-0.691316,Decreasing Pressure,lower regime
+TH004,Precautionary adaptive response,64,0.10566,-0.716212,Decreasing Pressure,lower regime
+TH004,Precautionary adaptive response,65,0.096226,-0.721122,Decreasing Pressure,lower regime
+TH004,Precautionary adaptive response,66,0.086792,-0.735712,Decreasing Pressure,lower regime
+TH004,Precautionary adaptive response,67,0.077358,-0.779559,Decreasing Pressure,lower regime
+TH004,Precautionary adaptive response,68,0.067925,-0.799669,Decreasing Pressure,lower regime
+TH004,Precautionary adaptive response,69,0.058491,-0.802379,Decreasing Pressure,lower regime
+TH004,Precautionary adaptive response,70,0.049057,-0.796721,Decreasing Pressure,lower regime
+TH004,Precautionary adaptive response,71,0.039623,-0.810516,Decreasing Pressure,lower regime
+TH004,Precautionary adaptive response,72,0.030189,-0.827303,Decreasing Pressure,lower regime
+TH004,Precautionary adaptive response,73,0.020755,-0.862475,Decreasing Pressure,lower regime
+TH004,Precautionary adaptive response,74,0.011321,-0.891698,Decreasing Pressure,lower regime
+TH004,Precautionary adaptive response,75,0.001887,-0.909092,Decreasing Pressure,lower regime
+TH004,Precautionary adaptive response,76,-0.007547,-0.920411,Decreasing Pressure,lower regime
+TH004,Precautionary adaptive response,77,-0.016981,-0.930535,Decreasing Pressure,lower regime
+TH004,Precautionary adaptive response,78,-0.026415,-0.95314,Decreasing Pressure,lower regime
+TH004,Precautionary adaptive response,79,-0.035849,-0.982648,Decreasing Pressure,lower regime
+TH004,Precautionary adaptive response,80,-0.045283,-1.005763,Decreasing Pressure,lower regime
+TH004,Precautionary adaptive response,81,-0.054717,-1.031859,Decreasing Pressure,lower regime
+TH004,Precautionary adaptive response,82,-0.064151,-1.034324,Decreasing Pressure,lower regime
+TH004,Precautionary adaptive response,83,-0.073585,-1.072483,Decreasing Pressure,lower regime
+TH004,Precautionary adaptive response,84,-0.083019,-1.083303,Decreasing Pressure,lower regime
+TH004,Precautionary adaptive response,85,-0.092453,-1.08396,Decreasing Pressure,lower regime
+TH004,Precautionary adaptive response,86,-0.101887,-1.072146,Decreasing Pressure,lower regime
+TH004,Precautionary adaptive response,87,-0.111321,-1.079564,Decreasing Pressure,lower regime
+TH004,Precautionary adaptive response,88,-0.120755,-1.075451,Decreasing Pressure,lower regime
+TH004,Precautionary adaptive response,89,-0.130189,-1.089082,Decreasing Pressure,lower regime
+TH004,Precautionary adaptive response,90,-0.139623,-1.105753,Decreasing Pressure,lower regime
+TH004,Precautionary adaptive response,91,-0.149057,-1.120044,Decreasing Pressure,lower regime
+TH004,Precautionary adaptive response,92,-0.158491,-1.106589,Decreasing Pressure,lower regime
+TH004,Precautionary adaptive response,93,-0.167925,-1.101697,Decreasing Pressure,lower regime
+TH004,Precautionary adaptive response,94,-0.177358,-1.103959,Decreasing Pressure,lower regime
+TH004,Precautionary adaptive response,95,-0.186792,-1.072302,Decreasing Pressure,lower regime
+TH004,Precautionary adaptive response,96,-0.196226,-1.085191,Decreasing Pressure,lower regime
+TH004,Precautionary adaptive response,97,-0.20566,-1.089243,Decreasing Pressure,lower regime
+TH004,Precautionary adaptive response,98,-0.215094,-1.097045,Decreasing Pressure,lower regime
+TH004,Precautionary adaptive response,99,-0.224528,-1.110741,Decreasing Pressure,lower regime
+TH004,Precautionary adaptive response,100,-0.233962,-1.092771,Decreasing Pressure,lower regime
+TH004,Precautionary adaptive response,101,-0.243396,-1.087182,Decreasing Pressure,lower regime
+TH004,Precautionary adaptive response,102,-0.25283,-1.117597,Decreasing Pressure,lower regime
+TH004,Precautionary adaptive response,103,-0.262264,-1.132769,Decreasing Pressure,lower regime
+TH004,Precautionary adaptive response,104,-0.271698,-1.136504,Decreasing Pressure,lower regime
+TH004,Precautionary adaptive response,105,-0.281132,-1.135955,Decreasing Pressure,lower regime
+TH004,Precautionary adaptive response,106,-0.290566,-1.16153,Decreasing Pressure,lower regime
+TH004,Precautionary adaptive response,107,-0.3,-1.194935,Decreasing Pressure,lower regime
+TH004,Precautionary adaptive response,108,-0.309434,-1.219668,Decreasing Pressure,lower regime
+TH004,Precautionary adaptive response,109,-0.318868,-1.218927,Decreasing Pressure,lower regime
+TH004,Precautionary adaptive response,110,-0.328302,-1.219163,Decreasing Pressure,lower regime
+TH004,Precautionary adaptive response,111,-0.337736,-1.214451,Decreasing Pressure,lower regime
+TH004,Precautionary adaptive response,112,-0.34717,-1.224354,Decreasing Pressure,lower regime
+TH004,Precautionary adaptive response,113,-0.356604,-1.238568,Decreasing Pressure,lower regime
+TH004,Precautionary adaptive response,114,-0.366038,-1.260459,Decreasing Pressure,lower regime
+TH004,Precautionary adaptive response,115,-0.375472,-1.250782,Decreasing Pressure,lower regime
+TH004,Precautionary adaptive response,116,-0.384906,-1.242794,Decreasing Pressure,lower regime
+TH004,Precautionary adaptive response,117,-0.39434,-1.229186,Decreasing Pressure,lower regime
+TH004,Precautionary adaptive response,118,-0.403774,-1.220777,Decreasing Pressure,lower regime
+TH004,Precautionary adaptive response,119,-0.413208,-1.226007,Decreasing Pressure,lower regime
+TH004,Precautionary adaptive response,120,-0.422642,-1.212368,Decreasing Pressure,lower regime
+TH004,Precautionary adaptive response,121,-0.432075,-1.219251,Decreasing Pressure,lower regime
+TH004,Precautionary adaptive response,122,-0.441509,-1.231786,Decreasing Pressure,lower regime
+TH004,Precautionary adaptive response,123,-0.450943,-1.241038,Decreasing Pressure,lower regime
+TH004,Precautionary adaptive response,124,-0.460377,-1.249966,Decreasing Pressure,lower regime
+TH004,Precautionary adaptive response,125,-0.469811,-1.276795,Decreasing Pressure,lower regime
+TH004,Precautionary adaptive response,126,-0.479245,-1.271417,Decreasing Pressure,lower regime
+TH004,Precautionary adaptive response,127,-0.488679,-1.266375,Decreasing Pressure,lower regime
+TH004,Precautionary adaptive response,128,-0.498113,-1.270066,Decreasing Pressure,lower regime
+TH004,Precautionary adaptive response,129,-0.507547,-1.277778,Decreasing Pressure,lower regime
+TH004,Precautionary adaptive response,130,-0.516981,-1.27152,Decreasing Pressure,lower regime
+TH004,Precautionary adaptive response,131,-0.526415,-1.250742,Decreasing Pressure,lower regime
+TH004,Precautionary adaptive response,132,-0.535849,-1.25429,Decreasing Pressure,lower regime
+TH004,Precautionary adaptive response,133,-0.545283,-1.264238,Decreasing Pressure,lower regime
+TH004,Precautionary adaptive response,134,-0.554717,-1.273894,Decreasing Pressure,lower regime
+TH004,Precautionary adaptive response,135,-0.564151,-1.276008,Decreasing Pressure,lower regime
+TH004,Precautionary adaptive response,136,-0.573585,-1.292545,Decreasing Pressure,lower regime
+TH004,Precautionary adaptive response,137,-0.583019,-1.292781,Decreasing Pressure,lower regime
+TH004,Precautionary adaptive response,138,-0.592453,-1.291206,Decreasing Pressure,lower regime
+TH004,Precautionary adaptive response,139,-0.601887,-1.269001,Decreasing Pressure,lower regime
+TH004,Precautionary adaptive response,140,-0.611321,-1.262208,Decreasing Pressure,lower regime
+TH004,Precautionary adaptive response,141,-0.620755,-1.256024,Decreasing Pressure,lower regime
+TH004,Precautionary adaptive response,142,-0.630189,-1.272375,Decreasing Pressure,lower regime
+TH004,Precautionary adaptive response,143,-0.639623,-1.269665,Decreasing Pressure,lower regime
+TH004,Precautionary adaptive response,144,-0.649057,-1.289632,Decreasing Pressure,lower regime
+TH004,Precautionary adaptive response,145,-0.658491,-1.288949,Decreasing Pressure,lower regime
+TH004,Precautionary adaptive response,146,-0.667925,-1.287585,Decreasing Pressure,lower regime
+TH004,Precautionary adaptive response,147,-0.677358,-1.301172,Decreasing Pressure,lower regime
+TH004,Precautionary adaptive response,148,-0.686792,-1.279442,Decreasing Pressure,lower regime
+TH004,Precautionary adaptive response,149,-0.696226,-1.279491,Decreasing Pressure,lower regime
+TH004,Precautionary adaptive response,150,-0.70566,-1.309643,Decreasing Pressure,lower regime
+TH004,Precautionary adaptive response,151,-0.715094,-1.30503,Decreasing Pressure,lower regime
+TH004,Precautionary adaptive response,152,-0.724528,-1.313317,Decreasing Pressure,lower regime
+TH004,Precautionary adaptive response,153,-0.733962,-1.315537,Decreasing Pressure,lower regime
+TH004,Precautionary adaptive response,154,-0.743396,-1.312214,Decreasing Pressure,lower regime
+TH004,Precautionary adaptive response,155,-0.75283,-1.310926,Decreasing Pressure,lower regime
+TH004,Precautionary adaptive response,156,-0.762264,-1.339522,Decreasing Pressure,lower regime
+TH004,Precautionary adaptive response,157,-0.771698,-1.352201,Decreasing Pressure,lower regime
+TH004,Precautionary adaptive response,158,-0.781132,-1.339497,Decreasing Pressure,lower regime
+TH004,Precautionary adaptive response,159,-0.790566,-1.323611,Decreasing Pressure,lower regime
+TH004,Precautionary adaptive response,160,-0.8,-1.304245,Decreasing Pressure,lower regime

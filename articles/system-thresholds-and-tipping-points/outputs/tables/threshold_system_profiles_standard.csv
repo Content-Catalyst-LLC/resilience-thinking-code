@@ -1,0 +1,9 @@
+system_id,system_name,system_type,critical_function,threshold_risk_score,pressure,feedback_strength,disturbance_load,adaptive_capacity,system_memory,recovery_speed,diagnostic
+ST001,Shallow Lake Nutrient System,ecological,clear water aquatic habitat nutrient cycling and recreational function,0.383,0.68,0.72,0.46,0.48,0.56,0.42,feedback amplification concern
+ST002,Dryland Vegetation System,ecological,soil retention vegetation cover infiltration and pastoral livelihoods,0.4144,0.70,0.68,0.58,0.46,0.50,0.38,mixed threshold profile requiring monitoring
+ST003,Urban Stormwater Network,infrastructure,flood control drainage mobility public health and property protection,0.4494,0.74,0.66,0.62,0.44,0.46,0.36,low recovery or adaptive-capacity concern
+ST004,Public Health Surge System,institutional,surveillance care access communication and surge response,0.4396,0.72,0.64,0.70,0.50,0.52,0.40,mixed threshold profile requiring monitoring
+ST005,Financial Liquidity Network,economic,liquidity credit flows confidence and payment continuity,0.4614,0.76,0.78,0.56,0.45,0.42,0.34,low recovery or adaptive-capacity concern
+ST006,Forest Regeneration System,ecological,forest regeneration soil protection habitat and watershed function,0.401,0.66,0.70,0.60,0.52,0.58,0.44,mixed threshold profile requiring monitoring
+ST007,Institutional Legitimacy System,institutional,public trust compliance legitimacy and administrative capacity,0.3872,0.62,0.74,0.50,0.46,0.48,0.32,low recovery or adaptive-capacity concern
+ST008,Regional Food Supply System,social-ecological,food availability distribution labor and household security,0.4116,0.70,0.62,0.64,0.50,0.54,0.42,mixed threshold profile requiring monitoring
