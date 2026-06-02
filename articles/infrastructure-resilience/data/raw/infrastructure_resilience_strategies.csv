@@ -1,0 +1,7 @@
+strategy_id,strategy,system_domain,service_continuity,redundancy,recovery_speed,adaptive_capacity,equity_protection,cascading_exposure,critical_service
+INF001,Grid Redundancy and Microgrid Expansion,energy infrastructure,8.7,8.9,8.0,8.2,7.8,3.9,maintains power for hospitals shelters water pumping cooling communications and critical facilities
+INF002,Flood-Resilient Transport Retrofit Program,transport infrastructure,8.1,7.6,7.8,7.9,7.6,4.1,protects emergency routes freight corridors transit access evacuation and repair mobility
+INF003,Distributed Backup Water and Pumping Capacity,water infrastructure,8.3,8.5,7.9,8.0,7.9,4.0,maintains safe water pressure treatment pumping storage and sanitation during disruption
+INF004,Cross-Network Monitoring and Dependency Mapping,cross-network governance,7.9,7.4,8.2,8.6,7.7,3.8,improves visibility across power water transport communications hospitals and logistics dependencies
+INF005,Hybrid Wetland and Stormwater Infrastructure,nature-based and hybrid infrastructure,8.0,7.8,7.6,8.4,8.1,3.6,reduces flood peaks heat stormwater stress and ecological degradation through hybrid grey-green systems
+INF006,Equitable Critical Service Restoration Program,equity and recovery governance,8.4,8.0,8.6,8.1,8.9,3.4,prioritizes restoration for medically vulnerable households shelters public housing schools and essential services

@@ -1,0 +1,7 @@
+strategy_id,strategy,mean_resilience_value,median_resilience_value,probability_ranked_first,probability_top_two,probability_bottom_two
+INF006,Equitable Critical Service Restoration Program,7.44788,7.44337,46.73,75.13,3.83
+INF001,Grid Redundancy and Microgrid Expansion,7.37884,7.3863,35.53,65.73,6.7
+INF003,Distributed Backup Water and Pumping Capacity,7.17326,7.17927,9.4,29.97,22.5
+INF005,Hybrid Wetland and Stormwater Infrastructure,7.03466,7.03892,4.47,14.27,43.7
+INF004,Cross-Network Monitoring and Dependency Mapping,6.99289,6.99044,2.93,10.73,51.23
+INF002,Flood-Resilient Transport Retrofit Program,6.86332,6.86189,0.93,4.17,72.03

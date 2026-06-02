@@ -1,0 +1,7 @@
+system,mean_service_level,minimum_service_level,final_service_level,mean_equity_adjusted_service,maximum_interdependence_coupling,final_interdependence_coupling
+Hospital and Public Health Support Network,0.98751,0.85547,1.0,0.98358,0.91762,0.91762
+Hybrid Watershed Stormwater System,0.98862,0.86131,1.0,0.98314,0.76866,0.76866
+Telecommunications and Emergency Data Network,0.98839,0.85742,1.0,0.98258,0.92791,0.92791
+Regional Power Distribution Network,0.98664,0.85115,1.0,0.98215,0.93902,0.93902
+Urban Water Pumping and Treatment System,0.9855,0.84913,1.0,0.98206,0.90248,0.90248
+Transit and Emergency Mobility Corridor,0.97992,0.83854,1.0,0.97695,0.8669,0.8669

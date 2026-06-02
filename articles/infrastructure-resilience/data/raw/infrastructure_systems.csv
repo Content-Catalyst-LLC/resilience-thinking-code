@@ -1,0 +1,7 @@
+system_id,system,system_domain,baseline_service,shock_exposure,chronic_stress,redundancy_capacity,recovery_capacity,adaptive_capacity,equity_sensitivity,interdependence_coupling,critical_service
+SYS001,Regional Power Distribution Network,energy,0.86,0.70,0.58,0.66,0.72,0.70,0.78,0.80,electricity for cooling healthcare water communications and household safety
+SYS002,Urban Water Pumping and Treatment System,water,0.84,0.68,0.62,0.64,0.70,0.68,0.82,0.76,safe water pressure treatment sanitation and fire suppression
+SYS003,Transit and Emergency Mobility Corridor,transport,0.80,0.72,0.56,0.58,0.66,0.64,0.76,0.70,emergency access evacuation labor mobility freight and public transit continuity
+SYS004,Hospital and Public Health Support Network,health infrastructure,0.83,0.66,0.64,0.62,0.74,0.70,0.84,0.78,clinical continuity surge capacity medical devices cooling communications and supply delivery
+SYS005,Telecommunications and Emergency Data Network,digital communications,0.88,0.64,0.54,0.72,0.68,0.74,0.72,0.82,warning coordination public information dispatch logistics and infrastructure control
+SYS006,Hybrid Watershed Stormwater System,ecological and grey-green infrastructure,0.82,0.74,0.66,0.60,0.62,0.78,0.74,0.64,flood buffering runoff absorption drainage cooling water quality and ecosystem function

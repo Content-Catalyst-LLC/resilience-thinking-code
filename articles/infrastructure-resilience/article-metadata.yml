@@ -1,0 +1,21 @@
+title: "Infrastructure Resilience"
+slug: "infrastructure-resilience"
+article_url: "https://sustainablecatalyst.com/infrastructure-resilience/"
+github_url: "https://github.com/Content-Catalyst-LLC/resilience-thinking-code/tree/main/articles/infrastructure-resilience"
+series: "Resilience Thinking"
+series_url: "https://sustainablecatalyst.com/resilience-thinking/"
+description: "Companion infrastructure resilience modeling scaffold for service-continuity scoring, redundancy and recovery diagnostics, adaptive-capacity review, equity-adjusted resilience value, cascading-exposure analysis, and Monte Carlo uncertainty analysis."
+keywords:
+  - infrastructure resilience
+  - resilience thinking
+  - service continuity
+  - critical infrastructure
+  - cascading failure
+  - infrastructure interdependence
+  - redundancy
+  - modularity
+  - recovery time
+  - adaptive capacity
+  - equity-adjusted resilience
+  - cyber-physical infrastructure
+  - Monte Carlo uncertainty

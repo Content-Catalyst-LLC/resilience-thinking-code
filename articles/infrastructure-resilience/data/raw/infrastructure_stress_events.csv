@@ -1,0 +1,6 @@
+event_id,event_name,primary_hazard,shock_intensity,chronic_stress,compound_risk,cascading_dependency,equity_burden,affected_services
+EV001,Extreme rainfall and transport flooding,flood,0.82,0.56,0.70,0.74,0.80,roads bridges stormwater emergency access water quality and power restoration
+EV002,Heatwave with grid demand surge,heatwave,0.80,0.64,0.72,0.78,0.84,power cooling public health water demand communications and labor safety
+EV003,Wildfire corridor and smoke disruption,wildfire,0.84,0.60,0.73,0.76,0.76,power transmission communications evacuation transport healthcare and air filtration
+EV004,Cyber-physical control disruption,cyber-physical,0.76,0.52,0.68,0.86,0.70,water controls grid telemetry dispatch public communication and billing systems
+EV005,Compound power water health outage,compound,0.88,0.68,0.86,0.84,0.88,power water hospitals communications transport logistics and emergency response

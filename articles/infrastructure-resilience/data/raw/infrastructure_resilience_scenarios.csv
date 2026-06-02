@@ -1,0 +1,8 @@
+scenario,service_continuity_weight,redundancy_weight,recovery_speed_weight,adaptive_capacity_weight,equity_protection_weight,cascading_exposure_weight,description
+Balanced,0.22,0.20,0.18,0.16,0.16,0.08,Balanced infrastructure resilience across continuity redundancy recovery adaptation equity and cascade risk.
+Continuity-first,0.42,0.16,0.14,0.12,0.10,0.06,Prioritizes maintaining essential service under disruption.
+Redundancy-first,0.16,0.42,0.14,0.12,0.10,0.06,Prioritizes backup pathways reserve capacity and single-point-failure reduction.
+Recovery-first,0.16,0.14,0.42,0.12,0.10,0.06,Prioritizes rapid restoration of minimum and full service.
+Adaptation-first,0.14,0.14,0.14,0.42,0.10,0.06,Prioritizes capacity to revise design operations and standards as conditions change.
+Equity-first,0.14,0.14,0.14,0.12,0.42,0.04,Prioritizes service continuity and restoration for vulnerable users and historically underserved places.
+Cascade-sensitive,0.18,0.16,0.14,0.14,0.12,0.26,Prioritizes penalties for cross-system dependencies and cascading exposure.

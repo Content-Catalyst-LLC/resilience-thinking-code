@@ -1,0 +1,7 @@
+criterion,definition,measurement_note
+service_continuity,Ability to maintain minimum essential service during disruption,Measure by service availability service quality duration and critical-user access
+redundancy,Backup pathways reserve capacity alternate routes spare parts and distributed capability,Assess common-mode vulnerabilities and whether backups depend on the same fragile inputs
+recovery_speed,Ability to restore minimum and full service after disruption,Measure restoration time repair capacity crews procurement mutual aid and access
+adaptive_capacity,Ability to revise design operations standards and investments as conditions change,Assess monitoring learning flexible design scenario planning and decision triggers
+equity_protection,Protection for vulnerable users places and critical public services during outage and recovery,Use disaggregated outage duration restoration priority affordability access and participation data
+cascading_exposure,Risk that disruption propagates across interdependent infrastructure systems,Higher values should trigger dependency mapping cascade stress tests and cross-sector coordination
