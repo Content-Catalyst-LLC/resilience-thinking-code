@@ -1,0 +1,10 @@
+scenario,monitoring_value_weight,predictive_maintenance_weight,cyber_physical_security_weight,digital_twin_capacity_weight,redundancy_and_fallback_weight,climate_adaptation_weight,governance_quality_weight,equity_performance_weight,ecological_integration_weight,fragility_risk_weight,implementation_burden_weight,description
+Balanced,0.10,0.11,0.11,0.10,0.11,0.11,0.12,0.12,0.10,0.04,0.04,Balanced infrastructure resilience across monitoring maintenance security digital twins redundancy climate adaptation governance equity ecology fragility and burden.
+Monitoring-first,0.30,0.10,0.09,0.10,0.09,0.09,0.09,0.08,0.07,0.04,0.04,Prioritizes sensing telemetry early warning situational awareness and monitoring coverage.
+Maintenance-first,0.09,0.30,0.09,0.10,0.11,0.09,0.09,0.08,0.07,0.04,0.04,Prioritizes predictive maintenance asset renewal inspection prioritization and backlog reduction.
+Cyber-physical-first,0.08,0.09,0.30,0.08,0.12,0.08,0.12,0.08,0.06,0.05,0.04,Prioritizes OT security segmentation incident response recovery safe defaults and cyber-physical resilience.
+Digital-twin-first,0.09,0.12,0.08,0.30,0.10,0.11,0.09,0.07,0.07,0.04,0.03,Prioritizes digital twins scenario testing simulation stress analysis and investment comparison.
+Climate-adaptation,0.08,0.10,0.08,0.10,0.11,0.30,0.10,0.12,0.10,0.04,0.03,Prioritizes climate exposure adaptation heat flood wildfire drought ecological buffers and critical-service continuity.
+Equity-first,0.08,0.09,0.08,0.09,0.10,0.14,0.14,0.30,0.10,0.04,0.03,Prioritizes environmental justice accessibility vulnerable communities repair equity and anti-displacement.
+Governance-first,0.08,0.09,0.11,0.08,0.10,0.10,0.30,0.14,0.08,0.04,0.03,Prioritizes procurement governance public accountability vendor controls data rights and corrective action.
+Implementation-aware,0.10,0.11,0.11,0.10,0.11,0.11,0.12,0.12,0.10,0.03,0.12,Penalizes implementation burden when public capacity procurement staffing trust or technical complexity is constrained.

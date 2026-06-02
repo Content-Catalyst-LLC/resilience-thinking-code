@@ -1,0 +1,8 @@
+strategy_id,strategy,mean_infrastructure_resilience_value,median_infrastructure_resilience_value,probability_ranked_first,probability_top_two,probability_bottom_two
+IIR006,Equity-Centered Climate Adaptation Portfolio,8.20498,8.20131,61.73,82.8,1.4
+IIR004,Predictive Maintenance and Asset Renewal,8.00115,8.00359,14.93,41.07,11.57
+IIR003,Digital Twin and Scenario Stress Testing,7.98746,7.98944,12.93,36.13,13.07
+IIR005,Cyber-Physical Security and Recovery Program,7.86964,7.87018,4.4,14.7,31.33
+IIR001,Critical Function and Dependency Mapping,7.81957,7.82027,2.63,10.47,42.37
+IIR002,Sensor Monitoring and Early Warning Network,7.79524,7.79265,1.9,8.0,47.73
+IIR007,Interoperability and Vendor Portability Strategy,7.77431,7.77363,1.47,6.83,52.53

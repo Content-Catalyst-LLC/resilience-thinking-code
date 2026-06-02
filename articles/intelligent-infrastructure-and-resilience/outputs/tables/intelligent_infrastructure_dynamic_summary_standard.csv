@@ -1,0 +1,7 @@
+system,mean_function,minimum_function,final_function,final_maintenance_backlog,minimum_data_trust,maximum_operator_strain,mean_equity_access,mean_fragility_gap,final_resilience_score
+Balanced intelligent infrastructure system,1.0,1.0,1.0,0.0,0.9086,0.23057,0.78942,0.00577,0.91785
+Climate-adapted distributed infrastructure system,1.0,1.0,1.0,0.0,0.8862,0.32755,0.7665,0.00904,0.90657
+Automated grid with cyber-physical exposure,0.99951,0.95261,1.0,0.0,0.8452,0.55593,0.55475,0.02262,0.81188
+Digital twin transit network with equity gaps,0.99934,0.94985,1.0,0.0,0.8852,0.54053,0.49973,0.02192,0.80156
+Vendor-dependent smart city platform,0.99912,0.93955,1.0,0.0,0.8788,0.5857,0.50032,0.02336,0.79531
+Sensor-rich but undermaintained water system,0.99777,0.91972,1.0,0.0,0.8804,0.62619,0.49847,0.02816,0.79089
