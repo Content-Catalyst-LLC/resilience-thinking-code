@@ -1,0 +1,541 @@
+system_id,system,system_context,time,event,disruption_load,slack_stock,adaptive_response,fragility_gap,workforce_strain,function,ethical_adjusted_function,resilience_score
+SY001,Lean high-utilization system,low slack high utilization and brittle optimization,0,background operating pressure,0.10379,0.42186,0.4114,0.0,0.51276,0.93349,0.71861,0.57553
+SY001,Lean high-utilization system,low slack high utilization and brittle optimization,1,background operating pressure,0.10453,0.43385,0.4114,0.0,0.44566,1.0,0.78103,0.60778
+SY001,Lean high-utilization system,low slack high utilization and brittle optimization,2,background operating pressure,0.10528,0.44578,0.4114,0.0,0.37872,1.0,0.78773,0.6189
+SY001,Lean high-utilization system,low slack high utilization and brittle optimization,3,background operating pressure,0.10527,0.4577,0.4114,0.0,0.31177,1.0,0.79442,0.63002
+SY001,Lean high-utilization system,low slack high utilization and brittle optimization,4,background operating pressure,0.10544,0.46961,0.4114,0.0,0.24486,1.0,0.80111,0.64113
+SY001,Lean high-utilization system,low slack high utilization and brittle optimization,5,background operating pressure,0.10497,0.48156,0.4114,0.0,0.17786,1.0,0.80781,0.65226
+SY001,Lean high-utilization system,low slack high utilization and brittle optimization,6,background operating pressure,0.10582,0.49344,0.4114,0.0,0.11102,1.0,0.8145,0.66335
+SY001,Lean high-utilization system,low slack high utilization and brittle optimization,7,background operating pressure,0.10541,0.50535,0.4114,0.0,0.0441,1.0,0.82119,0.67446
+SY001,Lean high-utilization system,low slack high utilization and brittle optimization,8,background operating pressure,0.10462,0.51734,0.4114,0.0,0.0,1.0,0.8256,0.68253
+SY001,Lean high-utilization system,low slack high utilization and brittle optimization,9,background operating pressure,0.10549,0.52924,0.4114,0.0,0.0,1.0,0.8256,0.68467
+SY001,Lean high-utilization system,low slack high utilization and brittle optimization,10,Supplier and logistics disruption,0.6664,0.4467,0.4114,0.13716,0.06997,0.96969,0.76441,0.64679
+SY001,Lean high-utilization system,low slack high utilization and brittle optimization,11,background operating pressure,0.10492,0.45865,0.4114,0.0,0.00295,1.0,0.8253,0.67157
+SY001,Lean high-utilization system,low slack high utilization and brittle optimization,12,background operating pressure,0.10681,0.47044,0.4114,0.0,0.0,1.0,0.8256,0.67409
+SY001,Lean high-utilization system,low slack high utilization and brittle optimization,13,background operating pressure,0.10695,0.48221,0.4114,0.0,0.0,1.0,0.8256,0.67621
+SY001,Lean high-utilization system,low slack high utilization and brittle optimization,14,background operating pressure,0.10585,0.49409,0.4114,0.0,0.0,1.0,0.8256,0.67834
+SY001,Lean high-utilization system,low slack high utilization and brittle optimization,15,background operating pressure,0.10592,0.50596,0.4114,0.0,0.0,1.0,0.8256,0.68048
+SY001,Lean high-utilization system,low slack high utilization and brittle optimization,16,background operating pressure,0.10696,0.51773,0.4114,0.0,0.0,1.0,0.8256,0.6826
+SY001,Lean high-utilization system,low slack high utilization and brittle optimization,17,background operating pressure,0.10595,0.52959,0.4114,0.0,0.0,1.0,0.8256,0.68473
+SY001,Lean high-utilization system,low slack high utilization and brittle optimization,18,background operating pressure,0.10602,0.54145,0.4114,0.0,0.0,1.0,0.8256,0.68687
+SY001,Lean high-utilization system,low slack high utilization and brittle optimization,19,background operating pressure,0.10616,0.5533,0.4114,0.0,0.0,1.0,0.8256,0.689
+SY001,Lean high-utilization system,low slack high utilization and brittle optimization,20,background operating pressure,0.10659,0.5651,0.4114,0.0,0.0,1.0,0.8256,0.69113
+SY001,Lean high-utilization system,low slack high utilization and brittle optimization,21,background operating pressure,0.10727,0.57685,0.4114,0.0,0.0,1.0,0.8256,0.69324
+SY001,Lean high-utilization system,low slack high utilization and brittle optimization,22,Workforce absence and demand surge,0.7254,0.48508,0.4114,0.14855,0.08382,0.95456,0.73956,0.64553
+SY001,Lean high-utilization system,low slack high utilization and brittle optimization,23,background operating pressure,0.10819,0.49674,0.4114,0.0,0.01746,1.0,0.82385,0.67648
+SY001,Lean high-utilization system,low slack high utilization and brittle optimization,24,background operating pressure,0.1068,0.50853,0.4114,0.0,0.0,1.0,0.8256,0.68094
+SY001,Lean high-utilization system,low slack high utilization and brittle optimization,25,background operating pressure,0.10841,0.52017,0.4114,0.0,0.0,1.0,0.8256,0.68304
+SY001,Lean high-utilization system,low slack high utilization and brittle optimization,26,background operating pressure,0.10773,0.53188,0.4114,0.0,0.0,1.0,0.8256,0.68515
+SY001,Lean high-utilization system,low slack high utilization and brittle optimization,27,background operating pressure,0.10854,0.54351,0.4114,0.0,0.0,1.0,0.8256,0.68724
+SY001,Lean high-utilization system,low slack high utilization and brittle optimization,28,background operating pressure,0.1085,0.55515,0.4114,0.0,0.0,1.0,0.8256,0.68933
+SY001,Lean high-utilization system,low slack high utilization and brittle optimization,29,background operating pressure,0.1073,0.56689,0.4114,0.0,0.0,1.0,0.8256,0.69145
+SY001,Lean high-utilization system,low slack high utilization and brittle optimization,30,background operating pressure,0.1084,0.57853,0.4114,0.0,0.0,1.0,0.8256,0.69354
+SY001,Lean high-utilization system,low slack high utilization and brittle optimization,31,background operating pressure,0.10747,0.59026,0.4114,0.0,0.0,1.0,0.8256,0.69565
+SY001,Lean high-utilization system,low slack high utilization and brittle optimization,32,background operating pressure,0.10735,0.602,0.4114,0.0,0.0,1.0,0.8256,0.69777
+SY001,Lean high-utilization system,low slack high utilization and brittle optimization,33,background operating pressure,0.10825,0.61366,0.4114,0.0,0.0,1.0,0.8256,0.69987
+SY001,Lean high-utilization system,low slack high utilization and brittle optimization,34,background operating pressure,0.10913,0.62523,0.4114,0.0,0.0,1.0,0.8256,0.70195
+SY001,Lean high-utilization system,low slack high utilization and brittle optimization,35,Cyber and operational outage,0.7308,0.53742,0.4114,0.10557,0.07716,0.96693,0.75539,0.66044
+SY001,Lean high-utilization system,low slack high utilization and brittle optimization,36,background operating pressure,0.10895,0.54901,0.4114,0.0,0.01095,1.0,0.8245,0.68676
+SY001,Lean high-utilization system,low slack high utilization and brittle optimization,37,background operating pressure,0.10833,0.56066,0.4114,0.0,0.0,1.0,0.8256,0.69033
+SY001,Lean high-utilization system,low slack high utilization and brittle optimization,38,background operating pressure,0.10974,0.57219,0.4114,0.0,0.0,1.0,0.8256,0.6924
+SY001,Lean high-utilization system,low slack high utilization and brittle optimization,39,background operating pressure,0.11001,0.58368,0.4114,0.0,0.0,1.0,0.8256,0.69447
+SY001,Lean high-utilization system,low slack high utilization and brittle optimization,40,background operating pressure,0.10877,0.5953,0.4114,0.0,0.0,1.0,0.8256,0.69656
+SY001,Lean high-utilization system,low slack high utilization and brittle optimization,41,background operating pressure,0.10932,0.60686,0.4114,0.0,0.0,1.0,0.8256,0.69864
+SY001,Lean high-utilization system,low slack high utilization and brittle optimization,42,background operating pressure,0.10982,0.61837,0.4114,0.0,0.0,1.0,0.8256,0.70072
+SY001,Lean high-utilization system,low slack high utilization and brittle optimization,43,background operating pressure,0.11046,0.62983,0.4114,0.0,0.0,1.0,0.8256,0.70278
+SY001,Lean high-utilization system,low slack high utilization and brittle optimization,44,background operating pressure,0.10903,0.64142,0.4114,0.0,0.0,1.0,0.8256,0.70486
+SY001,Lean high-utilization system,low slack high utilization and brittle optimization,45,background operating pressure,0.11001,0.65292,0.4114,0.0,0.0,1.0,0.8256,0.70693
+SY001,Lean high-utilization system,low slack high utilization and brittle optimization,46,background operating pressure,0.11096,0.66433,0.4114,0.0,0.0,1.0,0.8256,0.70899
+SY001,Lean high-utilization system,low slack high utilization and brittle optimization,47,background operating pressure,0.11036,0.6758,0.4114,0.0,0.0,1.0,0.8256,0.71105
+SY001,Lean high-utilization system,low slack high utilization and brittle optimization,48,Revenue decline and liquidity pressure,0.7222,0.59049,0.4114,0.0464,0.06479,0.9871,0.77592,0.67839
+SY001,Lean high-utilization system,low slack high utilization and brittle optimization,49,background operating pressure,0.11081,0.60192,0.4114,0.0,0.0,1.0,0.8256,0.69775
+SY001,Lean high-utilization system,low slack high utilization and brittle optimization,50,background operating pressure,0.11105,0.61332,0.4114,0.0,0.0,1.0,0.8256,0.69981
+SY001,Lean high-utilization system,low slack high utilization and brittle optimization,51,background operating pressure,0.11063,0.62476,0.4114,0.0,0.0,1.0,0.8256,0.70187
+SY001,Lean high-utilization system,low slack high utilization and brittle optimization,52,background operating pressure,0.11032,0.63624,0.4114,0.0,0.0,1.0,0.8256,0.70393
+SY001,Lean high-utilization system,low slack high utilization and brittle optimization,53,background operating pressure,0.11104,0.64764,0.4114,0.0,0.0,1.0,0.8256,0.70598
+SY001,Lean high-utilization system,low slack high utilization and brittle optimization,54,background operating pressure,0.11104,0.65905,0.4114,0.0,0.0,1.0,0.8256,0.70804
+SY001,Lean high-utilization system,low slack high utilization and brittle optimization,55,background operating pressure,0.11079,0.67048,0.4114,0.0,0.0,1.0,0.8256,0.71009
+SY001,Lean high-utilization system,low slack high utilization and brittle optimization,56,background operating pressure,0.11193,0.6818,0.4114,0.0,0.0,1.0,0.8256,0.71213
+SY001,Lean high-utilization system,low slack high utilization and brittle optimization,57,background operating pressure,0.11107,0.69321,0.4114,0.0,0.0,1.0,0.8256,0.71419
+SY001,Lean high-utilization system,low slack high utilization and brittle optimization,58,background operating pressure,0.11143,0.70458,0.4114,0.0,0.0,1.0,0.8256,0.71623
+SY001,Lean high-utilization system,low slack high utilization and brittle optimization,59,background operating pressure,0.1121,0.71589,0.4114,0.0,0.0,1.0,0.8256,0.71827
+SY001,Lean high-utilization system,low slack high utilization and brittle optimization,60,Infrastructure disruption and maintenance backlog,0.7856,0.62201,0.4114,0.06971,0.08167,0.96739,0.75292,0.67487
+SY001,Lean high-utilization system,low slack high utilization and brittle optimization,61,background operating pressure,0.11245,0.63329,0.4114,0.0,0.01616,1.0,0.82398,0.70124
+SY001,Lean high-utilization system,low slack high utilization and brittle optimization,62,background operating pressure,0.11272,0.64454,0.4114,0.0,0.0,1.0,0.8256,0.70543
+SY001,Lean high-utilization system,low slack high utilization and brittle optimization,63,background operating pressure,0.11236,0.65583,0.4114,0.0,0.0,1.0,0.8256,0.70746
+SY001,Lean high-utilization system,low slack high utilization and brittle optimization,64,background operating pressure,0.11169,0.66718,0.4114,0.0,0.0,1.0,0.8256,0.7095
+SY001,Lean high-utilization system,low slack high utilization and brittle optimization,65,background operating pressure,0.11299,0.67841,0.4114,0.0,0.0,1.0,0.8256,0.71152
+SY001,Lean high-utilization system,low slack high utilization and brittle optimization,66,background operating pressure,0.11324,0.68962,0.4114,0.0,0.0,1.0,0.8256,0.71354
+SY001,Lean high-utilization system,low slack high utilization and brittle optimization,67,background operating pressure,0.11297,0.70085,0.4114,0.0,0.0,1.0,0.8256,0.71556
+SY001,Lean high-utilization system,low slack high utilization and brittle optimization,68,background operating pressure,0.11319,0.71206,0.4114,0.0,0.0,1.0,0.8256,0.71758
+SY001,Lean high-utilization system,low slack high utilization and brittle optimization,69,background operating pressure,0.11281,0.72331,0.4114,0.0,0.0,1.0,0.8256,0.7196
+SY001,Lean high-utilization system,low slack high utilization and brittle optimization,70,background operating pressure,0.11289,0.73455,0.4114,0.0,0.0,1.0,0.8256,0.72163
+SY001,Lean high-utilization system,low slack high utilization and brittle optimization,71,background operating pressure,0.11319,0.74577,0.4114,0.0,0.0,1.0,0.8256,0.72365
+SY001,Lean high-utilization system,low slack high utilization and brittle optimization,72,Knowledge loss and leadership turnover,0.6948,0.67163,0.4114,0.0,0.05096,1.0,0.7893,0.69911
+SY001,Lean high-utilization system,low slack high utilization and brittle optimization,73,background operating pressure,0.11255,0.6829,0.4114,0.0,0.0,1.0,0.8256,0.71233
+SY001,Lean high-utilization system,low slack high utilization and brittle optimization,74,background operating pressure,0.11373,0.69407,0.4114,0.0,0.0,1.0,0.8256,0.71434
+SY001,Lean high-utilization system,low slack high utilization and brittle optimization,75,background operating pressure,0.11422,0.70519,0.4114,0.0,0.0,1.0,0.8256,0.71634
+SY001,Lean high-utilization system,low slack high utilization and brittle optimization,76,background operating pressure,0.11295,0.71642,0.4114,0.0,0.0,1.0,0.8256,0.71836
+SY001,Lean high-utilization system,low slack high utilization and brittle optimization,77,background operating pressure,0.11425,0.72754,0.4114,0.0,0.0,1.0,0.8256,0.72037
+SY001,Lean high-utilization system,low slack high utilization and brittle optimization,78,background operating pressure,0.11427,0.73866,0.4114,0.0,0.0,1.0,0.8256,0.72237
+SY001,Lean high-utilization system,low slack high utilization and brittle optimization,79,background operating pressure,0.11322,0.74987,0.4114,0.0,0.0,1.0,0.8256,0.72438
+SY001,Lean high-utilization system,low slack high utilization and brittle optimization,80,background operating pressure,0.1132,0.76108,0.4114,0.0,0.0,1.0,0.8256,0.7264
+SY001,Lean high-utilization system,low slack high utilization and brittle optimization,81,background operating pressure,0.11441,0.77218,0.4114,0.0,0.0,1.0,0.8256,0.7284
+SY001,Lean high-utilization system,low slack high utilization and brittle optimization,82,Compound slack-depletion disruption,0.909,0.65882,0.4114,0.13682,0.11843,0.92224,0.70303,0.66107
+SY001,Lean high-utilization system,low slack high utilization and brittle optimization,83,background operating pressure,0.1139,0.66997,0.4114,0.0,0.05321,1.0,0.82028,0.70287
+SY001,Lean high-utilization system,low slack high utilization and brittle optimization,84,background operating pressure,0.1142,0.6811,0.4114,0.0,0.0,1.0,0.8256,0.71201
+SY001,Lean high-utilization system,low slack high utilization and brittle optimization,85,background operating pressure,0.11494,0.69215,0.4114,0.0,0.0,1.0,0.8256,0.714
+SY001,Lean high-utilization system,low slack high utilization and brittle optimization,86,background operating pressure,0.11512,0.70319,0.4114,0.0,0.0,1.0,0.8256,0.71598
+SY001,Lean high-utilization system,low slack high utilization and brittle optimization,87,background operating pressure,0.11544,0.7142,0.4114,0.0,0.0,1.0,0.8256,0.71796
+SY001,Lean high-utilization system,low slack high utilization and brittle optimization,88,background operating pressure,0.1152,0.72523,0.4114,0.0,0.0,1.0,0.8256,0.71995
+SY001,Lean high-utilization system,low slack high utilization and brittle optimization,89,background operating pressure,0.11485,0.7363,0.4114,0.0,0.0,1.0,0.8256,0.72194
+SY002,Financially buffered but workforce-thin system,cash reserve with thin staffing and weak human capacity,0,background operating pressure,0.10466,0.63758,0.5996,0.0,0.40533,1.0,0.82427,0.71546
+SY002,Financially buffered but workforce-thin system,cash reserve with thin staffing and weak human capacity,1,background operating pressure,0.10401,0.66622,0.5996,0.0,0.31053,1.0,0.83375,0.73332
+SY002,Financially buffered but workforce-thin system,cash reserve with thin staffing and weak human capacity,2,background operating pressure,0.10567,0.69471,0.5996,0.0,0.21607,1.0,0.84319,0.7511
+SY002,Financially buffered but workforce-thin system,cash reserve with thin staffing and weak human capacity,3,background operating pressure,0.10571,0.7232,0.5996,0.0,0.12161,1.0,0.85264,0.76889
+SY002,Financially buffered but workforce-thin system,cash reserve with thin staffing and weak human capacity,4,background operating pressure,0.10491,0.75175,0.5996,0.0,0.02699,1.0,0.8621,0.78671
+SY002,Financially buffered but workforce-thin system,cash reserve with thin staffing and weak human capacity,5,background operating pressure,0.10543,0.78026,0.5996,0.0,0.0,1.0,0.8648,0.79546
+SY002,Financially buffered but workforce-thin system,cash reserve with thin staffing and weak human capacity,6,background operating pressure,0.10465,0.80885,0.5996,0.0,0.0,1.0,0.8648,0.8006
+SY002,Financially buffered but workforce-thin system,cash reserve with thin staffing and weak human capacity,7,background operating pressure,0.10478,0.83742,0.5996,0.0,0.0,1.0,0.8648,0.80574
+SY002,Financially buffered but workforce-thin system,cash reserve with thin staffing and weak human capacity,8,background operating pressure,0.10504,0.86596,0.5996,0.0,0.0,1.0,0.8648,0.81088
+SY002,Financially buffered but workforce-thin system,cash reserve with thin staffing and weak human capacity,9,background operating pressure,0.10596,0.89443,0.5996,0.0,0.0,1.0,0.8648,0.816
+SY002,Financially buffered but workforce-thin system,cash reserve with thin staffing and weak human capacity,10,Supplier and logistics disruption,0.6664,0.83945,0.5996,0.0,0.01768,1.0,0.83423,0.79971
+SY002,Financially buffered but workforce-thin system,cash reserve with thin staffing and weak human capacity,11,background operating pressure,0.10524,0.86798,0.5996,0.0,0.0,1.0,0.8648,0.81124
+SY002,Financially buffered but workforce-thin system,cash reserve with thin staffing and weak human capacity,12,background operating pressure,0.10688,0.89636,0.5996,0.0,0.0,1.0,0.8648,0.81635
+SY002,Financially buffered but workforce-thin system,cash reserve with thin staffing and weak human capacity,13,background operating pressure,0.1052,0.92489,0.5996,0.0,0.0,1.0,0.8648,0.82149
+SY002,Financially buffered but workforce-thin system,cash reserve with thin staffing and weak human capacity,14,background operating pressure,0.10557,0.95339,0.5996,0.0,0.0,1.0,0.8648,0.82662
+SY002,Financially buffered but workforce-thin system,cash reserve with thin staffing and weak human capacity,15,background operating pressure,0.10548,0.9819,0.5996,0.0,0.0,1.0,0.8648,0.83175
+SY002,Financially buffered but workforce-thin system,cash reserve with thin staffing and weak human capacity,16,background operating pressure,0.10696,1.0,0.5996,0.0,0.0,1.0,0.8648,0.83501
+SY002,Financially buffered but workforce-thin system,cash reserve with thin staffing and weak human capacity,17,background operating pressure,0.10627,1.0,0.5996,0.0,0.0,1.0,0.8648,0.83501
+SY002,Financially buffered but workforce-thin system,cash reserve with thin staffing and weak human capacity,18,background operating pressure,0.1066,1.0,0.5996,0.0,0.0,1.0,0.8648,0.83501
+SY002,Financially buffered but workforce-thin system,cash reserve with thin staffing and weak human capacity,19,background operating pressure,0.10643,1.0,0.5996,0.0,0.0,1.0,0.8648,0.83501
+SY002,Financially buffered but workforce-thin system,cash reserve with thin staffing and weak human capacity,20,background operating pressure,0.10717,1.0,0.5996,0.0,0.0,1.0,0.8648,0.83501
+SY002,Financially buffered but workforce-thin system,cash reserve with thin staffing and weak human capacity,21,background operating pressure,0.10683,1.0,0.5996,0.0,0.0,1.0,0.8648,0.83501
+SY002,Financially buffered but workforce-thin system,cash reserve with thin staffing and weak human capacity,22,Workforce absence and demand surge,0.7254,0.93671,0.5996,0.0,0.02948,1.0,0.82225,0.81412
+SY002,Financially buffered but workforce-thin system,cash reserve with thin staffing and weak human capacity,23,background operating pressure,0.10668,0.96511,0.5996,0.0,0.0,1.0,0.8648,0.82873
+SY002,Financially buffered but workforce-thin system,cash reserve with thin staffing and weak human capacity,24,background operating pressure,0.10724,0.99346,0.5996,0.0,0.0,1.0,0.8648,0.83383
+SY002,Financially buffered but workforce-thin system,cash reserve with thin staffing and weak human capacity,25,background operating pressure,0.10711,1.0,0.5996,0.0,0.0,1.0,0.8648,0.83501
+SY002,Financially buffered but workforce-thin system,cash reserve with thin staffing and weak human capacity,26,background operating pressure,0.10684,1.0,0.5996,0.0,0.0,1.0,0.8648,0.83501
+SY002,Financially buffered but workforce-thin system,cash reserve with thin staffing and weak human capacity,27,background operating pressure,0.10839,1.0,0.5996,0.0,0.0,1.0,0.8648,0.83501
+SY002,Financially buffered but workforce-thin system,cash reserve with thin staffing and weak human capacity,28,background operating pressure,0.10822,1.0,0.5996,0.0,0.0,1.0,0.8648,0.83501
+SY002,Financially buffered but workforce-thin system,cash reserve with thin staffing and weak human capacity,29,background operating pressure,0.10831,1.0,0.5996,0.0,0.0,1.0,0.8648,0.83501
+SY002,Financially buffered but workforce-thin system,cash reserve with thin staffing and weak human capacity,30,background operating pressure,0.10886,1.0,0.5996,0.0,0.0,1.0,0.8648,0.83501
+SY002,Financially buffered but workforce-thin system,cash reserve with thin staffing and weak human capacity,31,background operating pressure,0.10801,1.0,0.5996,0.0,0.0,1.0,0.8648,0.83501
+SY002,Financially buffered but workforce-thin system,cash reserve with thin staffing and weak human capacity,32,background operating pressure,0.1081,1.0,0.5996,0.0,0.0,1.0,0.8648,0.83501
+SY002,Financially buffered but workforce-thin system,cash reserve with thin staffing and weak human capacity,33,background operating pressure,0.10831,1.0,0.5996,0.0,0.0,1.0,0.8648,0.83501
+SY002,Financially buffered but workforce-thin system,cash reserve with thin staffing and weak human capacity,34,background operating pressure,0.10839,1.0,0.5996,0.0,0.0,1.0,0.8648,0.83501
+SY002,Financially buffered but workforce-thin system,cash reserve with thin staffing and weak human capacity,35,Cyber and operational outage,0.7308,0.93723,0.5996,0.0,0.03056,1.0,0.82694,0.81474
+SY002,Financially buffered but workforce-thin system,cash reserve with thin staffing and weak human capacity,36,background operating pressure,0.10916,0.9654,0.5996,0.0,0.0,1.0,0.8648,0.82878
+SY002,Financially buffered but workforce-thin system,cash reserve with thin staffing and weak human capacity,37,background operating pressure,0.10795,0.99369,0.5996,0.0,0.0,1.0,0.8648,0.83387
+SY002,Financially buffered but workforce-thin system,cash reserve with thin staffing and weak human capacity,38,background operating pressure,0.10899,1.0,0.5996,0.0,0.0,1.0,0.8648,0.83501
+SY002,Financially buffered but workforce-thin system,cash reserve with thin staffing and weak human capacity,39,background operating pressure,0.10925,1.0,0.5996,0.0,0.0,1.0,0.8648,0.83501
+SY002,Financially buffered but workforce-thin system,cash reserve with thin staffing and weak human capacity,40,background operating pressure,0.10899,1.0,0.5996,0.0,0.0,1.0,0.8648,0.83501
+SY002,Financially buffered but workforce-thin system,cash reserve with thin staffing and weak human capacity,41,background operating pressure,0.10846,1.0,0.5996,0.0,0.0,1.0,0.8648,0.83501
+SY002,Financially buffered but workforce-thin system,cash reserve with thin staffing and weak human capacity,42,background operating pressure,0.10995,1.0,0.5996,0.0,0.0,1.0,0.8648,0.83501
+SY002,Financially buffered but workforce-thin system,cash reserve with thin staffing and weak human capacity,43,background operating pressure,0.10868,1.0,0.5996,0.0,0.0,1.0,0.8648,0.83501
+SY002,Financially buffered but workforce-thin system,cash reserve with thin staffing and weak human capacity,44,background operating pressure,0.10991,1.0,0.5996,0.0,0.0,1.0,0.8648,0.83501
+SY002,Financially buffered but workforce-thin system,cash reserve with thin staffing and weak human capacity,45,background operating pressure,0.10921,1.0,0.5996,0.0,0.0,1.0,0.8648,0.83501
+SY002,Financially buffered but workforce-thin system,cash reserve with thin staffing and weak human capacity,46,background operating pressure,0.10909,1.0,0.5996,0.0,0.0,1.0,0.8648,0.83501
+SY002,Financially buffered but workforce-thin system,cash reserve with thin staffing and weak human capacity,47,background operating pressure,0.1095,1.0,0.5996,0.0,0.0,1.0,0.8648,0.83501
+SY002,Financially buffered but workforce-thin system,cash reserve with thin staffing and weak human capacity,48,Revenue decline and liquidity pressure,0.7222,0.935,0.5996,0.0,0.02884,1.0,0.82952,0.81491
+SY002,Financially buffered but workforce-thin system,cash reserve with thin staffing and weak human capacity,49,background operating pressure,0.10951,0.96315,0.5996,0.0,0.0,1.0,0.8648,0.82837
+SY002,Financially buffered but workforce-thin system,cash reserve with thin staffing and weak human capacity,50,background operating pressure,0.1098,0.99126,0.5996,0.0,0.0,1.0,0.8648,0.83344
+SY002,Financially buffered but workforce-thin system,cash reserve with thin staffing and weak human capacity,51,background operating pressure,0.11099,1.0,0.5996,0.0,0.0,1.0,0.8648,0.83501
+SY002,Financially buffered but workforce-thin system,cash reserve with thin staffing and weak human capacity,52,background operating pressure,0.1112,1.0,0.5996,0.0,0.0,1.0,0.8648,0.83501
+SY002,Financially buffered but workforce-thin system,cash reserve with thin staffing and weak human capacity,53,background operating pressure,0.11059,1.0,0.5996,0.0,0.0,1.0,0.8648,0.83501
+SY002,Financially buffered but workforce-thin system,cash reserve with thin staffing and weak human capacity,54,background operating pressure,0.11128,1.0,0.5996,0.0,0.0,1.0,0.8648,0.83501
+SY002,Financially buffered but workforce-thin system,cash reserve with thin staffing and weak human capacity,55,background operating pressure,0.11105,1.0,0.5996,0.0,0.0,1.0,0.8648,0.83501
+SY002,Financially buffered but workforce-thin system,cash reserve with thin staffing and weak human capacity,56,background operating pressure,0.11122,1.0,0.5996,0.0,0.0,1.0,0.8648,0.83501
+SY002,Financially buffered but workforce-thin system,cash reserve with thin staffing and weak human capacity,57,background operating pressure,0.11209,1.0,0.5996,0.0,0.0,1.0,0.8648,0.83501
+SY002,Financially buffered but workforce-thin system,cash reserve with thin staffing and weak human capacity,58,background operating pressure,0.11108,1.0,0.5996,0.0,0.0,1.0,0.8648,0.83501
+SY002,Financially buffered but workforce-thin system,cash reserve with thin staffing and weak human capacity,59,background operating pressure,0.11232,1.0,0.5996,0.0,0.0,1.0,0.8648,0.83501
+SY002,Financially buffered but workforce-thin system,cash reserve with thin staffing and weak human capacity,60,Infrastructure disruption and maintenance backlog,0.7856,0.9283,0.5996,0.0,0.04152,1.0,0.82345,0.81133
+SY002,Financially buffered but workforce-thin system,cash reserve with thin staffing and weak human capacity,61,background operating pressure,0.1122,0.9562,0.5996,0.0,0.0,1.0,0.8648,0.82712
+SY002,Financially buffered but workforce-thin system,cash reserve with thin staffing and weak human capacity,62,background operating pressure,0.11231,0.98409,0.5996,0.0,0.0,1.0,0.8648,0.83214
+SY002,Financially buffered but workforce-thin system,cash reserve with thin staffing and weak human capacity,63,background operating pressure,0.11107,1.0,0.5996,0.0,0.0,1.0,0.8648,0.83501
+SY002,Financially buffered but workforce-thin system,cash reserve with thin staffing and weak human capacity,64,background operating pressure,0.11135,1.0,0.5996,0.0,0.0,1.0,0.8648,0.83501
+SY002,Financially buffered but workforce-thin system,cash reserve with thin staffing and weak human capacity,65,background operating pressure,0.11136,1.0,0.5996,0.0,0.0,1.0,0.8648,0.83501
+SY002,Financially buffered but workforce-thin system,cash reserve with thin staffing and weak human capacity,66,background operating pressure,0.11211,1.0,0.5996,0.0,0.0,1.0,0.8648,0.83501
+SY002,Financially buffered but workforce-thin system,cash reserve with thin staffing and weak human capacity,67,background operating pressure,0.11343,1.0,0.5996,0.0,0.0,1.0,0.8648,0.83501
+SY002,Financially buffered but workforce-thin system,cash reserve with thin staffing and weak human capacity,68,background operating pressure,0.11341,1.0,0.5996,0.0,0.0,1.0,0.8648,0.83501
+SY002,Financially buffered but workforce-thin system,cash reserve with thin staffing and weak human capacity,69,background operating pressure,0.11346,1.0,0.5996,0.0,0.0,1.0,0.8648,0.83501
+SY002,Financially buffered but workforce-thin system,cash reserve with thin staffing and weak human capacity,70,background operating pressure,0.11214,1.0,0.5996,0.0,0.0,1.0,0.8648,0.83501
+SY002,Financially buffered but workforce-thin system,cash reserve with thin staffing and weak human capacity,71,background operating pressure,0.11343,1.0,0.5996,0.0,0.0,1.0,0.8648,0.83501
+SY002,Financially buffered but workforce-thin system,cash reserve with thin staffing and weak human capacity,72,Knowledge loss and leadership turnover,0.6948,0.94247,0.5996,0.0,0.02336,1.0,0.83126,0.81715
+SY002,Financially buffered but workforce-thin system,cash reserve with thin staffing and weak human capacity,73,background operating pressure,0.11381,0.97023,0.5996,0.0,0.0,1.0,0.8648,0.82965
+SY002,Financially buffered but workforce-thin system,cash reserve with thin staffing and weak human capacity,74,background operating pressure,0.114,0.99797,0.5996,0.0,0.0,1.0,0.8648,0.83464
+SY002,Financially buffered but workforce-thin system,cash reserve with thin staffing and weak human capacity,75,background operating pressure,0.11408,1.0,0.5996,0.0,0.0,1.0,0.8648,0.83501
+SY002,Financially buffered but workforce-thin system,cash reserve with thin staffing and weak human capacity,76,background operating pressure,0.1129,1.0,0.5996,0.0,0.0,1.0,0.8648,0.83501
+SY002,Financially buffered but workforce-thin system,cash reserve with thin staffing and weak human capacity,77,background operating pressure,0.1131,1.0,0.5996,0.0,0.0,1.0,0.8648,0.83501
+SY002,Financially buffered but workforce-thin system,cash reserve with thin staffing and weak human capacity,78,background operating pressure,0.11445,1.0,0.5996,0.0,0.0,1.0,0.8648,0.83501
+SY002,Financially buffered but workforce-thin system,cash reserve with thin staffing and weak human capacity,79,background operating pressure,0.11446,1.0,0.5996,0.0,0.0,1.0,0.8648,0.83501
+SY002,Financially buffered but workforce-thin system,cash reserve with thin staffing and weak human capacity,80,background operating pressure,0.11488,1.0,0.5996,0.0,0.0,1.0,0.8648,0.83501
+SY002,Financially buffered but workforce-thin system,cash reserve with thin staffing and weak human capacity,81,background operating pressure,0.11411,1.0,0.5996,0.0,0.0,1.0,0.8648,0.83501
+SY002,Financially buffered but workforce-thin system,cash reserve with thin staffing and weak human capacity,82,Compound slack-depletion disruption,0.909,0.91419,0.5996,0.0,0.0662,1.0,0.81258,0.80431
+SY002,Financially buffered but workforce-thin system,cash reserve with thin staffing and weak human capacity,83,background operating pressure,0.11524,0.94182,0.5996,0.0,0.0,1.0,0.8648,0.82454
+SY002,Financially buffered but workforce-thin system,cash reserve with thin staffing and weak human capacity,84,background operating pressure,0.11386,0.96957,0.5996,0.0,0.0,1.0,0.8648,0.82953
+SY002,Financially buffered but workforce-thin system,cash reserve with thin staffing and weak human capacity,85,background operating pressure,0.11561,0.99717,0.5996,0.0,0.0,1.0,0.8648,0.8345
+SY002,Financially buffered but workforce-thin system,cash reserve with thin staffing and weak human capacity,86,background operating pressure,0.11559,1.0,0.5996,0.0,0.0,1.0,0.8648,0.83501
+SY002,Financially buffered but workforce-thin system,cash reserve with thin staffing and weak human capacity,87,background operating pressure,0.11462,1.0,0.5996,0.0,0.0,1.0,0.8648,0.83501
+SY002,Financially buffered but workforce-thin system,cash reserve with thin staffing and weak human capacity,88,background operating pressure,0.1142,1.0,0.5996,0.0,0.0,1.0,0.8648,0.83501
+SY002,Financially buffered but workforce-thin system,cash reserve with thin staffing and weak human capacity,89,background operating pressure,0.11528,1.0,0.5996,0.0,0.0,1.0,0.8648,0.83501
+SY003,Balanced strategic slack system,balanced financial workforce operational knowledge network governance and ethics,0,background operating pressure,0.1038,0.83096,0.7978,0.0,0.16076,1.0,0.92712,0.87373
+SY003,Balanced strategic slack system,balanced financial workforce operational knowledge network governance and ethics,1,background operating pressure,0.10485,0.86702,0.7978,0.0,0.00173,1.0,0.94303,0.90153
+SY003,Balanced strategic slack system,balanced financial workforce operational knowledge network governance and ethics,2,background operating pressure,0.10408,0.90315,0.7978,0.0,0.0,1.0,0.9432,0.90826
+SY003,Balanced strategic slack system,balanced financial workforce operational knowledge network governance and ethics,3,background operating pressure,0.10529,0.93918,0.7978,0.0,0.0,1.0,0.9432,0.91475
+SY003,Balanced strategic slack system,balanced financial workforce operational knowledge network governance and ethics,4,background operating pressure,0.1052,0.97521,0.7978,0.0,0.0,1.0,0.9432,0.92123
+SY003,Balanced strategic slack system,balanced financial workforce operational knowledge network governance and ethics,5,background operating pressure,0.10487,1.0,0.7978,0.0,0.0,1.0,0.9432,0.9257
+SY003,Balanced strategic slack system,balanced financial workforce operational knowledge network governance and ethics,6,background operating pressure,0.10545,1.0,0.7978,0.0,0.0,1.0,0.9432,0.9257
+SY003,Balanced strategic slack system,balanced financial workforce operational knowledge network governance and ethics,7,background operating pressure,0.10547,1.0,0.7978,0.0,0.0,1.0,0.9432,0.9257
+SY003,Balanced strategic slack system,balanced financial workforce operational knowledge network governance and ethics,8,background operating pressure,0.10455,1.0,0.7978,0.0,0.0,1.0,0.9432,0.9257
+SY003,Balanced strategic slack system,balanced financial workforce operational knowledge network governance and ethics,9,background operating pressure,0.10564,1.0,0.7978,0.0,0.0,1.0,0.9432,0.9257
+SY003,Balanced strategic slack system,balanced financial workforce operational knowledge network governance and ethics,10,Supplier and logistics disruption,0.6664,0.95252,0.7978,0.0,0.0,1.0,0.9144,0.91312
+SY003,Balanced strategic slack system,balanced financial workforce operational knowledge network governance and ethics,11,background operating pressure,0.10606,0.98848,0.7978,0.0,0.0,1.0,0.9432,0.92362
+SY003,Balanced strategic slack system,balanced financial workforce operational knowledge network governance and ethics,12,background operating pressure,0.10598,1.0,0.7978,0.0,0.0,1.0,0.9432,0.9257
+SY003,Balanced strategic slack system,balanced financial workforce operational knowledge network governance and ethics,13,background operating pressure,0.10682,1.0,0.7978,0.0,0.0,1.0,0.9432,0.9257
+SY003,Balanced strategic slack system,balanced financial workforce operational knowledge network governance and ethics,14,background operating pressure,0.10665,1.0,0.7978,0.0,0.0,1.0,0.9432,0.9257
+SY003,Balanced strategic slack system,balanced financial workforce operational knowledge network governance and ethics,15,background operating pressure,0.10605,1.0,0.7978,0.0,0.0,1.0,0.9432,0.9257
+SY003,Balanced strategic slack system,balanced financial workforce operational knowledge network governance and ethics,16,background operating pressure,0.10587,1.0,0.7978,0.0,0.0,1.0,0.9432,0.9257
+SY003,Balanced strategic slack system,balanced financial workforce operational knowledge network governance and ethics,17,background operating pressure,0.1058,1.0,0.7978,0.0,0.0,1.0,0.9432,0.9257
+SY003,Balanced strategic slack system,balanced financial workforce operational knowledge network governance and ethics,18,background operating pressure,0.10728,1.0,0.7978,0.0,0.0,1.0,0.9432,0.9257
+SY003,Balanced strategic slack system,balanced financial workforce operational knowledge network governance and ethics,19,background operating pressure,0.10716,1.0,0.7978,0.0,0.0,1.0,0.9432,0.9257
+SY003,Balanced strategic slack system,balanced financial workforce operational knowledge network governance and ethics,20,background operating pressure,0.10712,1.0,0.7978,0.0,0.0,1.0,0.9432,0.9257
+SY003,Balanced strategic slack system,balanced financial workforce operational knowledge network governance and ethics,21,background operating pressure,0.1069,1.0,0.7978,0.0,0.0,1.0,0.9432,0.9257
+SY003,Balanced strategic slack system,balanced financial workforce operational knowledge network governance and ethics,22,Workforce absence and demand surge,0.7254,0.94421,0.7978,0.0,0.0,1.0,0.9036,0.91011
+SY003,Balanced strategic slack system,balanced financial workforce operational knowledge network governance and ethics,23,background operating pressure,0.10726,0.98006,0.7978,0.0,0.0,1.0,0.9432,0.92211
+SY003,Balanced strategic slack system,balanced financial workforce operational knowledge network governance and ethics,24,background operating pressure,0.10682,1.0,0.7978,0.0,0.0,1.0,0.9432,0.9257
+SY003,Balanced strategic slack system,balanced financial workforce operational knowledge network governance and ethics,25,background operating pressure,0.10756,1.0,0.7978,0.0,0.0,1.0,0.9432,0.9257
+SY003,Balanced strategic slack system,balanced financial workforce operational knowledge network governance and ethics,26,background operating pressure,0.10691,1.0,0.7978,0.0,0.0,1.0,0.9432,0.9257
+SY003,Balanced strategic slack system,balanced financial workforce operational knowledge network governance and ethics,27,background operating pressure,0.10798,1.0,0.7978,0.0,0.0,1.0,0.9432,0.9257
+SY003,Balanced strategic slack system,balanced financial workforce operational knowledge network governance and ethics,28,background operating pressure,0.10812,1.0,0.7978,0.0,0.0,1.0,0.9432,0.9257
+SY003,Balanced strategic slack system,balanced financial workforce operational knowledge network governance and ethics,29,background operating pressure,0.10832,1.0,0.7978,0.0,0.0,1.0,0.9432,0.9257
+SY003,Balanced strategic slack system,balanced financial workforce operational knowledge network governance and ethics,30,background operating pressure,0.10759,1.0,0.7978,0.0,0.0,1.0,0.9432,0.9257
+SY003,Balanced strategic slack system,balanced financial workforce operational knowledge network governance and ethics,31,background operating pressure,0.1074,1.0,0.7978,0.0,0.0,1.0,0.9432,0.9257
+SY003,Balanced strategic slack system,balanced financial workforce operational knowledge network governance and ethics,32,background operating pressure,0.10801,1.0,0.7978,0.0,0.0,1.0,0.9432,0.9257
+SY003,Balanced strategic slack system,balanced financial workforce operational knowledge network governance and ethics,33,background operating pressure,0.10884,1.0,0.7978,0.0,0.0,1.0,0.9432,0.9257
+SY003,Balanced strategic slack system,balanced financial workforce operational knowledge network governance and ethics,34,background operating pressure,0.1086,1.0,0.7978,0.0,0.0,1.0,0.9432,0.9257
+SY003,Balanced strategic slack system,balanced financial workforce operational knowledge network governance and ethics,35,Cyber and operational outage,0.7308,0.94473,0.7978,0.0,0.0,1.0,0.9084,0.91088
+SY003,Balanced strategic slack system,balanced financial workforce operational knowledge network governance and ethics,36,background operating pressure,0.10932,0.98039,0.7978,0.0,0.0,1.0,0.9432,0.92217
+SY003,Balanced strategic slack system,balanced financial workforce operational knowledge network governance and ethics,37,background operating pressure,0.1088,1.0,0.7978,0.0,0.0,1.0,0.9432,0.9257
+SY003,Balanced strategic slack system,balanced financial workforce operational knowledge network governance and ethics,38,background operating pressure,0.10886,1.0,0.7978,0.0,0.0,1.0,0.9432,0.9257
+SY003,Balanced strategic slack system,balanced financial workforce operational knowledge network governance and ethics,39,background operating pressure,0.11,1.0,0.7978,0.0,0.0,1.0,0.9432,0.9257
+SY003,Balanced strategic slack system,balanced financial workforce operational knowledge network governance and ethics,40,background operating pressure,0.10863,1.0,0.7978,0.0,0.0,1.0,0.9432,0.9257
+SY003,Balanced strategic slack system,balanced financial workforce operational knowledge network governance and ethics,41,background operating pressure,0.10883,1.0,0.7978,0.0,0.0,1.0,0.9432,0.9257
+SY003,Balanced strategic slack system,balanced financial workforce operational knowledge network governance and ethics,42,background operating pressure,0.10972,1.0,0.7978,0.0,0.0,1.0,0.9432,0.9257
+SY003,Balanced strategic slack system,balanced financial workforce operational knowledge network governance and ethics,43,background operating pressure,0.10992,1.0,0.7978,0.0,0.0,1.0,0.9432,0.9257
+SY003,Balanced strategic slack system,balanced financial workforce operational knowledge network governance and ethics,44,background operating pressure,0.10965,1.0,0.7978,0.0,0.0,1.0,0.9432,0.9257
+SY003,Balanced strategic slack system,balanced financial workforce operational knowledge network governance and ethics,45,background operating pressure,0.11002,1.0,0.7978,0.0,0.0,1.0,0.9432,0.9257
+SY003,Balanced strategic slack system,balanced financial workforce operational knowledge network governance and ethics,46,background operating pressure,0.1099,1.0,0.7978,0.0,0.0,1.0,0.9432,0.9257
+SY003,Balanced strategic slack system,balanced financial workforce operational knowledge network governance and ethics,47,background operating pressure,0.11048,1.0,0.7978,0.0,0.0,1.0,0.9432,0.9257
+SY003,Balanced strategic slack system,balanced financial workforce operational knowledge network governance and ethics,48,Revenue decline and liquidity pressure,0.7222,0.9425,0.7978,0.0,0.0,1.0,0.9108,0.91081
+SY003,Balanced strategic slack system,balanced financial workforce operational knowledge network governance and ethics,49,background operating pressure,0.11116,0.978,0.7978,0.0,0.0,1.0,0.9432,0.92174
+SY003,Balanced strategic slack system,balanced financial workforce operational knowledge network governance and ethics,50,background operating pressure,0.11115,1.0,0.7978,0.0,0.0,1.0,0.9432,0.9257
+SY003,Balanced strategic slack system,balanced financial workforce operational knowledge network governance and ethics,51,background operating pressure,0.1109,1.0,0.7978,0.0,0.0,1.0,0.9432,0.9257
+SY003,Balanced strategic slack system,balanced financial workforce operational knowledge network governance and ethics,52,background operating pressure,0.11068,1.0,0.7978,0.0,0.0,1.0,0.9432,0.9257
+SY003,Balanced strategic slack system,balanced financial workforce operational knowledge network governance and ethics,53,background operating pressure,0.11176,1.0,0.7978,0.0,0.0,1.0,0.9432,0.9257
+SY003,Balanced strategic slack system,balanced financial workforce operational knowledge network governance and ethics,54,background operating pressure,0.11087,1.0,0.7978,0.0,0.0,1.0,0.9432,0.9257
+SY003,Balanced strategic slack system,balanced financial workforce operational knowledge network governance and ethics,55,background operating pressure,0.11135,1.0,0.7978,0.0,0.0,1.0,0.9432,0.9257
+SY003,Balanced strategic slack system,balanced financial workforce operational knowledge network governance and ethics,56,background operating pressure,0.11196,1.0,0.7978,0.0,0.0,1.0,0.9432,0.9257
+SY003,Balanced strategic slack system,balanced financial workforce operational knowledge network governance and ethics,57,background operating pressure,0.11171,1.0,0.7978,0.0,0.0,1.0,0.9432,0.9257
+SY003,Balanced strategic slack system,balanced financial workforce operational knowledge network governance and ethics,58,background operating pressure,0.11124,1.0,0.7978,0.0,0.0,1.0,0.9432,0.9257
+SY003,Balanced strategic slack system,balanced financial workforce operational knowledge network governance and ethics,59,background operating pressure,0.11207,1.0,0.7978,0.0,0.0,1.0,0.9432,0.9257
+SY003,Balanced strategic slack system,balanced financial workforce operational knowledge network governance and ethics,60,Infrastructure disruption and maintenance backlog,0.7856,0.9358,0.7978,0.0,0.0,1.0,0.906,0.90893
+SY003,Balanced strategic slack system,balanced financial workforce operational knowledge network governance and ethics,61,background operating pressure,0.11202,0.97121,0.7978,0.0,0.0,1.0,0.9432,0.92051
+SY003,Balanced strategic slack system,balanced financial workforce operational knowledge network governance and ethics,62,background operating pressure,0.11277,1.0,0.7978,0.0,0.0,1.0,0.9432,0.9257
+SY003,Balanced strategic slack system,balanced financial workforce operational knowledge network governance and ethics,63,background operating pressure,0.11231,1.0,0.7978,0.0,0.0,1.0,0.9432,0.9257
+SY003,Balanced strategic slack system,balanced financial workforce operational knowledge network governance and ethics,64,background operating pressure,0.11225,1.0,0.7978,0.0,0.0,1.0,0.9432,0.9257
+SY003,Balanced strategic slack system,balanced financial workforce operational knowledge network governance and ethics,65,background operating pressure,0.11325,1.0,0.7978,0.0,0.0,1.0,0.9432,0.9257
+SY003,Balanced strategic slack system,balanced financial workforce operational knowledge network governance and ethics,66,background operating pressure,0.11248,1.0,0.7978,0.0,0.0,1.0,0.9432,0.9257
+SY003,Balanced strategic slack system,balanced financial workforce operational knowledge network governance and ethics,67,background operating pressure,0.11234,1.0,0.7978,0.0,0.0,1.0,0.9432,0.9257
+SY003,Balanced strategic slack system,balanced financial workforce operational knowledge network governance and ethics,68,background operating pressure,0.11354,1.0,0.7978,0.0,0.0,1.0,0.9432,0.9257
+SY003,Balanced strategic slack system,balanced financial workforce operational knowledge network governance and ethics,69,background operating pressure,0.11367,1.0,0.7978,0.0,0.0,1.0,0.9432,0.9257
+SY003,Balanced strategic slack system,balanced financial workforce operational knowledge network governance and ethics,70,background operating pressure,0.11224,1.0,0.7978,0.0,0.0,1.0,0.9432,0.9257
+SY003,Balanced strategic slack system,balanced financial workforce operational knowledge network governance and ethics,71,background operating pressure,0.11216,1.0,0.7978,0.0,0.0,1.0,0.9432,0.9257
+SY003,Balanced strategic slack system,balanced financial workforce operational knowledge network governance and ethics,72,Knowledge loss and leadership turnover,0.6948,0.94997,0.7978,0.0,0.0,1.0,0.912,0.91232
+SY003,Balanced strategic slack system,balanced financial workforce operational knowledge network governance and ethics,73,background operating pressure,0.11398,0.98521,0.7978,0.0,0.0,1.0,0.9432,0.92303
+SY003,Balanced strategic slack system,balanced financial workforce operational knowledge network governance and ethics,74,background operating pressure,0.11415,1.0,0.7978,0.0,0.0,1.0,0.9432,0.9257
+SY003,Balanced strategic slack system,balanced financial workforce operational knowledge network governance and ethics,75,background operating pressure,0.11327,1.0,0.7978,0.0,0.0,1.0,0.9432,0.9257
+SY003,Balanced strategic slack system,balanced financial workforce operational knowledge network governance and ethics,76,background operating pressure,0.11313,1.0,0.7978,0.0,0.0,1.0,0.9432,0.9257
+SY003,Balanced strategic slack system,balanced financial workforce operational knowledge network governance and ethics,77,background operating pressure,0.11411,1.0,0.7978,0.0,0.0,1.0,0.9432,0.9257
+SY003,Balanced strategic slack system,balanced financial workforce operational knowledge network governance and ethics,78,background operating pressure,0.11474,1.0,0.7978,0.0,0.0,1.0,0.9432,0.9257
+SY003,Balanced strategic slack system,balanced financial workforce operational knowledge network governance and ethics,79,background operating pressure,0.11341,1.0,0.7978,0.0,0.0,1.0,0.9432,0.9257
+SY003,Balanced strategic slack system,balanced financial workforce operational knowledge network governance and ethics,80,background operating pressure,0.114,1.0,0.7978,0.0,0.0,1.0,0.9432,0.9257
+SY003,Balanced strategic slack system,balanced financial workforce operational knowledge network governance and ethics,81,background operating pressure,0.11455,1.0,0.7978,0.0,0.0,1.0,0.9432,0.9257
+SY003,Balanced strategic slack system,balanced financial workforce operational knowledge network governance and ethics,82,Compound slack-depletion disruption,0.909,0.92169,0.7978,0.0,0.0018,1.0,0.89742,0.90497
+SY003,Balanced strategic slack system,balanced financial workforce operational knowledge network governance and ethics,83,background operating pressure,0.1139,0.95694,0.7978,0.0,0.0,1.0,0.9432,0.91794
+SY003,Balanced strategic slack system,balanced financial workforce operational knowledge network governance and ethics,84,background operating pressure,0.11441,0.99214,0.7978,0.0,0.0,1.0,0.9432,0.92428
+SY003,Balanced strategic slack system,balanced financial workforce operational knowledge network governance and ethics,85,background operating pressure,0.11399,1.0,0.7978,0.0,0.0,1.0,0.9432,0.9257
+SY003,Balanced strategic slack system,balanced financial workforce operational knowledge network governance and ethics,86,background operating pressure,0.11478,1.0,0.7978,0.0,0.0,1.0,0.9432,0.9257
+SY003,Balanced strategic slack system,balanced financial workforce operational knowledge network governance and ethics,87,background operating pressure,0.1144,1.0,0.7978,0.0,0.0,1.0,0.9432,0.9257
+SY003,Balanced strategic slack system,balanced financial workforce operational knowledge network governance and ethics,88,background operating pressure,0.11422,1.0,0.7978,0.0,0.0,1.0,0.9432,0.9257
+SY003,Balanced strategic slack system,balanced financial workforce operational knowledge network governance and ethics,89,background operating pressure,0.11496,1.0,0.7978,0.0,0.0,1.0,0.9432,0.9257
+SY004,Knowledge-rich but underfunded system,strong memory and expertise but weak liquidity and operational reserves,0,background operating pressure,0.10546,0.67791,0.6618,0.0,0.32949,1.0,0.87665,0.7731
+SY004,Knowledge-rich but underfunded system,strong memory and expertise but weak liquidity and operational reserves,1,background operating pressure,0.10453,0.7043,0.6618,0.0,0.1988,1.0,0.88972,0.79537
+SY004,Knowledge-rich but underfunded system,strong memory and expertise but weak liquidity and operational reserves,2,background operating pressure,0.10518,0.73063,0.6618,0.0,0.06823,1.0,0.90278,0.8176
+SY004,Knowledge-rich but underfunded system,strong memory and expertise but weak liquidity and operational reserves,3,background operating pressure,0.10533,0.75696,0.6618,0.0,0.0,1.0,0.9096,0.83148
+SY004,Knowledge-rich but underfunded system,strong memory and expertise but weak liquidity and operational reserves,4,background operating pressure,0.10441,0.78336,0.6618,0.0,0.0,1.0,0.9096,0.83624
+SY004,Knowledge-rich but underfunded system,strong memory and expertise but weak liquidity and operational reserves,5,background operating pressure,0.10426,0.80978,0.6618,0.0,0.0,1.0,0.9096,0.84099
+SY004,Knowledge-rich but underfunded system,strong memory and expertise but weak liquidity and operational reserves,6,background operating pressure,0.10543,0.83609,0.6618,0.0,0.0,1.0,0.9096,0.84573
+SY004,Knowledge-rich but underfunded system,strong memory and expertise but weak liquidity and operational reserves,7,background operating pressure,0.10458,0.86247,0.6618,0.0,0.0,1.0,0.9096,0.85048
+SY004,Knowledge-rich but underfunded system,strong memory and expertise but weak liquidity and operational reserves,8,background operating pressure,0.10522,0.8888,0.6618,0.0,0.0,1.0,0.9096,0.85522
+SY004,Knowledge-rich but underfunded system,strong memory and expertise but weak liquidity and operational reserves,9,background operating pressure,0.10636,0.91503,0.6618,0.0,0.0,1.0,0.9096,0.85994
+SY004,Knowledge-rich but underfunded system,strong memory and expertise but weak liquidity and operational reserves,10,Supplier and logistics disruption,0.6664,0.85786,0.6618,0.0,0.0,1.0,0.8808,0.84561
+SY004,Knowledge-rich but underfunded system,strong memory and expertise but weak liquidity and operational reserves,11,background operating pressure,0.10656,0.88407,0.6618,0.0,0.0,1.0,0.9096,0.85436
+SY004,Knowledge-rich but underfunded system,strong memory and expertise but weak liquidity and operational reserves,12,background operating pressure,0.10518,0.9104,0.6618,0.0,0.0,1.0,0.9096,0.8591
+SY004,Knowledge-rich but underfunded system,strong memory and expertise but weak liquidity and operational reserves,13,background operating pressure,0.10522,0.93673,0.6618,0.0,0.0,1.0,0.9096,0.86384
+SY004,Knowledge-rich but underfunded system,strong memory and expertise but weak liquidity and operational reserves,14,background operating pressure,0.10562,0.96302,0.6618,0.0,0.0,1.0,0.9096,0.86858
+SY004,Knowledge-rich but underfunded system,strong memory and expertise but weak liquidity and operational reserves,15,background operating pressure,0.10696,0.9892,0.6618,0.0,0.0,1.0,0.9096,0.87329
+SY004,Knowledge-rich but underfunded system,strong memory and expertise but weak liquidity and operational reserves,16,background operating pressure,0.10547,1.0,0.6618,0.0,0.0,1.0,0.9096,0.87523
+SY004,Knowledge-rich but underfunded system,strong memory and expertise but weak liquidity and operational reserves,17,background operating pressure,0.10599,1.0,0.6618,0.0,0.0,1.0,0.9096,0.87523
+SY004,Knowledge-rich but underfunded system,strong memory and expertise but weak liquidity and operational reserves,18,background operating pressure,0.10587,1.0,0.6618,0.0,0.0,1.0,0.9096,0.87523
+SY004,Knowledge-rich but underfunded system,strong memory and expertise but weak liquidity and operational reserves,19,background operating pressure,0.10604,1.0,0.6618,0.0,0.0,1.0,0.9096,0.87523
+SY004,Knowledge-rich but underfunded system,strong memory and expertise but weak liquidity and operational reserves,20,background operating pressure,0.10695,1.0,0.6618,0.0,0.0,1.0,0.9096,0.87523
+SY004,Knowledge-rich but underfunded system,strong memory and expertise but weak liquidity and operational reserves,21,background operating pressure,0.10639,1.0,0.6618,0.0,0.0,1.0,0.9096,0.87523
+SY004,Knowledge-rich but underfunded system,strong memory and expertise but weak liquidity and operational reserves,22,Workforce absence and demand surge,0.7254,0.93451,0.6618,0.0,0.0,1.0,0.87,0.8579
+SY004,Knowledge-rich but underfunded system,strong memory and expertise but weak liquidity and operational reserves,23,background operating pressure,0.10708,0.96068,0.6618,0.0,0.0,1.0,0.9096,0.86815
+SY004,Knowledge-rich but underfunded system,strong memory and expertise but weak liquidity and operational reserves,24,background operating pressure,0.10785,0.98677,0.6618,0.0,0.0,1.0,0.9096,0.87285
+SY004,Knowledge-rich but underfunded system,strong memory and expertise but weak liquidity and operational reserves,25,background operating pressure,0.10795,1.0,0.6618,0.0,0.0,1.0,0.9096,0.87523
+SY004,Knowledge-rich but underfunded system,strong memory and expertise but weak liquidity and operational reserves,26,background operating pressure,0.10745,1.0,0.6618,0.0,0.0,1.0,0.9096,0.87523
+SY004,Knowledge-rich but underfunded system,strong memory and expertise but weak liquidity and operational reserves,27,background operating pressure,0.10831,1.0,0.6618,0.0,0.0,1.0,0.9096,0.87523
+SY004,Knowledge-rich but underfunded system,strong memory and expertise but weak liquidity and operational reserves,28,background operating pressure,0.10801,1.0,0.6618,0.0,0.0,1.0,0.9096,0.87523
+SY004,Knowledge-rich but underfunded system,strong memory and expertise but weak liquidity and operational reserves,29,background operating pressure,0.10863,1.0,0.6618,0.0,0.0,1.0,0.9096,0.87523
+SY004,Knowledge-rich but underfunded system,strong memory and expertise but weak liquidity and operational reserves,30,background operating pressure,0.1076,1.0,0.6618,0.0,0.0,1.0,0.9096,0.87523
+SY004,Knowledge-rich but underfunded system,strong memory and expertise but weak liquidity and operational reserves,31,background operating pressure,0.10796,1.0,0.6618,0.0,0.0,1.0,0.9096,0.87523
+SY004,Knowledge-rich but underfunded system,strong memory and expertise but weak liquidity and operational reserves,32,background operating pressure,0.1085,1.0,0.6618,0.0,0.0,1.0,0.9096,0.87523
+SY004,Knowledge-rich but underfunded system,strong memory and expertise but weak liquidity and operational reserves,33,background operating pressure,0.10935,1.0,0.6618,0.0,0.0,1.0,0.9096,0.87523
+SY004,Knowledge-rich but underfunded system,strong memory and expertise but weak liquidity and operational reserves,34,background operating pressure,0.10882,1.0,0.6618,0.0,0.0,1.0,0.9096,0.87523
+SY004,Knowledge-rich but underfunded system,strong memory and expertise but weak liquidity and operational reserves,35,Cyber and operational outage,0.7308,0.93503,0.6618,0.0,0.0,1.0,0.8748,0.85867
+SY004,Knowledge-rich but underfunded system,strong memory and expertise but weak liquidity and operational reserves,36,background operating pressure,0.10877,0.96104,0.6618,0.0,0.0,1.0,0.9096,0.86822
+SY004,Knowledge-rich but underfunded system,strong memory and expertise but weak liquidity and operational reserves,37,background operating pressure,0.10844,0.98708,0.6618,0.0,0.0,1.0,0.9096,0.87291
+SY004,Knowledge-rich but underfunded system,strong memory and expertise but weak liquidity and operational reserves,38,background operating pressure,0.10862,1.0,0.6618,0.0,0.0,1.0,0.9096,0.87523
+SY004,Knowledge-rich but underfunded system,strong memory and expertise but weak liquidity and operational reserves,39,background operating pressure,0.10861,1.0,0.6618,0.0,0.0,1.0,0.9096,0.87523
+SY004,Knowledge-rich but underfunded system,strong memory and expertise but weak liquidity and operational reserves,40,background operating pressure,0.11027,1.0,0.6618,0.0,0.0,1.0,0.9096,0.87523
+SY004,Knowledge-rich but underfunded system,strong memory and expertise but weak liquidity and operational reserves,41,background operating pressure,0.11019,1.0,0.6618,0.0,0.0,1.0,0.9096,0.87523
+SY004,Knowledge-rich but underfunded system,strong memory and expertise but weak liquidity and operational reserves,42,background operating pressure,0.11033,1.0,0.6618,0.0,0.0,1.0,0.9096,0.87523
+SY004,Knowledge-rich but underfunded system,strong memory and expertise but weak liquidity and operational reserves,43,background operating pressure,0.10972,1.0,0.6618,0.0,0.0,1.0,0.9096,0.87523
+SY004,Knowledge-rich but underfunded system,strong memory and expertise but weak liquidity and operational reserves,44,background operating pressure,0.1102,1.0,0.6618,0.0,0.0,1.0,0.9096,0.87523
+SY004,Knowledge-rich but underfunded system,strong memory and expertise but weak liquidity and operational reserves,45,background operating pressure,0.10949,1.0,0.6618,0.0,0.0,1.0,0.9096,0.87523
+SY004,Knowledge-rich but underfunded system,strong memory and expertise but weak liquidity and operational reserves,46,background operating pressure,0.10998,1.0,0.6618,0.0,0.0,1.0,0.9096,0.87523
+SY004,Knowledge-rich but underfunded system,strong memory and expertise but weak liquidity and operational reserves,47,background operating pressure,0.10943,1.0,0.6618,0.0,0.0,1.0,0.9096,0.87523
+SY004,Knowledge-rich but underfunded system,strong memory and expertise but weak liquidity and operational reserves,48,Revenue decline and liquidity pressure,0.7222,0.9328,0.6618,0.0,0.0,1.0,0.8772,0.8586
+SY004,Knowledge-rich but underfunded system,strong memory and expertise but weak liquidity and operational reserves,49,background operating pressure,0.11022,0.95868,0.6618,0.0,0.0,1.0,0.9096,0.86779
+SY004,Knowledge-rich but underfunded system,strong memory and expertise but weak liquidity and operational reserves,50,background operating pressure,0.11001,0.98458,0.6618,0.0,0.0,1.0,0.9096,0.87246
+SY004,Knowledge-rich but underfunded system,strong memory and expertise but weak liquidity and operational reserves,51,background operating pressure,0.10982,1.0,0.6618,0.0,0.0,1.0,0.9096,0.87523
+SY004,Knowledge-rich but underfunded system,strong memory and expertise but weak liquidity and operational reserves,52,background operating pressure,0.11158,1.0,0.6618,0.0,0.0,1.0,0.9096,0.87523
+SY004,Knowledge-rich but underfunded system,strong memory and expertise but weak liquidity and operational reserves,53,background operating pressure,0.11005,1.0,0.6618,0.0,0.0,1.0,0.9096,0.87523
+SY004,Knowledge-rich but underfunded system,strong memory and expertise but weak liquidity and operational reserves,54,background operating pressure,0.11161,1.0,0.6618,0.0,0.0,1.0,0.9096,0.87523
+SY004,Knowledge-rich but underfunded system,strong memory and expertise but weak liquidity and operational reserves,55,background operating pressure,0.1115,1.0,0.6618,0.0,0.0,1.0,0.9096,0.87523
+SY004,Knowledge-rich but underfunded system,strong memory and expertise but weak liquidity and operational reserves,56,background operating pressure,0.1104,1.0,0.6618,0.0,0.0,1.0,0.9096,0.87523
+SY004,Knowledge-rich but underfunded system,strong memory and expertise but weak liquidity and operational reserves,57,background operating pressure,0.11131,1.0,0.6618,0.0,0.0,1.0,0.9096,0.87523
+SY004,Knowledge-rich but underfunded system,strong memory and expertise but weak liquidity and operational reserves,58,background operating pressure,0.11245,1.0,0.6618,0.0,0.0,1.0,0.9096,0.87523
+SY004,Knowledge-rich but underfunded system,strong memory and expertise but weak liquidity and operational reserves,59,background operating pressure,0.11255,1.0,0.6618,0.0,0.0,1.0,0.9096,0.87523
+SY004,Knowledge-rich but underfunded system,strong memory and expertise but weak liquidity and operational reserves,60,Infrastructure disruption and maintenance backlog,0.7856,0.9261,0.6618,0.0,0.00552,1.0,0.87185,0.85598
+SY004,Knowledge-rich but underfunded system,strong memory and expertise but weak liquidity and operational reserves,61,background operating pressure,0.11195,0.95182,0.6618,0.0,0.0,1.0,0.9096,0.86656
+SY004,Knowledge-rich but underfunded system,strong memory and expertise but weak liquidity and operational reserves,62,background operating pressure,0.11248,0.9775,0.6618,0.0,0.0,1.0,0.9096,0.87118
+SY004,Knowledge-rich but underfunded system,strong memory and expertise but weak liquidity and operational reserves,63,background operating pressure,0.11248,1.0,0.6618,0.0,0.0,1.0,0.9096,0.87523
+SY004,Knowledge-rich but underfunded system,strong memory and expertise but weak liquidity and operational reserves,64,background operating pressure,0.11176,1.0,0.6618,0.0,0.0,1.0,0.9096,0.87523
+SY004,Knowledge-rich but underfunded system,strong memory and expertise but weak liquidity and operational reserves,65,background operating pressure,0.1124,1.0,0.6618,0.0,0.0,1.0,0.9096,0.87523
+SY004,Knowledge-rich but underfunded system,strong memory and expertise but weak liquidity and operational reserves,66,background operating pressure,0.11261,1.0,0.6618,0.0,0.0,1.0,0.9096,0.87523
+SY004,Knowledge-rich but underfunded system,strong memory and expertise but weak liquidity and operational reserves,67,background operating pressure,0.11233,1.0,0.6618,0.0,0.0,1.0,0.9096,0.87523
+SY004,Knowledge-rich but underfunded system,strong memory and expertise but weak liquidity and operational reserves,68,background operating pressure,0.1133,1.0,0.6618,0.0,0.0,1.0,0.9096,0.87523
+SY004,Knowledge-rich but underfunded system,strong memory and expertise but weak liquidity and operational reserves,69,background operating pressure,0.11267,1.0,0.6618,0.0,0.0,1.0,0.9096,0.87523
+SY004,Knowledge-rich but underfunded system,strong memory and expertise but weak liquidity and operational reserves,70,background operating pressure,0.1134,1.0,0.6618,0.0,0.0,1.0,0.9096,0.87523
+SY004,Knowledge-rich but underfunded system,strong memory and expertise but weak liquidity and operational reserves,71,background operating pressure,0.11215,1.0,0.6618,0.0,0.0,1.0,0.9096,0.87523
+SY004,Knowledge-rich but underfunded system,strong memory and expertise but weak liquidity and operational reserves,72,Knowledge loss and leadership turnover,0.6948,0.94027,0.6618,0.0,0.0,1.0,0.8784,0.86011
+SY004,Knowledge-rich but underfunded system,strong memory and expertise but weak liquidity and operational reserves,73,background operating pressure,0.11315,0.96588,0.6618,0.0,0.0,1.0,0.9096,0.86909
+SY004,Knowledge-rich but underfunded system,strong memory and expertise but weak liquidity and operational reserves,74,background operating pressure,0.11247,0.99156,0.6618,0.0,0.0,1.0,0.9096,0.87371
+SY004,Knowledge-rich but underfunded system,strong memory and expertise but weak liquidity and operational reserves,75,background operating pressure,0.11379,1.0,0.6618,0.0,0.0,1.0,0.9096,0.87523
+SY004,Knowledge-rich but underfunded system,strong memory and expertise but weak liquidity and operational reserves,76,background operating pressure,0.11437,1.0,0.6618,0.0,0.0,1.0,0.9096,0.87523
+SY004,Knowledge-rich but underfunded system,strong memory and expertise but weak liquidity and operational reserves,77,background operating pressure,0.11383,1.0,0.6618,0.0,0.0,1.0,0.9096,0.87523
+SY004,Knowledge-rich but underfunded system,strong memory and expertise but weak liquidity and operational reserves,78,background operating pressure,0.11399,1.0,0.6618,0.0,0.0,1.0,0.9096,0.87523
+SY004,Knowledge-rich but underfunded system,strong memory and expertise but weak liquidity and operational reserves,79,background operating pressure,0.11422,1.0,0.6618,0.0,0.0,1.0,0.9096,0.87523
+SY004,Knowledge-rich but underfunded system,strong memory and expertise but weak liquidity and operational reserves,80,background operating pressure,0.11356,1.0,0.6618,0.0,0.0,1.0,0.9096,0.87523
+SY004,Knowledge-rich but underfunded system,strong memory and expertise but weak liquidity and operational reserves,81,background operating pressure,0.11399,1.0,0.6618,0.0,0.0,1.0,0.9096,0.87523
+SY004,Knowledge-rich but underfunded system,strong memory and expertise but weak liquidity and operational reserves,82,Compound slack-depletion disruption,0.909,0.91199,0.6618,0.0,0.0302,1.0,0.86098,0.84896
+SY004,Knowledge-rich but underfunded system,strong memory and expertise but weak liquidity and operational reserves,83,background operating pressure,0.11462,0.93747,0.6618,0.0,0.0,1.0,0.9096,0.86398
+SY004,Knowledge-rich but underfunded system,strong memory and expertise but weak liquidity and operational reserves,84,background operating pressure,0.11487,0.96294,0.6618,0.0,0.0,1.0,0.9096,0.86856
+SY004,Knowledge-rich but underfunded system,strong memory and expertise but weak liquidity and operational reserves,85,background operating pressure,0.11446,0.98843,0.6618,0.0,0.0,1.0,0.9096,0.87315
+SY004,Knowledge-rich but underfunded system,strong memory and expertise but weak liquidity and operational reserves,86,background operating pressure,0.11477,1.0,0.6618,0.0,0.0,1.0,0.9096,0.87523
+SY004,Knowledge-rich but underfunded system,strong memory and expertise but weak liquidity and operational reserves,87,background operating pressure,0.1146,1.0,0.6618,0.0,0.0,1.0,0.9096,0.87523
+SY004,Knowledge-rich but underfunded system,strong memory and expertise but weak liquidity and operational reserves,88,background operating pressure,0.11517,1.0,0.6618,0.0,0.0,1.0,0.9096,0.87523
+SY004,Knowledge-rich but underfunded system,strong memory and expertise but weak liquidity and operational reserves,89,background operating pressure,0.11553,1.0,0.6618,0.0,0.0,1.0,0.9096,0.87523
+SY005,Public-capacity constrained institution,public service system with thin fiscal and administrative slack,0,background operating pressure,0.10542,0.63001,0.6148,0.0,0.41828,0.98145,0.86167,0.7345
+SY005,Public-capacity constrained institution,public service system with thin fiscal and administrative slack,1,background operating pressure,0.10536,0.65263,0.6148,0.0,0.29656,1.0,0.89114,0.76101
+SY005,Public-capacity constrained institution,public service system with thin fiscal and administrative slack,2,background operating pressure,0.1052,0.67526,0.6148,0.0,0.1748,1.0,0.90332,0.7814
+SY005,Public-capacity constrained institution,public service system with thin fiscal and administrative slack,3,background operating pressure,0.10432,0.69797,0.6148,0.0,0.05286,1.0,0.91551,0.80183
+SY005,Public-capacity constrained institution,public service system with thin fiscal and administrative slack,4,background operating pressure,0.10464,0.72066,0.6148,0.0,0.0,1.0,0.9208,0.813
+SY005,Public-capacity constrained institution,public service system with thin fiscal and administrative slack,5,background operating pressure,0.10553,0.74326,0.6148,0.0,0.0,1.0,0.9208,0.81707
+SY005,Public-capacity constrained institution,public service system with thin fiscal and administrative slack,6,background operating pressure,0.10583,0.76583,0.6148,0.0,0.0,1.0,0.9208,0.82113
+SY005,Public-capacity constrained institution,public service system with thin fiscal and administrative slack,7,background operating pressure,0.10437,0.78854,0.6148,0.0,0.0,1.0,0.9208,0.82522
+SY005,Public-capacity constrained institution,public service system with thin fiscal and administrative slack,8,background operating pressure,0.10479,0.81121,0.6148,0.0,0.0,1.0,0.9208,0.8293
+SY005,Public-capacity constrained institution,public service system with thin fiscal and administrative slack,9,background operating pressure,0.10637,0.83373,0.6148,0.0,0.0,1.0,0.9208,0.83335
+SY005,Public-capacity constrained institution,public service system with thin fiscal and administrative slack,10,Supplier and logistics disruption,0.6664,0.77286,0.6148,0.0,0.0,1.0,0.892,0.81836
+SY005,Public-capacity constrained institution,public service system with thin fiscal and administrative slack,11,background operating pressure,0.10506,0.7955,0.6148,0.0,0.0,1.0,0.9208,0.82647
+SY005,Public-capacity constrained institution,public service system with thin fiscal and administrative slack,12,background operating pressure,0.10625,0.81804,0.6148,0.0,0.0,1.0,0.9208,0.83053
+SY005,Public-capacity constrained institution,public service system with thin fiscal and administrative slack,13,background operating pressure,0.10572,0.84063,0.6148,0.0,0.0,1.0,0.9208,0.83459
+SY005,Public-capacity constrained institution,public service system with thin fiscal and administrative slack,14,background operating pressure,0.10647,0.86314,0.6148,0.0,0.0,1.0,0.9208,0.83865
+SY005,Public-capacity constrained institution,public service system with thin fiscal and administrative slack,15,background operating pressure,0.10702,0.88561,0.6148,0.0,0.0,1.0,0.9208,0.84269
+SY005,Public-capacity constrained institution,public service system with thin fiscal and administrative slack,16,background operating pressure,0.10658,0.90812,0.6148,0.0,0.0,1.0,0.9208,0.84674
+SY005,Public-capacity constrained institution,public service system with thin fiscal and administrative slack,17,background operating pressure,0.10632,0.93065,0.6148,0.0,0.0,1.0,0.9208,0.8508
+SY005,Public-capacity constrained institution,public service system with thin fiscal and administrative slack,18,background operating pressure,0.1063,0.95318,0.6148,0.0,0.0,1.0,0.9208,0.85485
+SY005,Public-capacity constrained institution,public service system with thin fiscal and administrative slack,19,background operating pressure,0.10702,0.97565,0.6148,0.0,0.0,1.0,0.9208,0.8589
+SY005,Public-capacity constrained institution,public service system with thin fiscal and administrative slack,20,background operating pressure,0.10716,0.99811,0.6148,0.0,0.0,1.0,0.9208,0.86294
+SY005,Public-capacity constrained institution,public service system with thin fiscal and administrative slack,21,background operating pressure,0.10684,1.0,0.6148,0.0,0.0,1.0,0.9208,0.86328
+SY005,Public-capacity constrained institution,public service system with thin fiscal and administrative slack,22,Workforce absence and demand surge,0.7254,0.93081,0.6148,0.0,0.00228,1.0,0.88097,0.84498
+SY005,Public-capacity constrained institution,public service system with thin fiscal and administrative slack,23,background operating pressure,0.10719,0.95327,0.6148,0.0,0.0,1.0,0.9208,0.85487
+SY005,Public-capacity constrained institution,public service system with thin fiscal and administrative slack,24,background operating pressure,0.10745,0.9757,0.6148,0.0,0.0,1.0,0.9208,0.85891
+SY005,Public-capacity constrained institution,public service system with thin fiscal and administrative slack,25,background operating pressure,0.10702,0.99816,0.6148,0.0,0.0,1.0,0.9208,0.86295
+SY005,Public-capacity constrained institution,public service system with thin fiscal and administrative slack,26,background operating pressure,0.10698,1.0,0.6148,0.0,0.0,1.0,0.9208,0.86328
+SY005,Public-capacity constrained institution,public service system with thin fiscal and administrative slack,27,background operating pressure,0.10788,1.0,0.6148,0.0,0.0,1.0,0.9208,0.86328
+SY005,Public-capacity constrained institution,public service system with thin fiscal and administrative slack,28,background operating pressure,0.10706,1.0,0.6148,0.0,0.0,1.0,0.9208,0.86328
+SY005,Public-capacity constrained institution,public service system with thin fiscal and administrative slack,29,background operating pressure,0.10818,1.0,0.6148,0.0,0.0,1.0,0.9208,0.86328
+SY005,Public-capacity constrained institution,public service system with thin fiscal and administrative slack,30,background operating pressure,0.1087,1.0,0.6148,0.0,0.0,1.0,0.9208,0.86328
+SY005,Public-capacity constrained institution,public service system with thin fiscal and administrative slack,31,background operating pressure,0.10888,1.0,0.6148,0.0,0.0,1.0,0.9208,0.86328
+SY005,Public-capacity constrained institution,public service system with thin fiscal and administrative slack,32,background operating pressure,0.10784,1.0,0.6148,0.0,0.0,1.0,0.9208,0.86328
+SY005,Public-capacity constrained institution,public service system with thin fiscal and administrative slack,33,background operating pressure,0.10829,1.0,0.6148,0.0,0.0,1.0,0.9208,0.86328
+SY005,Public-capacity constrained institution,public service system with thin fiscal and administrative slack,34,background operating pressure,0.10943,1.0,0.6148,0.0,0.0,1.0,0.9208,0.86328
+SY005,Public-capacity constrained institution,public service system with thin fiscal and administrative slack,35,Cyber and operational outage,0.7308,0.93133,0.6148,0.0,0.00336,1.0,0.88566,0.8456
+SY005,Public-capacity constrained institution,public service system with thin fiscal and administrative slack,36,background operating pressure,0.10852,0.95366,0.6148,0.0,0.0,1.0,0.9208,0.85494
+SY005,Public-capacity constrained institution,public service system with thin fiscal and administrative slack,37,background operating pressure,0.10992,0.97587,0.6148,0.0,0.0,1.0,0.9208,0.85894
+SY005,Public-capacity constrained institution,public service system with thin fiscal and administrative slack,38,background operating pressure,0.10846,0.99821,0.6148,0.0,0.0,1.0,0.9208,0.86296
+SY005,Public-capacity constrained institution,public service system with thin fiscal and administrative slack,39,background operating pressure,0.10986,1.0,0.6148,0.0,0.0,1.0,0.9208,0.86328
+SY005,Public-capacity constrained institution,public service system with thin fiscal and administrative slack,40,background operating pressure,0.10838,1.0,0.6148,0.0,0.0,1.0,0.9208,0.86328
+SY005,Public-capacity constrained institution,public service system with thin fiscal and administrative slack,41,background operating pressure,0.10976,1.0,0.6148,0.0,0.0,1.0,0.9208,0.86328
+SY005,Public-capacity constrained institution,public service system with thin fiscal and administrative slack,42,background operating pressure,0.11015,1.0,0.6148,0.0,0.0,1.0,0.9208,0.86328
+SY005,Public-capacity constrained institution,public service system with thin fiscal and administrative slack,43,background operating pressure,0.10976,1.0,0.6148,0.0,0.0,1.0,0.9208,0.86328
+SY005,Public-capacity constrained institution,public service system with thin fiscal and administrative slack,44,background operating pressure,0.11005,1.0,0.6148,0.0,0.0,1.0,0.9208,0.86328
+SY005,Public-capacity constrained institution,public service system with thin fiscal and administrative slack,45,background operating pressure,0.11073,1.0,0.6148,0.0,0.0,1.0,0.9208,0.86328
+SY005,Public-capacity constrained institution,public service system with thin fiscal and administrative slack,46,background operating pressure,0.11101,1.0,0.6148,0.0,0.0,1.0,0.9208,0.86328
+SY005,Public-capacity constrained institution,public service system with thin fiscal and administrative slack,47,background operating pressure,0.1095,1.0,0.6148,0.0,0.0,1.0,0.9208,0.86328
+SY005,Public-capacity constrained institution,public service system with thin fiscal and administrative slack,48,Revenue decline and liquidity pressure,0.7222,0.9291,0.6148,0.0,0.00164,1.0,0.88824,0.84576
+SY005,Public-capacity constrained institution,public service system with thin fiscal and administrative slack,49,background operating pressure,0.11043,0.95126,0.6148,0.0,0.0,1.0,0.9208,0.85451
+SY005,Public-capacity constrained institution,public service system with thin fiscal and administrative slack,50,background operating pressure,0.10958,0.9735,0.6148,0.0,0.0,1.0,0.9208,0.85851
+SY005,Public-capacity constrained institution,public service system with thin fiscal and administrative slack,51,background operating pressure,0.11038,0.99567,0.6148,0.0,0.0,1.0,0.9208,0.8625
+SY005,Public-capacity constrained institution,public service system with thin fiscal and administrative slack,52,background operating pressure,0.11003,1.0,0.6148,0.0,0.0,1.0,0.9208,0.86328
+SY005,Public-capacity constrained institution,public service system with thin fiscal and administrative slack,53,background operating pressure,0.11018,1.0,0.6148,0.0,0.0,1.0,0.9208,0.86328
+SY005,Public-capacity constrained institution,public service system with thin fiscal and administrative slack,54,background operating pressure,0.11123,1.0,0.6148,0.0,0.0,1.0,0.9208,0.86328
+SY005,Public-capacity constrained institution,public service system with thin fiscal and administrative slack,55,background operating pressure,0.11027,1.0,0.6148,0.0,0.0,1.0,0.9208,0.86328
+SY005,Public-capacity constrained institution,public service system with thin fiscal and administrative slack,56,background operating pressure,0.11053,1.0,0.6148,0.0,0.0,1.0,0.9208,0.86328
+SY005,Public-capacity constrained institution,public service system with thin fiscal and administrative slack,57,background operating pressure,0.11036,1.0,0.6148,0.0,0.0,1.0,0.9208,0.86328
+SY005,Public-capacity constrained institution,public service system with thin fiscal and administrative slack,58,background operating pressure,0.11209,1.0,0.6148,0.0,0.0,1.0,0.9208,0.86328
+SY005,Public-capacity constrained institution,public service system with thin fiscal and administrative slack,59,background operating pressure,0.11107,1.0,0.6148,0.0,0.0,1.0,0.9208,0.86328
+SY005,Public-capacity constrained institution,public service system with thin fiscal and administrative slack,60,Infrastructure disruption and maintenance backlog,0.7856,0.9224,0.6148,0.0,0.01432,1.0,0.88217,0.84218
+SY005,Public-capacity constrained institution,public service system with thin fiscal and administrative slack,61,background operating pressure,0.11096,0.94451,0.6148,0.0,0.0,1.0,0.9208,0.85329
+SY005,Public-capacity constrained institution,public service system with thin fiscal and administrative slack,62,background operating pressure,0.11218,0.96651,0.6148,0.0,0.0,1.0,0.9208,0.85725
+SY005,Public-capacity constrained institution,public service system with thin fiscal and administrative slack,63,background operating pressure,0.1125,0.98849,0.6148,0.0,0.0,1.0,0.9208,0.86121
+SY005,Public-capacity constrained institution,public service system with thin fiscal and administrative slack,64,background operating pressure,0.11244,1.0,0.6148,0.0,0.0,1.0,0.9208,0.86328
+SY005,Public-capacity constrained institution,public service system with thin fiscal and administrative slack,65,background operating pressure,0.11239,1.0,0.6148,0.0,0.0,1.0,0.9208,0.86328
+SY005,Public-capacity constrained institution,public service system with thin fiscal and administrative slack,66,background operating pressure,0.11249,1.0,0.6148,0.0,0.0,1.0,0.9208,0.86328
+SY005,Public-capacity constrained institution,public service system with thin fiscal and administrative slack,67,background operating pressure,0.11298,1.0,0.6148,0.0,0.0,1.0,0.9208,0.86328
+SY005,Public-capacity constrained institution,public service system with thin fiscal and administrative slack,68,background operating pressure,0.11228,1.0,0.6148,0.0,0.0,1.0,0.9208,0.86328
+SY005,Public-capacity constrained institution,public service system with thin fiscal and administrative slack,69,background operating pressure,0.11347,1.0,0.6148,0.0,0.0,1.0,0.9208,0.86328
+SY005,Public-capacity constrained institution,public service system with thin fiscal and administrative slack,70,background operating pressure,0.11329,1.0,0.6148,0.0,0.0,1.0,0.9208,0.86328
+SY005,Public-capacity constrained institution,public service system with thin fiscal and administrative slack,71,background operating pressure,0.11374,1.0,0.6148,0.0,0.0,1.0,0.9208,0.86328
+SY005,Public-capacity constrained institution,public service system with thin fiscal and administrative slack,72,Knowledge loss and leadership turnover,0.6948,0.93657,0.6148,0.0,0.0,1.0,0.8896,0.84749
+SY005,Public-capacity constrained institution,public service system with thin fiscal and administrative slack,73,background operating pressure,0.11404,0.9584,0.6148,0.0,0.0,1.0,0.9208,0.85579
+SY005,Public-capacity constrained institution,public service system with thin fiscal and administrative slack,74,background operating pressure,0.11406,0.98024,0.6148,0.0,0.0,1.0,0.9208,0.85972
+SY005,Public-capacity constrained institution,public service system with thin fiscal and administrative slack,75,background operating pressure,0.11354,1.0,0.6148,0.0,0.0,1.0,0.9208,0.86328
+SY005,Public-capacity constrained institution,public service system with thin fiscal and administrative slack,76,background operating pressure,0.11366,1.0,0.6148,0.0,0.0,1.0,0.9208,0.86328
+SY005,Public-capacity constrained institution,public service system with thin fiscal and administrative slack,77,background operating pressure,0.11421,1.0,0.6148,0.0,0.0,1.0,0.9208,0.86328
+SY005,Public-capacity constrained institution,public service system with thin fiscal and administrative slack,78,background operating pressure,0.11402,1.0,0.6148,0.0,0.0,1.0,0.9208,0.86328
+SY005,Public-capacity constrained institution,public service system with thin fiscal and administrative slack,79,background operating pressure,0.11304,1.0,0.6148,0.0,0.0,1.0,0.9208,0.86328
+SY005,Public-capacity constrained institution,public service system with thin fiscal and administrative slack,80,background operating pressure,0.11493,1.0,0.6148,0.0,0.0,1.0,0.9208,0.86328
+SY005,Public-capacity constrained institution,public service system with thin fiscal and administrative slack,81,background operating pressure,0.11362,1.0,0.6148,0.0,0.0,1.0,0.9208,0.86328
+SY005,Public-capacity constrained institution,public service system with thin fiscal and administrative slack,82,Compound slack-depletion disruption,0.909,0.90829,0.6148,0.0,0.039,1.0,0.8713,0.83516
+SY005,Public-capacity constrained institution,public service system with thin fiscal and administrative slack,83,background operating pressure,0.11443,0.93009,0.6148,0.0,0.0,1.0,0.9208,0.8507
+SY005,Public-capacity constrained institution,public service system with thin fiscal and administrative slack,84,background operating pressure,0.11448,0.95189,0.6148,0.0,0.0,1.0,0.9208,0.85462
+SY005,Public-capacity constrained institution,public service system with thin fiscal and administrative slack,85,background operating pressure,0.11389,0.97374,0.6148,0.0,0.0,1.0,0.9208,0.85855
+SY005,Public-capacity constrained institution,public service system with thin fiscal and administrative slack,86,background operating pressure,0.11498,0.99549,0.6148,0.0,0.0,1.0,0.9208,0.86247
+SY005,Public-capacity constrained institution,public service system with thin fiscal and administrative slack,87,background operating pressure,0.11512,1.0,0.6148,0.0,0.0,1.0,0.9208,0.86328
+SY005,Public-capacity constrained institution,public service system with thin fiscal and administrative slack,88,background operating pressure,0.11569,1.0,0.6148,0.0,0.0,1.0,0.9208,0.86328
+SY005,Public-capacity constrained institution,public service system with thin fiscal and administrative slack,89,background operating pressure,0.1154,1.0,0.6148,0.0,0.0,1.0,0.9208,0.86328
+SY006,Supply-network dependent organization,moderate internal slack with high external dependency exposure,0,background operating pressure,0.10526,0.65733,0.6358,0.0,0.35465,1.0,0.86853,0.75508
+SY006,Supply-network dependent organization,moderate internal slack with high external dependency exposure,1,background operating pressure,0.10432,0.68254,0.6358,0.0,0.22911,1.0,0.88109,0.77644
+SY006,Supply-network dependent organization,moderate internal slack with high external dependency exposure,2,background operating pressure,0.10532,0.70766,0.6358,0.0,0.10378,1.0,0.89362,0.79776
+SY006,Supply-network dependent organization,moderate internal slack with high external dependency exposure,3,background operating pressure,0.10576,0.73274,0.6358,0.0,0.0,1.0,0.904,0.81618
+SY006,Supply-network dependent organization,moderate internal slack with high external dependency exposure,4,background operating pressure,0.1046,0.75793,0.6358,0.0,0.0,1.0,0.904,0.82071
+SY006,Supply-network dependent organization,moderate internal slack with high external dependency exposure,5,background operating pressure,0.10564,0.78302,0.6358,0.0,0.0,1.0,0.904,0.82523
+SY006,Supply-network dependent organization,moderate internal slack with high external dependency exposure,6,background operating pressure,0.10489,0.80818,0.6358,0.0,0.0,1.0,0.904,0.82976
+SY006,Supply-network dependent organization,moderate internal slack with high external dependency exposure,7,background operating pressure,0.10467,0.83336,0.6358,0.0,0.0,1.0,0.904,0.83429
+SY006,Supply-network dependent organization,moderate internal slack with high external dependency exposure,8,background operating pressure,0.10516,0.85849,0.6358,0.0,0.0,1.0,0.904,0.83882
+SY006,Supply-network dependent organization,moderate internal slack with high external dependency exposure,9,background operating pressure,0.10608,0.88355,0.6358,0.0,0.0,1.0,0.904,0.84333
+SY006,Supply-network dependent organization,moderate internal slack with high external dependency exposure,10,Supplier and logistics disruption,0.6664,0.82517,0.6358,0.0,0.0,1.0,0.8752,0.82879
+SY006,Supply-network dependent organization,moderate internal slack with high external dependency exposure,11,background operating pressure,0.10512,0.85031,0.6358,0.0,0.0,1.0,0.904,0.83734
+SY006,Supply-network dependent organization,moderate internal slack with high external dependency exposure,12,background operating pressure,0.10626,0.87535,0.6358,0.0,0.0,1.0,0.904,0.84185
+SY006,Supply-network dependent organization,moderate internal slack with high external dependency exposure,13,background operating pressure,0.10576,0.90043,0.6358,0.0,0.0,1.0,0.904,0.84637
+SY006,Supply-network dependent organization,moderate internal slack with high external dependency exposure,14,background operating pressure,0.10552,0.92553,0.6358,0.0,0.0,1.0,0.904,0.85088
+SY006,Supply-network dependent organization,moderate internal slack with high external dependency exposure,15,background operating pressure,0.10616,0.95058,0.6358,0.0,0.0,1.0,0.904,0.85539
+SY006,Supply-network dependent organization,moderate internal slack with high external dependency exposure,16,background operating pressure,0.10619,0.97562,0.6358,0.0,0.0,1.0,0.904,0.8599
+SY006,Supply-network dependent organization,moderate internal slack with high external dependency exposure,17,background operating pressure,0.10646,1.0,0.6358,0.0,0.0,1.0,0.904,0.86429
+SY006,Supply-network dependent organization,moderate internal slack with high external dependency exposure,18,background operating pressure,0.10742,1.0,0.6358,0.0,0.0,1.0,0.904,0.86429
+SY006,Supply-network dependent organization,moderate internal slack with high external dependency exposure,19,background operating pressure,0.10762,1.0,0.6358,0.0,0.0,1.0,0.904,0.86429
+SY006,Supply-network dependent organization,moderate internal slack with high external dependency exposure,20,background operating pressure,0.10635,1.0,0.6358,0.0,0.0,1.0,0.904,0.86429
+SY006,Supply-network dependent organization,moderate internal slack with high external dependency exposure,21,background operating pressure,0.108,1.0,0.6358,0.0,0.0,1.0,0.904,0.86429
+SY006,Supply-network dependent organization,moderate internal slack with high external dependency exposure,22,Workforce absence and demand surge,0.7254,0.93331,0.6358,0.0,0.0,1.0,0.8644,0.84674
+SY006,Supply-network dependent organization,moderate internal slack with high external dependency exposure,23,background operating pressure,0.10748,0.95824,0.6358,0.0,0.0,1.0,0.904,0.85677
+SY006,Supply-network dependent organization,moderate internal slack with high external dependency exposure,24,background operating pressure,0.1083,0.98309,0.6358,0.0,0.0,1.0,0.904,0.86124
+SY006,Supply-network dependent organization,moderate internal slack with high external dependency exposure,25,background operating pressure,0.10813,1.0,0.6358,0.0,0.0,1.0,0.904,0.86429
+SY006,Supply-network dependent organization,moderate internal slack with high external dependency exposure,26,background operating pressure,0.10767,1.0,0.6358,0.0,0.0,1.0,0.904,0.86429
+SY006,Supply-network dependent organization,moderate internal slack with high external dependency exposure,27,background operating pressure,0.10724,1.0,0.6358,0.0,0.0,1.0,0.904,0.86429
+SY006,Supply-network dependent organization,moderate internal slack with high external dependency exposure,28,background operating pressure,0.10872,1.0,0.6358,0.0,0.0,1.0,0.904,0.86429
+SY006,Supply-network dependent organization,moderate internal slack with high external dependency exposure,29,background operating pressure,0.10898,1.0,0.6358,0.0,0.0,1.0,0.904,0.86429
+SY006,Supply-network dependent organization,moderate internal slack with high external dependency exposure,30,background operating pressure,0.10835,1.0,0.6358,0.0,0.0,1.0,0.904,0.86429
+SY006,Supply-network dependent organization,moderate internal slack with high external dependency exposure,31,background operating pressure,0.10745,1.0,0.6358,0.0,0.0,1.0,0.904,0.86429
+SY006,Supply-network dependent organization,moderate internal slack with high external dependency exposure,32,background operating pressure,0.10899,1.0,0.6358,0.0,0.0,1.0,0.904,0.86429
+SY006,Supply-network dependent organization,moderate internal slack with high external dependency exposure,33,background operating pressure,0.10899,1.0,0.6358,0.0,0.0,1.0,0.904,0.86429
+SY006,Supply-network dependent organization,moderate internal slack with high external dependency exposure,34,background operating pressure,0.10934,1.0,0.6358,0.0,0.0,1.0,0.904,0.86429
+SY006,Supply-network dependent organization,moderate internal slack with high external dependency exposure,35,Cyber and operational outage,0.7308,0.93383,0.6358,0.0,0.0,1.0,0.8692,0.84751
+SY006,Supply-network dependent organization,moderate internal slack with high external dependency exposure,36,background operating pressure,0.10977,0.95855,0.6358,0.0,0.0,1.0,0.904,0.85683
+SY006,Supply-network dependent organization,moderate internal slack with high external dependency exposure,37,background operating pressure,0.10989,0.98326,0.6358,0.0,0.0,1.0,0.904,0.86127
+SY006,Supply-network dependent organization,moderate internal slack with high external dependency exposure,38,background operating pressure,0.10953,1.0,0.6358,0.0,0.0,1.0,0.904,0.86429
+SY006,Supply-network dependent organization,moderate internal slack with high external dependency exposure,39,background operating pressure,0.10896,1.0,0.6358,0.0,0.0,1.0,0.904,0.86429
+SY006,Supply-network dependent organization,moderate internal slack with high external dependency exposure,40,background operating pressure,0.10936,1.0,0.6358,0.0,0.0,1.0,0.904,0.86429
+SY006,Supply-network dependent organization,moderate internal slack with high external dependency exposure,41,background operating pressure,0.10943,1.0,0.6358,0.0,0.0,1.0,0.904,0.86429
+SY006,Supply-network dependent organization,moderate internal slack with high external dependency exposure,42,background operating pressure,0.11006,1.0,0.6358,0.0,0.0,1.0,0.904,0.86429
+SY006,Supply-network dependent organization,moderate internal slack with high external dependency exposure,43,background operating pressure,0.10991,1.0,0.6358,0.0,0.0,1.0,0.904,0.86429
+SY006,Supply-network dependent organization,moderate internal slack with high external dependency exposure,44,background operating pressure,0.11043,1.0,0.6358,0.0,0.0,1.0,0.904,0.86429
+SY006,Supply-network dependent organization,moderate internal slack with high external dependency exposure,45,background operating pressure,0.10993,1.0,0.6358,0.0,0.0,1.0,0.904,0.86429
+SY006,Supply-network dependent organization,moderate internal slack with high external dependency exposure,46,background operating pressure,0.1102,1.0,0.6358,0.0,0.0,1.0,0.904,0.86429
+SY006,Supply-network dependent organization,moderate internal slack with high external dependency exposure,47,background operating pressure,0.11107,1.0,0.6358,0.0,0.0,1.0,0.904,0.86429
+SY006,Supply-network dependent organization,moderate internal slack with high external dependency exposure,48,Revenue decline and liquidity pressure,0.7222,0.9316,0.6358,0.0,0.0,1.0,0.8716,0.84744
+SY006,Supply-network dependent organization,moderate internal slack with high external dependency exposure,49,background operating pressure,0.11096,0.95622,0.6358,0.0,0.0,1.0,0.904,0.85641
+SY006,Supply-network dependent organization,moderate internal slack with high external dependency exposure,50,background operating pressure,0.11136,0.98079,0.6358,0.0,0.0,1.0,0.904,0.86083
+SY006,Supply-network dependent organization,moderate internal slack with high external dependency exposure,51,background operating pressure,0.11102,1.0,0.6358,0.0,0.0,1.0,0.904,0.86429
+SY006,Supply-network dependent organization,moderate internal slack with high external dependency exposure,52,background operating pressure,0.10999,1.0,0.6358,0.0,0.0,1.0,0.904,0.86429
+SY006,Supply-network dependent organization,moderate internal slack with high external dependency exposure,53,background operating pressure,0.1107,1.0,0.6358,0.0,0.0,1.0,0.904,0.86429
+SY006,Supply-network dependent organization,moderate internal slack with high external dependency exposure,54,background operating pressure,0.11056,1.0,0.6358,0.0,0.0,1.0,0.904,0.86429
+SY006,Supply-network dependent organization,moderate internal slack with high external dependency exposure,55,background operating pressure,0.11063,1.0,0.6358,0.0,0.0,1.0,0.904,0.86429
+SY006,Supply-network dependent organization,moderate internal slack with high external dependency exposure,56,background operating pressure,0.11047,1.0,0.6358,0.0,0.0,1.0,0.904,0.86429
+SY006,Supply-network dependent organization,moderate internal slack with high external dependency exposure,57,background operating pressure,0.11056,1.0,0.6358,0.0,0.0,1.0,0.904,0.86429
+SY006,Supply-network dependent organization,moderate internal slack with high external dependency exposure,58,background operating pressure,0.11142,1.0,0.6358,0.0,0.0,1.0,0.904,0.86429
+SY006,Supply-network dependent organization,moderate internal slack with high external dependency exposure,59,background operating pressure,0.11215,1.0,0.6358,0.0,0.0,1.0,0.904,0.86429
+SY006,Supply-network dependent organization,moderate internal slack with high external dependency exposure,60,Infrastructure disruption and maintenance backlog,0.7856,0.9249,0.6358,0.0,0.01072,1.0,0.86573,0.84412
+SY006,Supply-network dependent organization,moderate internal slack with high external dependency exposure,61,background operating pressure,0.11255,0.94937,0.6358,0.0,0.0,1.0,0.904,0.85517
+SY006,Supply-network dependent organization,moderate internal slack with high external dependency exposure,62,background operating pressure,0.11288,0.97381,0.6358,0.0,0.0,1.0,0.904,0.85957
+SY006,Supply-network dependent organization,moderate internal slack with high external dependency exposure,63,background operating pressure,0.11222,0.99831,0.6358,0.0,0.0,1.0,0.904,0.86398
+SY006,Supply-network dependent organization,moderate internal slack with high external dependency exposure,64,background operating pressure,0.11121,1.0,0.6358,0.0,0.0,1.0,0.904,0.86429
+SY006,Supply-network dependent organization,moderate internal slack with high external dependency exposure,65,background operating pressure,0.11168,1.0,0.6358,0.0,0.0,1.0,0.904,0.86429
+SY006,Supply-network dependent organization,moderate internal slack with high external dependency exposure,66,background operating pressure,0.11153,1.0,0.6358,0.0,0.0,1.0,0.904,0.86429
+SY006,Supply-network dependent organization,moderate internal slack with high external dependency exposure,67,background operating pressure,0.11328,1.0,0.6358,0.0,0.0,1.0,0.904,0.86429
+SY006,Supply-network dependent organization,moderate internal slack with high external dependency exposure,68,background operating pressure,0.1123,1.0,0.6358,0.0,0.0,1.0,0.904,0.86429
+SY006,Supply-network dependent organization,moderate internal slack with high external dependency exposure,69,background operating pressure,0.11323,1.0,0.6358,0.0,0.0,1.0,0.904,0.86429
+SY006,Supply-network dependent organization,moderate internal slack with high external dependency exposure,70,background operating pressure,0.1128,1.0,0.6358,0.0,0.0,1.0,0.904,0.86429
+SY006,Supply-network dependent organization,moderate internal slack with high external dependency exposure,71,background operating pressure,0.11319,1.0,0.6358,0.0,0.0,1.0,0.904,0.86429
+SY006,Supply-network dependent organization,moderate internal slack with high external dependency exposure,72,Knowledge loss and leadership turnover,0.6948,0.93907,0.6358,0.0,0.0,1.0,0.8728,0.84895
+SY006,Supply-network dependent organization,moderate internal slack with high external dependency exposure,73,background operating pressure,0.11396,0.96341,0.6358,0.0,0.0,1.0,0.904,0.8577
+SY006,Supply-network dependent organization,moderate internal slack with high external dependency exposure,74,background operating pressure,0.11369,0.98778,0.6358,0.0,0.0,1.0,0.904,0.86209
+SY006,Supply-network dependent organization,moderate internal slack with high external dependency exposure,75,background operating pressure,0.11265,1.0,0.6358,0.0,0.0,1.0,0.904,0.86429
+SY006,Supply-network dependent organization,moderate internal slack with high external dependency exposure,76,background operating pressure,0.11389,1.0,0.6358,0.0,0.0,1.0,0.904,0.86429
+SY006,Supply-network dependent organization,moderate internal slack with high external dependency exposure,77,background operating pressure,0.11345,1.0,0.6358,0.0,0.0,1.0,0.904,0.86429
+SY006,Supply-network dependent organization,moderate internal slack with high external dependency exposure,78,background operating pressure,0.11481,1.0,0.6358,0.0,0.0,1.0,0.904,0.86429
+SY006,Supply-network dependent organization,moderate internal slack with high external dependency exposure,79,background operating pressure,0.11352,1.0,0.6358,0.0,0.0,1.0,0.904,0.86429
+SY006,Supply-network dependent organization,moderate internal slack with high external dependency exposure,80,background operating pressure,0.11358,1.0,0.6358,0.0,0.0,1.0,0.904,0.86429
+SY006,Supply-network dependent organization,moderate internal slack with high external dependency exposure,81,background operating pressure,0.11506,1.0,0.6358,0.0,0.0,1.0,0.904,0.86429
+SY006,Supply-network dependent organization,moderate internal slack with high external dependency exposure,82,Compound slack-depletion disruption,0.909,0.91079,0.6358,0.0,0.0354,1.0,0.85486,0.8371
+SY006,Supply-network dependent organization,moderate internal slack with high external dependency exposure,83,background operating pressure,0.11429,0.9351,0.6358,0.0,0.0,1.0,0.904,0.85261
+SY006,Supply-network dependent organization,moderate internal slack with high external dependency exposure,84,background operating pressure,0.11375,0.95947,0.6358,0.0,0.0,1.0,0.904,0.85699
+SY006,Supply-network dependent organization,moderate internal slack with high external dependency exposure,85,background operating pressure,0.11529,0.98369,0.6358,0.0,0.0,1.0,0.904,0.86135
+SY006,Supply-network dependent organization,moderate internal slack with high external dependency exposure,86,background operating pressure,0.11566,1.0,0.6358,0.0,0.0,1.0,0.904,0.86429
+SY006,Supply-network dependent organization,moderate internal slack with high external dependency exposure,87,background operating pressure,0.11492,1.0,0.6358,0.0,0.0,1.0,0.904,0.86429
+SY006,Supply-network dependent organization,moderate internal slack with high external dependency exposure,88,background operating pressure,0.11439,1.0,0.6358,0.0,0.0,1.0,0.904,0.86429
+SY006,Supply-network dependent organization,moderate internal slack with high external dependency exposure,89,background operating pressure,0.11591,1.0,0.6358,0.0,0.0,1.0,0.904,0.86429

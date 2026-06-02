@@ -1,0 +1,10 @@
+scenario,financial_slack_weight,workforce_slack_weight,operational_slack_weight,knowledge_slack_weight,network_slack_weight,governance_slack_weight,ethical_safeguards_weight,ethical_burden_weight,implementation_burden_weight,description
+Balanced,0.13,0.14,0.13,0.13,0.13,0.14,0.13,0.04,0.03,Balanced strategic slack across financial workforce operational knowledge network governance ethics and implementation burden.
+Financial-first,0.35,0.10,0.10,0.10,0.10,0.12,0.10,0.02,0.01,Prioritizes cash reserves liquidity credit access contingency funding and budget flexibility.
+Workforce-first,0.10,0.35,0.10,0.12,0.09,0.10,0.12,0.01,0.01,Prioritizes staffing depth recovery time cross-training manageable workload and psychological safety.
+Operational-first,0.10,0.10,0.35,0.10,0.12,0.10,0.10,0.02,0.01,Prioritizes backup systems spare parts reserve capacity alternate workflows and operational continuity.
+Knowledge-first,0.10,0.12,0.10,0.35,0.10,0.10,0.10,0.02,0.01,Prioritizes institutional memory documentation mentoring knowledge maps and after-action archives.
+Network-first,0.10,0.09,0.12,0.10,0.35,0.10,0.10,0.02,0.01,Prioritizes suppliers mutual aid partner optionality redundant routes and trusted relationships.
+Governance-first,0.10,0.10,0.10,0.11,0.10,0.35,0.12,0.01,0.01,Prioritizes decision rights flexible budgets escalation authority adaptive rules and accountability.
+Ethics-first,0.10,0.14,0.10,0.11,0.10,0.12,0.35,0.06,0.02,Prioritizes safeguards against shifted burden burnout supplier exploitation community harm hoarding and abandonment.
+Implementation-aware,0.13,0.14,0.13,0.13,0.13,0.14,0.13,0.03,0.10,Penalizes implementation burden when administrative budget political technical or cultural capacity is constrained.

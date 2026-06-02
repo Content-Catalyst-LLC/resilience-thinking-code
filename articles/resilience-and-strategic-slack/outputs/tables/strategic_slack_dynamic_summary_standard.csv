@@ -1,0 +1,7 @@
+system,mean_function,minimum_function,final_function,mean_slack_stock,minimum_slack_stock,final_slack_stock,maximum_workforce_strain,mean_fragility_gap,final_ethical_adjusted_function,final_resilience_score
+Balanced strategic slack system,1.0,1.0,1.0,0.98822,0.83096,1.0,0.16076,0.0,0.9432,0.9257
+Knowledge-rich but underfunded system,1.0,1.0,1.0,0.96335,0.67791,1.0,0.32949,0.0,0.9096,0.87523
+Supply-network dependent organization,1.0,1.0,1.0,0.95725,0.65733,1.0,0.35465,0.0,0.904,0.86429
+Public-capacity constrained institution,0.99979,0.98145,1.0,0.94537,0.63001,1.0,0.41828,0.0,0.9208,0.86328
+Financially buffered but workforce-thin system,1.0,1.0,1.0,0.96008,0.63758,1.0,0.40533,0.0,0.8648,0.83501
+Lean high-utilization system,0.99668,0.92224,1.0,0.60945,0.42186,0.7363,0.51276,0.00716,0.8256,0.72194

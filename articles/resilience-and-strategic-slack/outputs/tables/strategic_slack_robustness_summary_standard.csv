@@ -1,0 +1,7 @@
+portfolio_id,portfolio,mean_slack_resilience_value,median_slack_resilience_value,probability_ranked_first,probability_top_two,probability_bottom_two
+SS006,Adaptive Governance and Emergency Decision Space,7.4828,7.48605,36.77,61.53,8.37
+SS002,Workforce Depth and Recovery Time,7.40892,7.41132,21.4,45.8,15.4
+SS005,Supplier and Partner Optionality,7.36088,7.35929,16.63,35.5,23.0
+SS004,Knowledge Architecture and Institutional Memory,7.35201,7.35013,14.7,32.57,24.53
+SS003,Critical Operations Redundancy,7.30155,7.30918,10.4,24.27,32.9
+SS001,Cash Reserves and Liquidity Buffer,6.89266,6.88931,0.1,0.33,95.8
