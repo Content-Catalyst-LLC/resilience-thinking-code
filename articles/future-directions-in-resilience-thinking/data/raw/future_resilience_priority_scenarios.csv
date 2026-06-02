@@ -1,0 +1,10 @@
+scenario,adaptive_capacity_weight,buffering_capacity_weight,transformability_weight,governance_quality_weight,equity_performance_weight,digital_resilience_weight,climate_readiness_weight,systemic_exposure_weight,implementation_burden_weight,description
+Balanced,0.16,0.14,0.16,0.14,0.14,0.12,0.14,0.05,0.05,Balanced scoring across adaptive capacity buffering transformability governance equity digital resilience climate readiness exposure and burden.
+Adaptation-first,0.32,0.13,0.12,0.12,0.10,0.09,0.14,0.04,0.04,Prioritizes near term adaptive capacity and operating flexibility.
+Buffering-first,0.12,0.32,0.12,0.12,0.10,0.09,0.13,0.05,0.05,Prioritizes redundancy slack buffers and absorptive capacity.
+Transformation-first,0.12,0.11,0.34,0.12,0.12,0.08,0.13,0.04,0.04,Prioritizes structural redesign and transition readiness.
+Governance-equity-first,0.10,0.10,0.12,0.24,0.26,0.08,0.12,0.04,0.04,Prioritizes legitimacy participation public accountability and distributional resilience.
+Digital-resilience-first,0.12,0.10,0.11,0.12,0.10,0.32,0.13,0.05,0.05,Prioritizes data cyber physical software and public digital infrastructure resilience.
+Climate-readiness-first,0.12,0.12,0.13,0.11,0.12,0.08,0.34,0.04,0.04,Prioritizes climate adaptation and climate resilient development.
+Exposure-sensitive,0.13,0.12,0.13,0.12,0.12,0.10,0.13,0.20,0.05,Penalizes strategies that leave high systemic exposure unresolved.
+Implementation-aware,0.16,0.14,0.16,0.14,0.14,0.12,0.14,0.03,0.14,Penalizes strategies with high implementation burden when capacity is constrained.

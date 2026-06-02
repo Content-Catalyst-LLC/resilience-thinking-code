@@ -1,0 +1,9 @@
+strategy_id,strategy,adaptive_capacity,buffering_capacity,transformability,governance_quality,equity_performance,digital_resilience,climate_readiness,systemic_exposure,implementation_burden,critical_function
+FRS001,Distributed Renewable Microgrids,8.4,7.9,8.5,8.0,7.8,7.6,8.6,4.1,3.7,builds distributed energy redundancy and transition capacity for critical services
+FRS002,Regional Early Warning and Analytics Network,8.8,7.4,7.8,8.3,7.6,8.8,8.2,4.4,3.5,improves weak-signal detection monitoring and coordination across climate infrastructure and public health risks
+FRS003,Critical Supply Chain Diversification,7.9,8.3,7.6,7.8,7.4,7.5,7.7,4.0,3.4,reduces brittle dependencies through diversification inventories alternative routes and supplier redundancy
+FRS004,Adaptive Urban Heat and Flood Redesign,8.6,8.1,8.7,8.4,8.6,7.8,9.0,4.3,3.9,redesigns urban systems for heat flooding housing health mobility and climate adaptation
+FRS005,Watershed Restoration and Nature-Based Buffers,8.2,8.8,8.6,8.2,8.4,7.2,9.1,3.8,3.8,strengthens ecological buffers floodplain function water security and social ecological resilience
+FRS006,Community Resilience and Mutual Aid Infrastructure,8.7,8.0,8.4,8.6,9.1,7.4,8.3,3.9,3.2,builds local trust social protection community coordination and care infrastructure under disruption
+FRS007,Digital Public Infrastructure Resilience Program,8.5,7.8,8.1,8.1,7.7,9.0,8.0,4.5,3.6,hardens public digital systems data governance cyber physical continuity and fallback capacity
+FRS008,Adaptive Governance and Learning System,8.9,7.7,8.8,9.2,8.8,8.1,8.5,3.9,3.5,links monitoring scenarios policy revision public participation and corrective action

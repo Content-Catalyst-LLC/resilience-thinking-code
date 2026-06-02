@@ -1,0 +1,9 @@
+strategy_id,strategy,mean_adjusted_value,median_adjusted_value,probability_ranked_first,probability_top_two,probability_bottom_two
+FRS008,Adaptive Governance and Learning System,8.21717,8.22165,52.67,76.97,0.33
+FRS004,Adaptive Urban Heat and Flood Redesign,8.03222,8.03349,18.73,43.4,2.17
+FRS006,Community Resilience and Mutual Aid Infrastructure,8.00592,8.00351,14.5,38.13,2.2
+FRS005,Watershed Restoration and Nature-Based Buffers,7.95004,7.959,11.43,29.97,4.67
+FRS001,Distributed Renewable Microgrids,7.66093,7.66455,1.13,4.7,31.7
+FRS007,Digital Public Infrastructure Resilience Program,7.65649,7.65749,0.97,4.23,31.83
+FRS002,Regional Early Warning and Analytics Network,7.63215,7.63512,0.57,2.57,35.67
+FRS003,Critical Supply Chain Diversification,7.24454,7.23902,0.0,0.03,91.43

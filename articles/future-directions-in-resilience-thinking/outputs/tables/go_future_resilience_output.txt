@@ -1,0 +1,1 @@
+resilience_value=8.22200
