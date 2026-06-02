@@ -1,0 +1,5 @@
+scenario_id,scenario_name,transition_time,max_threshold_proximity_score,max_rolling_autocorr,max_rolling_variance,min_recovery_speed_proxy
+RG001,Gradual pressure and moderate noise,,1.0,0.98717,0.01879,0.01283
+RG002,Faster pressure increase,,0.99594,0.98821,0.01412,0.01179
+RG003,Noisy monitoring environment,,0.99386,0.94944,0.00933,0.05056
+RG004,Adaptive intervention before crossing,,0.99386,0.98605,0.01549,0.01395

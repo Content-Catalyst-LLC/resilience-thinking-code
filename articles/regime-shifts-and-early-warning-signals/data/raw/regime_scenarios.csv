@@ -1,0 +1,5 @@
+scenario_id,scenario_name,pressure_start,pressure_end,steps,noise_level,recovery_coefficient,adaptive_intervention,monitoring_quality,description
+RG001,Gradual pressure and moderate noise,-0.75,0.85,180,0.018,0.64,0.00,0.70,Slow pressure increase with moderate monitoring quality.
+RG002,Faster pressure increase,-0.75,0.95,140,0.018,0.58,0.00,0.68,Pressure rises faster and reduces time to respond.
+RG003,Noisy monitoring environment,-0.75,0.85,180,0.035,0.60,0.00,0.44,Noise makes early-warning indicators harder to interpret.
+RG004,Adaptive intervention before crossing,-0.75,0.78,180,0.016,0.72,0.28,0.78,Adaptive investment slows pressure and improves recovery before crossing.

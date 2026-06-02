@@ -1,0 +1,9 @@
+system_id,system_name,system_type,pressure,feedback_strength,variance_signal,autocorr_signal,recovery_speed,adaptive_capacity,system_memory,monitoring_quality,justice_visibility,exposure,critical_function
+RS001,Shallow Lake Regime System,ecological,0.70,0.72,0.64,0.66,0.42,0.48,0.56,0.60,0.52,0.62,clear water aquatic habitat nutrient cycling and recreation
+RS002,Dryland Vegetation Regime,ecological,0.68,0.70,0.58,0.62,0.38,0.46,0.50,0.54,0.48,0.66,soil retention vegetation cover infiltration and livelihoods
+RS003,Urban Stormwater Service Regime,infrastructure,0.74,0.66,0.62,0.64,0.36,0.44,0.46,0.52,0.46,0.78,drainage flood control mobility housing protection and public health
+RS004,Institutional Legitimacy Regime,institutional,0.62,0.74,0.60,0.68,0.32,0.46,0.48,0.50,0.42,0.58,public trust compliance legitimacy and administrative capacity
+RS005,Public Health Surge Regime,institutional,0.72,0.64,0.66,0.63,0.40,0.50,0.52,0.58,0.52,0.76,surveillance workforce surge capacity communication and equitable care
+RS006,Supply Chain Reliability Regime,economic,0.70,0.68,0.64,0.66,0.39,0.48,0.44,0.50,0.44,0.72,supply continuity inventory stability production labor and household access
+RS007,Coral Reef Community Regime,ecological,0.76,0.72,0.68,0.70,0.34,0.42,0.46,0.54,0.48,0.74,coral habitat biodiversity fisheries tourism and coastal protection
+RS008,Community Heat Resilience Regime,community,0.70,0.60,0.62,0.58,0.38,0.44,0.50,0.52,0.40,0.78,heat protection health access housing safety and neighborhood coordination

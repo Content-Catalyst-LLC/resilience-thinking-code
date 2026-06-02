@@ -1,0 +1,681 @@
+scenario_id,scenario_name,time_step,pressure,state,regime,monitoring_quality
+RG001,Gradual pressure and moderate noise,1,-0.75,-0.9,lower regime,0.70
+RG001,Gradual pressure and moderate noise,2,-0.741061,-0.927628,lower regime,0.70
+RG001,Gradual pressure and moderate noise,3,-0.732123,-0.973316,lower regime,0.70
+RG001,Gradual pressure and moderate noise,4,-0.723184,-1.009371,lower regime,0.70
+RG001,Gradual pressure and moderate noise,5,-0.714246,-1.03846,lower regime,0.70
+RG001,Gradual pressure and moderate noise,6,-0.705307,-1.095139,lower regime,0.70
+RG001,Gradual pressure and moderate noise,7,-0.696369,-1.158145,lower regime,0.70
+RG001,Gradual pressure and moderate noise,8,-0.68743,-1.204567,lower regime,0.70
+RG001,Gradual pressure and moderate noise,9,-0.678492,-1.217247,lower regime,0.70
+RG001,Gradual pressure and moderate noise,10,-0.669553,-1.214562,lower regime,0.70
+RG001,Gradual pressure and moderate noise,11,-0.660615,-1.228583,lower regime,0.70
+RG001,Gradual pressure and moderate noise,12,-0.651676,-1.266638,lower regime,0.70
+RG001,Gradual pressure and moderate noise,13,-0.642737,-1.247865,lower regime,0.70
+RG001,Gradual pressure and moderate noise,14,-0.633799,-1.286167,lower regime,0.70
+RG001,Gradual pressure and moderate noise,15,-0.62486,-1.296987,lower regime,0.70
+RG001,Gradual pressure and moderate noise,16,-0.615922,-1.306773,lower regime,0.70
+RG001,Gradual pressure and moderate noise,17,-0.606983,-1.299442,lower regime,0.70
+RG001,Gradual pressure and moderate noise,18,-0.598045,-1.277854,lower regime,0.70
+RG001,Gradual pressure and moderate noise,19,-0.589106,-1.306519,lower regime,0.70
+RG001,Gradual pressure and moderate noise,20,-0.580168,-1.308148,lower regime,0.70
+RG001,Gradual pressure and moderate noise,21,-0.571229,-1.297591,lower regime,0.70
+RG001,Gradual pressure and moderate noise,22,-0.562291,-1.315327,lower regime,0.70
+RG001,Gradual pressure and moderate noise,23,-0.553352,-1.309777,lower regime,0.70
+RG001,Gradual pressure and moderate noise,24,-0.544413,-1.299846,lower regime,0.70
+RG001,Gradual pressure and moderate noise,25,-0.535475,-1.318837,lower regime,0.70
+RG001,Gradual pressure and moderate noise,26,-0.526536,-1.333131,lower regime,0.70
+RG001,Gradual pressure and moderate noise,27,-0.517598,-1.321522,lower regime,0.70
+RG001,Gradual pressure and moderate noise,28,-0.508659,-1.314929,lower regime,0.70
+RG001,Gradual pressure and moderate noise,29,-0.499721,-1.301151,lower regime,0.70
+RG001,Gradual pressure and moderate noise,30,-0.490782,-1.253812,lower regime,0.70
+RG001,Gradual pressure and moderate noise,31,-0.481844,-1.238469,lower regime,0.70
+RG001,Gradual pressure and moderate noise,32,-0.472905,-1.233433,lower regime,0.70
+RG001,Gradual pressure and moderate noise,33,-0.463966,-1.249596,lower regime,0.70
+RG001,Gradual pressure and moderate noise,34,-0.455028,-1.233014,lower regime,0.70
+RG001,Gradual pressure and moderate noise,35,-0.446089,-1.249648,lower regime,0.70
+RG001,Gradual pressure and moderate noise,36,-0.437151,-1.22066,lower regime,0.70
+RG001,Gradual pressure and moderate noise,37,-0.428212,-1.203009,lower regime,0.70
+RG001,Gradual pressure and moderate noise,38,-0.419274,-1.245187,lower regime,0.70
+RG001,Gradual pressure and moderate noise,39,-0.410335,-1.265034,lower regime,0.70
+RG001,Gradual pressure and moderate noise,40,-0.401397,-1.263224,lower regime,0.70
+RG001,Gradual pressure and moderate noise,41,-0.392458,-1.265077,lower regime,0.70
+RG001,Gradual pressure and moderate noise,42,-0.38352,-1.28162,lower regime,0.70
+RG001,Gradual pressure and moderate noise,43,-0.374581,-1.294051,lower regime,0.70
+RG001,Gradual pressure and moderate noise,44,-0.365642,-1.268629,lower regime,0.70
+RG001,Gradual pressure and moderate noise,45,-0.356704,-1.270074,lower regime,0.70
+RG001,Gradual pressure and moderate noise,46,-0.347765,-1.288747,lower regime,0.70
+RG001,Gradual pressure and moderate noise,47,-0.338827,-1.281041,lower regime,0.70
+RG001,Gradual pressure and moderate noise,48,-0.329888,-1.251833,lower regime,0.70
+RG001,Gradual pressure and moderate noise,49,-0.32095,-1.21461,lower regime,0.70
+RG001,Gradual pressure and moderate noise,50,-0.312011,-1.212381,lower regime,0.70
+RG001,Gradual pressure and moderate noise,51,-0.303073,-1.216838,lower regime,0.70
+RG001,Gradual pressure and moderate noise,52,-0.294134,-1.228945,lower regime,0.70
+RG001,Gradual pressure and moderate noise,53,-0.285196,-1.233506,lower regime,0.70
+RG001,Gradual pressure and moderate noise,54,-0.276257,-1.217894,lower regime,0.70
+RG001,Gradual pressure and moderate noise,55,-0.267318,-1.191449,lower regime,0.70
+RG001,Gradual pressure and moderate noise,56,-0.25838,-1.168906,lower regime,0.70
+RG001,Gradual pressure and moderate noise,57,-0.249441,-1.176047,lower regime,0.70
+RG001,Gradual pressure and moderate noise,58,-0.240503,-1.161377,lower regime,0.70
+RG001,Gradual pressure and moderate noise,59,-0.231564,-1.150571,lower regime,0.70
+RG001,Gradual pressure and moderate noise,60,-0.222626,-1.146413,lower regime,0.70
+RG001,Gradual pressure and moderate noise,61,-0.213687,-1.194663,lower regime,0.70
+RG001,Gradual pressure and moderate noise,62,-0.204749,-1.192463,lower regime,0.70
+RG001,Gradual pressure and moderate noise,63,-0.19581,-1.194125,lower regime,0.70
+RG001,Gradual pressure and moderate noise,64,-0.186872,-1.166087,lower regime,0.70
+RG001,Gradual pressure and moderate noise,65,-0.177933,-1.170765,lower regime,0.70
+RG001,Gradual pressure and moderate noise,66,-0.168994,-1.161102,lower regime,0.70
+RG001,Gradual pressure and moderate noise,67,-0.160056,-1.155794,lower regime,0.70
+RG001,Gradual pressure and moderate noise,68,-0.151117,-1.132696,lower regime,0.70
+RG001,Gradual pressure and moderate noise,69,-0.142179,-1.12138,lower regime,0.70
+RG001,Gradual pressure and moderate noise,70,-0.13324,-1.106302,lower regime,0.70
+RG001,Gradual pressure and moderate noise,71,-0.124302,-1.084274,lower regime,0.70
+RG001,Gradual pressure and moderate noise,72,-0.115363,-1.074101,lower regime,0.70
+RG001,Gradual pressure and moderate noise,73,-0.106425,-1.067821,lower regime,0.70
+RG001,Gradual pressure and moderate noise,74,-0.097486,-1.080577,lower regime,0.70
+RG001,Gradual pressure and moderate noise,75,-0.088547,-1.084999,lower regime,0.70
+RG001,Gradual pressure and moderate noise,76,-0.079609,-1.051293,lower regime,0.70
+RG001,Gradual pressure and moderate noise,77,-0.07067,-1.059192,lower regime,0.70
+RG001,Gradual pressure and moderate noise,78,-0.061732,-1.057241,lower regime,0.70
+RG001,Gradual pressure and moderate noise,79,-0.052793,-1.065586,lower regime,0.70
+RG001,Gradual pressure and moderate noise,80,-0.043855,-1.076452,lower regime,0.70
+RG001,Gradual pressure and moderate noise,81,-0.034916,-1.134324,lower regime,0.70
+RG001,Gradual pressure and moderate noise,82,-0.025978,-1.099898,lower regime,0.70
+RG001,Gradual pressure and moderate noise,83,-0.017039,-1.121486,lower regime,0.70
+RG001,Gradual pressure and moderate noise,84,-0.008101,-1.133625,lower regime,0.70
+RG001,Gradual pressure and moderate noise,85,0.000838,-1.104377,lower regime,0.70
+RG001,Gradual pressure and moderate noise,86,0.009777,-1.145168,lower regime,0.70
+RG001,Gradual pressure and moderate noise,87,0.018715,-1.13735,lower regime,0.70
+RG001,Gradual pressure and moderate noise,88,0.027654,-1.140735,lower regime,0.70
+RG001,Gradual pressure and moderate noise,89,0.036592,-1.166308,lower regime,0.70
+RG001,Gradual pressure and moderate noise,90,0.045531,-1.143602,lower regime,0.70
+RG001,Gradual pressure and moderate noise,91,0.054469,-1.148598,lower regime,0.70
+RG001,Gradual pressure and moderate noise,92,0.063408,-1.140441,lower regime,0.70
+RG001,Gradual pressure and moderate noise,93,0.072346,-1.138816,lower regime,0.70
+RG001,Gradual pressure and moderate noise,94,0.081285,-1.11772,lower regime,0.70
+RG001,Gradual pressure and moderate noise,95,0.090223,-1.069778,lower regime,0.70
+RG001,Gradual pressure and moderate noise,96,0.099162,-1.09039,lower regime,0.70
+RG001,Gradual pressure and moderate noise,97,0.108101,-1.07016,lower regime,0.70
+RG001,Gradual pressure and moderate noise,98,0.117039,-1.079667,lower regime,0.70
+RG001,Gradual pressure and moderate noise,99,0.125978,-1.081616,lower regime,0.70
+RG001,Gradual pressure and moderate noise,100,0.134916,-1.110524,lower regime,0.70
+RG001,Gradual pressure and moderate noise,101,0.143855,-1.121991,lower regime,0.70
+RG001,Gradual pressure and moderate noise,102,0.152793,-1.118811,lower regime,0.70
+RG001,Gradual pressure and moderate noise,103,0.161732,-1.093137,lower regime,0.70
+RG001,Gradual pressure and moderate noise,104,0.17067,-1.080458,lower regime,0.70
+RG001,Gradual pressure and moderate noise,105,0.179609,-1.062879,lower regime,0.70
+RG001,Gradual pressure and moderate noise,106,0.188547,-1.044025,lower regime,0.70
+RG001,Gradual pressure and moderate noise,107,0.197486,-1.064803,lower regime,0.70
+RG001,Gradual pressure and moderate noise,108,0.206425,-1.03186,lower regime,0.70
+RG001,Gradual pressure and moderate noise,109,0.215363,-1.033915,lower regime,0.70
+RG001,Gradual pressure and moderate noise,110,0.224302,-1.017146,lower regime,0.70
+RG001,Gradual pressure and moderate noise,111,0.23324,-1.017159,lower regime,0.70
+RG001,Gradual pressure and moderate noise,112,0.242179,-1.00867,lower regime,0.70
+RG001,Gradual pressure and moderate noise,113,0.251117,-0.993697,lower regime,0.70
+RG001,Gradual pressure and moderate noise,114,0.260056,-1.031776,lower regime,0.70
+RG001,Gradual pressure and moderate noise,115,0.268994,-0.989033,lower regime,0.70
+RG001,Gradual pressure and moderate noise,116,0.277933,-0.98297,lower regime,0.70
+RG001,Gradual pressure and moderate noise,117,0.286872,-0.960432,lower regime,0.70
+RG001,Gradual pressure and moderate noise,118,0.29581,-0.955053,lower regime,0.70
+RG001,Gradual pressure and moderate noise,119,0.304749,-0.951975,lower regime,0.70
+RG001,Gradual pressure and moderate noise,120,0.313687,-0.974063,lower regime,0.70
+RG001,Gradual pressure and moderate noise,121,0.322626,-0.97721,lower regime,0.70
+RG001,Gradual pressure and moderate noise,122,0.331564,-1.012449,lower regime,0.70
+RG001,Gradual pressure and moderate noise,123,0.340503,-1.006997,lower regime,0.70
+RG001,Gradual pressure and moderate noise,124,0.349441,-0.970486,lower regime,0.70
+RG001,Gradual pressure and moderate noise,125,0.35838,-0.998994,lower regime,0.70
+RG001,Gradual pressure and moderate noise,126,0.367318,-1.0031,lower regime,0.70
+RG001,Gradual pressure and moderate noise,127,0.376257,-1.000706,lower regime,0.70
+RG001,Gradual pressure and moderate noise,128,0.385196,-0.970429,lower regime,0.70
+RG001,Gradual pressure and moderate noise,129,0.394134,-0.940956,lower regime,0.70
+RG001,Gradual pressure and moderate noise,130,0.403073,-0.934479,lower regime,0.70
+RG001,Gradual pressure and moderate noise,131,0.412011,-0.927499,lower regime,0.70
+RG001,Gradual pressure and moderate noise,132,0.42095,-0.925117,lower regime,0.70
+RG001,Gradual pressure and moderate noise,133,0.429888,-0.928357,lower regime,0.70
+RG001,Gradual pressure and moderate noise,134,0.438827,-0.930775,lower regime,0.70
+RG001,Gradual pressure and moderate noise,135,0.447765,-0.932304,lower regime,0.70
+RG001,Gradual pressure and moderate noise,136,0.456704,-0.927654,lower regime,0.70
+RG001,Gradual pressure and moderate noise,137,0.465642,-0.91871,lower regime,0.70
+RG001,Gradual pressure and moderate noise,138,0.474581,-0.92277,lower regime,0.70
+RG001,Gradual pressure and moderate noise,139,0.48352,-0.903398,lower regime,0.70
+RG001,Gradual pressure and moderate noise,140,0.492458,-0.896789,lower regime,0.70
+RG001,Gradual pressure and moderate noise,141,0.501397,-0.879839,lower regime,0.70
+RG001,Gradual pressure and moderate noise,142,0.510335,-0.89764,lower regime,0.70
+RG001,Gradual pressure and moderate noise,143,0.519274,-0.902021,lower regime,0.70
+RG001,Gradual pressure and moderate noise,144,0.528212,-0.89136,lower regime,0.70
+RG001,Gradual pressure and moderate noise,145,0.537151,-0.877451,lower regime,0.70
+RG001,Gradual pressure and moderate noise,146,0.546089,-0.872205,lower regime,0.70
+RG001,Gradual pressure and moderate noise,147,0.555028,-0.835886,lower regime,0.70
+RG001,Gradual pressure and moderate noise,148,0.563966,-0.832428,lower regime,0.70
+RG001,Gradual pressure and moderate noise,149,0.572905,-0.799171,lower regime,0.70
+RG001,Gradual pressure and moderate noise,150,0.581844,-0.767391,lower regime,0.70
+RG001,Gradual pressure and moderate noise,151,0.590782,-0.748788,lower regime,0.70
+RG001,Gradual pressure and moderate noise,152,0.599721,-0.73472,lower regime,0.70
+RG001,Gradual pressure and moderate noise,153,0.608659,-0.718567,lower regime,0.70
+RG001,Gradual pressure and moderate noise,154,0.617598,-0.714861,lower regime,0.70
+RG001,Gradual pressure and moderate noise,155,0.626536,-0.728428,lower regime,0.70
+RG001,Gradual pressure and moderate noise,156,0.635475,-0.730427,lower regime,0.70
+RG001,Gradual pressure and moderate noise,157,0.644413,-0.733955,lower regime,0.70
+RG001,Gradual pressure and moderate noise,158,0.653352,-0.732994,lower regime,0.70
+RG001,Gradual pressure and moderate noise,159,0.662291,-0.737393,lower regime,0.70
+RG001,Gradual pressure and moderate noise,160,0.671229,-0.747392,lower regime,0.70
+RG001,Gradual pressure and moderate noise,161,0.680168,-0.735023,lower regime,0.70
+RG001,Gradual pressure and moderate noise,162,0.689106,-0.699203,lower regime,0.70
+RG001,Gradual pressure and moderate noise,163,0.698045,-0.704916,lower regime,0.70
+RG001,Gradual pressure and moderate noise,164,0.706983,-0.727524,lower regime,0.70
+RG001,Gradual pressure and moderate noise,165,0.715922,-0.726564,lower regime,0.70
+RG001,Gradual pressure and moderate noise,166,0.72486,-0.736979,lower regime,0.70
+RG001,Gradual pressure and moderate noise,167,0.733799,-0.742907,lower regime,0.70
+RG001,Gradual pressure and moderate noise,168,0.742737,-0.753243,lower regime,0.70
+RG001,Gradual pressure and moderate noise,169,0.751676,-0.742148,lower regime,0.70
+RG001,Gradual pressure and moderate noise,170,0.760615,-0.718804,lower regime,0.70
+RG001,Gradual pressure and moderate noise,171,0.769553,-0.66437,lower regime,0.70
+RG001,Gradual pressure and moderate noise,172,0.778492,-0.672003,lower regime,0.70
+RG001,Gradual pressure and moderate noise,173,0.78743,-0.683343,lower regime,0.70
+RG001,Gradual pressure and moderate noise,174,0.796369,-0.671738,lower regime,0.70
+RG001,Gradual pressure and moderate noise,175,0.805307,-0.659122,lower regime,0.70
+RG001,Gradual pressure and moderate noise,176,0.814246,-0.614707,lower regime,0.70
+RG001,Gradual pressure and moderate noise,177,0.823184,-0.575437,lower regime,0.70
+RG001,Gradual pressure and moderate noise,178,0.832123,-0.570965,lower regime,0.70
+RG001,Gradual pressure and moderate noise,179,0.841061,-0.59093,lower regime,0.70
+RG001,Gradual pressure and moderate noise,180,0.85,-0.563326,lower regime,0.70
+RG002,Faster pressure increase,1,-0.75,-0.9,lower regime,0.68
+RG002,Faster pressure increase,2,-0.73777,-0.973319,lower regime,0.68
+RG002,Faster pressure increase,3,-0.72554,-1.009664,lower regime,0.68
+RG002,Faster pressure increase,4,-0.713309,-1.047182,lower regime,0.68
+RG002,Faster pressure increase,5,-0.701079,-1.096206,lower regime,0.68
+RG002,Faster pressure increase,6,-0.688849,-1.129877,lower regime,0.68
+RG002,Faster pressure increase,7,-0.676619,-1.155058,lower regime,0.68
+RG002,Faster pressure increase,8,-0.664388,-1.17875,lower regime,0.68
+RG002,Faster pressure increase,9,-0.652158,-1.198591,lower regime,0.68
+RG002,Faster pressure increase,10,-0.639928,-1.204448,lower regime,0.68
+RG002,Faster pressure increase,11,-0.627698,-1.202731,lower regime,0.68
+RG002,Faster pressure increase,12,-0.615468,-1.191055,lower regime,0.68
+RG002,Faster pressure increase,13,-0.603237,-1.210024,lower regime,0.68
+RG002,Faster pressure increase,14,-0.591007,-1.23684,lower regime,0.68
+RG002,Faster pressure increase,15,-0.578777,-1.232696,lower regime,0.68
+RG002,Faster pressure increase,16,-0.566547,-1.247093,lower regime,0.68
+RG002,Faster pressure increase,17,-0.554317,-1.267576,lower regime,0.68
+RG002,Faster pressure increase,18,-0.542086,-1.237975,lower regime,0.68
+RG002,Faster pressure increase,19,-0.529856,-1.228477,lower regime,0.68
+RG002,Faster pressure increase,20,-0.517626,-1.241868,lower regime,0.68
+RG002,Faster pressure increase,21,-0.505396,-1.251781,lower regime,0.68
+RG002,Faster pressure increase,22,-0.493165,-1.246211,lower regime,0.68
+RG002,Faster pressure increase,23,-0.480935,-1.244839,lower regime,0.68
+RG002,Faster pressure increase,24,-0.468705,-1.238204,lower regime,0.68
+RG002,Faster pressure increase,25,-0.456475,-1.242596,lower regime,0.68
+RG002,Faster pressure increase,26,-0.444245,-1.277003,lower regime,0.68
+RG002,Faster pressure increase,27,-0.432014,-1.304806,lower regime,0.68
+RG002,Faster pressure increase,28,-0.419784,-1.275664,lower regime,0.68
+RG002,Faster pressure increase,29,-0.407554,-1.264908,lower regime,0.68
+RG002,Faster pressure increase,30,-0.395324,-1.299117,lower regime,0.68
+RG002,Faster pressure increase,31,-0.383094,-1.280881,lower regime,0.68
+RG002,Faster pressure increase,32,-0.370863,-1.265966,lower regime,0.68
+RG002,Faster pressure increase,33,-0.358633,-1.245515,lower regime,0.68
+RG002,Faster pressure increase,34,-0.346403,-1.240884,lower regime,0.68
+RG002,Faster pressure increase,35,-0.334173,-1.230793,lower regime,0.68
+RG002,Faster pressure increase,36,-0.321942,-1.242805,lower regime,0.68
+RG002,Faster pressure increase,37,-0.309712,-1.266301,lower regime,0.68
+RG002,Faster pressure increase,38,-0.297482,-1.260231,lower regime,0.68
+RG002,Faster pressure increase,39,-0.285252,-1.248088,lower regime,0.68
+RG002,Faster pressure increase,40,-0.273022,-1.246089,lower regime,0.68
+RG002,Faster pressure increase,41,-0.260791,-1.265806,lower regime,0.68
+RG002,Faster pressure increase,42,-0.248561,-1.261936,lower regime,0.68
+RG002,Faster pressure increase,43,-0.236331,-1.262189,lower regime,0.68
+RG002,Faster pressure increase,44,-0.224101,-1.23628,lower regime,0.68
+RG002,Faster pressure increase,45,-0.211871,-1.248797,lower regime,0.68
+RG002,Faster pressure increase,46,-0.19964,-1.255288,lower regime,0.68
+RG002,Faster pressure increase,47,-0.18741,-1.2531,lower regime,0.68
+RG002,Faster pressure increase,48,-0.17518,-1.236577,lower regime,0.68
+RG002,Faster pressure increase,49,-0.16295,-1.204636,lower regime,0.68
+RG002,Faster pressure increase,50,-0.150719,-1.18958,lower regime,0.68
+RG002,Faster pressure increase,51,-0.138489,-1.209983,lower regime,0.68
+RG002,Faster pressure increase,52,-0.126259,-1.219203,lower regime,0.68
+RG002,Faster pressure increase,53,-0.114029,-1.179996,lower regime,0.68
+RG002,Faster pressure increase,54,-0.101799,-1.170871,lower regime,0.68
+RG002,Faster pressure increase,55,-0.089568,-1.169892,lower regime,0.68
+RG002,Faster pressure increase,56,-0.077338,-1.156855,lower regime,0.68
+RG002,Faster pressure increase,57,-0.065108,-1.141429,lower regime,0.68
+RG002,Faster pressure increase,58,-0.052878,-1.108207,lower regime,0.68
+RG002,Faster pressure increase,59,-0.040647,-1.105924,lower regime,0.68
+RG002,Faster pressure increase,60,-0.028417,-1.119678,lower regime,0.68
+RG002,Faster pressure increase,61,-0.016187,-1.135441,lower regime,0.68
+RG002,Faster pressure increase,62,-0.003957,-1.113676,lower regime,0.68
+RG002,Faster pressure increase,63,0.008273,-1.111586,lower regime,0.68
+RG002,Faster pressure increase,64,0.020504,-1.105826,lower regime,0.68
+RG002,Faster pressure increase,65,0.032734,-1.094618,lower regime,0.68
+RG002,Faster pressure increase,66,0.044964,-1.110896,lower regime,0.68
+RG002,Faster pressure increase,67,0.057194,-1.077158,lower regime,0.68
+RG002,Faster pressure increase,68,0.069424,-1.080757,lower regime,0.68
+RG002,Faster pressure increase,69,0.081655,-1.082312,lower regime,0.68
+RG002,Faster pressure increase,70,0.093885,-1.08432,lower regime,0.68
+RG002,Faster pressure increase,71,0.106115,-1.07803,lower regime,0.68
+RG002,Faster pressure increase,72,0.118345,-1.080738,lower regime,0.68
+RG002,Faster pressure increase,73,0.130576,-1.082366,lower regime,0.68
+RG002,Faster pressure increase,74,0.142806,-1.065694,lower regime,0.68
+RG002,Faster pressure increase,75,0.155036,-1.038048,lower regime,0.68
+RG002,Faster pressure increase,76,0.167266,-1.023225,lower regime,0.68
+RG002,Faster pressure increase,77,0.179496,-1.043576,lower regime,0.68
+RG002,Faster pressure increase,78,0.191727,-1.046806,lower regime,0.68
+RG002,Faster pressure increase,79,0.203957,-1.017116,lower regime,0.68
+RG002,Faster pressure increase,80,0.216187,-1.015011,lower regime,0.68
+RG002,Faster pressure increase,81,0.228417,-1.010132,lower regime,0.68
+RG002,Faster pressure increase,82,0.240647,-1.011286,lower regime,0.68
+RG002,Faster pressure increase,83,0.252878,-0.980435,lower regime,0.68
+RG002,Faster pressure increase,84,0.265108,-0.987132,lower regime,0.68
+RG002,Faster pressure increase,85,0.277338,-0.992802,lower regime,0.68
+RG002,Faster pressure increase,86,0.289568,-0.970674,lower regime,0.68
+RG002,Faster pressure increase,87,0.301799,-0.996667,lower regime,0.68
+RG002,Faster pressure increase,88,0.314029,-0.999675,lower regime,0.68
+RG002,Faster pressure increase,89,0.326259,-0.948332,lower regime,0.68
+RG002,Faster pressure increase,90,0.338489,-0.946184,lower regime,0.68
+RG002,Faster pressure increase,91,0.350719,-0.936493,lower regime,0.68
+RG002,Faster pressure increase,92,0.36295,-0.969381,lower regime,0.68
+RG002,Faster pressure increase,93,0.37518,-0.966005,lower regime,0.68
+RG002,Faster pressure increase,94,0.38741,-0.977857,lower regime,0.68
+RG002,Faster pressure increase,95,0.39964,-0.983062,lower regime,0.68
+RG002,Faster pressure increase,96,0.411871,-0.988624,lower regime,0.68
+RG002,Faster pressure increase,97,0.424101,-0.977282,lower regime,0.68
+RG002,Faster pressure increase,98,0.436331,-0.973071,lower regime,0.68
+RG002,Faster pressure increase,99,0.448561,-0.945564,lower regime,0.68
+RG002,Faster pressure increase,100,0.460791,-0.978181,lower regime,0.68
+RG002,Faster pressure increase,101,0.473022,-0.978983,lower regime,0.68
+RG002,Faster pressure increase,102,0.485252,-0.954235,lower regime,0.68
+RG002,Faster pressure increase,103,0.497482,-0.937112,lower regime,0.68
+RG002,Faster pressure increase,104,0.509712,-0.902006,lower regime,0.68
+RG002,Faster pressure increase,105,0.521942,-0.902494,lower regime,0.68
+RG002,Faster pressure increase,106,0.534173,-0.875832,lower regime,0.68
+RG002,Faster pressure increase,107,0.546403,-0.858717,lower regime,0.68
+RG002,Faster pressure increase,108,0.558633,-0.873771,lower regime,0.68
+RG002,Faster pressure increase,109,0.570863,-0.896547,lower regime,0.68
+RG002,Faster pressure increase,110,0.583094,-0.851643,lower regime,0.68
+RG002,Faster pressure increase,111,0.595324,-0.822491,lower regime,0.68
+RG002,Faster pressure increase,112,0.607554,-0.811756,lower regime,0.68
+RG002,Faster pressure increase,113,0.619784,-0.817151,lower regime,0.68
+RG002,Faster pressure increase,114,0.632014,-0.84019,lower regime,0.68
+RG002,Faster pressure increase,115,0.644245,-0.835742,lower regime,0.68
+RG002,Faster pressure increase,116,0.656475,-0.822669,lower regime,0.68
+RG002,Faster pressure increase,117,0.668705,-0.782798,lower regime,0.68
+RG002,Faster pressure increase,118,0.680935,-0.778251,lower regime,0.68
+RG002,Faster pressure increase,119,0.693165,-0.769302,lower regime,0.68
+RG002,Faster pressure increase,120,0.705396,-0.759952,lower regime,0.68
+RG002,Faster pressure increase,121,0.717626,-0.729332,lower regime,0.68
+RG002,Faster pressure increase,122,0.729856,-0.689576,lower regime,0.68
+RG002,Faster pressure increase,123,0.742086,-0.644244,lower regime,0.68
+RG002,Faster pressure increase,124,0.754317,-0.63182,lower regime,0.68
+RG002,Faster pressure increase,125,0.766547,-0.60572,lower regime,0.68
+RG002,Faster pressure increase,126,0.778777,-0.610073,lower regime,0.68
+RG002,Faster pressure increase,127,0.791007,-0.608412,lower regime,0.68
+RG002,Faster pressure increase,128,0.803237,-0.600214,lower regime,0.68
+RG002,Faster pressure increase,129,0.815468,-0.570152,lower regime,0.68
+RG002,Faster pressure increase,130,0.827698,-0.593133,lower regime,0.68
+RG002,Faster pressure increase,131,0.839928,-0.575433,lower regime,0.68
+RG002,Faster pressure increase,132,0.852158,-0.522921,lower regime,0.68
+RG002,Faster pressure increase,133,0.864388,-0.485032,lower regime,0.68
+RG002,Faster pressure increase,134,0.876619,-0.439346,lower regime,0.68
+RG002,Faster pressure increase,135,0.888849,-0.427391,lower regime,0.68
+RG002,Faster pressure increase,136,0.901079,-0.398337,lower regime,0.68
+RG002,Faster pressure increase,137,0.913309,-0.390115,lower regime,0.68
+RG002,Faster pressure increase,138,0.92554,-0.335442,lower regime,0.68
+RG002,Faster pressure increase,139,0.93777,-0.31369,lower regime,0.68
+RG002,Faster pressure increase,140,0.95,-0.291076,lower regime,0.68
+RG003,Noisy monitoring environment,1,-0.75,-0.9,lower regime,0.44
+RG003,Noisy monitoring environment,2,-0.741061,-0.960152,lower regime,0.44
+RG003,Noisy monitoring environment,3,-0.732123,-0.969992,lower regime,0.44
+RG003,Noisy monitoring environment,4,-0.723184,-0.991006,lower regime,0.44
+RG003,Noisy monitoring environment,5,-0.714246,-1.021852,lower regime,0.44
+RG003,Noisy monitoring environment,6,-0.705307,-1.060393,lower regime,0.44
+RG003,Noisy monitoring environment,7,-0.696369,-1.096929,lower regime,0.44
+RG003,Noisy monitoring environment,8,-0.68743,-1.13482,lower regime,0.44
+RG003,Noisy monitoring environment,9,-0.678492,-1.14664,lower regime,0.44
+RG003,Noisy monitoring environment,10,-0.669553,-1.19514,lower regime,0.44
+RG003,Noisy monitoring environment,11,-0.660615,-1.160984,lower regime,0.44
+RG003,Noisy monitoring environment,12,-0.651676,-1.137199,lower regime,0.44
+RG003,Noisy monitoring environment,13,-0.642737,-1.153116,lower regime,0.44
+RG003,Noisy monitoring environment,14,-0.633799,-1.136121,lower regime,0.44
+RG003,Noisy monitoring environment,15,-0.62486,-1.11546,lower regime,0.44
+RG003,Noisy monitoring environment,16,-0.615922,-1.145759,lower regime,0.44
+RG003,Noisy monitoring environment,17,-0.606983,-1.193664,lower regime,0.44
+RG003,Noisy monitoring environment,18,-0.598045,-1.177992,lower regime,0.44
+RG003,Noisy monitoring environment,19,-0.589106,-1.241796,lower regime,0.44
+RG003,Noisy monitoring environment,20,-0.580168,-1.217622,lower regime,0.44
+RG003,Noisy monitoring environment,21,-0.571229,-1.212714,lower regime,0.44
+RG003,Noisy monitoring environment,22,-0.562291,-1.248691,lower regime,0.44
+RG003,Noisy monitoring environment,23,-0.553352,-1.32937,lower regime,0.44
+RG003,Noisy monitoring environment,24,-0.544413,-1.306369,lower regime,0.44
+RG003,Noisy monitoring environment,25,-0.535475,-1.276511,lower regime,0.44
+RG003,Noisy monitoring environment,26,-0.526536,-1.261334,lower regime,0.44
+RG003,Noisy monitoring environment,27,-0.517598,-1.351197,lower regime,0.44
+RG003,Noisy monitoring environment,28,-0.508659,-1.321729,lower regime,0.44
+RG003,Noisy monitoring environment,29,-0.499721,-1.302131,lower regime,0.44
+RG003,Noisy monitoring environment,30,-0.490782,-1.294181,lower regime,0.44
+RG003,Noisy monitoring environment,31,-0.481844,-1.318104,lower regime,0.44
+RG003,Noisy monitoring environment,32,-0.472905,-1.360535,lower regime,0.44
+RG003,Noisy monitoring environment,33,-0.463966,-1.292722,lower regime,0.44
+RG003,Noisy monitoring environment,34,-0.455028,-1.28638,lower regime,0.44
+RG003,Noisy monitoring environment,35,-0.446089,-1.330877,lower regime,0.44
+RG003,Noisy monitoring environment,36,-0.437151,-1.276454,lower regime,0.44
+RG003,Noisy monitoring environment,37,-0.428212,-1.312439,lower regime,0.44
+RG003,Noisy monitoring environment,38,-0.419274,-1.280544,lower regime,0.44
+RG003,Noisy monitoring environment,39,-0.410335,-1.319596,lower regime,0.44
+RG003,Noisy monitoring environment,40,-0.401397,-1.314199,lower regime,0.44
+RG003,Noisy monitoring environment,41,-0.392458,-1.30598,lower regime,0.44
+RG003,Noisy monitoring environment,42,-0.38352,-1.227125,lower regime,0.44
+RG003,Noisy monitoring environment,43,-0.374581,-1.268573,lower regime,0.44
+RG003,Noisy monitoring environment,44,-0.365642,-1.290096,lower regime,0.44
+RG003,Noisy monitoring environment,45,-0.356704,-1.238492,lower regime,0.44
+RG003,Noisy monitoring environment,46,-0.347765,-1.194231,lower regime,0.44
+RG003,Noisy monitoring environment,47,-0.338827,-1.193299,lower regime,0.44
+RG003,Noisy monitoring environment,48,-0.329888,-1.217283,lower regime,0.44
+RG003,Noisy monitoring environment,49,-0.32095,-1.23661,lower regime,0.44
+RG003,Noisy monitoring environment,50,-0.312011,-1.28898,lower regime,0.44
+RG003,Noisy monitoring environment,51,-0.303073,-1.240365,lower regime,0.44
+RG003,Noisy monitoring environment,52,-0.294134,-1.210127,lower regime,0.44
+RG003,Noisy monitoring environment,53,-0.285196,-1.178131,lower regime,0.44
+RG003,Noisy monitoring environment,54,-0.276257,-1.151346,lower regime,0.44
+RG003,Noisy monitoring environment,55,-0.267318,-1.139676,lower regime,0.44
+RG003,Noisy monitoring environment,56,-0.25838,-1.111313,lower regime,0.44
+RG003,Noisy monitoring environment,57,-0.249441,-1.154267,lower regime,0.44
+RG003,Noisy monitoring environment,58,-0.240503,-1.090567,lower regime,0.44
+RG003,Noisy monitoring environment,59,-0.231564,-1.09018,lower regime,0.44
+RG003,Noisy monitoring environment,60,-0.222626,-1.125058,lower regime,0.44
+RG003,Noisy monitoring environment,61,-0.213687,-1.167632,lower regime,0.44
+RG003,Noisy monitoring environment,62,-0.204749,-1.175418,lower regime,0.44
+RG003,Noisy monitoring environment,63,-0.19581,-1.145785,lower regime,0.44
+RG003,Noisy monitoring environment,64,-0.186872,-1.128674,lower regime,0.44
+RG003,Noisy monitoring environment,65,-0.177933,-1.088848,lower regime,0.44
+RG003,Noisy monitoring environment,66,-0.168994,-1.017918,lower regime,0.44
+RG003,Noisy monitoring environment,67,-0.160056,-1.008346,lower regime,0.44
+RG003,Noisy monitoring environment,68,-0.151117,-0.986034,lower regime,0.44
+RG003,Noisy monitoring environment,69,-0.142179,-0.974914,lower regime,0.44
+RG003,Noisy monitoring environment,70,-0.13324,-1.023232,lower regime,0.44
+RG003,Noisy monitoring environment,71,-0.124302,-1.052516,lower regime,0.44
+RG003,Noisy monitoring environment,72,-0.115363,-1.069807,lower regime,0.44
+RG003,Noisy monitoring environment,73,-0.106425,-1.041054,lower regime,0.44
+RG003,Noisy monitoring environment,74,-0.097486,-1.096643,lower regime,0.44
+RG003,Noisy monitoring environment,75,-0.088547,-1.018891,lower regime,0.44
+RG003,Noisy monitoring environment,76,-0.079609,-1.057063,lower regime,0.44
+RG003,Noisy monitoring environment,77,-0.07067,-1.098399,lower regime,0.44
+RG003,Noisy monitoring environment,78,-0.061732,-1.122301,lower regime,0.44
+RG003,Noisy monitoring environment,79,-0.052793,-1.156523,lower regime,0.44
+RG003,Noisy monitoring environment,80,-0.043855,-1.146303,lower regime,0.44
+RG003,Noisy monitoring environment,81,-0.034916,-1.135483,lower regime,0.44
+RG003,Noisy monitoring environment,82,-0.025978,-1.0654,lower regime,0.44
+RG003,Noisy monitoring environment,83,-0.017039,-1.082343,lower regime,0.44
+RG003,Noisy monitoring environment,84,-0.008101,-1.044545,lower regime,0.44
+RG003,Noisy monitoring environment,85,0.000838,-1.023148,lower regime,0.44
+RG003,Noisy monitoring environment,86,0.009777,-1.014276,lower regime,0.44
+RG003,Noisy monitoring environment,87,0.018715,-1.094423,lower regime,0.44
+RG003,Noisy monitoring environment,88,0.027654,-1.076037,lower regime,0.44
+RG003,Noisy monitoring environment,89,0.036592,-1.069106,lower regime,0.44
+RG003,Noisy monitoring environment,90,0.045531,-1.106942,lower regime,0.44
+RG003,Noisy monitoring environment,91,0.054469,-1.073013,lower regime,0.44
+RG003,Noisy monitoring environment,92,0.063408,-1.025587,lower regime,0.44
+RG003,Noisy monitoring environment,93,0.072346,-1.002756,lower regime,0.44
+RG003,Noisy monitoring environment,94,0.081285,-1.007323,lower regime,0.44
+RG003,Noisy monitoring environment,95,0.090223,-1.050212,lower regime,0.44
+RG003,Noisy monitoring environment,96,0.099162,-1.030106,lower regime,0.44
+RG003,Noisy monitoring environment,97,0.108101,-1.06008,lower regime,0.44
+RG003,Noisy monitoring environment,98,0.117039,-1.04108,lower regime,0.44
+RG003,Noisy monitoring environment,99,0.125978,-1.070565,lower regime,0.44
+RG003,Noisy monitoring environment,100,0.134916,-1.094537,lower regime,0.44
+RG003,Noisy monitoring environment,101,0.143855,-1.067823,lower regime,0.44
+RG003,Noisy monitoring environment,102,0.152793,-1.081465,lower regime,0.44
+RG003,Noisy monitoring environment,103,0.161732,-1.145226,lower regime,0.44
+RG003,Noisy monitoring environment,104,0.17067,-1.088299,lower regime,0.44
+RG003,Noisy monitoring environment,105,0.179609,-1.059674,lower regime,0.44
+RG003,Noisy monitoring environment,106,0.188547,-1.026832,lower regime,0.44
+RG003,Noisy monitoring environment,107,0.197486,-1.070576,lower regime,0.44
+RG003,Noisy monitoring environment,108,0.206425,-1.059805,lower regime,0.44
+RG003,Noisy monitoring environment,109,0.215363,-1.019953,lower regime,0.44
+RG003,Noisy monitoring environment,110,0.224302,-0.998454,lower regime,0.44
+RG003,Noisy monitoring environment,111,0.23324,-1.012929,lower regime,0.44
+RG003,Noisy monitoring environment,112,0.242179,-0.976181,lower regime,0.44
+RG003,Noisy monitoring environment,113,0.251117,-0.985647,lower regime,0.44
+RG003,Noisy monitoring environment,114,0.260056,-1.038386,lower regime,0.44
+RG003,Noisy monitoring environment,115,0.268994,-1.038237,lower regime,0.44
+RG003,Noisy monitoring environment,116,0.277933,-1.05028,lower regime,0.44
+RG003,Noisy monitoring environment,117,0.286872,-1.083486,lower regime,0.44
+RG003,Noisy monitoring environment,118,0.29581,-1.036404,lower regime,0.44
+RG003,Noisy monitoring environment,119,0.304749,-1.0647,lower regime,0.44
+RG003,Noisy monitoring environment,120,0.313687,-1.008602,lower regime,0.44
+RG003,Noisy monitoring environment,121,0.322626,-1.027216,lower regime,0.44
+RG003,Noisy monitoring environment,122,0.331564,-1.028262,lower regime,0.44
+RG003,Noisy monitoring environment,123,0.340503,-1.024845,lower regime,0.44
+RG003,Noisy monitoring environment,124,0.349441,-0.993834,lower regime,0.44
+RG003,Noisy monitoring environment,125,0.35838,-1.000174,lower regime,0.44
+RG003,Noisy monitoring environment,126,0.367318,-0.990091,lower regime,0.44
+RG003,Noisy monitoring environment,127,0.376257,-0.971165,lower regime,0.44
+RG003,Noisy monitoring environment,128,0.385196,-0.988733,lower regime,0.44
+RG003,Noisy monitoring environment,129,0.394134,-1.00326,lower regime,0.44
+RG003,Noisy monitoring environment,130,0.403073,-1.02968,lower regime,0.44
+RG003,Noisy monitoring environment,131,0.412011,-1.068756,lower regime,0.44
+RG003,Noisy monitoring environment,132,0.42095,-0.991873,lower regime,0.44
+RG003,Noisy monitoring environment,133,0.429888,-1.003672,lower regime,0.44
+RG003,Noisy monitoring environment,134,0.438827,-0.973303,lower regime,0.44
+RG003,Noisy monitoring environment,135,0.447765,-0.992328,lower regime,0.44
+RG003,Noisy monitoring environment,136,0.456704,-0.923537,lower regime,0.44
+RG003,Noisy monitoring environment,137,0.465642,-0.896623,lower regime,0.44
+RG003,Noisy monitoring environment,138,0.474581,-0.851643,lower regime,0.44
+RG003,Noisy monitoring environment,139,0.48352,-0.848878,lower regime,0.44
+RG003,Noisy monitoring environment,140,0.492458,-0.808147,lower regime,0.44
+RG003,Noisy monitoring environment,141,0.501397,-0.831907,lower regime,0.44
+RG003,Noisy monitoring environment,142,0.510335,-0.877181,lower regime,0.44
+RG003,Noisy monitoring environment,143,0.519274,-0.826462,lower regime,0.44
+RG003,Noisy monitoring environment,144,0.528212,-0.790711,lower regime,0.44
+RG003,Noisy monitoring environment,145,0.537151,-0.773891,lower regime,0.44
+RG003,Noisy monitoring environment,146,0.546089,-0.774669,lower regime,0.44
+RG003,Noisy monitoring environment,147,0.555028,-0.783778,lower regime,0.44
+RG003,Noisy monitoring environment,148,0.563966,-0.811293,lower regime,0.44
+RG003,Noisy monitoring environment,149,0.572905,-0.816139,lower regime,0.44
+RG003,Noisy monitoring environment,150,0.581844,-0.80218,lower regime,0.44
+RG003,Noisy monitoring environment,151,0.590782,-0.759848,lower regime,0.44
+RG003,Noisy monitoring environment,152,0.599721,-0.755656,lower regime,0.44
+RG003,Noisy monitoring environment,153,0.608659,-0.80108,lower regime,0.44
+RG003,Noisy monitoring environment,154,0.617598,-0.843386,lower regime,0.44
+RG003,Noisy monitoring environment,155,0.626536,-0.865565,lower regime,0.44
+RG003,Noisy monitoring environment,156,0.635475,-0.892155,lower regime,0.44
+RG003,Noisy monitoring environment,157,0.644413,-0.853096,lower regime,0.44
+RG003,Noisy monitoring environment,158,0.653352,-0.798862,lower regime,0.44
+RG003,Noisy monitoring environment,159,0.662291,-0.758131,lower regime,0.44
+RG003,Noisy monitoring environment,160,0.671229,-0.772672,lower regime,0.44
+RG003,Noisy monitoring environment,161,0.680168,-0.804571,lower regime,0.44
+RG003,Noisy monitoring environment,162,0.689106,-0.762199,lower regime,0.44
+RG003,Noisy monitoring environment,163,0.698045,-0.847596,lower regime,0.44
+RG003,Noisy monitoring environment,164,0.706983,-0.848595,lower regime,0.44
+RG003,Noisy monitoring environment,165,0.715922,-0.926705,lower regime,0.44
+RG003,Noisy monitoring environment,166,0.72486,-0.922244,lower regime,0.44
+RG003,Noisy monitoring environment,167,0.733799,-0.924953,lower regime,0.44
+RG003,Noisy monitoring environment,168,0.742737,-0.869037,lower regime,0.44
+RG003,Noisy monitoring environment,169,0.751676,-0.889599,lower regime,0.44
+RG003,Noisy monitoring environment,170,0.760615,-0.883462,lower regime,0.44
+RG003,Noisy monitoring environment,171,0.769553,-0.877585,lower regime,0.44
+RG003,Noisy monitoring environment,172,0.778492,-0.886787,lower regime,0.44
+RG003,Noisy monitoring environment,173,0.78743,-0.878452,lower regime,0.44
+RG003,Noisy monitoring environment,174,0.796369,-0.927865,lower regime,0.44
+RG003,Noisy monitoring environment,175,0.805307,-0.939971,lower regime,0.44
+RG003,Noisy monitoring environment,176,0.814246,-0.919246,lower regime,0.44
+RG003,Noisy monitoring environment,177,0.823184,-0.889695,lower regime,0.44
+RG003,Noisy monitoring environment,178,0.832123,-0.834902,lower regime,0.44
+RG003,Noisy monitoring environment,179,0.841061,-0.783651,lower regime,0.44
+RG003,Noisy monitoring environment,180,0.85,-0.757984,lower regime,0.44
+RG004,Adaptive intervention before crossing,1,-0.75028,-0.9,lower regime,0.78
+RG004,Adaptive intervention before crossing,2,-0.742013,-0.942303,lower regime,0.78
+RG004,Adaptive intervention before crossing,3,-0.733745,-1.004136,lower regime,0.78
+RG004,Adaptive intervention before crossing,4,-0.725478,-1.07696,lower regime,0.78
+RG004,Adaptive intervention before crossing,5,-0.71721,-1.131744,lower regime,0.78
+RG004,Adaptive intervention before crossing,6,-0.708943,-1.160026,lower regime,0.78
+RG004,Adaptive intervention before crossing,7,-0.700675,-1.167519,lower regime,0.78
+RG004,Adaptive intervention before crossing,8,-0.692408,-1.226176,lower regime,0.78
+RG004,Adaptive intervention before crossing,9,-0.68414,-1.261263,lower regime,0.78
+RG004,Adaptive intervention before crossing,10,-0.675873,-1.264488,lower regime,0.78
+RG004,Adaptive intervention before crossing,11,-0.667605,-1.271431,lower regime,0.78
+RG004,Adaptive intervention before crossing,12,-0.659338,-1.290654,lower regime,0.78
+RG004,Adaptive intervention before crossing,13,-0.65107,-1.266122,lower regime,0.78
+RG004,Adaptive intervention before crossing,14,-0.642803,-1.267978,lower regime,0.78
+RG004,Adaptive intervention before crossing,15,-0.634535,-1.281046,lower regime,0.78
+RG004,Adaptive intervention before crossing,16,-0.626268,-1.26696,lower regime,0.78
+RG004,Adaptive intervention before crossing,17,-0.618,-1.281684,lower regime,0.78
+RG004,Adaptive intervention before crossing,18,-0.609733,-1.247198,lower regime,0.78
+RG004,Adaptive intervention before crossing,19,-0.601465,-1.262587,lower regime,0.78
+RG004,Adaptive intervention before crossing,20,-0.593198,-1.231229,lower regime,0.78
+RG004,Adaptive intervention before crossing,21,-0.58493,-1.217152,lower regime,0.78
+RG004,Adaptive intervention before crossing,22,-0.576663,-1.238096,lower regime,0.78
+RG004,Adaptive intervention before crossing,23,-0.568395,-1.244667,lower regime,0.78
+RG004,Adaptive intervention before crossing,24,-0.560128,-1.257084,lower regime,0.78
+RG004,Adaptive intervention before crossing,25,-0.55186,-1.259428,lower regime,0.78
+RG004,Adaptive intervention before crossing,26,-0.543593,-1.262432,lower regime,0.78
+RG004,Adaptive intervention before crossing,27,-0.535325,-1.284408,lower regime,0.78
+RG004,Adaptive intervention before crossing,28,-0.527058,-1.27302,lower regime,0.78
+RG004,Adaptive intervention before crossing,29,-0.51879,-1.264917,lower regime,0.78
+RG004,Adaptive intervention before crossing,30,-0.510523,-1.2929,lower regime,0.78
+RG004,Adaptive intervention before crossing,31,-0.502255,-1.288674,lower regime,0.78
+RG004,Adaptive intervention before crossing,32,-0.493988,-1.284882,lower regime,0.78
+RG004,Adaptive intervention before crossing,33,-0.48572,-1.272693,lower regime,0.78
+RG004,Adaptive intervention before crossing,34,-0.477453,-1.273557,lower regime,0.78
+RG004,Adaptive intervention before crossing,35,-0.469185,-1.26536,lower regime,0.78
+RG004,Adaptive intervention before crossing,36,-0.460918,-1.279639,lower regime,0.78
+RG004,Adaptive intervention before crossing,37,-0.452651,-1.246425,lower regime,0.78
+RG004,Adaptive intervention before crossing,38,-0.444383,-1.241125,lower regime,0.78
+RG004,Adaptive intervention before crossing,39,-0.436116,-1.229405,lower regime,0.78
+RG004,Adaptive intervention before crossing,40,-0.427848,-1.230086,lower regime,0.78
+RG004,Adaptive intervention before crossing,41,-0.419581,-1.242491,lower regime,0.78
+RG004,Adaptive intervention before crossing,42,-0.411313,-1.232626,lower regime,0.78
+RG004,Adaptive intervention before crossing,43,-0.403046,-1.225113,lower regime,0.78
+RG004,Adaptive intervention before crossing,44,-0.394778,-1.245836,lower regime,0.78
+RG004,Adaptive intervention before crossing,45,-0.386511,-1.259348,lower regime,0.78
+RG004,Adaptive intervention before crossing,46,-0.378243,-1.256555,lower regime,0.78
+RG004,Adaptive intervention before crossing,47,-0.369976,-1.256485,lower regime,0.78
+RG004,Adaptive intervention before crossing,48,-0.361708,-1.252455,lower regime,0.78
+RG004,Adaptive intervention before crossing,49,-0.353441,-1.239284,lower regime,0.78
+RG004,Adaptive intervention before crossing,50,-0.345173,-1.249928,lower regime,0.78
+RG004,Adaptive intervention before crossing,51,-0.336906,-1.24976,lower regime,0.78
+RG004,Adaptive intervention before crossing,52,-0.328638,-1.243418,lower regime,0.78
+RG004,Adaptive intervention before crossing,53,-0.320371,-1.258667,lower regime,0.78
+RG004,Adaptive intervention before crossing,54,-0.312103,-1.258624,lower regime,0.78
+RG004,Adaptive intervention before crossing,55,-0.303836,-1.254494,lower regime,0.78
+RG004,Adaptive intervention before crossing,56,-0.295568,-1.251523,lower regime,0.78
+RG004,Adaptive intervention before crossing,57,-0.287301,-1.244527,lower regime,0.78
+RG004,Adaptive intervention before crossing,58,-0.279033,-1.211264,lower regime,0.78
+RG004,Adaptive intervention before crossing,59,-0.270766,-1.189922,lower regime,0.78
+RG004,Adaptive intervention before crossing,60,-0.262498,-1.189871,lower regime,0.78
+RG004,Adaptive intervention before crossing,61,-0.254231,-1.189105,lower regime,0.78
+RG004,Adaptive intervention before crossing,62,-0.245963,-1.190863,lower regime,0.78
+RG004,Adaptive intervention before crossing,63,-0.237696,-1.199773,lower regime,0.78
+RG004,Adaptive intervention before crossing,64,-0.229428,-1.20345,lower regime,0.78
+RG004,Adaptive intervention before crossing,65,-0.221161,-1.179705,lower regime,0.78
+RG004,Adaptive intervention before crossing,66,-0.212893,-1.175821,lower regime,0.78
+RG004,Adaptive intervention before crossing,67,-0.204626,-1.176596,lower regime,0.78
+RG004,Adaptive intervention before crossing,68,-0.196358,-1.178091,lower regime,0.78
+RG004,Adaptive intervention before crossing,69,-0.188091,-1.179875,lower regime,0.78
+RG004,Adaptive intervention before crossing,70,-0.179823,-1.175156,lower regime,0.78
+RG004,Adaptive intervention before crossing,71,-0.171556,-1.188176,lower regime,0.78
+RG004,Adaptive intervention before crossing,72,-0.163288,-1.170063,lower regime,0.78
+RG004,Adaptive intervention before crossing,73,-0.155021,-1.159731,lower regime,0.78
+RG004,Adaptive intervention before crossing,74,-0.146754,-1.163717,lower regime,0.78
+RG004,Adaptive intervention before crossing,75,-0.138486,-1.168678,lower regime,0.78
+RG004,Adaptive intervention before crossing,76,-0.130219,-1.185942,lower regime,0.78
+RG004,Adaptive intervention before crossing,77,-0.121951,-1.160859,lower regime,0.78
+RG004,Adaptive intervention before crossing,78,-0.113684,-1.147011,lower regime,0.78
+RG004,Adaptive intervention before crossing,79,-0.105416,-1.169019,lower regime,0.78
+RG004,Adaptive intervention before crossing,80,-0.097149,-1.188723,lower regime,0.78
+RG004,Adaptive intervention before crossing,81,-0.088881,-1.175971,lower regime,0.78
+RG004,Adaptive intervention before crossing,82,-0.080614,-1.159915,lower regime,0.78
+RG004,Adaptive intervention before crossing,83,-0.072346,-1.142431,lower regime,0.78
+RG004,Adaptive intervention before crossing,84,-0.064079,-1.142843,lower regime,0.78
+RG004,Adaptive intervention before crossing,85,-0.055811,-1.131689,lower regime,0.78
+RG004,Adaptive intervention before crossing,86,-0.047544,-1.1244,lower regime,0.78
+RG004,Adaptive intervention before crossing,87,-0.039276,-1.121407,lower regime,0.78
+RG004,Adaptive intervention before crossing,88,-0.031009,-1.104328,lower regime,0.78
+RG004,Adaptive intervention before crossing,89,-0.022741,-1.106743,lower regime,0.78
+RG004,Adaptive intervention before crossing,90,-0.014474,-1.115957,lower regime,0.78
+RG004,Adaptive intervention before crossing,91,-0.006206,-1.09254,lower regime,0.78
+RG004,Adaptive intervention before crossing,92,0.002061,-1.098151,lower regime,0.78
+RG004,Adaptive intervention before crossing,93,0.010329,-1.131044,lower regime,0.78
+RG004,Adaptive intervention before crossing,94,0.018596,-1.120968,lower regime,0.78
+RG004,Adaptive intervention before crossing,95,0.026864,-1.119335,lower regime,0.78
+RG004,Adaptive intervention before crossing,96,0.035131,-1.11435,lower regime,0.78
+RG004,Adaptive intervention before crossing,97,0.043399,-1.093968,lower regime,0.78
+RG004,Adaptive intervention before crossing,98,0.051666,-1.098628,lower regime,0.78
+RG004,Adaptive intervention before crossing,99,0.059934,-1.076124,lower regime,0.78
+RG004,Adaptive intervention before crossing,100,0.068201,-1.073093,lower regime,0.78
+RG004,Adaptive intervention before crossing,101,0.076469,-1.037674,lower regime,0.78
+RG004,Adaptive intervention before crossing,102,0.084736,-1.055837,lower regime,0.78
+RG004,Adaptive intervention before crossing,103,0.093004,-1.025811,lower regime,0.78
+RG004,Adaptive intervention before crossing,104,0.101271,-1.007314,lower regime,0.78
+RG004,Adaptive intervention before crossing,105,0.109539,-1.021774,lower regime,0.78
+RG004,Adaptive intervention before crossing,106,0.117806,-1.024615,lower regime,0.78
+RG004,Adaptive intervention before crossing,107,0.126074,-1.020591,lower regime,0.78
+RG004,Adaptive intervention before crossing,108,0.134341,-0.98576,lower regime,0.78
+RG004,Adaptive intervention before crossing,109,0.142608,-0.991091,lower regime,0.78
+RG004,Adaptive intervention before crossing,110,0.150876,-1.00001,lower regime,0.78
+RG004,Adaptive intervention before crossing,111,0.159143,-1.001686,lower regime,0.78
+RG004,Adaptive intervention before crossing,112,0.167411,-1.002184,lower regime,0.78
+RG004,Adaptive intervention before crossing,113,0.175678,-1.016508,lower regime,0.78
+RG004,Adaptive intervention before crossing,114,0.183946,-1.057023,lower regime,0.78
+RG004,Adaptive intervention before crossing,115,0.192213,-1.034485,lower regime,0.78
+RG004,Adaptive intervention before crossing,116,0.200481,-1.00416,lower regime,0.78
+RG004,Adaptive intervention before crossing,117,0.208748,-1.01868,lower regime,0.78
+RG004,Adaptive intervention before crossing,118,0.217016,-0.995349,lower regime,0.78
+RG004,Adaptive intervention before crossing,119,0.225283,-0.983969,lower regime,0.78
+RG004,Adaptive intervention before crossing,120,0.233551,-1.003771,lower regime,0.78
+RG004,Adaptive intervention before crossing,121,0.241818,-1.016915,lower regime,0.78
+RG004,Adaptive intervention before crossing,122,0.250086,-0.977694,lower regime,0.78
+RG004,Adaptive intervention before crossing,123,0.258353,-0.973163,lower regime,0.78
+RG004,Adaptive intervention before crossing,124,0.266621,-0.971726,lower regime,0.78
+RG004,Adaptive intervention before crossing,125,0.274888,-0.969666,lower regime,0.78
+RG004,Adaptive intervention before crossing,126,0.283156,-0.982503,lower regime,0.78
+RG004,Adaptive intervention before crossing,127,0.291423,-1.0013,lower regime,0.78
+RG004,Adaptive intervention before crossing,128,0.299691,-0.997585,lower regime,0.78
+RG004,Adaptive intervention before crossing,129,0.307958,-0.999134,lower regime,0.78
+RG004,Adaptive intervention before crossing,130,0.316226,-0.990883,lower regime,0.78
+RG004,Adaptive intervention before crossing,131,0.324493,-0.965536,lower regime,0.78
+RG004,Adaptive intervention before crossing,132,0.332761,-0.982519,lower regime,0.78
+RG004,Adaptive intervention before crossing,133,0.341028,-0.993141,lower regime,0.78
+RG004,Adaptive intervention before crossing,134,0.349296,-0.963087,lower regime,0.78
+RG004,Adaptive intervention before crossing,135,0.357563,-0.956216,lower regime,0.78
+RG004,Adaptive intervention before crossing,136,0.365831,-0.948298,lower regime,0.78
+RG004,Adaptive intervention before crossing,137,0.374098,-0.929602,lower regime,0.78
+RG004,Adaptive intervention before crossing,138,0.382366,-0.915597,lower regime,0.78
+RG004,Adaptive intervention before crossing,139,0.390633,-0.897101,lower regime,0.78
+RG004,Adaptive intervention before crossing,140,0.398901,-0.89561,lower regime,0.78
+RG004,Adaptive intervention before crossing,141,0.407168,-0.870632,lower regime,0.78
+RG004,Adaptive intervention before crossing,142,0.415436,-0.870883,lower regime,0.78
+RG004,Adaptive intervention before crossing,143,0.423703,-0.861074,lower regime,0.78
+RG004,Adaptive intervention before crossing,144,0.431971,-0.865615,lower regime,0.78
+RG004,Adaptive intervention before crossing,145,0.440238,-0.851296,lower regime,0.78
+RG004,Adaptive intervention before crossing,146,0.448505,-0.863543,lower regime,0.78
+RG004,Adaptive intervention before crossing,147,0.456773,-0.811019,lower regime,0.78
+RG004,Adaptive intervention before crossing,148,0.46504,-0.836632,lower regime,0.78
+RG004,Adaptive intervention before crossing,149,0.473308,-0.851226,lower regime,0.78
+RG004,Adaptive intervention before crossing,150,0.481575,-0.875955,lower regime,0.78
+RG004,Adaptive intervention before crossing,151,0.489843,-0.905867,lower regime,0.78
+RG004,Adaptive intervention before crossing,152,0.49811,-0.916283,lower regime,0.78
+RG004,Adaptive intervention before crossing,153,0.506378,-0.906367,lower regime,0.78
+RG004,Adaptive intervention before crossing,154,0.514645,-0.899346,lower regime,0.78
+RG004,Adaptive intervention before crossing,155,0.522913,-0.879038,lower regime,0.78
+RG004,Adaptive intervention before crossing,156,0.53118,-0.855888,lower regime,0.78
+RG004,Adaptive intervention before crossing,157,0.539448,-0.858899,lower regime,0.78
+RG004,Adaptive intervention before crossing,158,0.547715,-0.872354,lower regime,0.78
+RG004,Adaptive intervention before crossing,159,0.555983,-0.894251,lower regime,0.78
+RG004,Adaptive intervention before crossing,160,0.56425,-0.893835,lower regime,0.78
+RG004,Adaptive intervention before crossing,161,0.572518,-0.885033,lower regime,0.78
+RG004,Adaptive intervention before crossing,162,0.580785,-0.881812,lower regime,0.78
+RG004,Adaptive intervention before crossing,163,0.589053,-0.898508,lower regime,0.78
+RG004,Adaptive intervention before crossing,164,0.59732,-0.870639,lower regime,0.78
+RG004,Adaptive intervention before crossing,165,0.605588,-0.866305,lower regime,0.78
+RG004,Adaptive intervention before crossing,166,0.613855,-0.838016,lower regime,0.78
+RG004,Adaptive intervention before crossing,167,0.622123,-0.810565,lower regime,0.78
+RG004,Adaptive intervention before crossing,168,0.63039,-0.799905,lower regime,0.78
+RG004,Adaptive intervention before crossing,169,0.638658,-0.795029,lower regime,0.78
+RG004,Adaptive intervention before crossing,170,0.646925,-0.773827,lower regime,0.78
+RG004,Adaptive intervention before crossing,171,0.655193,-0.792581,lower regime,0.78
+RG004,Adaptive intervention before crossing,172,0.66346,-0.761913,lower regime,0.78
+RG004,Adaptive intervention before crossing,173,0.671728,-0.742595,lower regime,0.78
+RG004,Adaptive intervention before crossing,174,0.679995,-0.717493,lower regime,0.78
+RG004,Adaptive intervention before crossing,175,0.688263,-0.695673,lower regime,0.78
+RG004,Adaptive intervention before crossing,176,0.69653,-0.671458,lower regime,0.78
+RG004,Adaptive intervention before crossing,177,0.704798,-0.646097,lower regime,0.78
+RG004,Adaptive intervention before crossing,178,0.713065,-0.639066,lower regime,0.78
+RG004,Adaptive intervention before crossing,179,0.721333,-0.610075,lower regime,0.78
+RG004,Adaptive intervention before crossing,180,0.7296,-0.619051,lower regime,0.78
