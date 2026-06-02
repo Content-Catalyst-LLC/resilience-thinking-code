@@ -1,0 +1,7 @@
+network,mean_flow_performance,minimum_flow_performance,final_flow_performance,mean_equity_adjusted_flow,maximum_inventory_thinness,final_inventory_thinness,maximum_supplier_concentration,final_supplier_concentration
+Medical and pharmaceutical critical supply network,0.97484,0.73279,1.0,0.97313,0.89085,0.89085,0.81833,0.71639
+Semiconductor-dependent manufacturing network,0.97604,0.74243,1.0,0.97146,0.82091,0.81961,0.89823,0.7874
+Food and water essential goods network,0.96769,0.71625,1.0,0.96834,0.87683,0.87683,0.75856,0.67718
+Energy transition mineral and battery supply network,0.96854,0.72333,1.0,0.9675,0.82279,0.82279,0.87844,0.78595
+Humanitarian emergency response supply network,0.96236,0.71012,1.0,0.96431,0.9428,0.9428,0.69862,0.62196
+Port-centered consumer goods logistics network,0.96573,0.71145,1.0,0.9626,0.90316,0.90316,0.73862,0.66224

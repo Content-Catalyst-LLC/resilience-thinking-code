@@ -1,0 +1,481 @@
+network_id,network,network_context,time,event,disruption_load,adaptive_response,flow_performance,inventory_thinness,supplier_concentration,equity_adjusted_flow
+SN001,Semiconductor-dependent manufacturing network,critical components and specialized upstream suppliers,0,background supply-network stress,0.15587,0.3468,0.84402,0.77905,0.89823,0.86576
+SN001,Semiconductor-dependent manufacturing network,critical components and specialized upstream suppliers,1,background supply-network stress,0.15658,0.34716,0.92789,0.77811,0.89645,0.95179
+SN001,Semiconductor-dependent manufacturing network,critical components and specialized upstream suppliers,2,background supply-network stress,0.1573,0.34752,1.0,0.77718,0.89467,1.0
+SN001,Semiconductor-dependent manufacturing network,critical components and specialized upstream suppliers,3,background supply-network stress,0.15726,0.34788,1.0,0.77626,0.89289,1.0
+SN001,Semiconductor-dependent manufacturing network,critical components and specialized upstream suppliers,4,background supply-network stress,0.15741,0.34825,1.0,0.77534,0.8911,1.0
+SN001,Semiconductor-dependent manufacturing network,critical components and specialized upstream suppliers,5,background supply-network stress,0.1569,0.3486,1.0,0.77444,0.88931,1.0
+SN001,Semiconductor-dependent manufacturing network,critical components and specialized upstream suppliers,6,background supply-network stress,0.15772,0.34896,1.0,0.77354,0.88752,1.0
+SN001,Semiconductor-dependent manufacturing network,critical components and specialized upstream suppliers,7,background supply-network stress,0.15728,0.34932,1.0,0.77265,0.88572,1.0
+SN001,Semiconductor-dependent manufacturing network,critical components and specialized upstream suppliers,8,background supply-network stress,0.15646,0.34968,1.0,0.77177,0.88393,1.0
+SN001,Semiconductor-dependent manufacturing network,critical components and specialized upstream suppliers,9,background supply-network stress,0.15731,0.35004,1.0,0.7709,0.88213,1.0
+SN001,Semiconductor-dependent manufacturing network,critical components and specialized upstream suppliers,10,background supply-network stress,0.15658,0.35039,1.0,0.77003,0.88032,1.0
+SN001,Semiconductor-dependent manufacturing network,critical components and specialized upstream suppliers,11,background supply-network stress,0.15844,0.35075,1.0,0.76918,0.87852,1.0
+SN001,Semiconductor-dependent manufacturing network,critical components and specialized upstream suppliers,12,Port closure and inland logistics congestion,0.83853,0.35111,0.82861,0.78415,0.88191,0.72467
+SN001,Semiconductor-dependent manufacturing network,critical components and specialized upstream suppliers,13,background supply-network stress,0.15887,0.34884,0.91212,0.78333,0.88012,0.93561
+SN001,Semiconductor-dependent manufacturing network,critical components and specialized upstream suppliers,14,background supply-network stress,0.15774,0.34918,0.99606,0.78253,0.87832,1.0
+SN001,Semiconductor-dependent manufacturing network,critical components and specialized upstream suppliers,15,background supply-network stress,0.15778,0.34953,1.0,0.78174,0.87653,1.0
+SN001,Semiconductor-dependent manufacturing network,critical components and specialized upstream suppliers,16,background supply-network stress,0.15879,0.34988,1.0,0.78095,0.87473,1.0
+SN001,Semiconductor-dependent manufacturing network,critical components and specialized upstream suppliers,17,background supply-network stress,0.15775,0.35022,1.0,0.78017,0.87293,1.0
+SN001,Semiconductor-dependent manufacturing network,critical components and specialized upstream suppliers,18,background supply-network stress,0.1578,0.35057,1.0,0.7794,0.87112,1.0
+SN001,Semiconductor-dependent manufacturing network,critical components and specialized upstream suppliers,19,background supply-network stress,0.15791,0.35091,1.0,0.77864,0.86932,1.0
+SN001,Semiconductor-dependent manufacturing network,critical components and specialized upstream suppliers,20,background supply-network stress,0.15832,0.35126,1.0,0.77789,0.86751,1.0
+SN001,Semiconductor-dependent manufacturing network,critical components and specialized upstream suppliers,21,background supply-network stress,0.15897,0.3516,1.0,0.77714,0.86569,1.0
+SN001,Semiconductor-dependent manufacturing network,critical components and specialized upstream suppliers,22,background supply-network stress,0.15973,0.35195,1.0,0.77641,0.86388,1.0
+SN001,Semiconductor-dependent manufacturing network,critical components and specialized upstream suppliers,23,background supply-network stress,0.15832,0.35229,1.0,0.77568,0.86206,1.0
+SN001,Semiconductor-dependent manufacturing network,critical components and specialized upstream suppliers,24,background supply-network stress,0.1599,0.35263,1.0,0.77496,0.86024,1.0
+SN001,Semiconductor-dependent manufacturing network,critical components and specialized upstream suppliers,25,background supply-network stress,0.15919,0.35297,1.0,0.77425,0.85841,1.0
+SN001,Semiconductor-dependent manufacturing network,critical components and specialized upstream suppliers,26,background supply-network stress,0.15998,0.35331,1.0,0.77355,0.85659,1.0
+SN001,Semiconductor-dependent manufacturing network,critical components and specialized upstream suppliers,27,Upstream supplier failure in concentrated critical input,0.84513,0.35365,0.84066,0.78946,0.86316,0.72109
+SN001,Semiconductor-dependent manufacturing network,critical components and specialized upstream suppliers,28,background supply-network stress,0.16026,0.35082,0.92416,0.7888,0.86135,0.94797
+SN001,Semiconductor-dependent manufacturing network,critical components and specialized upstream suppliers,29,background supply-network stress,0.15904,0.35115,1.0,0.78816,0.85954,1.0
+SN001,Semiconductor-dependent manufacturing network,critical components and specialized upstream suppliers,30,background supply-network stress,0.16011,0.35148,1.0,0.78752,0.85773,1.0
+SN001,Semiconductor-dependent manufacturing network,critical components and specialized upstream suppliers,31,background supply-network stress,0.15915,0.35181,1.0,0.7869,0.85592,1.0
+SN001,Semiconductor-dependent manufacturing network,critical components and specialized upstream suppliers,32,background supply-network stress,0.15901,0.35214,1.0,0.78628,0.8541,1.0
+SN001,Semiconductor-dependent manufacturing network,critical components and specialized upstream suppliers,33,background supply-network stress,0.15988,0.35247,1.0,0.78567,0.85228,1.0
+SN001,Semiconductor-dependent manufacturing network,critical components and specialized upstream suppliers,34,background supply-network stress,0.16073,0.3528,1.0,0.78507,0.85046,1.0
+SN001,Semiconductor-dependent manufacturing network,critical components and specialized upstream suppliers,35,background supply-network stress,0.16041,0.35313,1.0,0.78448,0.84863,1.0
+SN001,Semiconductor-dependent manufacturing network,critical components and specialized upstream suppliers,36,background supply-network stress,0.15976,0.35345,1.0,0.7839,0.8468,1.0
+SN001,Semiconductor-dependent manufacturing network,critical components and specialized upstream suppliers,37,background supply-network stress,0.16115,0.35378,1.0,0.78332,0.84497,1.0
+SN001,Semiconductor-dependent manufacturing network,critical components and specialized upstream suppliers,38,background supply-network stress,0.16139,0.3541,1.0,0.78276,0.84314,1.0
+SN001,Semiconductor-dependent manufacturing network,critical components and specialized upstream suppliers,39,background supply-network stress,0.16013,0.35443,1.0,0.7822,0.84131,1.0
+SN001,Semiconductor-dependent manufacturing network,critical components and specialized upstream suppliers,40,background supply-network stress,0.16064,0.35475,1.0,0.78166,0.83947,1.0
+SN001,Semiconductor-dependent manufacturing network,critical components and specialized upstream suppliers,41,background supply-network stress,0.16111,0.35508,1.0,0.78112,0.83763,1.0
+SN001,Semiconductor-dependent manufacturing network,critical components and specialized upstream suppliers,42,Cyber outage affecting tracking customs and warehouse systems,0.81539,0.3554,0.84236,0.79484,0.84138,0.74613
+SN001,Semiconductor-dependent manufacturing network,critical components and specialized upstream suppliers,43,background supply-network stress,0.16204,0.35323,0.92582,0.79435,0.83956,0.94967
+SN001,Semiconductor-dependent manufacturing network,critical components and specialized upstream suppliers,44,background supply-network stress,0.16059,0.35354,1.0,0.79386,0.83773,1.0
+SN001,Semiconductor-dependent manufacturing network,critical components and specialized upstream suppliers,45,background supply-network stress,0.16153,0.35385,1.0,0.79338,0.8359,1.0
+SN001,Semiconductor-dependent manufacturing network,critical components and specialized upstream suppliers,46,background supply-network stress,0.16246,0.35417,1.0,0.79291,0.83406,1.0
+SN001,Semiconductor-dependent manufacturing network,critical components and specialized upstream suppliers,47,background supply-network stress,0.16183,0.35448,1.0,0.79245,0.83223,1.0
+SN001,Semiconductor-dependent manufacturing network,critical components and specialized upstream suppliers,48,background supply-network stress,0.16215,0.35479,1.0,0.792,0.83039,1.0
+SN001,Semiconductor-dependent manufacturing network,critical components and specialized upstream suppliers,49,background supply-network stress,0.16236,0.35511,1.0,0.79156,0.82855,1.0
+SN001,Semiconductor-dependent manufacturing network,critical components and specialized upstream suppliers,50,background supply-network stress,0.16191,0.35542,1.0,0.79112,0.82671,1.0
+SN001,Semiconductor-dependent manufacturing network,critical components and specialized upstream suppliers,51,background supply-network stress,0.16157,0.35573,1.0,0.7907,0.82486,1.0
+SN001,Semiconductor-dependent manufacturing network,critical components and specialized upstream suppliers,52,background supply-network stress,0.16227,0.35604,1.0,0.79028,0.82301,1.0
+SN001,Semiconductor-dependent manufacturing network,critical components and specialized upstream suppliers,53,background supply-network stress,0.16224,0.35634,1.0,0.78987,0.82116,1.0
+SN001,Semiconductor-dependent manufacturing network,critical components and specialized upstream suppliers,54,background supply-network stress,0.16197,0.35665,1.0,0.78947,0.81931,1.0
+SN001,Semiconductor-dependent manufacturing network,critical components and specialized upstream suppliers,55,background supply-network stress,0.16308,0.35696,1.0,0.78908,0.81745,1.0
+SN001,Semiconductor-dependent manufacturing network,critical components and specialized upstream suppliers,56,Climate disaster damaging infrastructure and cold chains,0.91565,0.35727,0.77389,0.80615,0.82199,0.64214
+SN001,Semiconductor-dependent manufacturing network,critical components and specialized upstream suppliers,57,background supply-network stress,0.16254,0.35458,0.85748,0.80581,0.82016,0.87957
+SN001,Semiconductor-dependent manufacturing network,critical components and specialized upstream suppliers,58,background supply-network stress,0.16288,0.35488,0.94104,0.80548,0.81832,0.96528
+SN001,Semiconductor-dependent manufacturing network,critical components and specialized upstream suppliers,59,background supply-network stress,0.16353,0.35518,1.0,0.80515,0.81648,1.0
+SN001,Semiconductor-dependent manufacturing network,critical components and specialized upstream suppliers,60,background supply-network stress,0.16373,0.35547,1.0,0.80484,0.81463,1.0
+SN001,Semiconductor-dependent manufacturing network,critical components and specialized upstream suppliers,61,background supply-network stress,0.16398,0.35577,1.0,0.80453,0.81279,1.0
+SN001,Semiconductor-dependent manufacturing network,critical components and specialized upstream suppliers,62,background supply-network stress,0.1636,0.35607,1.0,0.80424,0.81094,1.0
+SN001,Semiconductor-dependent manufacturing network,critical components and specialized upstream suppliers,63,background supply-network stress,0.1629,0.35636,1.0,0.80395,0.80909,1.0
+SN001,Semiconductor-dependent manufacturing network,critical components and specialized upstream suppliers,64,background supply-network stress,0.16419,0.35665,1.0,0.80367,0.80723,1.0
+SN001,Semiconductor-dependent manufacturing network,critical components and specialized upstream suppliers,65,background supply-network stress,0.16441,0.35695,1.0,0.8034,0.80538,1.0
+SN001,Semiconductor-dependent manufacturing network,critical components and specialized upstream suppliers,66,background supply-network stress,0.16411,0.35724,1.0,0.80314,0.80352,1.0
+SN001,Semiconductor-dependent manufacturing network,critical components and specialized upstream suppliers,67,background supply-network stress,0.16431,0.35753,1.0,0.80289,0.80166,1.0
+SN001,Semiconductor-dependent manufacturing network,critical components and specialized upstream suppliers,68,background supply-network stress,0.1639,0.35782,1.0,0.80265,0.7998,1.0
+SN001,Semiconductor-dependent manufacturing network,critical components and specialized upstream suppliers,69,background supply-network stress,0.16396,0.35811,1.0,0.80241,0.79793,1.0
+SN001,Semiconductor-dependent manufacturing network,critical components and specialized upstream suppliers,70,Compound demand surge supplier failure and logistics disruption,0.98037,0.3584,0.74243,0.82091,0.80407,0.60772
+SN001,Semiconductor-dependent manufacturing network,critical components and specialized upstream suppliers,71,background supply-network stress,0.16462,0.35532,0.82552,0.82073,0.80222,0.84679
+SN001,Semiconductor-dependent manufacturing network,critical components and specialized upstream suppliers,72,background supply-network stress,0.16384,0.3556,0.90893,0.82056,0.80038,0.93234
+SN001,Semiconductor-dependent manufacturing network,critical components and specialized upstream suppliers,73,background supply-network stress,0.165,0.35588,0.99202,0.82039,0.79853,1.0
+SN001,Semiconductor-dependent manufacturing network,critical components and specialized upstream suppliers,74,background supply-network stress,0.16547,0.35616,1.0,0.82024,0.79668,1.0
+SN001,Semiconductor-dependent manufacturing network,critical components and specialized upstream suppliers,75,background supply-network stress,0.16417,0.35644,1.0,0.8201,0.79483,1.0
+SN001,Semiconductor-dependent manufacturing network,critical components and specialized upstream suppliers,76,background supply-network stress,0.16545,0.35671,1.0,0.81996,0.79298,1.0
+SN001,Semiconductor-dependent manufacturing network,critical components and specialized upstream suppliers,77,background supply-network stress,0.16545,0.35699,1.0,0.81983,0.79112,1.0
+SN001,Semiconductor-dependent manufacturing network,critical components and specialized upstream suppliers,78,background supply-network stress,0.16438,0.35726,1.0,0.81972,0.78926,1.0
+SN001,Semiconductor-dependent manufacturing network,critical components and specialized upstream suppliers,79,background supply-network stress,0.16433,0.35754,1.0,0.81961,0.7874,1.0
+SN002,Port-centered consumer goods logistics network,port logistics and retail distribution,0,background supply-network stress,0.16085,0.2972,0.84991,0.81955,0.73862,0.8699
+SN002,Port-centered consumer goods logistics network,port logistics and retail distribution,1,background supply-network stress,0.16018,0.29745,0.92009,0.81911,0.73724,0.94173
+SN002,Port-centered consumer goods logistics network,port logistics and retail distribution,2,background supply-network stress,0.16182,0.29769,0.9898,0.81867,0.73586,1.0
+SN002,Port-centered consumer goods logistics network,port logistics and retail distribution,3,background supply-network stress,0.16184,0.29794,1.0,0.81825,0.73448,1.0
+SN002,Port-centered consumer goods logistics network,port logistics and retail distribution,4,background supply-network stress,0.16103,0.29818,1.0,0.81784,0.73309,1.0
+SN002,Port-centered consumer goods logistics network,port logistics and retail distribution,5,background supply-network stress,0.16152,0.29843,1.0,0.81743,0.7317,1.0
+SN002,Port-centered consumer goods logistics network,port logistics and retail distribution,6,background supply-network stress,0.16072,0.29867,1.0,0.81704,0.73032,1.0
+SN002,Port-centered consumer goods logistics network,port logistics and retail distribution,7,background supply-network stress,0.16084,0.29891,1.0,0.81665,0.72892,1.0
+SN002,Port-centered consumer goods logistics network,port logistics and retail distribution,8,background supply-network stress,0.16107,0.29915,1.0,0.81628,0.72753,1.0
+SN002,Port-centered consumer goods logistics network,port logistics and retail distribution,9,background supply-network stress,0.16198,0.29939,1.0,0.81591,0.72614,1.0
+SN002,Port-centered consumer goods logistics network,port logistics and retail distribution,10,background supply-network stress,0.16112,0.29963,1.0,0.81555,0.72474,1.0
+SN002,Port-centered consumer goods logistics network,port logistics and retail distribution,11,background supply-network stress,0.16274,0.29987,1.0,0.81521,0.72334,1.0
+SN002,Port-centered consumer goods logistics network,port logistics and retail distribution,12,Port closure and inland logistics congestion,0.84276,0.30011,0.79944,0.83069,0.72714,0.69737
+SN002,Port-centered consumer goods logistics network,port logistics and retail distribution,13,background supply-network stress,0.16136,0.29772,0.8693,0.83038,0.72576,0.88975
+SN002,Port-centered consumer goods logistics network,port logistics and retail distribution,14,background supply-network stress,0.16171,0.29795,0.93911,0.83009,0.72437,0.96119
+SN002,Port-centered consumer goods logistics network,port logistics and retail distribution,15,background supply-network stress,0.1616,0.29818,1.0,0.82981,0.72299,1.0
+SN002,Port-centered consumer goods logistics network,port logistics and retail distribution,16,background supply-network stress,0.16306,0.2984,1.0,0.82954,0.7216,1.0
+SN002,Port-centered consumer goods logistics network,port logistics and retail distribution,17,background supply-network stress,0.16236,0.29863,1.0,0.82928,0.72021,1.0
+SN002,Port-centered consumer goods logistics network,port logistics and retail distribution,18,background supply-network stress,0.16267,0.29886,1.0,0.82902,0.71882,1.0
+SN002,Port-centered consumer goods logistics network,port logistics and retail distribution,19,background supply-network stress,0.16248,0.29908,1.0,0.82878,0.71743,1.0
+SN002,Port-centered consumer goods logistics network,port logistics and retail distribution,20,background supply-network stress,0.16321,0.29931,1.0,0.82855,0.71603,1.0
+SN002,Port-centered consumer goods logistics network,port logistics and retail distribution,21,background supply-network stress,0.16284,0.29953,1.0,0.82833,0.71464,1.0
+SN002,Port-centered consumer goods logistics network,port logistics and retail distribution,22,background supply-network stress,0.16255,0.29975,1.0,0.82811,0.71324,1.0
+SN002,Port-centered consumer goods logistics network,port logistics and retail distribution,23,background supply-network stress,0.1631,0.29997,1.0,0.82791,0.71184,1.0
+SN002,Port-centered consumer goods logistics network,port logistics and retail distribution,24,background supply-network stress,0.16295,0.30019,1.0,0.82771,0.71044,1.0
+SN002,Port-centered consumer goods logistics network,port logistics and retail distribution,25,background supply-network stress,0.16266,0.30041,1.0,0.82753,0.70904,1.0
+SN002,Port-centered consumer goods logistics network,port logistics and retail distribution,26,background supply-network stress,0.16419,0.30063,1.0,0.82736,0.70763,1.0
+SN002,Port-centered consumer goods logistics network,port logistics and retail distribution,27,Upstream supplier failure in concentrated critical input,0.84951,0.30085,0.81104,0.84379,0.71462,0.69387
+SN002,Port-centered consumer goods logistics network,port logistics and retail distribution,28,background supply-network stress,0.16438,0.2979,0.87998,0.84366,0.71324,0.90068
+SN002,Port-centered consumer goods logistics network,port logistics and retail distribution,29,background supply-network stress,0.16445,0.29811,0.94894,0.84355,0.71186,0.97126
+SN002,Port-centered consumer goods logistics network,port logistics and retail distribution,30,background supply-network stress,0.16499,0.29831,1.0,0.84345,0.71047,1.0
+SN002,Port-centered consumer goods logistics network,port logistics and retail distribution,31,background supply-network stress,0.16411,0.29852,1.0,0.84335,0.70908,1.0
+SN002,Port-centered consumer goods logistics network,port logistics and retail distribution,32,background supply-network stress,0.16419,0.29873,1.0,0.84327,0.70769,1.0
+SN002,Port-centered consumer goods logistics network,port logistics and retail distribution,33,background supply-network stress,0.16438,0.29893,1.0,0.8432,0.7063,1.0
+SN002,Port-centered consumer goods logistics network,port logistics and retail distribution,34,background supply-network stress,0.16444,0.29913,1.0,0.84313,0.70491,1.0
+SN002,Port-centered consumer goods logistics network,port logistics and retail distribution,35,background supply-network stress,0.16508,0.29934,1.0,0.84308,0.70351,1.0
+SN002,Port-centered consumer goods logistics network,port logistics and retail distribution,36,background supply-network stress,0.16386,0.29954,1.0,0.84304,0.70212,1.0
+SN002,Port-centered consumer goods logistics network,port logistics and retail distribution,37,background supply-network stress,0.16488,0.29974,1.0,0.843,0.70072,1.0
+SN002,Port-centered consumer goods logistics network,port logistics and retail distribution,38,background supply-network stress,0.16512,0.29994,1.0,0.84298,0.69932,1.0
+SN002,Port-centered consumer goods logistics network,port logistics and retail distribution,39,background supply-network stress,0.16485,0.30014,1.0,0.84297,0.69792,1.0
+SN002,Port-centered consumer goods logistics network,port logistics and retail distribution,40,background supply-network stress,0.1643,0.30034,1.0,0.84296,0.69651,1.0
+SN002,Port-centered consumer goods logistics network,port logistics and retail distribution,41,background supply-network stress,0.16577,0.30053,1.0,0.84297,0.69511,1.0
+SN002,Port-centered consumer goods logistics network,port logistics and retail distribution,42,Cyber outage affecting tracking customs and warehouse systems,0.81993,0.30073,0.81228,0.85724,0.6993,0.71767
+SN002,Port-centered consumer goods logistics network,port logistics and retail distribution,43,background supply-network stress,0.1648,0.29843,0.8812,0.8573,0.69792,0.90193
+SN002,Port-centered consumer goods logistics network,port logistics and retail distribution,44,background supply-network stress,0.16602,0.29862,0.94977,0.85736,0.69653,0.97211
+SN002,Port-centered consumer goods logistics network,port logistics and retail distribution,45,background supply-network stress,0.1653,0.2988,1.0,0.85743,0.69514,1.0
+SN002,Port-centered consumer goods logistics network,port logistics and retail distribution,46,background supply-network stress,0.16517,0.29899,1.0,0.85751,0.69375,1.0
+SN002,Port-centered consumer goods logistics network,port logistics and retail distribution,47,background supply-network stress,0.16557,0.29917,1.0,0.8576,0.69235,1.0
+SN002,Port-centered consumer goods logistics network,port logistics and retail distribution,48,background supply-network stress,0.16544,0.29936,1.0,0.85771,0.69096,1.0
+SN002,Port-centered consumer goods logistics network,port logistics and retail distribution,49,background supply-network stress,0.16572,0.29954,1.0,0.85782,0.68956,1.0
+SN002,Port-centered consumer goods logistics network,port logistics and retail distribution,50,background supply-network stress,0.16689,0.29972,1.0,0.85794,0.68816,1.0
+SN002,Port-centered consumer goods logistics network,port logistics and retail distribution,51,background supply-network stress,0.16708,0.2999,1.0,0.85807,0.68676,1.0
+SN002,Port-centered consumer goods logistics network,port logistics and retail distribution,52,background supply-network stress,0.16646,0.30008,1.0,0.85822,0.68536,1.0
+SN002,Port-centered consumer goods logistics network,port logistics and retail distribution,53,background supply-network stress,0.16714,0.30026,1.0,0.85837,0.68396,1.0
+SN002,Port-centered consumer goods logistics network,port logistics and retail distribution,54,background supply-network stress,0.16689,0.30044,1.0,0.85853,0.68256,1.0
+SN002,Port-centered consumer goods logistics network,port logistics and retail distribution,55,background supply-network stress,0.16705,0.30062,1.0,0.85871,0.68115,1.0
+SN002,Port-centered consumer goods logistics network,port logistics and retail distribution,56,Climate disaster damaging infrastructure and cold chains,0.92034,0.30079,0.74337,0.87634,0.68615,0.61515
+SN002,Port-centered consumer goods logistics network,port logistics and retail distribution,57,background supply-network stress,0.16827,0.29798,0.81108,0.87656,0.68476,0.83015
+SN002,Port-centered consumer goods logistics network,port logistics and retail distribution,58,background supply-network stress,0.16724,0.29815,0.87915,0.8768,0.68338,0.89983
+SN002,Port-centered consumer goods logistics network,port logistics and retail distribution,59,background supply-network stress,0.16847,0.29831,0.94687,0.87704,0.68199,0.96914
+SN002,Port-centered consumer goods logistics network,port logistics and retail distribution,60,background supply-network stress,0.16822,0.29848,1.0,0.8773,0.6806,1.0
+SN002,Port-centered consumer goods logistics network,port logistics and retail distribution,61,background supply-network stress,0.16831,0.29864,1.0,0.87757,0.67921,1.0
+SN002,Port-centered consumer goods logistics network,port logistics and retail distribution,62,background supply-network stress,0.16706,0.2988,1.0,0.87784,0.67782,1.0
+SN002,Port-centered consumer goods logistics network,port logistics and retail distribution,63,background supply-network stress,0.16733,0.29896,1.0,0.87813,0.67643,1.0
+SN002,Port-centered consumer goods logistics network,port logistics and retail distribution,64,background supply-network stress,0.16733,0.29912,1.0,0.87842,0.67504,1.0
+SN002,Port-centered consumer goods logistics network,port logistics and retail distribution,65,background supply-network stress,0.16806,0.29928,1.0,0.87873,0.67364,1.0
+SN002,Port-centered consumer goods logistics network,port logistics and retail distribution,66,background supply-network stress,0.16937,0.29944,1.0,0.87905,0.67225,1.0
+SN002,Port-centered consumer goods logistics network,port logistics and retail distribution,67,background supply-network stress,0.16934,0.2996,1.0,0.87938,0.67085,1.0
+SN002,Port-centered consumer goods logistics network,port logistics and retail distribution,68,background supply-network stress,0.16937,0.29976,1.0,0.87972,0.66945,1.0
+SN002,Port-centered consumer goods logistics network,port logistics and retail distribution,69,background supply-network stress,0.16804,0.29991,1.0,0.88006,0.66805,1.0
+SN002,Port-centered consumer goods logistics network,port logistics and retail distribution,70,Compound demand surge supplier failure and logistics disruption,0.98521,0.30006,0.71145,0.89914,0.67465,0.58077
+SN002,Port-centered consumer goods logistics network,port logistics and retail distribution,71,background supply-network stress,0.16971,0.29685,0.77845,0.89955,0.67328,0.79675
+SN002,Port-centered consumer goods logistics network,port logistics and retail distribution,72,background supply-network stress,0.16996,0.297,0.8454,0.89996,0.6719,0.86528
+SN002,Port-centered consumer goods logistics network,port logistics and retail distribution,73,background supply-network stress,0.17014,0.29714,0.91232,0.90039,0.67053,0.93378
+SN002,Port-centered consumer goods logistics network,port logistics and retail distribution,74,background supply-network stress,0.17021,0.29728,0.97926,0.90082,0.66915,1.0
+SN002,Port-centered consumer goods logistics network,port logistics and retail distribution,75,background supply-network stress,0.16902,0.29742,1.0,0.90127,0.66777,1.0
+SN002,Port-centered consumer goods logistics network,port logistics and retail distribution,76,background supply-network stress,0.16921,0.29756,1.0,0.90172,0.66639,1.0
+SN002,Port-centered consumer goods logistics network,port logistics and retail distribution,77,background supply-network stress,0.17054,0.2977,1.0,0.90219,0.66501,1.0
+SN002,Port-centered consumer goods logistics network,port logistics and retail distribution,78,background supply-network stress,0.17054,0.29784,1.0,0.90267,0.66362,1.0
+SN002,Port-centered consumer goods logistics network,port logistics and retail distribution,79,background supply-network stress,0.17096,0.29797,1.0,0.90316,0.66224,1.0
+SN003,Medical and pharmaceutical critical supply network,healthcare medical inputs and cold-chain continuity,0,background supply-network stress,0.15735,0.334,0.88233,0.83918,0.81833,0.91889
+SN003,Medical and pharmaceutical critical supply network,healthcare medical inputs and cold-chain continuity,1,background supply-network stress,0.15838,0.33433,0.9644,0.83837,0.81665,1.0
+SN003,Medical and pharmaceutical critical supply network,healthcare medical inputs and cold-chain continuity,2,background supply-network stress,0.15758,0.33466,1.0,0.83757,0.81498,1.0
+SN003,Medical and pharmaceutical critical supply network,healthcare medical inputs and cold-chain continuity,3,background supply-network stress,0.15876,0.335,1.0,0.83677,0.8133,1.0
+SN003,Medical and pharmaceutical critical supply network,healthcare medical inputs and cold-chain continuity,4,background supply-network stress,0.15864,0.33533,1.0,0.83599,0.81161,1.0
+SN003,Medical and pharmaceutical critical supply network,healthcare medical inputs and cold-chain continuity,5,background supply-network stress,0.15829,0.33566,1.0,0.83521,0.80993,1.0
+SN003,Medical and pharmaceutical critical supply network,healthcare medical inputs and cold-chain continuity,6,background supply-network stress,0.15884,0.33598,1.0,0.83444,0.80824,1.0
+SN003,Medical and pharmaceutical critical supply network,healthcare medical inputs and cold-chain continuity,7,background supply-network stress,0.15883,0.33631,1.0,0.83368,0.80655,1.0
+SN003,Medical and pharmaceutical critical supply network,healthcare medical inputs and cold-chain continuity,8,background supply-network stress,0.15788,0.33664,1.0,0.83293,0.80486,1.0
+SN003,Medical and pharmaceutical critical supply network,healthcare medical inputs and cold-chain continuity,9,background supply-network stress,0.15895,0.33697,1.0,0.83219,0.80316,1.0
+SN003,Medical and pharmaceutical critical supply network,healthcare medical inputs and cold-chain continuity,10,background supply-network stress,0.15922,0.33729,1.0,0.83146,0.80146,1.0
+SN003,Medical and pharmaceutical critical supply network,healthcare medical inputs and cold-chain continuity,11,background supply-network stress,0.15911,0.33762,1.0,0.83073,0.79976,1.0
+SN003,Medical and pharmaceutical critical supply network,healthcare medical inputs and cold-chain continuity,12,Port closure and inland logistics congestion,0.84003,0.33795,0.81944,0.84583,0.80326,0.7295
+SN003,Medical and pharmaceutical critical supply network,healthcare medical inputs and cold-chain continuity,13,background supply-network stress,0.16024,0.33564,0.9012,0.84515,0.80157,0.93855
+SN003,Medical and pharmaceutical critical supply network,healthcare medical inputs and cold-chain continuity,14,background supply-network stress,0.16005,0.33596,0.9831,0.84448,0.79989,1.0
+SN003,Medical and pharmaceutical critical supply network,healthcare medical inputs and cold-chain continuity,15,background supply-network stress,0.15943,0.33628,1.0,0.84382,0.7982,1.0
+SN003,Medical and pharmaceutical critical supply network,healthcare medical inputs and cold-chain continuity,16,background supply-network stress,0.15922,0.33659,1.0,0.84317,0.7965,1.0
+SN003,Medical and pharmaceutical critical supply network,healthcare medical inputs and cold-chain continuity,17,background supply-network stress,0.15912,0.33691,1.0,0.84252,0.79481,1.0
+SN003,Medical and pharmaceutical critical supply network,healthcare medical inputs and cold-chain continuity,18,background supply-network stress,0.16058,0.33722,1.0,0.84188,0.79311,1.0
+SN003,Medical and pharmaceutical critical supply network,healthcare medical inputs and cold-chain continuity,19,background supply-network stress,0.16043,0.33754,1.0,0.84126,0.79141,1.0
+SN003,Medical and pharmaceutical critical supply network,healthcare medical inputs and cold-chain continuity,20,background supply-network stress,0.16036,0.33785,1.0,0.84064,0.78971,1.0
+SN003,Medical and pharmaceutical critical supply network,healthcare medical inputs and cold-chain continuity,21,background supply-network stress,0.16012,0.33816,1.0,0.84003,0.788,1.0
+SN003,Medical and pharmaceutical critical supply network,healthcare medical inputs and cold-chain continuity,22,background supply-network stress,0.16034,0.33848,1.0,0.83943,0.78629,1.0
+SN003,Medical and pharmaceutical critical supply network,healthcare medical inputs and cold-chain continuity,23,background supply-network stress,0.15987,0.33879,1.0,0.83884,0.78458,1.0
+SN003,Medical and pharmaceutical critical supply network,healthcare medical inputs and cold-chain continuity,24,background supply-network stress,0.16058,0.3391,1.0,0.83825,0.78287,1.0
+SN003,Medical and pharmaceutical critical supply network,healthcare medical inputs and cold-chain continuity,25,background supply-network stress,0.15991,0.33941,1.0,0.83768,0.78115,1.0
+SN003,Medical and pharmaceutical critical supply network,healthcare medical inputs and cold-chain continuity,26,background supply-network stress,0.16095,0.33972,1.0,0.83711,0.77944,1.0
+SN003,Medical and pharmaceutical critical supply network,healthcare medical inputs and cold-chain continuity,27,Upstream supplier failure in concentrated critical input,0.84667,0.34003,0.83137,0.85315,0.78612,0.72615
+SN003,Medical and pharmaceutical critical supply network,healthcare medical inputs and cold-chain continuity,28,background supply-network stress,0.16143,0.33717,0.91309,0.85264,0.78442,0.95093
+SN003,Medical and pharmaceutical critical supply network,healthcare medical inputs and cold-chain continuity,29,background supply-network stress,0.16161,0.33746,0.99482,0.85213,0.78272,1.0
+SN003,Medical and pharmaceutical critical supply network,healthcare medical inputs and cold-chain continuity,30,background supply-network stress,0.16085,0.33776,1.0,0.85163,0.78102,1.0
+SN003,Medical and pharmaceutical critical supply network,healthcare medical inputs and cold-chain continuity,31,background supply-network stress,0.16064,0.33806,1.0,0.85115,0.77931,1.0
+SN003,Medical and pharmaceutical critical supply network,healthcare medical inputs and cold-chain continuity,32,background supply-network stress,0.16122,0.33836,1.0,0.85067,0.77761,1.0
+SN003,Medical and pharmaceutical critical supply network,healthcare medical inputs and cold-chain continuity,33,background supply-network stress,0.16202,0.33866,1.0,0.8502,0.7759,1.0
+SN003,Medical and pharmaceutical critical supply network,healthcare medical inputs and cold-chain continuity,34,background supply-network stress,0.16176,0.33895,1.0,0.84973,0.77419,1.0
+SN003,Medical and pharmaceutical critical supply network,healthcare medical inputs and cold-chain continuity,35,background supply-network stress,0.16234,0.33925,1.0,0.84928,0.77247,1.0
+SN003,Medical and pharmaceutical critical supply network,healthcare medical inputs and cold-chain continuity,36,background supply-network stress,0.1618,0.33954,1.0,0.84884,0.77075,1.0
+SN003,Medical and pharmaceutical critical supply network,healthcare medical inputs and cold-chain continuity,37,background supply-network stress,0.16183,0.33983,1.0,0.8484,0.76904,1.0
+SN003,Medical and pharmaceutical critical supply network,healthcare medical inputs and cold-chain continuity,38,background supply-network stress,0.16294,0.34013,1.0,0.84798,0.76732,1.0
+SN003,Medical and pharmaceutical critical supply network,healthcare medical inputs and cold-chain continuity,39,background supply-network stress,0.16156,0.34042,1.0,0.84756,0.76559,1.0
+SN003,Medical and pharmaceutical critical supply network,healthcare medical inputs and cold-chain continuity,40,background supply-network stress,0.16174,0.34071,1.0,0.84715,0.76387,1.0
+SN003,Medical and pharmaceutical critical supply network,healthcare medical inputs and cold-chain continuity,41,background supply-network stress,0.1626,0.341,1.0,0.84676,0.76214,1.0
+SN003,Medical and pharmaceutical critical supply network,healthcare medical inputs and cold-chain continuity,42,Cyber outage affecting tracking customs and warehouse systems,0.81697,0.34129,0.83295,0.86062,0.76601,0.75086
+SN003,Medical and pharmaceutical critical supply network,healthcare medical inputs and cold-chain continuity,43,background supply-network stress,0.16308,0.33908,0.91456,0.86027,0.7643,0.95246
+SN003,Medical and pharmaceutical critical supply network,healthcare medical inputs and cold-chain continuity,44,background supply-network stress,0.16278,0.33937,0.99633,0.85992,0.76258,1.0
+SN003,Medical and pharmaceutical critical supply network,healthcare medical inputs and cold-chain continuity,45,background supply-network stress,0.16313,0.33965,1.0,0.85959,0.76086,1.0
+SN003,Medical and pharmaceutical critical supply network,healthcare medical inputs and cold-chain continuity,46,background supply-network stress,0.16299,0.33993,1.0,0.85926,0.75914,1.0
+SN003,Medical and pharmaceutical critical supply network,healthcare medical inputs and cold-chain continuity,47,background supply-network stress,0.16355,0.34021,1.0,0.85894,0.75742,1.0
+SN003,Medical and pharmaceutical critical supply network,healthcare medical inputs and cold-chain continuity,48,background supply-network stress,0.16409,0.34049,1.0,0.85863,0.7557,1.0
+SN003,Medical and pharmaceutical critical supply network,healthcare medical inputs and cold-chain continuity,49,background supply-network stress,0.16406,0.34077,1.0,0.85833,0.75397,1.0
+SN003,Medical and pharmaceutical critical supply network,healthcare medical inputs and cold-chain continuity,50,background supply-network stress,0.16378,0.34104,1.0,0.85804,0.75224,1.0
+SN003,Medical and pharmaceutical critical supply network,healthcare medical inputs and cold-chain continuity,51,background supply-network stress,0.16354,0.34132,1.0,0.85776,0.75051,1.0
+SN003,Medical and pharmaceutical critical supply network,healthcare medical inputs and cold-chain continuity,52,background supply-network stress,0.16459,0.3416,1.0,0.85749,0.74878,1.0
+SN003,Medical and pharmaceutical critical supply network,healthcare medical inputs and cold-chain continuity,53,background supply-network stress,0.16369,0.34187,1.0,0.85723,0.74705,1.0
+SN003,Medical and pharmaceutical critical supply network,healthcare medical inputs and cold-chain continuity,54,background supply-network stress,0.16415,0.34215,1.0,0.85697,0.74531,1.0
+SN003,Medical and pharmaceutical critical supply network,healthcare medical inputs and cold-chain continuity,55,background supply-network stress,0.16473,0.34242,1.0,0.85673,0.74357,1.0
+SN003,Medical and pharmaceutical critical supply network,healthcare medical inputs and cold-chain continuity,56,Climate disaster damaging infrastructure and cold chains,0.91727,0.34269,0.76437,0.87394,0.74823,0.64623
+SN003,Medical and pharmaceutical critical supply network,healthcare medical inputs and cold-chain continuity,57,background supply-network stress,0.16481,0.33998,0.84562,0.87375,0.74651,0.88066
+SN003,Medical and pharmaceutical critical supply network,healthcare medical inputs and cold-chain continuity,58,background supply-network stress,0.16432,0.34024,0.92709,0.87356,0.74479,0.96551
+SN003,Medical and pharmaceutical critical supply network,healthcare medical inputs and cold-chain continuity,59,background supply-network stress,0.16512,0.3405,1.0,0.87338,0.74306,1.0
+SN003,Medical and pharmaceutical critical supply network,healthcare medical inputs and cold-chain continuity,60,background supply-network stress,0.16494,0.34077,1.0,0.87322,0.74134,1.0
+SN003,Medical and pharmaceutical critical supply network,healthcare medical inputs and cold-chain continuity,61,background supply-network stress,0.16567,0.34103,1.0,0.87306,0.73961,1.0
+SN003,Medical and pharmaceutical critical supply network,healthcare medical inputs and cold-chain continuity,62,background supply-network stress,0.16518,0.34129,1.0,0.87291,0.73788,1.0
+SN003,Medical and pharmaceutical critical supply network,healthcare medical inputs and cold-chain continuity,63,background supply-network stress,0.1651,0.34155,1.0,0.87277,0.73614,1.0
+SN003,Medical and pharmaceutical critical supply network,healthcare medical inputs and cold-chain continuity,64,background supply-network stress,0.16608,0.34181,1.0,0.87264,0.73441,1.0
+SN003,Medical and pharmaceutical critical supply network,healthcare medical inputs and cold-chain continuity,65,background supply-network stress,0.16529,0.34207,1.0,0.87252,0.73267,1.0
+SN003,Medical and pharmaceutical critical supply network,healthcare medical inputs and cold-chain continuity,66,background supply-network stress,0.16513,0.34232,1.0,0.87241,0.73093,1.0
+SN003,Medical and pharmaceutical critical supply network,healthcare medical inputs and cold-chain continuity,67,background supply-network stress,0.16631,0.34258,1.0,0.8723,0.72919,1.0
+SN003,Medical and pharmaceutical critical supply network,healthcare medical inputs and cold-chain continuity,68,background supply-network stress,0.16642,0.34284,1.0,0.87221,0.72745,1.0
+SN003,Medical and pharmaceutical critical supply network,healthcare medical inputs and cold-chain continuity,69,background supply-network stress,0.16497,0.34309,1.0,0.87213,0.72571,1.0
+SN003,Medical and pharmaceutical critical supply network,healthcare medical inputs and cold-chain continuity,70,Compound demand surge supplier failure and logistics disruption,0.98203,0.34335,0.73279,0.89078,0.73196,0.61132
+SN003,Medical and pharmaceutical critical supply network,healthcare medical inputs and cold-chain continuity,71,background supply-network stress,0.16526,0.34023,0.81395,0.89075,0.73024,0.84768
+SN003,Medical and pharmaceutical critical supply network,healthcare medical inputs and cold-chain continuity,72,background supply-network stress,0.16693,0.34048,0.89464,0.89073,0.72851,0.93172
+SN003,Medical and pharmaceutical critical supply network,healthcare medical inputs and cold-chain continuity,73,background supply-network stress,0.16708,0.34072,0.97533,0.89071,0.72679,1.0
+SN003,Medical and pharmaceutical critical supply network,healthcare medical inputs and cold-chain continuity,74,background supply-network stress,0.16618,0.34096,1.0,0.89071,0.72506,1.0
+SN003,Medical and pharmaceutical critical supply network,healthcare medical inputs and cold-chain continuity,75,background supply-network stress,0.16603,0.34121,1.0,0.89072,0.72333,1.0
+SN003,Medical and pharmaceutical critical supply network,healthcare medical inputs and cold-chain continuity,76,background supply-network stress,0.16699,0.34145,1.0,0.89074,0.7216,1.0
+SN003,Medical and pharmaceutical critical supply network,healthcare medical inputs and cold-chain continuity,77,background supply-network stress,0.1676,0.34169,1.0,0.89076,0.71987,1.0
+SN003,Medical and pharmaceutical critical supply network,healthcare medical inputs and cold-chain continuity,78,background supply-network stress,0.16624,0.34193,1.0,0.8908,0.71813,1.0
+SN003,Medical and pharmaceutical critical supply network,healthcare medical inputs and cold-chain continuity,79,background supply-network stress,0.16682,0.34217,1.0,0.89085,0.71639,1.0
+SN004,Food and water essential goods network,food staples water-treatment chemicals and cold chain,0,background supply-network stress,0.16133,0.3044,0.84294,0.79948,0.75856,0.87976
+SN004,Food and water essential goods network,food staples water-treatment chemicals and cold chain,1,background supply-network stress,0.16038,0.30466,0.91625,0.79896,0.75713,0.95627
+SN004,Food and water essential goods network,food staples water-treatment chemicals and cold chain,2,background supply-network stress,0.16101,0.30493,0.98941,0.79846,0.75569,1.0
+SN004,Food and water essential goods network,food staples water-treatment chemicals and cold chain,3,background supply-network stress,0.16114,0.30519,1.0,0.79796,0.75425,1.0
+SN004,Food and water essential goods network,food staples water-treatment chemicals and cold chain,4,background supply-network stress,0.1602,0.30545,1.0,0.79747,0.7528,1.0
+SN004,Food and water essential goods network,food staples water-treatment chemicals and cold chain,5,background supply-network stress,0.16002,0.30571,1.0,0.797,0.75136,1.0
+SN004,Food and water essential goods network,food staples water-treatment chemicals and cold chain,6,background supply-network stress,0.16117,0.30597,1.0,0.79653,0.74991,1.0
+SN004,Food and water essential goods network,food staples water-treatment chemicals and cold chain,7,background supply-network stress,0.16031,0.30623,1.0,0.79607,0.74846,1.0
+SN004,Food and water essential goods network,food staples water-treatment chemicals and cold chain,8,background supply-network stress,0.16093,0.30649,1.0,0.79562,0.74701,1.0
+SN004,Food and water essential goods network,food staples water-treatment chemicals and cold chain,9,background supply-network stress,0.16204,0.30674,1.0,0.79518,0.74555,1.0
+SN004,Food and water essential goods network,food staples water-treatment chemicals and cold chain,10,background supply-network stress,0.1621,0.307,1.0,0.79475,0.7441,1.0
+SN004,Food and water essential goods network,food staples water-treatment chemicals and cold chain,11,background supply-network stress,0.1607,0.30726,1.0,0.79433,0.74264,1.0
+SN004,Food and water essential goods network,food staples water-treatment chemicals and cold chain,12,Port closure and inland logistics congestion,0.84242,0.30751,0.80188,0.80974,0.74638,0.71566
+SN004,Food and water essential goods network,food staples water-treatment chemicals and cold chain,13,background supply-network stress,0.16105,0.30514,0.87507,0.80936,0.74494,0.9133
+SN004,Food and water essential goods network,food staples water-treatment chemicals and cold chain,14,background supply-network stress,0.16143,0.30539,0.9482,0.809,0.7435,0.98962
+SN004,Food and water essential goods network,food staples water-treatment chemicals and cold chain,15,background supply-network stress,0.16274,0.30563,1.0,0.80864,0.74205,1.0
+SN004,Food and water essential goods network,food staples water-treatment chemicals and cold chain,16,background supply-network stress,0.16123,0.30588,1.0,0.80829,0.7406,1.0
+SN004,Food and water essential goods network,food staples water-treatment chemicals and cold chain,17,background supply-network stress,0.16173,0.30612,1.0,0.80796,0.73915,1.0
+SN004,Food and water essential goods network,food staples water-treatment chemicals and cold chain,18,background supply-network stress,0.1616,0.30636,1.0,0.80763,0.7377,1.0
+SN004,Food and water essential goods network,food staples water-treatment chemicals and cold chain,19,background supply-network stress,0.16174,0.30661,1.0,0.80731,0.73625,1.0
+SN004,Food and water essential goods network,food staples water-treatment chemicals and cold chain,20,background supply-network stress,0.16263,0.30685,1.0,0.807,0.7348,1.0
+SN004,Food and water essential goods network,food staples water-treatment chemicals and cold chain,21,background supply-network stress,0.16205,0.30709,1.0,0.8067,0.73334,1.0
+SN004,Food and water essential goods network,food staples water-treatment chemicals and cold chain,22,background supply-network stress,0.1626,0.30733,1.0,0.80641,0.73188,1.0
+SN004,Food and water essential goods network,food staples water-treatment chemicals and cold chain,23,background supply-network stress,0.16335,0.30757,1.0,0.80613,0.73042,1.0
+SN004,Food and water essential goods network,food staples water-treatment chemicals and cold chain,24,background supply-network stress,0.16343,0.30781,1.0,0.80586,0.72896,1.0
+SN004,Food and water essential goods network,food staples water-treatment chemicals and cold chain,25,background supply-network stress,0.16292,0.30804,1.0,0.8056,0.72749,1.0
+SN004,Food and water essential goods network,food staples water-treatment chemicals and cold chain,26,background supply-network stress,0.16376,0.30828,1.0,0.80535,0.72603,1.0
+SN004,Food and water essential goods network,food staples water-treatment chemicals and cold chain,27,Upstream supplier failure in concentrated critical input,0.84915,0.30851,0.81565,0.82171,0.73296,0.71424
+SN004,Food and water essential goods network,food staples water-treatment chemicals and cold chain,28,background supply-network stress,0.1638,0.30558,0.88806,0.82151,0.73151,0.92685
+SN004,Food and water essential goods network,food staples water-treatment chemicals and cold chain,29,background supply-network stress,0.16441,0.30581,0.96032,0.82132,0.73007,1.0
+SN004,Food and water essential goods network,food staples water-treatment chemicals and cold chain,30,background supply-network stress,0.16336,0.30603,1.0,0.82114,0.72862,1.0
+SN004,Food and water essential goods network,food staples water-treatment chemicals and cold chain,31,background supply-network stress,0.1637,0.30626,1.0,0.82097,0.72717,1.0
+SN004,Food and water essential goods network,food staples water-treatment chemicals and cold chain,32,background supply-network stress,0.16422,0.30648,1.0,0.82081,0.72572,1.0
+SN004,Food and water essential goods network,food staples water-treatment chemicals and cold chain,33,background supply-network stress,0.16506,0.3067,1.0,0.82065,0.72426,1.0
+SN004,Food and water essential goods network,food staples water-treatment chemicals and cold chain,34,background supply-network stress,0.1645,0.30692,1.0,0.82051,0.72281,1.0
+SN004,Food and water essential goods network,food staples water-treatment chemicals and cold chain,35,background supply-network stress,0.16432,0.30715,1.0,0.82038,0.72135,1.0
+SN004,Food and water essential goods network,food staples water-treatment chemicals and cold chain,36,background supply-network stress,0.16397,0.30737,1.0,0.82026,0.71989,1.0
+SN004,Food and water essential goods network,food staples water-treatment chemicals and cold chain,37,background supply-network stress,0.16414,0.30758,1.0,0.82015,0.71843,1.0
+SN004,Food and water essential goods network,food staples water-treatment chemicals and cold chain,38,background supply-network stress,0.16411,0.3078,1.0,0.82005,0.71697,1.0
+SN004,Food and water essential goods network,food staples water-treatment chemicals and cold chain,39,background supply-network stress,0.16575,0.30802,1.0,0.81995,0.71551,1.0
+SN004,Food and water essential goods network,food staples water-treatment chemicals and cold chain,40,background supply-network stress,0.16565,0.30823,1.0,0.81987,0.71404,1.0
+SN004,Food and water essential goods network,food staples water-treatment chemicals and cold chain,41,background supply-network stress,0.16577,0.30845,1.0,0.8198,0.71257,1.0
+SN004,Food and water essential goods network,food staples water-treatment chemicals and cold chain,42,Cyber outage affecting tracking customs and warehouse systems,0.81955,0.30866,0.81695,0.83399,0.7167,0.73826
+SN004,Food and water essential goods network,food staples water-treatment chemicals and cold chain,43,background supply-network stress,0.16546,0.30638,0.88901,0.83396,0.71525,0.92784
+SN004,Food and water essential goods network,food staples water-treatment chemicals and cold chain,44,background supply-network stress,0.16592,0.30659,0.96096,0.83395,0.7138,1.0
+SN004,Food and water essential goods network,food staples water-treatment chemicals and cold chain,45,background supply-network stress,0.1652,0.30679,1.0,0.83394,0.71234,1.0
+SN004,Food and water essential goods network,food staples water-treatment chemicals and cold chain,46,background supply-network stress,0.16567,0.307,1.0,0.83394,0.71089,1.0
+SN004,Food and water essential goods network,food staples water-treatment chemicals and cold chain,47,background supply-network stress,0.16511,0.3072,1.0,0.83395,0.70943,1.0
+SN004,Food and water essential goods network,food staples water-treatment chemicals and cold chain,48,background supply-network stress,0.16576,0.30741,1.0,0.83397,0.70797,1.0
+SN004,Food and water essential goods network,food staples water-treatment chemicals and cold chain,49,background supply-network stress,0.16553,0.30761,1.0,0.83401,0.70651,1.0
+SN004,Food and water essential goods network,food staples water-treatment chemicals and cold chain,50,background supply-network stress,0.16533,0.30781,1.0,0.83405,0.70505,1.0
+SN004,Food and water essential goods network,food staples water-treatment chemicals and cold chain,51,background supply-network stress,0.16707,0.30801,1.0,0.8341,0.70358,1.0
+SN004,Food and water essential goods network,food staples water-treatment chemicals and cold chain,52,background supply-network stress,0.16553,0.30821,1.0,0.83416,0.70212,1.0
+SN004,Food and water essential goods network,food staples water-treatment chemicals and cold chain,53,background supply-network stress,0.16706,0.3084,1.0,0.83423,0.70065,1.0
+SN004,Food and water essential goods network,food staples water-treatment chemicals and cold chain,54,background supply-network stress,0.16694,0.3086,1.0,0.83432,0.69918,1.0
+SN004,Food and water essential goods network,food staples water-treatment chemicals and cold chain,55,background supply-network stress,0.16583,0.3088,1.0,0.83441,0.69771,1.0
+SN004,Food and water essential goods network,food staples water-treatment chemicals and cold chain,56,Climate disaster damaging infrastructure and cold chains,0.91993,0.30899,0.7481,0.85196,0.70264,0.63415
+SN004,Food and water essential goods network,food staples water-treatment chemicals and cold chain,57,background supply-network stress,0.16708,0.3062,0.8196,0.8521,0.70119,0.8554
+SN004,Food and water essential goods network,food staples water-treatment chemicals and cold chain,58,background supply-network stress,0.16821,0.30638,0.89077,0.85225,0.69974,0.92968
+SN004,Food and water essential goods network,food staples water-treatment chemicals and cold chain,59,background supply-network stress,0.16829,0.30657,0.96197,0.85241,0.69829,1.0
+SN004,Food and water essential goods network,food staples water-treatment chemicals and cold chain,60,background supply-network stress,0.16755,0.30675,1.0,0.85259,0.69683,1.0
+SN004,Food and water essential goods network,food staples water-treatment chemicals and cold chain,61,background supply-network stress,0.16808,0.30693,1.0,0.85277,0.69538,1.0
+SN004,Food and water essential goods network,food staples water-treatment chemicals and cold chain,62,background supply-network stress,0.16805,0.30711,1.0,0.85296,0.69392,1.0
+SN004,Food and water essential goods network,food staples water-treatment chemicals and cold chain,63,background supply-network stress,0.16733,0.3073,1.0,0.85317,0.69246,1.0
+SN004,Food and water essential goods network,food staples water-treatment chemicals and cold chain,64,background supply-network stress,0.16795,0.30748,1.0,0.85338,0.691,1.0
+SN004,Food and water essential goods network,food staples water-treatment chemicals and cold chain,65,background supply-network stress,0.16815,0.30765,1.0,0.8536,0.68954,1.0
+SN004,Food and water essential goods network,food staples water-treatment chemicals and cold chain,66,background supply-network stress,0.16785,0.30783,1.0,0.85384,0.68808,1.0
+SN004,Food and water essential goods network,food staples water-treatment chemicals and cold chain,67,background supply-network stress,0.1688,0.30801,1.0,0.85408,0.68661,1.0
+SN004,Food and water essential goods network,food staples water-treatment chemicals and cold chain,68,background supply-network stress,0.16816,0.30818,1.0,0.85433,0.68515,1.0
+SN004,Food and water essential goods network,food staples water-treatment chemicals and cold chain,69,background supply-network stress,0.16888,0.30836,1.0,0.8546,0.68368,1.0
+SN004,Food and water essential goods network,food staples water-treatment chemicals and cold chain,70,Compound demand surge supplier failure and logistics disruption,0.98479,0.30853,0.71625,0.87359,0.69021,0.59913
+SN004,Food and water essential goods network,food staples water-treatment chemicals and cold chain,71,background supply-network stress,0.16801,0.30534,0.78726,0.87391,0.68877,0.82165
+SN004,Food and water essential goods network,food staples water-treatment chemicals and cold chain,72,background supply-network stress,0.16887,0.3055,0.85803,0.87424,0.68733,0.89551
+SN004,Food and water essential goods network,food staples water-treatment chemicals and cold chain,73,background supply-network stress,0.16818,0.30567,0.92906,0.87458,0.68588,0.96964
+SN004,Food and water essential goods network,food staples water-treatment chemicals and cold chain,74,background supply-network stress,0.16949,0.30583,0.9997,0.87493,0.68444,1.0
+SN004,Food and water essential goods network,food staples water-treatment chemicals and cold chain,75,background supply-network stress,0.17005,0.30599,1.0,0.87529,0.68299,1.0
+SN004,Food and water essential goods network,food staples water-treatment chemicals and cold chain,76,background supply-network stress,0.1695,0.30615,1.0,0.87566,0.68154,1.0
+SN004,Food and water essential goods network,food staples water-treatment chemicals and cold chain,77,background supply-network stress,0.16965,0.30631,1.0,0.87604,0.68009,1.0
+SN004,Food and water essential goods network,food staples water-treatment chemicals and cold chain,78,background supply-network stress,0.16987,0.30646,1.0,0.87643,0.67864,1.0
+SN004,Food and water essential goods network,food staples water-treatment chemicals and cold chain,79,background supply-network stress,0.16919,0.30662,1.0,0.87683,0.67718,1.0
+SN005,Energy transition mineral and battery supply network,critical minerals batteries and clean energy infrastructure,0,background supply-network stress,0.15921,0.3204,0.81394,0.75932,0.87844,0.8422
+SN005,Energy transition mineral and battery supply network,critical minerals batteries and clean energy infrastructure,1,background supply-network stress,0.15913,0.3207,0.88797,0.75864,0.87687,0.9188
+SN005,Energy transition mineral and battery supply network,critical minerals batteries and clean energy infrastructure,2,background supply-network stress,0.15895,0.321,0.96213,0.75797,0.8753,0.99553
+SN005,Energy transition mineral and battery supply network,critical minerals batteries and clean energy infrastructure,3,background supply-network stress,0.15803,0.3213,1.0,0.75732,0.87373,1.0
+SN005,Energy transition mineral and battery supply network,critical minerals batteries and clean energy infrastructure,4,background supply-network stress,0.15834,0.3216,1.0,0.75667,0.87216,1.0
+SN005,Energy transition mineral and battery supply network,critical minerals batteries and clean energy infrastructure,5,background supply-network stress,0.1592,0.3219,1.0,0.75603,0.87058,1.0
+SN005,Energy transition mineral and battery supply network,critical minerals batteries and clean energy infrastructure,6,background supply-network stress,0.15948,0.32219,1.0,0.7554,0.86901,1.0
+SN005,Energy transition mineral and battery supply network,critical minerals batteries and clean energy infrastructure,7,background supply-network stress,0.15799,0.32249,1.0,0.75478,0.86743,1.0
+SN005,Energy transition mineral and battery supply network,critical minerals batteries and clean energy infrastructure,8,background supply-network stress,0.15839,0.32279,1.0,0.75417,0.86585,1.0
+SN005,Energy transition mineral and battery supply network,critical minerals batteries and clean energy infrastructure,9,background supply-network stress,0.15994,0.32308,1.0,0.75357,0.86426,1.0
+SN005,Energy transition mineral and battery supply network,critical minerals batteries and clean energy infrastructure,10,background supply-network stress,0.15849,0.32338,1.0,0.75297,0.86267,1.0
+SN005,Energy transition mineral and battery supply network,critical minerals batteries and clean energy infrastructure,11,background supply-network stress,0.15966,0.32367,1.0,0.75239,0.86108,1.0
+SN005,Energy transition mineral and battery supply network,critical minerals batteries and clean energy infrastructure,12,Port closure and inland logistics congestion,0.8403,0.32396,0.81048,0.76763,0.86469,0.71607
+SN005,Energy transition mineral and battery supply network,critical minerals batteries and clean energy infrastructure,13,background supply-network stress,0.15942,0.32163,0.88462,0.76709,0.86312,0.91533
+SN005,Energy transition mineral and battery supply network,critical minerals batteries and clean energy infrastructure,14,background supply-network stress,0.16015,0.32191,0.95859,0.76656,0.86154,0.99188
+SN005,Energy transition mineral and battery supply network,critical minerals batteries and clean energy infrastructure,15,background supply-network stress,0.16068,0.3222,1.0,0.76603,0.85997,1.0
+SN005,Energy transition mineral and battery supply network,critical minerals batteries and clean energy infrastructure,16,background supply-network stress,0.16021,0.32248,1.0,0.76552,0.85839,1.0
+SN005,Energy transition mineral and battery supply network,critical minerals batteries and clean energy infrastructure,17,background supply-network stress,0.15993,0.32276,1.0,0.76502,0.8568,1.0
+SN005,Energy transition mineral and battery supply network,critical minerals batteries and clean energy infrastructure,18,background supply-network stress,0.15989,0.32305,1.0,0.76452,0.85522,1.0
+SN005,Energy transition mineral and battery supply network,critical minerals batteries and clean energy infrastructure,19,background supply-network stress,0.16058,0.32333,1.0,0.76404,0.85363,1.0
+SN005,Energy transition mineral and battery supply network,critical minerals batteries and clean energy infrastructure,20,background supply-network stress,0.1607,0.32361,1.0,0.76356,0.85204,1.0
+SN005,Energy transition mineral and battery supply network,critical minerals batteries and clean energy infrastructure,21,background supply-network stress,0.16036,0.32389,1.0,0.76309,0.85045,1.0
+SN005,Energy transition mineral and battery supply network,critical minerals batteries and clean energy infrastructure,22,background supply-network stress,0.16057,0.32417,1.0,0.76264,0.84886,1.0
+SN005,Energy transition mineral and battery supply network,critical minerals batteries and clean energy infrastructure,23,background supply-network stress,0.1608,0.32444,1.0,0.76219,0.84726,1.0
+SN005,Energy transition mineral and battery supply network,critical minerals batteries and clean energy infrastructure,24,background supply-network stress,0.16034,0.32472,1.0,0.76175,0.84567,1.0
+SN005,Energy transition mineral and battery supply network,critical minerals batteries and clean energy infrastructure,25,background supply-network stress,0.16029,0.325,1.0,0.76132,0.84407,1.0
+SN005,Energy transition mineral and battery supply network,critical minerals batteries and clean energy infrastructure,26,background supply-network stress,0.16116,0.32527,1.0,0.7609,0.84246,1.0
+SN005,Energy transition mineral and battery supply network,critical minerals batteries and clean energy infrastructure,27,Upstream supplier failure in concentrated critical input,0.84698,0.32555,0.82229,0.77708,0.84926,0.71269
+SN005,Energy transition mineral and battery supply network,critical minerals batteries and clean energy infrastructure,28,background supply-network stress,0.16069,0.32265,0.89625,0.77671,0.84768,0.92737
+SN005,Energy transition mineral and battery supply network,critical minerals batteries and clean energy infrastructure,29,background supply-network stress,0.16178,0.32292,0.96992,0.77635,0.8461,1.0
+SN005,Energy transition mineral and battery supply network,critical minerals batteries and clean energy infrastructure,30,background supply-network stress,0.16229,0.32318,1.0,0.776,0.84451,1.0
+SN005,Energy transition mineral and battery supply network,critical minerals batteries and clean energy infrastructure,31,background supply-network stress,0.16244,0.32345,1.0,0.77566,0.84292,1.0
+SN005,Energy transition mineral and battery supply network,critical minerals batteries and clean energy infrastructure,32,background supply-network stress,0.16138,0.32371,1.0,0.77532,0.84133,1.0
+SN005,Energy transition mineral and battery supply network,critical minerals batteries and clean energy infrastructure,33,background supply-network stress,0.16181,0.32397,1.0,0.775,0.83974,1.0
+SN005,Energy transition mineral and battery supply network,critical minerals batteries and clean energy infrastructure,34,background supply-network stress,0.16292,0.32424,1.0,0.77469,0.83815,1.0
+SN005,Energy transition mineral and battery supply network,critical minerals batteries and clean energy infrastructure,35,background supply-network stress,0.16188,0.3245,1.0,0.77438,0.83655,1.0
+SN005,Energy transition mineral and battery supply network,critical minerals batteries and clean energy infrastructure,36,background supply-network stress,0.16326,0.32476,1.0,0.77409,0.83495,1.0
+SN005,Energy transition mineral and battery supply network,critical minerals batteries and clean energy infrastructure,37,background supply-network stress,0.16177,0.32502,1.0,0.7738,0.83335,1.0
+SN005,Energy transition mineral and battery supply network,critical minerals batteries and clean energy infrastructure,38,background supply-network stress,0.16315,0.32527,1.0,0.77352,0.83175,1.0
+SN005,Energy transition mineral and battery supply network,critical minerals batteries and clean energy infrastructure,39,background supply-network stress,0.16165,0.32553,1.0,0.77326,0.83015,1.0
+SN005,Energy transition mineral and battery supply network,critical minerals batteries and clean energy infrastructure,40,background supply-network stress,0.16301,0.32579,1.0,0.773,0.82854,1.0
+SN005,Energy transition mineral and battery supply network,critical minerals batteries and clean energy infrastructure,41,background supply-network stress,0.16338,0.32604,1.0,0.77275,0.82693,1.0
+SN005,Energy transition mineral and battery supply network,critical minerals batteries and clean energy infrastructure,42,Cyber outage affecting tracking customs and warehouse systems,0.81733,0.3263,0.82374,0.78677,0.83092,0.73702
+SN005,Energy transition mineral and battery supply network,critical minerals batteries and clean energy infrastructure,43,background supply-network stress,0.16328,0.32406,0.89718,0.78656,0.82933,0.92834
+SN005,Energy transition mineral and battery supply network,critical minerals batteries and clean energy infrastructure,44,background supply-network stress,0.16355,0.32431,0.9706,0.78637,0.82773,1.0
+SN005,Energy transition mineral and battery supply network,critical minerals batteries and clean energy infrastructure,45,background supply-network stress,0.16421,0.32455,1.0,0.78618,0.82614,1.0
+SN005,Energy transition mineral and battery supply network,critical minerals batteries and clean energy infrastructure,46,background supply-network stress,0.16447,0.3248,1.0,0.786,0.82454,1.0
+SN005,Energy transition mineral and battery supply network,critical minerals batteries and clean energy infrastructure,47,background supply-network stress,0.16294,0.32504,1.0,0.78584,0.82294,1.0
+SN005,Energy transition mineral and battery supply network,critical minerals batteries and clean energy infrastructure,48,background supply-network stress,0.16373,0.32529,1.0,0.78568,0.82134,1.0
+SN005,Energy transition mineral and battery supply network,critical minerals batteries and clean energy infrastructure,49,background supply-network stress,0.16286,0.32553,1.0,0.78553,0.81973,1.0
+SN005,Energy transition mineral and battery supply network,critical minerals batteries and clean energy infrastructure,50,background supply-network stress,0.16364,0.32577,1.0,0.7854,0.81813,1.0
+SN005,Energy transition mineral and battery supply network,critical minerals batteries and clean energy infrastructure,51,background supply-network stress,0.16327,0.32601,1.0,0.78527,0.81652,1.0
+SN005,Energy transition mineral and battery supply network,critical minerals batteries and clean energy infrastructure,52,background supply-network stress,0.1634,0.32626,1.0,0.78515,0.81491,1.0
+SN005,Energy transition mineral and battery supply network,critical minerals batteries and clean energy infrastructure,53,background supply-network stress,0.16443,0.32649,1.0,0.78504,0.8133,1.0
+SN005,Energy transition mineral and battery supply network,critical minerals batteries and clean energy infrastructure,54,background supply-network stress,0.16345,0.32673,1.0,0.78494,0.81168,1.0
+SN005,Energy transition mineral and battery supply network,critical minerals batteries and clean energy infrastructure,55,background supply-network stress,0.16369,0.32697,1.0,0.78485,0.81007,1.0
+SN005,Energy transition mineral and battery supply network,critical minerals batteries and clean energy infrastructure,56,Climate disaster damaging infrastructure and cold chains,0.91767,0.32721,0.75503,0.80222,0.81485,0.63326
+SN005,Energy transition mineral and battery supply network,critical minerals batteries and clean energy infrastructure,57,background supply-network stress,0.16386,0.32445,0.82838,0.80218,0.81325,0.85714
+SN005,Energy transition mineral and battery supply network,critical minerals batteries and clean energy infrastructure,58,background supply-network stress,0.16557,0.32468,0.90122,0.80215,0.81166,0.93252
+SN005,Energy transition mineral and battery supply network,critical minerals batteries and clean energy infrastructure,59,background supply-network stress,0.16453,0.32491,0.97445,0.80213,0.81006,1.0
+SN005,Energy transition mineral and battery supply network,critical minerals batteries and clean energy infrastructure,60,background supply-network stress,0.16429,0.32514,1.0,0.80212,0.80846,1.0
+SN005,Energy transition mineral and battery supply network,critical minerals batteries and clean energy infrastructure,61,background supply-network stress,0.16549,0.32536,1.0,0.80211,0.80685,1.0
+SN005,Energy transition mineral and battery supply network,critical minerals batteries and clean energy infrastructure,62,background supply-network stress,0.16579,0.32559,1.0,0.80212,0.80525,1.0
+SN005,Energy transition mineral and battery supply network,critical minerals batteries and clean energy infrastructure,63,background supply-network stress,0.16571,0.32581,1.0,0.80214,0.80364,1.0
+SN005,Energy transition mineral and battery supply network,critical minerals batteries and clean energy infrastructure,64,background supply-network stress,0.16565,0.32603,1.0,0.80217,0.80203,1.0
+SN005,Energy transition mineral and battery supply network,critical minerals batteries and clean energy infrastructure,65,background supply-network stress,0.16573,0.32626,1.0,0.80221,0.80042,1.0
+SN005,Energy transition mineral and battery supply network,critical minerals batteries and clean energy infrastructure,66,background supply-network stress,0.1662,0.32648,1.0,0.80225,0.79881,1.0
+SN005,Energy transition mineral and battery supply network,critical minerals batteries and clean energy infrastructure,67,background supply-network stress,0.16548,0.3267,1.0,0.80231,0.7972,1.0
+SN005,Energy transition mineral and battery supply network,critical minerals batteries and clean energy infrastructure,68,background supply-network stress,0.16665,0.32692,1.0,0.80238,0.79558,1.0
+SN005,Energy transition mineral and battery supply network,critical minerals batteries and clean energy infrastructure,69,background supply-network stress,0.16645,0.32713,1.0,0.80245,0.79397,1.0
+SN005,Energy transition mineral and battery supply network,critical minerals batteries and clean energy infrastructure,70,Compound demand surge supplier failure and logistics disruption,0.98247,0.32735,0.72333,0.82126,0.80035,0.59857
+SN005,Energy transition mineral and battery supply network,critical minerals batteries and clean energy infrastructure,71,background supply-network stress,0.16727,0.3242,0.79552,0.82139,0.79875,0.82314
+SN005,Energy transition mineral and battery supply network,critical minerals batteries and clean energy infrastructure,72,background supply-network stress,0.16744,0.32441,0.86771,0.82153,0.79716,0.89784
+SN005,Energy transition mineral and battery supply network,critical minerals batteries and clean energy infrastructure,73,background supply-network stress,0.16744,0.32461,0.93994,0.82168,0.79556,0.97258
+SN005,Energy transition mineral and battery supply network,critical minerals batteries and clean energy infrastructure,74,background supply-network stress,0.16691,0.32482,1.0,0.82184,0.79396,1.0
+SN005,Energy transition mineral and battery supply network,critical minerals batteries and clean energy infrastructure,75,background supply-network stress,0.16702,0.32502,1.0,0.82201,0.79236,1.0
+SN005,Energy transition mineral and battery supply network,critical minerals batteries and clean energy infrastructure,76,background supply-network stress,0.16754,0.32523,1.0,0.82219,0.79076,1.0
+SN005,Energy transition mineral and battery supply network,critical minerals batteries and clean energy infrastructure,77,background supply-network stress,0.16734,0.32543,1.0,0.82238,0.78916,1.0
+SN005,Energy transition mineral and battery supply network,critical minerals batteries and clean energy infrastructure,78,background supply-network stress,0.16634,0.32563,1.0,0.82258,0.78755,1.0
+SN005,Energy transition mineral and battery supply network,critical minerals batteries and clean energy infrastructure,79,background supply-network stress,0.16822,0.32583,1.0,0.82279,0.78595,1.0
+SN006,Humanitarian emergency response supply network,emergency logistics relief goods and public coordination,0,background supply-network stress,0.16094,0.2976,0.79677,0.85954,0.69862,0.83336
+SN006,Humanitarian emergency response supply network,emergency logistics relief goods and public coordination,1,background supply-network stress,0.15998,0.29785,0.86391,0.8591,0.69724,0.90358
+SN006,Humanitarian emergency response supply network,emergency logistics relief goods and public coordination,2,background supply-network stress,0.16096,0.2981,0.93078,0.85866,0.69585,0.97352
+SN006,Humanitarian emergency response supply network,emergency logistics relief goods and public coordination,3,background supply-network stress,0.16138,0.29834,0.99757,0.85823,0.69446,1.0
+SN006,Humanitarian emergency response supply network,emergency logistics relief goods and public coordination,4,background supply-network stress,0.1602,0.29859,1.0,0.85782,0.69308,1.0
+SN006,Humanitarian emergency response supply network,emergency logistics relief goods and public coordination,5,background supply-network stress,0.16122,0.29883,1.0,0.85741,0.69169,1.0
+SN006,Humanitarian emergency response supply network,emergency logistics relief goods and public coordination,6,background supply-network stress,0.16045,0.29908,1.0,0.85701,0.69029,1.0
+SN006,Humanitarian emergency response supply network,emergency logistics relief goods and public coordination,7,background supply-network stress,0.16021,0.29932,1.0,0.85662,0.6889,1.0
+SN006,Humanitarian emergency response supply network,emergency logistics relief goods and public coordination,8,background supply-network stress,0.16068,0.29956,1.0,0.85624,0.6875,1.0
+SN006,Humanitarian emergency response supply network,emergency logistics relief goods and public coordination,9,background supply-network stress,0.16158,0.2998,1.0,0.85587,0.6861,1.0
+SN006,Humanitarian emergency response supply network,emergency logistics relief goods and public coordination,10,background supply-network stress,0.16048,0.30004,1.0,0.85551,0.6847,1.0
+SN006,Humanitarian emergency response supply network,emergency logistics relief goods and public coordination,11,background supply-network stress,0.1616,0.30028,1.0,0.85516,0.6833,1.0
+SN006,Humanitarian emergency response supply network,emergency logistics relief goods and public coordination,12,Port closure and inland logistics congestion,0.84224,0.30052,0.7981,0.87063,0.6871,0.71407
+SN006,Humanitarian emergency response supply network,emergency logistics relief goods and public coordination,13,background supply-network stress,0.16141,0.29813,0.86483,0.87033,0.68571,0.90455
+SN006,Humanitarian emergency response supply network,emergency logistics relief goods and public coordination,14,background supply-network stress,0.16115,0.29836,0.93171,0.87003,0.68432,0.97449
+SN006,Humanitarian emergency response supply network,emergency logistics relief goods and public coordination,15,background supply-network stress,0.16177,0.29859,0.99843,0.86975,0.68294,1.0
+SN006,Humanitarian emergency response supply network,emergency logistics relief goods and public coordination,16,background supply-network stress,0.16178,0.29882,1.0,0.86947,0.68155,1.0
+SN006,Humanitarian emergency response supply network,emergency logistics relief goods and public coordination,17,background supply-network stress,0.16203,0.29905,1.0,0.8692,0.68015,1.0
+SN006,Humanitarian emergency response supply network,emergency logistics relief goods and public coordination,18,background supply-network stress,0.16298,0.29927,1.0,0.86895,0.67876,1.0
+SN006,Humanitarian emergency response supply network,emergency logistics relief goods and public coordination,19,background supply-network stress,0.16316,0.2995,1.0,0.8687,0.67736,1.0
+SN006,Humanitarian emergency response supply network,emergency logistics relief goods and public coordination,20,background supply-network stress,0.16187,0.29973,1.0,0.86846,0.67597,1.0
+SN006,Humanitarian emergency response supply network,emergency logistics relief goods and public coordination,21,background supply-network stress,0.16349,0.29995,1.0,0.86824,0.67457,1.0
+SN006,Humanitarian emergency response supply network,emergency logistics relief goods and public coordination,22,background supply-network stress,0.16284,0.30017,1.0,0.86802,0.67316,1.0
+SN006,Humanitarian emergency response supply network,emergency logistics relief goods and public coordination,23,background supply-network stress,0.16364,0.30039,1.0,0.86781,0.67176,1.0
+SN006,Humanitarian emergency response supply network,emergency logistics relief goods and public coordination,24,background supply-network stress,0.16346,0.30062,1.0,0.86761,0.67036,1.0
+SN006,Humanitarian emergency response supply network,emergency logistics relief goods and public coordination,25,background supply-network stress,0.16298,0.30084,1.0,0.86742,0.66895,1.0
+SN006,Humanitarian emergency response supply network,emergency logistics relief goods and public coordination,26,background supply-network stress,0.16253,0.30106,1.0,0.86724,0.66754,1.0
+SN006,Humanitarian emergency response supply network,emergency logistics relief goods and public coordination,27,Upstream supplier failure in concentrated critical input,0.84899,0.30127,0.8097,0.88367,0.67453,0.71085
+SN006,Humanitarian emergency response supply network,emergency logistics relief goods and public coordination,28,background supply-network stress,0.16436,0.29833,0.87554,0.88354,0.67314,0.91574
+SN006,Humanitarian emergency response supply network,emergency logistics relief goods and public coordination,29,background supply-network stress,0.1646,0.29853,0.94134,0.88343,0.67176,0.98457
+SN006,Humanitarian emergency response supply network,emergency logistics relief goods and public coordination,30,background supply-network stress,0.16396,0.29874,1.0,0.88332,0.67037,1.0
+SN006,Humanitarian emergency response supply network,emergency logistics relief goods and public coordination,31,background supply-network stress,0.16304,0.29895,1.0,0.88322,0.66897,1.0
+SN006,Humanitarian emergency response supply network,emergency logistics relief goods and public coordination,32,background supply-network stress,0.16456,0.29916,1.0,0.88313,0.66758,1.0
+SN006,Humanitarian emergency response supply network,emergency logistics relief goods and public coordination,33,background supply-network stress,0.16455,0.29936,1.0,0.88306,0.66619,1.0
+SN006,Humanitarian emergency response supply network,emergency logistics relief goods and public coordination,34,background supply-network stress,0.16488,0.29957,1.0,0.88299,0.66479,1.0
+SN006,Humanitarian emergency response supply network,emergency logistics relief goods and public coordination,35,background supply-network stress,0.16518,0.29977,1.0,0.88293,0.66339,1.0
+SN006,Humanitarian emergency response supply network,emergency logistics relief goods and public coordination,36,background supply-network stress,0.16528,0.29997,1.0,0.88288,0.66199,1.0
+SN006,Humanitarian emergency response supply network,emergency logistics relief goods and public coordination,37,background supply-network stress,0.1649,0.30018,1.0,0.88285,0.66059,1.0
+SN006,Humanitarian emergency response supply network,emergency logistics relief goods and public coordination,38,background supply-network stress,0.16432,0.30038,1.0,0.88282,0.65919,1.0
+SN006,Humanitarian emergency response supply network,emergency logistics relief goods and public coordination,39,background supply-network stress,0.1647,0.30058,1.0,0.8828,0.65778,1.0
+SN006,Humanitarian emergency response supply network,emergency logistics relief goods and public coordination,40,background supply-network stress,0.16475,0.30077,1.0,0.88279,0.65638,1.0
+SN006,Humanitarian emergency response supply network,emergency logistics relief goods and public coordination,41,background supply-network stress,0.16537,0.30097,1.0,0.88279,0.65497,1.0
+SN006,Humanitarian emergency response supply network,emergency logistics relief goods and public coordination,42,Cyber outage affecting tracking customs and warehouse systems,0.81941,0.30117,0.81095,0.89706,0.65916,0.73465
+SN006,Humanitarian emergency response supply network,emergency logistics relief goods and public coordination,43,background supply-network stress,0.16552,0.29887,0.87653,0.89711,0.65777,0.91678
+SN006,Humanitarian emergency response supply network,emergency logistics relief goods and public coordination,44,background supply-network stress,0.16603,0.29906,0.94199,0.89717,0.65638,0.98525
+SN006,Humanitarian emergency response supply network,emergency logistics relief goods and public coordination,45,background supply-network stress,0.16551,0.29925,1.0,0.89724,0.65498,1.0
+SN006,Humanitarian emergency response supply network,emergency logistics relief goods and public coordination,46,background supply-network stress,0.16576,0.29943,1.0,0.89731,0.65359,1.0
+SN006,Humanitarian emergency response supply network,emergency logistics relief goods and public coordination,47,background supply-network stress,0.16662,0.29962,1.0,0.8974,0.65219,1.0
+SN006,Humanitarian emergency response supply network,emergency logistics relief goods and public coordination,48,background supply-network stress,0.16638,0.29981,1.0,0.8975,0.65079,1.0
+SN006,Humanitarian emergency response supply network,emergency logistics relief goods and public coordination,49,background supply-network stress,0.16676,0.29999,1.0,0.89761,0.64939,1.0
+SN006,Humanitarian emergency response supply network,emergency logistics relief goods and public coordination,50,background supply-network stress,0.1664,0.30017,1.0,0.89773,0.64799,1.0
+SN006,Humanitarian emergency response supply network,emergency logistics relief goods and public coordination,51,background supply-network stress,0.16536,0.30035,1.0,0.89785,0.64659,1.0
+SN006,Humanitarian emergency response supply network,emergency logistics relief goods and public coordination,52,background supply-network stress,0.16605,0.30054,1.0,0.89799,0.64518,1.0
+SN006,Humanitarian emergency response supply network,emergency logistics relief goods and public coordination,53,background supply-network stress,0.1659,0.30072,1.0,0.89814,0.64378,1.0
+SN006,Humanitarian emergency response supply network,emergency logistics relief goods and public coordination,54,background supply-network stress,0.16595,0.30089,1.0,0.8983,0.64237,1.0
+SN006,Humanitarian emergency response supply network,emergency logistics relief goods and public coordination,55,background supply-network stress,0.16579,0.30107,1.0,0.89847,0.64096,1.0
+SN006,Humanitarian emergency response supply network,emergency logistics relief goods and public coordination,56,Climate disaster damaging infrastructure and cold chains,0.91982,0.30125,0.74203,0.9161,0.64595,0.63067
+SN006,Humanitarian emergency response supply network,emergency logistics relief goods and public coordination,57,background supply-network stress,0.16622,0.29844,0.8073,0.91632,0.64456,0.84437
+SN006,Humanitarian emergency response supply network,emergency logistics relief goods and public coordination,58,background supply-network stress,0.16707,0.2986,0.87233,0.91655,0.64317,0.91239
+SN006,Humanitarian emergency response supply network,emergency logistics relief goods and public coordination,59,background supply-network stress,0.16778,0.29877,0.93717,0.91679,0.64178,0.98021
+SN006,Humanitarian emergency response supply network,emergency logistics relief goods and public coordination,60,background supply-network stress,0.16805,0.29894,1.0,0.91704,0.64039,1.0
+SN006,Humanitarian emergency response supply network,emergency logistics relief goods and public coordination,61,background supply-network stress,0.16836,0.2991,1.0,0.9173,0.639,1.0
+SN006,Humanitarian emergency response supply network,emergency logistics relief goods and public coordination,62,background supply-network stress,0.1677,0.29926,1.0,0.91757,0.63761,1.0
+SN006,Humanitarian emergency response supply network,emergency logistics relief goods and public coordination,63,background supply-network stress,0.16667,0.29943,1.0,0.91785,0.63621,1.0
+SN006,Humanitarian emergency response supply network,emergency logistics relief goods and public coordination,64,background supply-network stress,0.16713,0.29959,1.0,0.91814,0.63481,1.0
+SN006,Humanitarian emergency response supply network,emergency logistics relief goods and public coordination,65,background supply-network stress,0.16697,0.29975,1.0,0.91845,0.63342,1.0
+SN006,Humanitarian emergency response supply network,emergency logistics relief goods and public coordination,66,background supply-network stress,0.1687,0.29991,1.0,0.91876,0.63202,1.0
+SN006,Humanitarian emergency response supply network,emergency logistics relief goods and public coordination,67,background supply-network stress,0.16771,0.30007,1.0,0.91908,0.63062,1.0
+SN006,Humanitarian emergency response supply network,emergency logistics relief goods and public coordination,68,background supply-network stress,0.16862,0.30022,1.0,0.91942,0.62921,1.0
+SN006,Humanitarian emergency response supply network,emergency logistics relief goods and public coordination,69,background supply-network stress,0.16819,0.30038,1.0,0.91976,0.62781,1.0
+SN006,Humanitarian emergency response supply network,emergency logistics relief goods and public coordination,70,Compound demand surge supplier failure and logistics disruption,0.98469,0.30054,0.71012,0.93884,0.63441,0.59559
+SN006,Humanitarian emergency response supply network,emergency logistics relief goods and public coordination,71,background supply-network stress,0.16895,0.29732,0.77426,0.93923,0.63303,0.80982
+SN006,Humanitarian emergency response supply network,emergency logistics relief goods and public coordination,72,background supply-network stress,0.1696,0.29747,0.83823,0.93964,0.63165,0.87673
+SN006,Humanitarian emergency response supply network,emergency logistics relief goods and public coordination,73,background supply-network stress,0.16932,0.29761,0.90233,0.94006,0.63027,0.94376
+SN006,Humanitarian emergency response supply network,emergency logistics relief goods and public coordination,74,background supply-network stress,0.16826,0.29775,0.96679,0.94049,0.62889,1.0
+SN006,Humanitarian emergency response supply network,emergency logistics relief goods and public coordination,75,background supply-network stress,0.16949,0.2979,1.0,0.94093,0.6275,1.0
+SN006,Humanitarian emergency response supply network,emergency logistics relief goods and public coordination,76,background supply-network stress,0.16904,0.29804,1.0,0.94139,0.62612,1.0
+SN006,Humanitarian emergency response supply network,emergency logistics relief goods and public coordination,77,background supply-network stress,0.17039,0.29818,1.0,0.94185,0.62473,1.0
+SN006,Humanitarian emergency response supply network,emergency logistics relief goods and public coordination,78,background supply-network stress,0.16908,0.29832,1.0,0.94232,0.62335,1.0
+SN006,Humanitarian emergency response supply network,emergency logistics relief goods and public coordination,79,background supply-network stress,0.16914,0.29845,1.0,0.9428,0.62196,1.0

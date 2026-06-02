@@ -1,0 +1,7 @@
+strategy_id,strategy,mean_supply_chain_resilience_value,median_supply_chain_resilience_value,probability_ranked_first,probability_top_two,probability_bottom_two
+SC004,Multi-Route Logistics and Chokepoint Redesign,7.19301,7.18839,39.1,64.47,7.63
+SC005,Climate-Adjusted Infrastructure and Port Resilience Plan,7.15494,7.15344,31.73,58.1,11.1
+SC006,Fair Supplier Finance and Labor Continuity Program,7.00531,7.00627,11.0,27.6,29.43
+SC001,Supplier Diversification and Qualification Program,7.00692,7.00521,10.93,27.87,28.97
+SC003,Digital End-to-End Visibility and Cyber Resilience Platform,6.93978,6.94834,6.53,18.47,41.9
+SC002,Regional Buffer Inventory for Critical Goods,6.72824,6.72912,0.7,3.5,80.97

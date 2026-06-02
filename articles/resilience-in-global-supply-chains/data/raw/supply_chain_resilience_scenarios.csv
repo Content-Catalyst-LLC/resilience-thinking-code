@@ -1,0 +1,10 @@
+scenario,redundancy_weight,flexibility_weight,visibility_weight,coordination_weight,adaptive_capacity_weight,equity_safeguards_weight,infrastructure_continuity_weight,systemic_exposure_weight,implementation_burden_weight,description
+Balanced,0.13,0.13,0.13,0.13,0.13,0.13,0.13,0.06,0.03,Balanced supply chain resilience across redundancy flexibility visibility coordination adaptation equity infrastructure exposure and implementation burden.
+Redundancy-first,0.34,0.11,0.10,0.10,0.10,0.09,0.10,0.04,0.02,Prioritizes backup suppliers alternative routes strategic inventory reserve capacity and reduced single-point failure.
+Flexibility-first,0.10,0.34,0.10,0.10,0.12,0.09,0.10,0.03,0.02,Prioritizes rapid rerouting input substitution logistics flexibility and production adjustment.
+Visibility-first,0.10,0.10,0.34,0.12,0.10,0.09,0.10,0.03,0.02,Prioritizes tier mapping real-time monitoring bottleneck detection and supply network visibility.
+Coordination-first,0.10,0.10,0.12,0.34,0.10,0.09,0.10,0.03,0.02,Prioritizes public-private coordination supplier communication allocation mechanisms and emergency response coherence.
+Climate-infrastructure,0.10,0.10,0.10,0.10,0.12,0.10,0.34,0.02,0.02,Prioritizes ports energy cold chains water transport and logistics infrastructure under climate stress.
+Equity-first,0.10,0.10,0.10,0.10,0.10,0.36,0.10,0.02,0.02,Prioritizes labor safeguards small supplier resilience affordability human rights and environmental justice.
+Exposure-sensitive,0.12,0.12,0.12,0.12,0.12,0.12,0.12,0.13,0.03,Penalizes systemic exposure concentration chokepoints climate exposure cyber exposure and geopolitical dependency.
+Implementation-aware,0.12,0.12,0.12,0.12,0.12,0.12,0.12,0.04,0.12,Penalizes implementation burden when administrative finance legal technical or political capacity is constrained.
