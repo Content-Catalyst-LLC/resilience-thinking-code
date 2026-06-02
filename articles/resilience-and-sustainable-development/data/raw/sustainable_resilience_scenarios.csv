@@ -1,0 +1,9 @@
+scenario,resilience_weight,ecological_integrity_weight,social_inclusion_weight,economic_sufficiency_weight,governance_capacity_weight,adaptive_capacity_weight,resource_pressure_weight,implementation_burden_weight,description
+Balanced,0.18,0.17,0.16,0.14,0.14,0.15,0.04,0.02,Balanced sustainable resilience across resilience ecology inclusion economy governance adaptation constraints and implementation burden.
+Resilience-first,0.38,0.13,0.12,0.10,0.10,0.12,0.03,0.02,Prioritizes system function under disturbance recovery and continuity.
+Ecology-first,0.13,0.38,0.12,0.10,0.10,0.12,0.03,0.02,Prioritizes ecological integrity biodiversity water soil climate and ecosystem function.
+Inclusion-first,0.12,0.13,0.38,0.10,0.10,0.12,0.03,0.02,Prioritizes social inclusion equity vulnerability reduction and justice.
+Governance-first,0.12,0.13,0.12,0.10,0.36,0.12,0.03,0.02,Prioritizes institutions public capacity coordination accountability and implementation legitimacy.
+Adaptation-first,0.12,0.13,0.12,0.10,0.10,0.36,0.05,0.02,Prioritizes learning adaptive capacity scenario planning and transformation.
+Constraint-sensitive,0.15,0.16,0.14,0.12,0.12,0.14,0.14,0.03,Penalizes resource pressure and ecological overshoot risk more strongly.
+Implementation-aware,0.16,0.16,0.15,0.13,0.13,0.14,0.04,0.09,Penalizes implementation burden when capacity finance or governance bandwidth is constrained.

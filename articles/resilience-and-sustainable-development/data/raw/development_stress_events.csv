@@ -1,0 +1,6 @@
+event_id,event_name,primary_stress,shock_intensity,climate_stress,ecological_overshoot,economic_shock,infrastructure_disruption,governance_stress,equity_burden,resource_pressure_spike,affected_functions
+EV001,Extreme heat and housing affordability crisis,heat housing and public health,0.84,0.90,0.62,0.68,0.76,0.70,0.92,0.76,cooling health housing energy bills transit labor productivity public space and vulnerable residents
+EV002,Drought watershed and food-price disruption,water food and ecological stress,0.86,0.82,0.90,0.80,0.66,0.72,0.88,0.84,water agriculture food prices ecosystems rural livelihoods sanitation and public health
+EV003,Infrastructure flood and service-continuity shock,flood and critical services,0.82,0.86,0.76,0.70,0.88,0.74,0.86,0.78,transport water energy housing healthcare communications and emergency access
+EV004,Macroeconomic debt and supply-chain instability,economic shock and supply chains,0.78,0.66,0.68,0.90,0.70,0.76,0.84,0.82,jobs local businesses public finance imports materials housing food energy and social protection
+EV005,Compound climate ecological economic and governance crisis,compound sustainable-development stress,0.92,0.92,0.90,0.88,0.88,0.86,0.94,0.92,energy water food health housing ecosystems governance finance and public trust
