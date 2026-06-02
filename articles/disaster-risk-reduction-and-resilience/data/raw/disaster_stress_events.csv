@@ -1,0 +1,6 @@
+event_id,event_name,primary_hazard,shock_intensity,slow_stress,compound_risk,cascading_dependency,justice_burden,affected_systems
+EV001,Extreme rainfall and urban flooding,flood,0.82,0.56,0.68,0.70,0.78,housing drainage roads water emergency services
+EV002,Heatwave with power demand surge,heatwave,0.80,0.64,0.72,0.76,0.82,power health cooling labor housing
+EV003,Wildfire smoke and evacuation pressure,wildfire,0.84,0.60,0.73,0.72,0.70,health transport communications housing energy
+EV004,Drought with water and food stress,drought,0.76,0.72,0.74,0.68,0.76,water agriculture food distribution households ecosystems
+EV005,Compound flood power and health disruption,compound,0.88,0.68,0.84,0.82,0.86,power water health transport communications governance

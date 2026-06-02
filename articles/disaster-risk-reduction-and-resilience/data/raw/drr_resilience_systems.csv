@@ -1,0 +1,7 @@
+system_id,system,system_domain,baseline_function,hazard_exposure,vulnerability,preparedness_capacity,recovery_capacity,justice_sensitivity,dependency_coupling,critical_function
+SYS001,Riverside Neighborhood Flood System,community flood risk,0.80,0.72,0.66,0.58,0.60,0.80,0.62,housing drainage evacuation local shelters and recovery access
+SYS002,Regional Power and Water Network,infrastructure interdependency,0.86,0.68,0.58,0.64,0.72,0.66,0.78,power water treatment pumping communications and hospital service continuity
+SYS003,Public Health Emergency Network,public health resilience,0.83,0.64,0.70,0.68,0.70,0.82,0.70,surveillance surge staffing emergency care outreach and trusted communication
+SYS004,Coastal Wetland and Housing Corridor,social-ecological risk,0.82,0.76,0.62,0.60,0.64,0.74,0.68,wetland buffering housing exposure evacuation and ecological restoration
+SYS005,Food Distribution and Local Business System,economic resilience,0.78,0.60,0.64,0.62,0.58,0.70,0.72,food logistics small business continuity labor income and household access
+SYS006,Local Government Risk Governance System,institutional resilience,0.79,0.58,0.60,0.72,0.68,0.76,0.66,cross-sector coordination public finance risk communication and accountable recovery

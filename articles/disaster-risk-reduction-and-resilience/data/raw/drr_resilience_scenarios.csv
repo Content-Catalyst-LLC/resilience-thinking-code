@@ -1,0 +1,8 @@
+scenario,hazard_reduction_weight,exposure_reduction_weight,vulnerability_reduction_weight,capacity_enhancement_weight,justice_protection_weight,maladaptation_risk_weight,description
+Balanced,0.17,0.18,0.18,0.17,0.18,0.12,Balanced DRR value across hazard exposure vulnerability capacity justice and maladaptation risk.
+Hazard-first,0.42,0.16,0.14,0.10,0.10,0.08,Prioritizes lowering hazard intensity or direct physical threat.
+Exposure-first,0.12,0.42,0.14,0.12,0.12,0.08,Prioritizes keeping people assets ecosystems and services out of harm's way.
+Vulnerability-first,0.12,0.14,0.42,0.12,0.12,0.08,Prioritizes reducing susceptibility to disaster harm through housing health income ecosystems and access.
+Capacity-first,0.12,0.14,0.14,0.42,0.10,0.08,Prioritizes warning response recovery coordination and continuity capacity.
+Justice-first,0.10,0.14,0.16,0.12,0.42,0.06,Prioritizes protection for highly exposed and historically underserved communities.
+Maladaptation-sensitive,0.13,0.15,0.15,0.13,0.14,0.30,Prioritizes penalties for interventions that shift risk deepen future vulnerability or create false security.

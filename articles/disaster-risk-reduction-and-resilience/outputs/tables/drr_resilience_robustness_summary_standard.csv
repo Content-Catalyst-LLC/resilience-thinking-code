@@ -1,0 +1,7 @@
+strategy_id,strategy,mean_drr_value,median_drr_value,probability_ranked_first,probability_top_two,probability_bottom_two
+DRR006,Equitable Recovery and Housing Protection Program,6.81696,6.81507,56.9,81.37,1.73
+DRR004,Ecosystem-Based Flood and Fire Risk Reduction,6.65901,6.65536,24.5,58.7,6.7
+DRR002,Community Early Warning Network,6.50253,6.50416,9.83,30.27,18.27
+DRR005,Integrated Preparedness and Response Training,6.45303,6.4552,7.6,23.2,23.3
+DRR001,Floodplain Land-Use Restriction,6.21483,6.2185,1.0,5.23,64.47
+DRR003,Critical Infrastructure Hardening,6.05729,6.06191,0.17,1.23,85.53

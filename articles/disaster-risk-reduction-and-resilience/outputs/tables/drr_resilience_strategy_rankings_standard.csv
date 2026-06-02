@@ -1,0 +1,43 @@
+scenario,strategy_id,strategy,system_domain,rank,drr_value,maladaptation_risk,critical_function
+Balanced,DRR006,Equitable Recovery and Housing Protection Program,recovery justice,1,6.816,2.4,reduces long-term harm through fair recovery renter protection repair support and anti-displacement safeguards
+Balanced,DRR004,Ecosystem-Based Flood and Fire Risk Reduction,ecosystem-based risk reduction,2,6.663,2.7,uses wetlands forests floodplains soils and watersheds as living risk-reduction infrastructure
+Balanced,DRR002,Community Early Warning Network,community preparedness,3,6.499,2.6,improves warning trust evacuation mutual aid and local communication capacity
+Balanced,DRR005,Integrated Preparedness and Response Training,emergency management,4,6.459,2.8,improves emergency coordination surge capacity role clarity logistics and response continuity
+Balanced,DRR001,Floodplain Land-Use Restriction,land use and flood risk,5,6.217,3.4,reduces flood exposure through land-use controls buyouts restoration and safe siting
+Balanced,DRR003,Critical Infrastructure Hardening,infrastructure resilience,6,6.056,3.8,reduces service disruption through structural protection backup power and continuity planning
+Hazard-first,DRR004,Ecosystem-Based Flood and Fire Risk Reduction,ecosystem-based risk reduction,1,7.146,2.7,uses wetlands forests floodplains soils and watersheds as living risk-reduction infrastructure
+Hazard-first,DRR006,Equitable Recovery and Housing Protection Program,recovery justice,2,6.782,2.4,reduces long-term harm through fair recovery renter protection repair support and anti-displacement safeguards
+Hazard-first,DRR001,Floodplain Land-Use Restriction,land use and flood risk,3,6.672,3.4,reduces flood exposure through land-use controls buyouts restoration and safe siting
+Hazard-first,DRR002,Community Early Warning Network,community preparedness,4,6.588,2.6,improves warning trust evacuation mutual aid and local communication capacity
+Hazard-first,DRR005,Integrated Preparedness and Response Training,emergency management,5,6.46,2.8,improves emergency coordination surge capacity role clarity logistics and response continuity
+Hazard-first,DRR003,Critical Infrastructure Hardening,infrastructure resilience,6,6.45,3.8,reduces service disruption through structural protection backup power and continuity planning
+Exposure-first,DRR004,Ecosystem-Based Flood and Fire Risk Reduction,ecosystem-based risk reduction,1,7.108,2.7,uses wetlands forests floodplains soils and watersheds as living risk-reduction infrastructure
+Exposure-first,DRR006,Equitable Recovery and Housing Protection Program,recovery justice,2,7.042,2.4,reduces long-term harm through fair recovery renter protection repair support and anti-displacement safeguards
+Exposure-first,DRR001,Floodplain Land-Use Restriction,land use and flood risk,3,6.97,3.4,reduces flood exposure through land-use controls buyouts restoration and safe siting
+Exposure-first,DRR002,Community Early Warning Network,community preparedness,4,6.728,2.6,improves warning trust evacuation mutual aid and local communication capacity
+Exposure-first,DRR005,Integrated Preparedness and Response Training,emergency management,5,6.616,2.8,improves emergency coordination surge capacity role clarity logistics and response continuity
+Exposure-first,DRR003,Critical Infrastructure Hardening,infrastructure resilience,6,6.482,3.8,reduces service disruption through structural protection backup power and continuity planning
+Vulnerability-first,DRR006,Equitable Recovery and Housing Protection Program,recovery justice,1,7.462,2.4,reduces long-term harm through fair recovery renter protection repair support and anti-displacement safeguards
+Vulnerability-first,DRR004,Ecosystem-Based Flood and Fire Risk Reduction,ecosystem-based risk reduction,2,7.108,2.7,uses wetlands forests floodplains soils and watersheds as living risk-reduction infrastructure
+Vulnerability-first,DRR005,Integrated Preparedness and Response Training,emergency management,3,7.064,2.8,improves emergency coordination surge capacity role clarity logistics and response continuity
+Vulnerability-first,DRR002,Community Early Warning Network,community preparedness,4,7.008,2.6,improves warning trust evacuation mutual aid and local communication capacity
+Vulnerability-first,DRR001,Floodplain Land-Use Restriction,land use and flood risk,5,6.662,3.4,reduces flood exposure through land-use controls buyouts restoration and safe siting
+Vulnerability-first,DRR003,Critical Infrastructure Hardening,infrastructure resilience,6,6.622,3.8,reduces service disruption through structural protection backup power and continuity planning
+Capacity-first,DRR006,Equitable Recovery and Housing Protection Program,recovery justice,1,7.28,2.4,reduces long-term harm through fair recovery renter protection repair support and anti-displacement safeguards
+Capacity-first,DRR005,Integrated Preparedness and Response Training,emergency management,2,7.19,2.8,improves emergency coordination surge capacity role clarity logistics and response continuity
+Capacity-first,DRR002,Community Early Warning Network,community preparedness,3,7.19,2.6,improves warning trust evacuation mutual aid and local communication capacity
+Capacity-first,DRR004,Ecosystem-Based Flood and Fire Risk Reduction,ecosystem-based risk reduction,4,7.052,2.7,uses wetlands forests floodplains soils and watersheds as living risk-reduction infrastructure
+Capacity-first,DRR003,Critical Infrastructure Hardening,infrastructure resilience,5,6.576,3.8,reduces service disruption through structural protection backup power and continuity planning
+Capacity-first,DRR001,Floodplain Land-Use Restriction,land use and flood risk,6,6.488,3.4,reduces flood exposure through land-use controls buyouts restoration and safe siting
+Justice-first,DRR006,Equitable Recovery and Housing Protection Program,recovery justice,1,7.762,2.4,reduces long-term harm through fair recovery renter protection repair support and anti-displacement safeguards
+Justice-first,DRR004,Ecosystem-Based Flood and Fire Risk Reduction,ecosystem-based risk reduction,2,7.26,2.7,uses wetlands forests floodplains soils and watersheds as living risk-reduction infrastructure
+Justice-first,DRR005,Integrated Preparedness and Response Training,emergency management,3,7.236,2.8,improves emergency coordination surge capacity role clarity logistics and response continuity
+Justice-first,DRR002,Community Early Warning Network,community preparedness,4,7.218,2.6,improves warning trust evacuation mutual aid and local communication capacity
+Justice-first,DRR001,Floodplain Land-Use Restriction,land use and flood risk,5,6.792,3.4,reduces flood exposure through land-use controls buyouts restoration and safe siting
+Justice-first,DRR003,Critical Infrastructure Hardening,infrastructure resilience,6,6.656,3.8,reduces service disruption through structural protection backup power and continuity planning
+Maladaptation-sensitive,DRR006,Equitable Recovery and Housing Protection Program,recovery justice,1,4.935,2.4,reduces long-term harm through fair recovery renter protection repair support and anti-displacement safeguards
+Maladaptation-sensitive,DRR004,Ecosystem-Based Flood and Fire Risk Reduction,ecosystem-based risk reduction,2,4.749,2.7,uses wetlands forests floodplains soils and watersheds as living risk-reduction infrastructure
+Maladaptation-sensitive,DRR002,Community Early Warning Network,community preparedness,3,4.635,2.6,improves warning trust evacuation mutual aid and local communication capacity
+Maladaptation-sensitive,DRR005,Integrated Preparedness and Response Training,emergency management,4,4.563,2.8,improves emergency coordination surge capacity role clarity logistics and response continuity
+Maladaptation-sensitive,DRR001,Floodplain Land-Use Restriction,land use and flood risk,5,4.262,3.4,reduces flood exposure through land-use controls buyouts restoration and safe siting
+Maladaptation-sensitive,DRR003,Critical Infrastructure Hardening,infrastructure resilience,6,4.043,3.8,reduces service disruption through structural protection backup power and continuity planning
