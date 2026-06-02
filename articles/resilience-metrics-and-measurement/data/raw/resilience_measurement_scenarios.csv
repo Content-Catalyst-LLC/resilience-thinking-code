@@ -1,0 +1,7 @@
+scenario,resistance_coverage_weight,recovery_insight_weight,adaptive_capacity_visibility_weight,buffer_visibility_weight,justice_visibility_weight,data_quality_transparency_weight,threshold_blindness_weight,description
+Balanced,0.16,0.16,0.16,0.15,0.13,0.10,0.14,Balanced measurement value across resistance recovery adaptation buffer justice data quality and threshold sensitivity.
+Recovery-first,0.12,0.36,0.12,0.12,0.10,0.08,0.10,Prioritizes measured recovery behavior and post-disturbance performance.
+Adaptation-first,0.12,0.12,0.36,0.12,0.10,0.08,0.10,Prioritizes adaptive-capacity visibility and learning potential.
+Threshold-sensitive,0.11,0.11,0.12,0.11,0.10,0.08,0.37,Prioritizes avoiding threshold blindness and detecting regime-shift risk.
+Justice-visible,0.11,0.11,0.12,0.11,0.34,0.09,0.12,Prioritizes distributional visibility and whose resilience is being measured.
+Structural-balance,0.22,0.13,0.17,0.22,0.10,0.08,0.08,Prioritizes resistance buffers adaptive structure and hidden fragility detection.

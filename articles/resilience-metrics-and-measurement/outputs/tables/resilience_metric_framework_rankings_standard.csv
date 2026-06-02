@@ -1,0 +1,31 @@
+scenario,framework_id,framework,framework_type,rank,metric_value,threshold_blindness,critical_use
+Balanced,RM005,Hybrid Structural and Dynamic Assessment,hybrid-system-dynamics,1,6.781,3.2,connecting indicators feedback loops performance thresholds and decision triggers
+Balanced,RM003,Scenario Stress-Test Framework,scenario-based,2,6.107,3.9,testing future compound shocks and changing baseline conditions
+Balanced,RM004,Participatory Resilience Assessment,mixed-methods,3,6.057,4.3,capturing local knowledge legitimacy distribution and lived warning signals
+Balanced,RM002,Performance and Recovery Monitoring,performance-based,4,5.824,4.6,tracking actual system behavior during and after disruption
+Balanced,RM001,Indicator Dashboard,indicator-based,5,5.568,5.2,monitoring broad resilience capacity before major disturbance
+Recovery-first,RM005,Hybrid Structural and Dynamic Assessment,hybrid-system-dynamics,1,7.242,3.2,connecting indicators feedback loops performance thresholds and decision triggers
+Recovery-first,RM002,Performance and Recovery Monitoring,performance-based,2,6.614,4.6,tracking actual system behavior during and after disruption
+Recovery-first,RM003,Scenario Stress-Test Framework,scenario-based,3,6.538,3.9,testing future compound shocks and changing baseline conditions
+Recovery-first,RM004,Participatory Resilience Assessment,mixed-methods,4,6.478,4.3,capturing local knowledge legitimacy distribution and lived warning signals
+Recovery-first,RM001,Indicator Dashboard,indicator-based,5,5.992,5.2,monitoring broad resilience capacity before major disturbance
+Adaptation-first,RM005,Hybrid Structural and Dynamic Assessment,hybrid-system-dynamics,1,7.314,3.2,connecting indicators feedback loops performance thresholds and decision triggers
+Adaptation-first,RM004,Participatory Resilience Assessment,mixed-methods,2,6.67,4.3,capturing local knowledge legitimacy distribution and lived warning signals
+Adaptation-first,RM003,Scenario Stress-Test Framework,scenario-based,3,6.658,3.9,testing future compound shocks and changing baseline conditions
+Adaptation-first,RM002,Performance and Recovery Monitoring,performance-based,4,6.23,4.6,tracking actual system behavior during and after disruption
+Adaptation-first,RM001,Indicator Dashboard,indicator-based,5,6.088,5.2,monitoring broad resilience capacity before major disturbance
+Threshold-sensitive,RM005,Hybrid Structural and Dynamic Assessment,hybrid-system-dynamics,1,4.111,3.2,connecting indicators feedback loops performance thresholds and decision triggers
+Threshold-sensitive,RM003,Scenario Stress-Test Framework,scenario-based,2,3.426,3.9,testing future compound shocks and changing baseline conditions
+Threshold-sensitive,RM004,Participatory Resilience Assessment,mixed-methods,3,3.295,4.3,capturing local knowledge legitimacy distribution and lived warning signals
+Threshold-sensitive,RM002,Performance and Recovery Monitoring,performance-based,4,3.028,4.6,tracking actual system behavior during and after disruption
+Threshold-sensitive,RM001,Indicator Dashboard,indicator-based,5,2.684,5.2,monitoring broad resilience capacity before major disturbance
+Justice-visible,RM005,Hybrid Structural and Dynamic Assessment,hybrid-system-dynamics,1,6.94,3.2,connecting indicators feedback loops performance thresholds and decision triggers
+Justice-visible,RM004,Participatory Resilience Assessment,mixed-methods,2,6.553,4.3,capturing local knowledge legitimacy distribution and lived warning signals
+Justice-visible,RM003,Scenario Stress-Test Framework,scenario-based,3,6.203,3.9,testing future compound shocks and changing baseline conditions
+Justice-visible,RM002,Performance and Recovery Monitoring,performance-based,4,5.912,4.6,tracking actual system behavior during and after disruption
+Justice-visible,RM001,Indicator Dashboard,indicator-based,5,5.688,5.2,monitoring broad resilience capacity before major disturbance
+Structural-balance,RM005,Hybrid Structural and Dynamic Assessment,hybrid-system-dynamics,1,7.479,3.2,connecting indicators feedback loops performance thresholds and decision triggers
+Structural-balance,RM003,Scenario Stress-Test Framework,scenario-based,2,6.863,3.9,testing future compound shocks and changing baseline conditions
+Structural-balance,RM004,Participatory Resilience Assessment,mixed-methods,3,6.724,4.3,capturing local knowledge legitimacy distribution and lived warning signals
+Structural-balance,RM002,Performance and Recovery Monitoring,performance-based,4,6.482,4.6,tracking actual system behavior during and after disruption
+Structural-balance,RM001,Indicator Dashboard,indicator-based,5,6.396,5.2,monitoring broad resilience capacity before major disturbance

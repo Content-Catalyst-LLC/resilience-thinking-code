@@ -1,0 +1,7 @@
+event_id,system_name,system_type,disturbance_type,shock_intensity,performance_loss,resistance_score,recovery_completeness,recovery_speed,justice_adjusted_recovery,diagnostic
+EV001,Urban Stormwater Network,infrastructure,compound flood,0.78,0.44,0.4359,0.77273,0.58824,0.62346,low resistance to disturbance
+EV002,Watershed Wetland Complex,ecological,drought and heat,0.72,0.28,0.61111,0.57143,0.24,0.46162,recovery may hide distributional or long-duration vulnerability
+EV003,Public Health Clinic Network,public health,disease surge,0.81,0.38,0.53086,0.84211,0.46875,0.68492,moderate to strong event-level resilience signal
+EV004,Regional Food Distribution System,food systems,supply disruption,0.69,0.31,0.55072,0.70968,0.51724,0.57362,moderate to strong event-level resilience signal
+EV005,Institutional Service System,institutional,trust and staffing shock,0.66,0.31,0.5303,0.48387,0.2,0.3751,recovery may hide distributional or long-duration vulnerability
+EV006,Energy Distribution Network,infrastructure,heat and peak load,0.74,0.41,0.44595,0.85366,0.65217,0.68111,low resistance to disturbance

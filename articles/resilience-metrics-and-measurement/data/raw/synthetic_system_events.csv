@@ -1,0 +1,7 @@
+event_id,system_name,system_type,disturbance_type,shock_intensity,baseline_function,min_function,recovered_function,recovery_days,adaptive_action_taken,affected_population_share,justice_visibility
+EV001,Urban Stormwater Network,infrastructure,compound flood,0.78,0.92,0.48,0.82,21,drainage repair and green-infrastructure triage,0.32,0.54
+EV002,Watershed Wetland Complex,ecological,drought and heat,0.72,0.88,0.60,0.76,95,wetland restoration and flow management,0.18,0.46
+EV003,Public Health Clinic Network,public health,disease surge,0.81,0.90,0.52,0.84,34,staff redeployment and community outreach,0.41,0.62
+EV004,Regional Food Distribution System,food systems,supply disruption,0.69,0.89,0.58,0.80,28,alternate suppliers and local storage release,0.36,0.57
+EV005,Institutional Service System,institutional,trust and staffing shock,0.66,0.86,0.55,0.70,120,public accountability review and staffing investment,0.44,0.50
+EV006,Energy Distribution Network,infrastructure,heat and peak load,0.74,0.91,0.50,0.85,16,demand response and backup generation,0.29,0.49

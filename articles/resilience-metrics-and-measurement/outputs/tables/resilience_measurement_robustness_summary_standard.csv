@@ -1,0 +1,6 @@
+framework_id,framework,mean_metric_value,median_metric_value,probability_ranked_first,probability_top_two,probability_bottom_two
+RM005,Hybrid Structural and Dynamic Assessment,6.79081,6.7933,97.3,99.67,0.0
+RM003,Scenario Stress-Test Framework,6.10118,6.09993,1.8,49.37,16.67
+RM004,Participatory Resilience Assessment,6.05983,6.06219,0.83,39.9,22.33
+RM002,Performance and Recovery Monitoring,5.82607,5.82479,0.07,10.07,67.27
+RM001,Indicator Dashboard,5.56786,5.56729,0.0,1.0,93.73

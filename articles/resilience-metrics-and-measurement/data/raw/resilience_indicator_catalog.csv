@@ -1,0 +1,11 @@
+indicator_id,indicator,domain,definition,measurement_note
+RI001,resistance_threshold,performance,Disturbance level at which essential function falls below acceptable performance,Requires defining essential function and minimum acceptable performance
+RI002,recovery_time,performance,Time required to restore essential function after disturbance,Should be measured alongside recovery quality and post-recovery condition
+RI003,recovery_completeness,performance,Degree to which function returns to prior or acceptable level,May hide hidden depletion if measured alone
+RI004,adaptive_capacity_score,capacity,Ability to learn revise mobilize resources and change behavior under uncertainty,Requires governance learning trust and resource indicators
+RI005,buffer_capacity,capacity,Reserve capacity slack storage redundancy or backup options available under stress,Must account for maintenance quality and actual accessibility
+RI006,response_diversity,capacity,Differentiated responses among components that support similar functions,Reduces synchronized failure when responses differ meaningfully
+RI007,threshold_proximity,risk,Estimated closeness to known or suspected tipping point regime shift or capacity boundary,Requires uncertainty labeling and domain expertise
+RI008,early_warning_signal,risk,Observed pattern such as rising variance autocorrelation repeated near misses or slower recovery,Requires careful interpretation and data quality review
+RI009,justice_visibility,governance,Degree to which unequal exposure access backup capacity and recovery burden are visible,Requires disaggregated data and participatory interpretation
+RI010,data_quality_transparency,governance,Clarity about missing data uncertainty method limitations and update frequency,Prevents false precision and misuse

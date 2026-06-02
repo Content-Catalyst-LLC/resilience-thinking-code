@@ -1,0 +1,6 @@
+framework_id,framework,framework_type,resistance_coverage,recovery_insight,adaptive_capacity_visibility,buffer_visibility,justice_visibility,data_quality_transparency,threshold_blindness,critical_use
+RM001,Indicator Dashboard,indicator-based,7.8,7.0,7.4,7.6,6.8,7.2,5.2,monitoring broad resilience capacity before major disturbance
+RM002,Performance and Recovery Monitoring,performance-based,7.1,8.8,7.2,7.3,6.9,7.8,4.6,tracking actual system behavior during and after disruption
+RM003,Scenario Stress-Test Framework,scenario-based,8.0,7.6,8.1,7.9,7.2,7.4,3.9,testing future compound shocks and changing baseline conditions
+RM004,Participatory Resilience Assessment,mixed-methods,7.2,7.5,8.3,7.5,8.8,7.1,4.3,capturing local knowledge legitimacy distribution and lived warning signals
+RM005,Hybrid Structural and Dynamic Assessment,hybrid-system-dynamics,8.5,8.4,8.7,8.2,8.1,8.5,3.2,connecting indicators feedback loops performance thresholds and decision triggers
