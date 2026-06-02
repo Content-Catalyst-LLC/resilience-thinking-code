@@ -1,0 +1,9 @@
+ecosystem_id,ecosystem_type,short_run_stability,biodiversity,functional_diversity,response_diversity,threshold_distance,basin_width,regenerative_capacity,ecological_memory,connectivity,disturbance_exposure,slow_variable_pressure,critical_function
+E001,Temperate Forest,0.74,0.78,0.76,0.75,0.70,0.72,0.73,0.70,0.66,0.58,0.54,carbon storage habitat and regeneration
+E002,Shallow Lake,0.80,0.52,0.50,0.46,0.34,0.38,0.45,0.42,0.40,0.72,0.78,clear-water habitat nutrient cycling and water quality
+E003,Grassland,0.68,0.64,0.66,0.62,0.49,0.52,0.66,0.60,0.58,0.64,0.62,soil cover forage production and biodiversity
+E004,Coral Reef,0.61,0.59,0.57,0.48,0.29,0.32,0.42,0.38,0.44,0.82,0.86,reef-building habitat fisheries and coastal protection
+E005,Coastal Wetland,0.66,0.71,0.70,0.69,0.58,0.61,0.72,0.68,0.62,0.70,0.66,flood buffering nutrient cycling and habitat
+E006,River-Floodplain System,0.58,0.69,0.67,0.66,0.55,0.57,0.68,0.64,0.60,0.67,0.63,flow variability sediment movement and floodplain function
+E007,Dryland Shrub-Grass Mosaic,0.62,0.55,0.58,0.54,0.42,0.46,0.50,0.48,0.45,0.76,0.74,soil retention water balance and vegetation cover
+E008,Mangrove System,0.64,0.72,0.69,0.67,0.60,0.64,0.74,0.70,0.63,0.68,0.61,coastal protection nursery habitat and carbon storage

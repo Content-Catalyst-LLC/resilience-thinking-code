@@ -1,0 +1,9 @@
+ecosystem_id,ecosystem_type,minimum_margin,average_margin,threshold_risk_steps
+E001,Temperate Forest,-1.0,0.7129,79
+E002,Shallow Lake,-1.0,-0.2741,287
+E003,Grassland,-1.0,0.2221,175
+E004,Coral Reef,-1.0,-0.4224,324
+E005,Coastal Wetland,-1.0,0.3452,155
+E006,River-Floodplain System,-1.0,0.2886,163
+E007,Dryland Shrub-Grass Mosaic,-1.0,-0.1663,252
+E008,Mangrove System,-1.0,0.4358,137

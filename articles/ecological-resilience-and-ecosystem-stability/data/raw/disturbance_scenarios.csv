@@ -1,0 +1,5 @@
+scenario_id,scenario_name,disturbance_load,external_pressure,shock_frequency,regenerative_support,description
+D001,Moderate natural disturbance,0.28,0.24,5,0.60,Disturbance within historical range with moderate regenerative support.
+D002,Repeated climate stress,0.52,0.58,6,0.42,Repeated heat drought storm or hydrological stress that erodes resilience margin.
+D003,Compound ecological pressure,0.70,0.76,8,0.34,Combined climate land-use pollution and invasive-species pressure.
+D004,Slow threshold erosion,0.46,0.62,12,0.38,Gradual loss of basin width through slow variables and hidden pressures.

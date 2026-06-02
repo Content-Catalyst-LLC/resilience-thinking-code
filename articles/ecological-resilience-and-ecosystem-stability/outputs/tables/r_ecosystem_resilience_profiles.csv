@@ -1,0 +1,9 @@
+ecosystem_id,ecosystem_type,short_run_stability,biodiversity,functional_diversity,response_diversity,threshold_distance,basin_width,regenerative_capacity,ecological_memory,connectivity,disturbance_exposure,slow_variable_pressure,critical_function,stability_score,ecological_resilience_profile,threshold_risk_index
+E001,Temperate Forest,0.74,0.78,0.76,0.75,0.7,0.72,0.73,0.7,0.66,0.58,0.54,carbon storage habitat and regeneration,0.74,0.7350999999999999,0.17370000000000005
+E002,Shallow Lake,0.8,0.52,0.5,0.46,0.34,0.38,0.45,0.42,0.4,0.72,0.78,clear-water habitat nutrient cycling and water quality,0.8,0.426,0.5146999999999999
+E003,Grassland,0.68,0.64,0.66,0.62,0.49,0.52,0.66,0.6,0.58,0.64,0.62,soil cover forage production and biodiversity,0.68,0.5856,0.33920000000000006
+E004,Coral Reef,0.61,0.59,0.57,0.48,0.29,0.32,0.42,0.38,0.44,0.82,0.86,reef-building habitat fisheries and coastal protection,0.61,0.3943,0.5812
+E005,Coastal Wetland,0.66,0.71,0.7,0.69,0.58,0.61,0.72,0.68,0.62,0.7,0.66,flood buffering nutrient cycling and habitat,0.66,0.6462000000000001,0.29150000000000004
+E006,River-Floodplain System,0.58,0.69,0.67,0.66,0.55,0.57,0.68,0.64,0.6,0.67,0.63,flow variability sediment movement and floodplain function,0.58,0.6098000000000001,0.30870000000000003
+E007,Dryland Shrub-Grass Mosaic,0.62,0.55,0.58,0.54,0.42,0.46,0.5,0.48,0.45,0.76,0.74,soil retention water balance and vegetation cover,0.62,0.4709000000000001,0.45440000000000014
+E008,Mangrove System,0.64,0.72,0.69,0.67,0.6,0.64,0.74,0.7,0.63,0.68,0.61,coastal protection nursery habitat and carbon storage,0.64,0.6582000000000001,0.26439999999999997
