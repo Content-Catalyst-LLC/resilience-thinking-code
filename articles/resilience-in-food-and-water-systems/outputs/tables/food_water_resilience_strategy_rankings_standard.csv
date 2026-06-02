@@ -1,0 +1,49 @@
+scenario,strategy_id,strategy,system_domain,rank,resilience_value,resource_depletion_risk,critical_function
+Balanced,FW004,Community Water Governance and Access Reform,water governance and access,1,7.624,2.8,improves allocation legitimacy affordability access rights monitoring and community participation
+Balanced,FW006,Safe Water Treatment and Sanitation Resilience Plan,water quality and public health,2,7.617,3.0,protects drinking water sanitation hygiene public health and emergency water safety
+Balanced,FW005,Diversified Agroecological Production Program,agroecology and food security,3,7.575,2.9,supports crop diversity soil health local food security biodiversity and adaptive livelihoods
+Balanced,FW003,Watershed Restoration and Recharge Program,watershed and ecosystem resilience,4,7.413,2.7,restores recharge water quality soil moisture flood buffering and ecological function
+Balanced,FW002,Regional Food Storage and Distribution Network,food logistics and storage,5,7.379,3.1,stabilizes food access through reserves storage cold chains local procurement and distribution redundancy
+Balanced,FW001,Climate-Smart Irrigation Upgrade,irrigation and agriculture,6,7.233,3.7,improves irrigation efficiency crop reliability water accounting and climate-responsive farm management
+Availability-first,FW005,Diversified Agroecological Production Program,agroecology and food security,1,7.732,2.9,supports crop diversity soil health local food security biodiversity and adaptive livelihoods
+Availability-first,FW006,Safe Water Treatment and Sanitation Resilience Plan,water quality and public health,2,7.702,3.0,protects drinking water sanitation hygiene public health and emergency water safety
+Availability-first,FW003,Watershed Restoration and Recharge Program,watershed and ecosystem resilience,3,7.698,2.7,restores recharge water quality soil moisture flood buffering and ecological function
+Availability-first,FW004,Community Water Governance and Access Reform,water governance and access,4,7.652,2.8,improves allocation legitimacy affordability access rights monitoring and community participation
+Availability-first,FW002,Regional Food Storage and Distribution Network,food logistics and storage,5,7.618,3.1,stabilizes food access through reserves storage cold chains local procurement and distribution redundancy
+Availability-first,FW001,Climate-Smart Irrigation Upgrade,irrigation and agriculture,6,7.6,3.7,improves irrigation efficiency crop reliability water accounting and climate-responsive farm management
+Access-first,FW004,Community Water Governance and Access Reform,water governance and access,1,7.988,2.8,improves allocation legitimacy affordability access rights monitoring and community participation
+Access-first,FW006,Safe Water Treatment and Sanitation Resilience Plan,water quality and public health,2,7.898,3.0,protects drinking water sanitation hygiene public health and emergency water safety
+Access-first,FW005,Diversified Agroecological Production Program,agroecology and food security,3,7.76,2.9,supports crop diversity soil health local food security biodiversity and adaptive livelihoods
+Access-first,FW002,Regional Food Storage and Distribution Network,food logistics and storage,4,7.646,3.1,stabilizes food access through reserves storage cold chains local procurement and distribution redundancy
+Access-first,FW003,Watershed Restoration and Recharge Program,watershed and ecosystem resilience,5,7.446,2.7,restores recharge water quality soil moisture flood buffering and ecological function
+Access-first,FW001,Climate-Smart Irrigation Upgrade,irrigation and agriculture,6,7.348,3.7,improves irrigation efficiency crop reliability water accounting and climate-responsive farm management
+Stability-first,FW005,Diversified Agroecological Production Program,agroecology and food security,1,7.788,2.9,supports crop diversity soil health local food security biodiversity and adaptive livelihoods
+Stability-first,FW006,Safe Water Treatment and Sanitation Resilience Plan,water quality and public health,2,7.786,3.0,protects drinking water sanitation hygiene public health and emergency water safety
+Stability-first,FW002,Regional Food Storage and Distribution Network,food logistics and storage,3,7.73,3.1,stabilizes food access through reserves storage cold chains local procurement and distribution redundancy
+Stability-first,FW004,Community Water Governance and Access Reform,water governance and access,4,7.68,2.8,improves allocation legitimacy affordability access rights monitoring and community participation
+Stability-first,FW003,Watershed Restoration and Recharge Program,watershed and ecosystem resilience,5,7.586,2.7,restores recharge water quality soil moisture flood buffering and ecological function
+Stability-first,FW001,Climate-Smart Irrigation Upgrade,irrigation and agriculture,6,7.516,3.7,improves irrigation efficiency crop reliability water accounting and climate-responsive farm management
+Quality-first,FW006,Safe Water Treatment and Sanitation Resilience Plan,water quality and public health,1,8.004,3.0,protects drinking water sanitation hygiene public health and emergency water safety
+Quality-first,FW005,Diversified Agroecological Production Program,agroecology and food security,2,7.84,2.9,supports crop diversity soil health local food security biodiversity and adaptive livelihoods
+Quality-first,FW004,Community Water Governance and Access Reform,water governance and access,3,7.808,2.8,improves allocation legitimacy affordability access rights monitoring and community participation
+Quality-first,FW003,Watershed Restoration and Recharge Program,watershed and ecosystem resilience,4,7.764,2.7,restores recharge water quality soil moisture flood buffering and ecological function
+Quality-first,FW002,Regional Food Storage and Distribution Network,food logistics and storage,5,7.46,3.1,stabilizes food access through reserves storage cold chains local procurement and distribution redundancy
+Quality-first,FW001,Climate-Smart Irrigation Upgrade,irrigation and agriculture,6,7.424,3.7,improves irrigation efficiency crop reliability water accounting and climate-responsive farm management
+Adaptation-first,FW004,Community Water Governance and Access Reform,water governance and access,1,7.964,2.8,improves allocation legitimacy affordability access rights monitoring and community participation
+Adaptation-first,FW005,Diversified Agroecological Production Program,agroecology and food security,2,7.892,2.9,supports crop diversity soil health local food security biodiversity and adaptive livelihoods
+Adaptation-first,FW006,Safe Water Treatment and Sanitation Resilience Plan,water quality and public health,3,7.77,3.0,protects drinking water sanitation hygiene public health and emergency water safety
+Adaptation-first,FW003,Watershed Restoration and Recharge Program,watershed and ecosystem resilience,4,7.738,2.7,restores recharge water quality soil moisture flood buffering and ecological function
+Adaptation-first,FW002,Regional Food Storage and Distribution Network,food logistics and storage,5,7.564,3.1,stabilizes food access through reserves storage cold chains local procurement and distribution redundancy
+Adaptation-first,FW001,Climate-Smart Irrigation Upgrade,irrigation and agriculture,6,7.554,3.7,improves irrigation efficiency crop reliability water accounting and climate-responsive farm management
+Equity-first,FW004,Community Water Governance and Access Reform,water governance and access,1,8.04,2.8,improves allocation legitimacy affordability access rights monitoring and community participation
+Equity-first,FW006,Safe Water Treatment and Sanitation Resilience Plan,water quality and public health,2,7.94,3.0,protects drinking water sanitation hygiene public health and emergency water safety
+Equity-first,FW005,Diversified Agroecological Production Program,agroecology and food security,3,7.79,2.9,supports crop diversity soil health local food security biodiversity and adaptive livelihoods
+Equity-first,FW002,Regional Food Storage and Distribution Network,food logistics and storage,4,7.592,3.1,stabilizes food access through reserves storage cold chains local procurement and distribution redundancy
+Equity-first,FW003,Watershed Restoration and Recharge Program,watershed and ecosystem resilience,5,7.512,2.7,restores recharge water quality soil moisture flood buffering and ecological function
+Equity-first,FW001,Climate-Smart Irrigation Upgrade,irrigation and agriculture,6,7.302,3.7,improves irrigation efficiency crop reliability water accounting and climate-responsive farm management
+Depletion-sensitive,FW004,Community Water Governance and Access Reform,water governance and access,1,5.632,2.8,improves allocation legitimacy affordability access rights monitoring and community participation
+Depletion-sensitive,FW006,Safe Water Treatment and Sanitation Resilience Plan,water quality and public health,2,5.592,3.0,protects drinking water sanitation hygiene public health and emergency water safety
+Depletion-sensitive,FW005,Diversified Agroecological Production Program,agroecology and food security,3,5.573,2.9,supports crop diversity soil health local food security biodiversity and adaptive livelihoods
+Depletion-sensitive,FW003,Watershed Restoration and Recharge Program,watershed and ecosystem resilience,4,5.481,2.7,restores recharge water quality soil moisture flood buffering and ecological function
+Depletion-sensitive,FW002,Regional Food Storage and Distribution Network,food logistics and storage,5,5.367,3.1,stabilizes food access through reserves storage cold chains local procurement and distribution redundancy
+Depletion-sensitive,FW001,Climate-Smart Irrigation Upgrade,irrigation and agriculture,6,5.135,3.7,improves irrigation efficiency crop reliability water accounting and climate-responsive farm management

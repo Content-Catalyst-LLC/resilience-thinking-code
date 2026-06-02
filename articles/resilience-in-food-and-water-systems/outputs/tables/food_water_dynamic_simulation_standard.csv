@@ -1,0 +1,481 @@
+system_id,system,system_domain,time,event,stress_load,response_capacity,system_performance,resource_coupling,equity_adjusted_performance
+SYS001,Irrigated Agricultural Basin,agriculture and water allocation,0,background food-water stress,0.1876,0.2116,0.95325,0.80084,0.97781
+SYS001,Irrigated Agricultural Basin,agriculture and water allocation,1,background food-water stress,0.19346,0.21148,1.0,0.80178,1.0
+SYS001,Irrigated Agricultural Basin,agriculture and water allocation,2,background food-water stress,0.19221,0.21135,1.0,0.80271,1.0
+SYS001,Irrigated Agricultural Basin,agriculture and water allocation,3,background food-water stress,0.19382,0.21122,1.0,0.80366,1.0
+SYS001,Irrigated Agricultural Basin,agriculture and water allocation,4,background food-water stress,0.18966,0.21109,1.0,0.80454,1.0
+SYS001,Irrigated Agricultural Basin,agriculture and water allocation,5,background food-water stress,0.19293,0.21096,1.0,0.80548,1.0
+SYS001,Irrigated Agricultural Basin,agriculture and water allocation,6,background food-water stress,0.19535,0.21083,1.0,0.80647,1.0
+SYS001,Irrigated Agricultural Basin,agriculture and water allocation,7,background food-water stress,0.19474,0.21069,1.0,0.80745,1.0
+SYS001,Irrigated Agricultural Basin,agriculture and water allocation,8,background food-water stress,0.19119,0.21056,1.0,0.80836,1.0
+SYS001,Irrigated Agricultural Basin,agriculture and water allocation,9,background food-water stress,0.19272,0.21043,1.0,0.8093,1.0
+SYS001,Irrigated Agricultural Basin,agriculture and water allocation,10,background food-water stress,0.19965,0.2103,1.0,0.81037,1.0
+SYS001,Irrigated Agricultural Basin,agriculture and water allocation,11,background food-water stress,0.19775,0.21015,1.0,0.81141,1.0
+SYS001,Irrigated Agricultural Basin,agriculture and water allocation,12,Multi-season drought and groundwater stress,0.72657,0.21,0.9491,0.82197,0.8141
+SYS001,Irrigated Agricultural Basin,agriculture and water allocation,13,background food-water stress,0.20188,0.20852,1.0,0.8231,1.0
+SYS001,Irrigated Agricultural Basin,agriculture and water allocation,14,background food-water stress,0.19964,0.20837,1.0,0.82419,1.0
+SYS001,Irrigated Agricultural Basin,agriculture and water allocation,15,background food-water stress,0.19904,0.20821,1.0,0.82528,1.0
+SYS001,Irrigated Agricultural Basin,agriculture and water allocation,16,background food-water stress,0.19744,0.20806,1.0,0.82634,1.0
+SYS001,Irrigated Agricultural Basin,agriculture and water allocation,17,background food-water stress,0.2037,0.20791,1.0,0.82751,1.0
+SYS001,Irrigated Agricultural Basin,agriculture and water allocation,18,background food-water stress,0.2025,0.20775,1.0,0.82866,1.0
+SYS001,Irrigated Agricultural Basin,agriculture and water allocation,19,background food-water stress,0.20385,0.20759,1.0,0.82984,1.0
+SYS001,Irrigated Agricultural Basin,agriculture and water allocation,20,background food-water stress,0.2041,0.20742,1.0,0.83102,1.0
+SYS001,Irrigated Agricultural Basin,agriculture and water allocation,21,background food-water stress,0.2044,0.20726,1.0,0.83221,1.0
+SYS001,Irrigated Agricultural Basin,agriculture and water allocation,22,background food-water stress,0.208,0.20709,1.0,0.83347,1.0
+SYS001,Irrigated Agricultural Basin,agriculture and water allocation,23,background food-water stress,0.20748,0.20691,1.0,0.83472,1.0
+SYS001,Irrigated Agricultural Basin,agriculture and water allocation,24,background food-water stress,0.20786,0.20674,1.0,0.83599,1.0
+SYS001,Irrigated Agricultural Basin,agriculture and water allocation,25,background food-water stress,0.2061,0.20656,1.0,0.83722,1.0
+SYS001,Irrigated Agricultural Basin,agriculture and water allocation,26,background food-water stress,0.20669,0.20639,1.0,0.83846,1.0
+SYS001,Irrigated Agricultural Basin,agriculture and water allocation,27,Extreme flood with sanitation and crop damage,0.73942,0.20622,0.94258,0.8493,0.81379
+SYS001,Irrigated Agricultural Basin,agriculture and water allocation,28,background food-water stress,0.21122,0.2047,1.0,0.85064,1.0
+SYS001,Irrigated Agricultural Basin,agriculture and water allocation,29,background food-water stress,0.21205,0.20451,1.0,0.852,1.0
+SYS001,Irrigated Agricultural Basin,agriculture and water allocation,30,background food-water stress,0.21547,0.20432,1.0,0.85343,1.0
+SYS001,Irrigated Agricultural Basin,agriculture and water allocation,31,background food-water stress,0.21134,0.20412,1.0,0.85478,1.0
+SYS001,Irrigated Agricultural Basin,agriculture and water allocation,32,background food-water stress,0.21711,0.20393,1.0,0.85625,1.0
+SYS001,Irrigated Agricultural Basin,agriculture and water allocation,33,background food-water stress,0.21614,0.20373,1.0,0.85769,1.0
+SYS001,Irrigated Agricultural Basin,agriculture and water allocation,34,background food-water stress,0.21397,0.20352,1.0,0.8591,1.0
+SYS001,Irrigated Agricultural Basin,agriculture and water allocation,35,background food-water stress,0.21297,0.20333,1.0,0.86049,1.0
+SYS001,Irrigated Agricultural Basin,agriculture and water allocation,36,background food-water stress,0.21848,0.20313,1.0,0.86199,1.0
+SYS001,Irrigated Agricultural Basin,agriculture and water allocation,37,background food-water stress,0.21545,0.20292,1.0,0.86343,1.0
+SYS001,Irrigated Agricultural Basin,agriculture and water allocation,38,background food-water stress,0.21557,0.20272,1.0,0.86488,1.0
+SYS001,Irrigated Agricultural Basin,agriculture and water allocation,39,background food-water stress,0.21516,0.20252,1.0,0.86632,1.0
+SYS001,Irrigated Agricultural Basin,agriculture and water allocation,40,background food-water stress,0.21513,0.20231,1.0,0.86777,1.0
+SYS001,Irrigated Agricultural Basin,agriculture and water allocation,41,background food-water stress,0.22026,0.20211,1.0,0.86931,1.0
+SYS001,Irrigated Agricultural Basin,agriculture and water allocation,42,Food price spike and input shortage,0.64872,0.2019,0.97097,0.87856,0.82742
+SYS001,Irrigated Agricultural Basin,agriculture and water allocation,43,background food-water stress,0.22283,0.2006,1.0,0.88016,1.0
+SYS001,Irrigated Agricultural Basin,agriculture and water allocation,44,background food-water stress,0.2177,0.20038,1.0,0.88168,1.0
+SYS001,Irrigated Agricultural Basin,agriculture and water allocation,45,background food-water stress,0.21814,0.20017,1.0,0.8832,1.0
+SYS001,Irrigated Agricultural Basin,agriculture and water allocation,46,background food-water stress,0.22446,0.19995,1.0,0.88484,1.0
+SYS001,Irrigated Agricultural Basin,agriculture and water allocation,47,background food-water stress,0.22128,0.19972,1.0,0.88643,1.0
+SYS001,Irrigated Agricultural Basin,agriculture and water allocation,48,background food-water stress,0.22639,0.1995,1.0,0.88811,1.0
+SYS001,Irrigated Agricultural Basin,agriculture and water allocation,49,background food-water stress,0.22706,0.19926,1.0,0.88981,1.0
+SYS001,Irrigated Agricultural Basin,agriculture and water allocation,50,background food-water stress,0.2266,0.19903,1.0,0.8915,1.0
+SYS001,Irrigated Agricultural Basin,agriculture and water allocation,51,background food-water stress,0.22796,0.19879,1.0,0.89322,1.0
+SYS001,Irrigated Agricultural Basin,agriculture and water allocation,52,background food-water stress,0.22695,0.19855,1.0,0.89492,1.0
+SYS001,Irrigated Agricultural Basin,agriculture and water allocation,53,background food-water stress,0.22741,0.19831,1.0,0.89663,1.0
+SYS001,Irrigated Agricultural Basin,agriculture and water allocation,54,background food-water stress,0.22528,0.19807,1.0,0.89831,1.0
+SYS001,Irrigated Agricultural Basin,agriculture and water allocation,55,background food-water stress,0.2247,0.19784,1.0,0.89998,1.0
+SYS001,Irrigated Agricultural Basin,agriculture and water allocation,56,Water-quality contamination event,0.6516,0.1976,0.96755,0.90934,0.81909
+SYS001,Irrigated Agricultural Basin,agriculture and water allocation,57,background food-water stress,0.23021,0.19629,1.0,0.91113,1.0
+SYS001,Irrigated Agricultural Basin,agriculture and water allocation,58,background food-water stress,0.23241,0.19604,1.0,0.91296,1.0
+SYS001,Irrigated Agricultural Basin,agriculture and water allocation,59,background food-water stress,0.23271,0.19579,1.0,0.9148,1.0
+SYS001,Irrigated Agricultural Basin,agriculture and water allocation,60,background food-water stress,0.23268,0.19553,1.0,0.91664,1.0
+SYS001,Irrigated Agricultural Basin,agriculture and water allocation,61,background food-water stress,0.23239,0.19527,1.0,0.91848,1.0
+SYS001,Irrigated Agricultural Basin,agriculture and water allocation,62,background food-water stress,0.2342,0.19501,1.0,0.92035,1.0
+SYS001,Irrigated Agricultural Basin,agriculture and water allocation,63,background food-water stress,0.23207,0.19475,1.0,0.92219,1.0
+SYS001,Irrigated Agricultural Basin,agriculture and water allocation,64,background food-water stress,0.23872,0.19449,1.0,0.92416,1.0
+SYS001,Irrigated Agricultural Basin,agriculture and water allocation,65,background food-water stress,0.24087,0.19422,1.0,0.92616,1.0
+SYS001,Irrigated Agricultural Basin,agriculture and water allocation,66,background food-water stress,0.23611,0.19394,1.0,0.92808,1.0
+SYS001,Irrigated Agricultural Basin,agriculture and water allocation,67,background food-water stress,0.23828,0.19367,1.0,0.93005,1.0
+SYS001,Irrigated Agricultural Basin,agriculture and water allocation,68,background food-water stress,0.24194,0.19339,1.0,0.93208,1.0
+SYS001,Irrigated Agricultural Basin,agriculture and water allocation,69,background food-water stress,0.23761,0.19311,1.0,0.93404,1.0
+SYS001,Irrigated Agricultural Basin,agriculture and water allocation,70,Compound heat drought market and power disruption,0.84049,0.19283,0.90063,0.94686,0.75235
+SYS001,Irrigated Agricultural Basin,agriculture and water allocation,71,background food-water stress,0.24457,0.19104,1.0,0.94897,1.0
+SYS001,Irrigated Agricultural Basin,agriculture and water allocation,72,background food-water stress,0.24718,0.19074,1.0,0.95113,1.0
+SYS001,Irrigated Agricultural Basin,agriculture and water allocation,73,background food-water stress,0.24009,0.19044,1.0,0.95316,1.0
+SYS001,Irrigated Agricultural Basin,agriculture and water allocation,74,background food-water stress,0.24165,0.19016,1.0,0.95523,1.0
+SYS001,Irrigated Agricultural Basin,agriculture and water allocation,75,background food-water stress,0.24774,0.18987,1.0,0.95741,1.0
+SYS001,Irrigated Agricultural Basin,agriculture and water allocation,76,background food-water stress,0.25094,0.18956,1.0,0.95965,1.0
+SYS001,Irrigated Agricultural Basin,agriculture and water allocation,77,background food-water stress,0.24782,0.18925,1.0,0.96184,1.0
+SYS001,Irrigated Agricultural Basin,agriculture and water allocation,78,background food-water stress,0.24946,0.18894,1.0,0.96407,1.0
+SYS001,Irrigated Agricultural Basin,agriculture and water allocation,79,background food-water stress,0.25015,0.18863,1.0,0.96631,1.0
+SYS002,Urban Drinking Water and Sanitation Network,water and public health,0,background food-water stress,0.18386,0.286,1.0,0.75988,1.0
+SYS002,Urban Drinking Water and Sanitation Network,water and public health,1,background food-water stress,0.19102,0.28602,1.0,0.75988,1.0
+SYS002,Urban Drinking Water and Sanitation Network,water and public health,2,background food-water stress,0.18697,0.28602,1.0,0.75982,1.0
+SYS002,Urban Drinking Water and Sanitation Network,water and public health,3,background food-water stress,0.1833,0.28603,1.0,0.75968,1.0
+SYS002,Urban Drinking Water and Sanitation Network,water and public health,4,background food-water stress,0.18705,0.28604,1.0,0.75962,1.0
+SYS002,Urban Drinking Water and Sanitation Network,water and public health,5,background food-water stress,0.18876,0.28605,1.0,0.75958,1.0
+SYS002,Urban Drinking Water and Sanitation Network,water and public health,6,background food-water stress,0.18373,0.28606,1.0,0.75946,1.0
+SYS002,Urban Drinking Water and Sanitation Network,water and public health,7,background food-water stress,0.18779,0.28608,1.0,0.7594,1.0
+SYS002,Urban Drinking Water and Sanitation Network,water and public health,8,background food-water stress,0.18816,0.28608,1.0,0.75936,1.0
+SYS002,Urban Drinking Water and Sanitation Network,water and public health,9,background food-water stress,0.1894,0.28609,1.0,0.75933,1.0
+SYS002,Urban Drinking Water and Sanitation Network,water and public health,10,background food-water stress,0.18779,0.28609,1.0,0.75928,1.0
+SYS002,Urban Drinking Water and Sanitation Network,water and public health,11,background food-water stress,0.18902,0.2861,1.0,0.75925,1.0
+SYS002,Urban Drinking Water and Sanitation Network,water and public health,12,Multi-season drought and groundwater stress,0.72031,0.2861,0.98201,0.76878,0.84893
+SYS002,Urban Drinking Water and Sanitation Network,water and public health,13,background food-water stress,0.19236,0.28477,1.0,0.76883,1.0
+SYS002,Urban Drinking Water and Sanitation Network,water and public health,14,background food-water stress,0.19533,0.28476,1.0,0.76893,1.0
+SYS002,Urban Drinking Water and Sanitation Network,water and public health,15,background food-water stress,0.19543,0.28475,1.0,0.76903,1.0
+SYS002,Urban Drinking Water and Sanitation Network,water and public health,16,background food-water stress,0.1931,0.28474,1.0,0.76909,1.0
+SYS002,Urban Drinking Water and Sanitation Network,water and public health,17,background food-water stress,0.19523,0.28473,1.0,0.76918,1.0
+SYS002,Urban Drinking Water and Sanitation Network,water and public health,18,background food-water stress,0.19213,0.28471,1.0,0.76923,1.0
+SYS002,Urban Drinking Water and Sanitation Network,water and public health,19,background food-water stress,0.19509,0.28471,1.0,0.76932,1.0
+SYS002,Urban Drinking Water and Sanitation Network,water and public health,20,background food-water stress,0.19468,0.28469,1.0,0.76941,1.0
+SYS002,Urban Drinking Water and Sanitation Network,water and public health,21,background food-water stress,0.19427,0.28468,1.0,0.76949,1.0
+SYS002,Urban Drinking Water and Sanitation Network,water and public health,22,background food-water stress,0.19247,0.28467,1.0,0.76954,1.0
+SYS002,Urban Drinking Water and Sanitation Network,water and public health,23,background food-water stress,0.19332,0.28466,1.0,0.7696,1.0
+SYS002,Urban Drinking Water and Sanitation Network,water and public health,24,background food-water stress,0.19737,0.28466,1.0,0.76974,1.0
+SYS002,Urban Drinking Water and Sanitation Network,water and public health,25,background food-water stress,0.19942,0.28464,1.0,0.76991,1.0
+SYS002,Urban Drinking Water and Sanitation Network,water and public health,26,background food-water stress,0.20015,0.28461,1.0,0.7701,1.0
+SYS002,Urban Drinking Water and Sanitation Network,water and public health,27,Extreme flood with sanitation and crop damage,0.73121,0.28459,0.97745,0.77985,0.85046
+SYS002,Urban Drinking Water and Sanitation Network,water and public health,28,background food-water stress,0.20383,0.28322,1.0,0.78012,1.0
+SYS002,Urban Drinking Water and Sanitation Network,water and public health,29,background food-water stress,0.2032,0.28318,1.0,0.78038,1.0
+SYS002,Urban Drinking Water and Sanitation Network,water and public health,30,background food-water stress,0.20489,0.28315,1.0,0.78067,1.0
+SYS002,Urban Drinking Water and Sanitation Network,water and public health,31,background food-water stress,0.19772,0.28311,1.0,0.78083,1.0
+SYS002,Urban Drinking Water and Sanitation Network,water and public health,32,background food-water stress,0.19997,0.28308,1.0,0.78103,1.0
+SYS002,Urban Drinking Water and Sanitation Network,water and public health,33,background food-water stress,0.20915,0.28306,1.0,0.7814,1.0
+SYS002,Urban Drinking Water and Sanitation Network,water and public health,34,background food-water stress,0.20451,0.283,1.0,0.78168,1.0
+SYS002,Urban Drinking Water and Sanitation Network,water and public health,35,background food-water stress,0.20818,0.28296,1.0,0.78204,1.0
+SYS002,Urban Drinking Water and Sanitation Network,water and public health,36,background food-water stress,0.20945,0.28291,1.0,0.78241,1.0
+SYS002,Urban Drinking Water and Sanitation Network,water and public health,37,background food-water stress,0.2023,0.28286,1.0,0.78266,1.0
+SYS002,Urban Drinking Water and Sanitation Network,water and public health,38,background food-water stress,0.2101,0.28283,1.0,0.78305,1.0
+SYS002,Urban Drinking Water and Sanitation Network,water and public health,39,background food-water stress,0.2095,0.28277,1.0,0.78342,1.0
+SYS002,Urban Drinking Water and Sanitation Network,water and public health,40,background food-water stress,0.20818,0.28272,1.0,0.78378,1.0
+SYS002,Urban Drinking Water and Sanitation Network,water and public health,41,background food-water stress,0.2136,0.28267,1.0,0.78423,1.0
+SYS002,Urban Drinking Water and Sanitation Network,water and public health,42,Food price spike and input shortage,0.63851,0.28261,1.0,0.79233,0.85888
+SYS002,Urban Drinking Water and Sanitation Network,water and public health,43,background food-water stress,0.20701,0.28147,1.0,0.79268,1.0
+SYS002,Urban Drinking Water and Sanitation Network,water and public health,44,background food-water stress,0.21255,0.28142,1.0,0.79313,1.0
+SYS002,Urban Drinking Water and Sanitation Network,water and public health,45,background food-water stress,0.20812,0.28136,1.0,0.7935,1.0
+SYS002,Urban Drinking Water and Sanitation Network,water and public health,46,background food-water stress,0.21284,0.28131,1.0,0.79396,1.0
+SYS002,Urban Drinking Water and Sanitation Network,water and public health,47,background food-water stress,0.21294,0.28125,1.0,0.79441,1.0
+SYS002,Urban Drinking Water and Sanitation Network,water and public health,48,background food-water stress,0.21006,0.28118,1.0,0.79482,1.0
+SYS002,Urban Drinking Water and Sanitation Network,water and public health,49,background food-water stress,0.21444,0.28113,1.0,0.79531,1.0
+SYS002,Urban Drinking Water and Sanitation Network,water and public health,50,background food-water stress,0.21576,0.28106,1.0,0.79582,1.0
+SYS002,Urban Drinking Water and Sanitation Network,water and public health,51,background food-water stress,0.21349,0.28099,1.0,0.79629,1.0
+SYS002,Urban Drinking Water and Sanitation Network,water and public health,52,background food-water stress,0.21495,0.28092,1.0,0.79679,1.0
+SYS002,Urban Drinking Water and Sanitation Network,water and public health,53,background food-water stress,0.21905,0.28085,1.0,0.79736,1.0
+SYS002,Urban Drinking Water and Sanitation Network,water and public health,54,background food-water stress,0.21685,0.28077,1.0,0.79789,1.0
+SYS002,Urban Drinking Water and Sanitation Network,water and public health,55,background food-water stress,0.2175,0.28069,1.0,0.79844,1.0
+SYS002,Urban Drinking Water and Sanitation Network,water and public health,56,Water-quality contamination event,0.63941,0.28062,1.0,0.80658,0.85328
+SYS002,Urban Drinking Water and Sanitation Network,water and public health,57,background food-water stress,0.21889,0.27948,1.0,0.80717,1.0
+SYS002,Urban Drinking Water and Sanitation Network,water and public health,58,background food-water stress,0.22039,0.2794,1.0,0.80778,1.0
+SYS002,Urban Drinking Water and Sanitation Network,water and public health,59,background food-water stress,0.22206,0.27931,1.0,0.80843,1.0
+SYS002,Urban Drinking Water and Sanitation Network,water and public health,60,background food-water stress,0.22081,0.27922,1.0,0.80905,1.0
+SYS002,Urban Drinking Water and Sanitation Network,water and public health,61,background food-water stress,0.22336,0.27913,1.0,0.80972,1.0
+SYS002,Urban Drinking Water and Sanitation Network,water and public health,62,background food-water stress,0.21782,0.27904,1.0,0.8103,1.0
+SYS002,Urban Drinking Water and Sanitation Network,water and public health,63,background food-water stress,0.21802,0.27896,1.0,0.81087,1.0
+SYS002,Urban Drinking Water and Sanitation Network,water and public health,64,background food-water stress,0.22008,0.27888,1.0,0.81149,1.0
+SYS002,Urban Drinking Water and Sanitation Network,water and public health,65,background food-water stress,0.22278,0.27879,1.0,0.81215,1.0
+SYS002,Urban Drinking Water and Sanitation Network,water and public health,66,background food-water stress,0.22651,0.2787,1.0,0.81288,1.0
+SYS002,Urban Drinking Water and Sanitation Network,water and public health,67,background food-water stress,0.22536,0.2786,1.0,0.8136,1.0
+SYS002,Urban Drinking Water and Sanitation Network,water and public health,68,background food-water stress,0.22691,0.2785,1.0,0.81434,1.0
+SYS002,Urban Drinking Water and Sanitation Network,water and public health,69,background food-water stress,0.22426,0.27839,1.0,0.81504,1.0
+SYS002,Urban Drinking Water and Sanitation Network,water and public health,70,Compound heat drought market and power disruption,0.8262,0.27829,0.94158,0.82657,0.79289
+SYS002,Urban Drinking Water and Sanitation Network,water and public health,71,background food-water stress,0.22865,0.27668,1.0,0.82736,1.0
+SYS002,Urban Drinking Water and Sanitation Network,water and public health,72,background food-water stress,0.22914,0.27657,1.0,0.82817,1.0
+SYS002,Urban Drinking Water and Sanitation Network,water and public health,73,background food-water stress,0.22922,0.27646,1.0,0.82898,1.0
+SYS002,Urban Drinking Water and Sanitation Network,water and public health,74,background food-water stress,0.2265,0.27634,1.0,0.82974,1.0
+SYS002,Urban Drinking Water and Sanitation Network,water and public health,75,background food-water stress,0.23132,0.27624,1.0,0.83059,1.0
+SYS002,Urban Drinking Water and Sanitation Network,water and public health,76,background food-water stress,0.23274,0.27612,1.0,0.83146,1.0
+SYS002,Urban Drinking Water and Sanitation Network,water and public health,77,background food-water stress,0.23189,0.27599,1.0,0.83233,1.0
+SYS002,Urban Drinking Water and Sanitation Network,water and public health,78,background food-water stress,0.23685,0.27587,1.0,0.83328,1.0
+SYS002,Urban Drinking Water and Sanitation Network,water and public health,79,background food-water stress,0.23492,0.27574,1.0,0.8342,1.0
+SYS003,Regional Food Storage and Distribution System,food logistics,0,background food-water stress,0.17898,0.2284,0.97991,0.72048,1.0
+SYS003,Regional Food Storage and Distribution System,food logistics,1,background food-water stress,0.18025,0.22833,1.0,0.72099,1.0
+SYS003,Regional Food Storage and Distribution System,food logistics,2,background food-water stress,0.18147,0.22826,1.0,0.72151,1.0
+SYS003,Regional Food Storage and Distribution System,food logistics,3,background food-water stress,0.18318,0.22819,1.0,0.72207,1.0
+SYS003,Regional Food Storage and Distribution System,food logistics,4,background food-water stress,0.18009,0.22811,1.0,0.72258,1.0
+SYS003,Regional Food Storage and Distribution System,food logistics,5,background food-water stress,0.18404,0.22804,1.0,0.72315,1.0
+SYS003,Regional Food Storage and Distribution System,food logistics,6,background food-water stress,0.18747,0.22796,1.0,0.72379,1.0
+SYS003,Regional Food Storage and Distribution System,food logistics,7,background food-water stress,0.18198,0.22787,1.0,0.72433,1.0
+SYS003,Regional Food Storage and Distribution System,food logistics,8,background food-water stress,0.18455,0.22779,1.0,0.72492,1.0
+SYS003,Regional Food Storage and Distribution System,food logistics,9,background food-water stress,0.18729,0.22771,1.0,0.72556,1.0
+SYS003,Regional Food Storage and Distribution System,food logistics,10,background food-water stress,0.18572,0.22762,1.0,0.72617,1.0
+SYS003,Regional Food Storage and Distribution System,food logistics,11,background food-water stress,0.18516,0.22754,1.0,0.72677,1.0
+SYS003,Regional Food Storage and Distribution System,food logistics,12,Multi-season drought and groundwater stress,0.71641,0.22745,0.95665,0.73694,0.81843
+SYS003,Regional Food Storage and Distribution System,food logistics,13,background food-water stress,0.18753,0.22603,1.0,0.7376,1.0
+SYS003,Regional Food Storage and Distribution System,food logistics,14,background food-water stress,0.19132,0.22594,1.0,0.73834,1.0
+SYS003,Regional Food Storage and Distribution System,food logistics,15,background food-water stress,0.18613,0.22583,1.0,0.73898,1.0
+SYS003,Regional Food Storage and Distribution System,food logistics,16,background food-water stress,0.1908,0.22574,1.0,0.7397,1.0
+SYS003,Regional Food Storage and Distribution System,food logistics,17,background food-water stress,0.19281,0.22564,1.0,0.74046,1.0
+SYS003,Regional Food Storage and Distribution System,food logistics,18,background food-water stress,0.19083,0.22554,1.0,0.74119,1.0
+SYS003,Regional Food Storage and Distribution System,food logistics,19,background food-water stress,0.19289,0.22543,1.0,0.74196,1.0
+SYS003,Regional Food Storage and Distribution System,food logistics,20,background food-water stress,0.19181,0.22533,1.0,0.74271,1.0
+SYS003,Regional Food Storage and Distribution System,food logistics,21,background food-water stress,0.19401,0.22522,1.0,0.7435,1.0
+SYS003,Regional Food Storage and Distribution System,food logistics,22,background food-water stress,0.19421,0.22511,1.0,0.74429,1.0
+SYS003,Regional Food Storage and Distribution System,food logistics,23,background food-water stress,0.19816,0.225,1.0,0.74516,1.0
+SYS003,Regional Food Storage and Distribution System,food logistics,24,background food-water stress,0.1982,0.22488,1.0,0.74603,1.0
+SYS003,Regional Food Storage and Distribution System,food logistics,25,background food-water stress,0.19853,0.22476,1.0,0.7469,1.0
+SYS003,Regional Food Storage and Distribution System,food logistics,26,background food-water stress,0.19707,0.22463,1.0,0.74776,1.0
+SYS003,Regional Food Storage and Distribution System,food logistics,27,Extreme flood with sanitation and crop damage,0.72853,0.22451,0.95086,0.75818,0.8188
+SYS003,Regional Food Storage and Distribution System,food logistics,28,background food-water stress,0.20229,0.22306,1.0,0.75914,1.0
+SYS003,Regional Food Storage and Distribution System,food logistics,29,background food-water stress,0.2004,0.22292,1.0,0.76007,1.0
+SYS003,Regional Food Storage and Distribution System,food logistics,30,background food-water stress,0.2033,0.22279,1.0,0.76106,1.0
+SYS003,Regional Food Storage and Distribution System,food logistics,31,background food-water stress,0.20177,0.22265,1.0,0.76202,1.0
+SYS003,Regional Food Storage and Distribution System,food logistics,32,background food-water stress,0.20445,0.22252,1.0,0.76303,1.0
+SYS003,Regional Food Storage and Distribution System,food logistics,33,background food-water stress,0.20408,0.22238,1.0,0.76403,1.0
+SYS003,Regional Food Storage and Distribution System,food logistics,34,background food-water stress,0.20338,0.22224,1.0,0.76503,1.0
+SYS003,Regional Food Storage and Distribution System,food logistics,35,background food-water stress,0.20289,0.2221,1.0,0.76601,1.0
+SYS003,Regional Food Storage and Distribution System,food logistics,36,background food-water stress,0.20552,0.22196,1.0,0.76705,1.0
+SYS003,Regional Food Storage and Distribution System,food logistics,37,background food-water stress,0.20418,0.22181,1.0,0.76806,1.0
+SYS003,Regional Food Storage and Distribution System,food logistics,38,background food-water stress,0.20609,0.22167,1.0,0.76911,1.0
+SYS003,Regional Food Storage and Distribution System,food logistics,39,background food-water stress,0.20646,0.22152,1.0,0.77017,1.0
+SYS003,Regional Food Storage and Distribution System,food logistics,40,background food-water stress,0.20423,0.22138,1.0,0.77119,1.0
+SYS003,Regional Food Storage and Distribution System,food logistics,41,background food-water stress,0.20478,0.22123,1.0,0.77222,1.0
+SYS003,Regional Food Storage and Distribution System,food logistics,42,Food price spike and input shortage,0.63707,0.22109,0.98001,0.78104,0.83293
+SYS003,Regional Food Storage and Distribution System,food logistics,43,background food-water stress,0.20509,0.21986,1.0,0.78209,1.0
+SYS003,Regional Food Storage and Distribution System,food logistics,44,background food-water stress,0.20709,0.21971,1.0,0.78318,1.0
+SYS003,Regional Food Storage and Distribution System,food logistics,45,background food-water stress,0.2061,0.21955,1.0,0.78426,1.0
+SYS003,Regional Food Storage and Distribution System,food logistics,46,background food-water stress,0.20952,0.2194,1.0,0.78539,1.0
+SYS003,Regional Food Storage and Distribution System,food logistics,47,background food-water stress,0.2126,0.21924,1.0,0.78659,1.0
+SYS003,Regional Food Storage and Distribution System,food logistics,48,background food-water stress,0.20898,0.21908,1.0,0.78772,1.0
+SYS003,Regional Food Storage and Distribution System,food logistics,49,background food-water stress,0.21327,0.21892,1.0,0.78893,1.0
+SYS003,Regional Food Storage and Distribution System,food logistics,50,background food-water stress,0.21167,0.21875,1.0,0.79012,1.0
+SYS003,Regional Food Storage and Distribution System,food logistics,51,background food-water stress,0.21813,0.21858,1.0,0.79142,1.0
+SYS003,Regional Food Storage and Distribution System,food logistics,52,background food-water stress,0.2168,0.2184,1.0,0.7927,1.0
+SYS003,Regional Food Storage and Distribution System,food logistics,53,background food-water stress,0.21484,0.21822,1.0,0.79395,1.0
+SYS003,Regional Food Storage and Distribution System,food logistics,54,background food-water stress,0.21185,0.21805,1.0,0.79515,1.0
+SYS003,Regional Food Storage and Distribution System,food logistics,55,background food-water stress,0.218,0.21788,1.0,0.79646,1.0
+SYS003,Regional Food Storage and Distribution System,food logistics,56,Water-quality contamination event,0.63918,0.2177,0.97737,0.80535,0.82522
+SYS003,Regional Food Storage and Distribution System,food logistics,57,background food-water stress,0.22397,0.21645,1.0,0.80679,1.0
+SYS003,Regional Food Storage and Distribution System,food logistics,58,background food-water stress,0.22215,0.21625,1.0,0.80819,1.0
+SYS003,Regional Food Storage and Distribution System,food logistics,59,background food-water stress,0.21619,0.21605,1.0,0.80949,1.0
+SYS003,Regional Food Storage and Distribution System,food logistics,60,background food-water stress,0.22035,0.21587,1.0,0.81086,1.0
+SYS003,Regional Food Storage and Distribution System,food logistics,61,background food-water stress,0.22555,0.21568,1.0,0.81234,1.0
+SYS003,Regional Food Storage and Distribution System,food logistics,62,background food-water stress,0.22647,0.21547,1.0,0.81383,1.0
+SYS003,Regional Food Storage and Distribution System,food logistics,63,background food-water stress,0.22384,0.21526,1.0,0.81527,1.0
+SYS003,Regional Food Storage and Distribution System,food logistics,64,background food-water stress,0.2245,0.21506,1.0,0.81673,1.0
+SYS003,Regional Food Storage and Distribution System,food logistics,65,background food-water stress,0.22754,0.21486,1.0,0.81825,1.0
+SYS003,Regional Food Storage and Distribution System,food logistics,66,background food-water stress,0.22475,0.21465,1.0,0.81972,1.0
+SYS003,Regional Food Storage and Distribution System,food logistics,67,background food-water stress,0.2267,0.21444,1.0,0.82123,1.0
+SYS003,Regional Food Storage and Distribution System,food logistics,68,background food-water stress,0.22411,0.21423,1.0,0.82269,1.0
+SYS003,Regional Food Storage and Distribution System,food logistics,69,background food-water stress,0.22773,0.21402,1.0,0.82422,1.0
+SYS003,Regional Food Storage and Distribution System,food logistics,70,Compound heat drought market and power disruption,0.82731,0.21381,0.9112,0.83655,0.75914
+SYS003,Regional Food Storage and Distribution System,food logistics,71,background food-water stress,0.23489,0.21208,1.0,0.83823,1.0
+SYS003,Regional Food Storage and Distribution System,food logistics,72,background food-water stress,0.22744,0.21185,1.0,0.83978,1.0
+SYS003,Regional Food Storage and Distribution System,food logistics,73,background food-water stress,0.23348,0.21163,1.0,0.84144,1.0
+SYS003,Regional Food Storage and Distribution System,food logistics,74,background food-water stress,0.2283,0.2114,1.0,0.84302,1.0
+SYS003,Regional Food Storage and Distribution System,food logistics,75,background food-water stress,0.23021,0.21118,1.0,0.84463,1.0
+SYS003,Regional Food Storage and Distribution System,food logistics,76,background food-water stress,0.23238,0.21095,1.0,0.84628,1.0
+SYS003,Regional Food Storage and Distribution System,food logistics,77,background food-water stress,0.23651,0.21072,1.0,0.84801,1.0
+SYS003,Regional Food Storage and Distribution System,food logistics,78,background food-water stress,0.23488,0.21048,1.0,0.84971,1.0
+SYS003,Regional Food Storage and Distribution System,food logistics,79,background food-water stress,0.23854,0.21024,1.0,0.85148,1.0
+SYS004,Watershed and Recharge Landscape,ecosystem and hydrology,0,background food-water stress,0.17821,0.2864,0.97115,0.67977,0.98747
+SYS004,Watershed and Recharge Landscape,ecosystem and hydrology,1,background food-water stress,0.17879,0.28643,1.0,0.67955,1.0
+SYS004,Watershed and Recharge Landscape,ecosystem and hydrology,2,background food-water stress,0.1723,0.28646,1.0,0.67922,1.0
+SYS004,Watershed and Recharge Landscape,ecosystem and hydrology,3,background food-water stress,0.17535,0.28651,1.0,0.67893,1.0
+SYS004,Watershed and Recharge Landscape,ecosystem and hydrology,4,background food-water stress,0.1791,0.28655,1.0,0.67872,1.0
+SYS004,Watershed and Recharge Landscape,ecosystem and hydrology,5,background food-water stress,0.17789,0.28658,1.0,0.67848,1.0
+SYS004,Watershed and Recharge Landscape,ecosystem and hydrology,6,background food-water stress,0.17425,0.28661,1.0,0.67818,1.0
+SYS004,Watershed and Recharge Landscape,ecosystem and hydrology,7,background food-water stress,0.178,0.28665,1.0,0.67794,1.0
+SYS004,Watershed and Recharge Landscape,ecosystem and hydrology,8,background food-water stress,0.17535,0.28669,1.0,0.67766,1.0
+SYS004,Watershed and Recharge Landscape,ecosystem and hydrology,9,background food-water stress,0.17773,0.28673,1.0,0.67742,1.0
+SYS004,Watershed and Recharge Landscape,ecosystem and hydrology,10,background food-water stress,0.17785,0.28676,1.0,0.67718,1.0
+SYS004,Watershed and Recharge Landscape,ecosystem and hydrology,11,background food-water stress,0.1835,0.2868,1.0,0.67704,1.0
+SYS004,Watershed and Recharge Landscape,ecosystem and hydrology,12,Multi-season drought and groundwater stress,0.71044,0.28681,0.99043,0.68639,0.84068
+SYS004,Watershed and Recharge Landscape,ecosystem and hydrology,13,background food-water stress,0.18407,0.28551,1.0,0.68627,1.0
+SYS004,Watershed and Recharge Landscape,ecosystem and hydrology,14,background food-water stress,0.18575,0.28552,1.0,0.68619,1.0
+SYS004,Watershed and Recharge Landscape,ecosystem and hydrology,15,background food-water stress,0.18155,0.28553,1.0,0.68603,1.0
+SYS004,Watershed and Recharge Landscape,ecosystem and hydrology,16,background food-water stress,0.18748,0.28556,1.0,0.68598,1.0
+SYS004,Watershed and Recharge Landscape,ecosystem and hydrology,17,background food-water stress,0.18538,0.28556,1.0,0.68589,1.0
+SYS004,Watershed and Recharge Landscape,ecosystem and hydrology,18,background food-water stress,0.1825,0.28558,1.0,0.68575,1.0
+SYS004,Watershed and Recharge Landscape,ecosystem and hydrology,19,background food-water stress,0.187,0.2856,1.0,0.68569,1.0
+SYS004,Watershed and Recharge Landscape,ecosystem and hydrology,20,background food-water stress,0.19097,0.2856,1.0,0.6857,1.0
+SYS004,Watershed and Recharge Landscape,ecosystem and hydrology,21,background food-water stress,0.18821,0.2856,1.0,0.68566,1.0
+SYS004,Watershed and Recharge Landscape,ecosystem and hydrology,22,background food-water stress,0.18595,0.28561,1.0,0.68558,1.0
+SYS004,Watershed and Recharge Landscape,ecosystem and hydrology,23,background food-water stress,0.18516,0.28562,1.0,0.68548,1.0
+SYS004,Watershed and Recharge Landscape,ecosystem and hydrology,24,background food-water stress,0.18437,0.28563,1.0,0.68537,1.0
+SYS004,Watershed and Recharge Landscape,ecosystem and hydrology,25,background food-water stress,0.18884,0.28565,1.0,0.68535,1.0
+SYS004,Watershed and Recharge Landscape,ecosystem and hydrology,26,background food-water stress,0.19232,0.28565,1.0,0.68538,1.0
+SYS004,Watershed and Recharge Landscape,ecosystem and hydrology,27,Extreme flood with sanitation and crop damage,0.72105,0.28565,0.98616,0.69493,0.84258
+SYS004,Watershed and Recharge Landscape,ecosystem and hydrology,28,background food-water stress,0.18884,0.28431,1.0,0.69492,1.0
+SYS004,Watershed and Recharge Landscape,ecosystem and hydrology,29,background food-water stress,0.19779,0.28431,1.0,0.69507,1.0
+SYS004,Watershed and Recharge Landscape,ecosystem and hydrology,30,background food-water stress,0.19442,0.28429,1.0,0.69515,1.0
+SYS004,Watershed and Recharge Landscape,ecosystem and hydrology,31,background food-water stress,0.19292,0.28428,1.0,0.69522,1.0
+SYS004,Watershed and Recharge Landscape,ecosystem and hydrology,32,background food-water stress,0.19431,0.28427,1.0,0.6953,1.0
+SYS004,Watershed and Recharge Landscape,ecosystem and hydrology,33,background food-water stress,0.19521,0.28426,1.0,0.6954,1.0
+SYS004,Watershed and Recharge Landscape,ecosystem and hydrology,34,background food-water stress,0.19561,0.28424,1.0,0.69551,1.0
+SYS004,Watershed and Recharge Landscape,ecosystem and hydrology,35,background food-water stress,0.19202,0.28423,1.0,0.69556,1.0
+SYS004,Watershed and Recharge Landscape,ecosystem and hydrology,36,background food-water stress,0.19361,0.28422,1.0,0.69563,1.0
+SYS004,Watershed and Recharge Landscape,ecosystem and hydrology,37,background food-water stress,0.19847,0.28421,1.0,0.6958,1.0
+SYS004,Watershed and Recharge Landscape,ecosystem and hydrology,38,background food-water stress,0.19762,0.28419,1.0,0.69594,1.0
+SYS004,Watershed and Recharge Landscape,ecosystem and hydrology,39,background food-water stress,0.19471,0.28417,1.0,0.69604,1.0
+SYS004,Watershed and Recharge Landscape,ecosystem and hydrology,40,background food-water stress,0.19887,0.28415,1.0,0.69621,1.0
+SYS004,Watershed and Recharge Landscape,ecosystem and hydrology,41,background food-water stress,0.19719,0.28413,1.0,0.69635,1.0
+SYS004,Watershed and Recharge Landscape,ecosystem and hydrology,42,Food price spike and input shortage,0.62796,0.28411,1.0,0.70424,0.8432
+SYS004,Watershed and Recharge Landscape,ecosystem and hydrology,43,background food-water stress,0.19932,0.28301,1.0,0.70443,1.0
+SYS004,Watershed and Recharge Landscape,ecosystem and hydrology,44,background food-water stress,0.20055,0.28298,1.0,0.70465,1.0
+SYS004,Watershed and Recharge Landscape,ecosystem and hydrology,45,background food-water stress,0.20426,0.28295,1.0,0.70493,1.0
+SYS004,Watershed and Recharge Landscape,ecosystem and hydrology,46,background food-water stress,0.20469,0.28291,1.0,0.70522,1.0
+SYS004,Watershed and Recharge Landscape,ecosystem and hydrology,47,background food-water stress,0.2035,0.28287,1.0,0.70549,1.0
+SYS004,Watershed and Recharge Landscape,ecosystem and hydrology,48,background food-water stress,0.19993,0.28283,1.0,0.70569,1.0
+SYS004,Watershed and Recharge Landscape,ecosystem and hydrology,49,background food-water stress,0.20228,0.2828,1.0,0.70594,1.0
+SYS004,Watershed and Recharge Landscape,ecosystem and hydrology,50,background food-water stress,0.20663,0.28277,1.0,0.70627,1.0
+SYS004,Watershed and Recharge Landscape,ecosystem and hydrology,51,background food-water stress,0.20801,0.28272,1.0,0.70662,1.0
+SYS004,Watershed and Recharge Landscape,ecosystem and hydrology,52,background food-water stress,0.20286,0.28267,1.0,0.70688,1.0
+SYS004,Watershed and Recharge Landscape,ecosystem and hydrology,53,background food-water stress,0.20351,0.28264,1.0,0.70715,1.0
+SYS004,Watershed and Recharge Landscape,ecosystem and hydrology,54,background food-water stress,0.20532,0.2826,1.0,0.70745,1.0
+SYS004,Watershed and Recharge Landscape,ecosystem and hydrology,55,background food-water stress,0.20513,0.28256,1.0,0.70775,1.0
+SYS004,Watershed and Recharge Landscape,ecosystem and hydrology,56,Water-quality contamination event,0.62853,0.28251,1.0,0.71568,0.8376
+SYS004,Watershed and Recharge Landscape,ecosystem and hydrology,57,background food-water stress,0.20669,0.28141,1.0,0.71602,1.0
+SYS004,Watershed and Recharge Landscape,ecosystem and hydrology,58,background food-water stress,0.20986,0.28136,1.0,0.71642,1.0
+SYS004,Watershed and Recharge Landscape,ecosystem and hydrology,59,background food-water stress,0.21228,0.2813,1.0,0.71687,1.0
+SYS004,Watershed and Recharge Landscape,ecosystem and hydrology,60,background food-water stress,0.20745,0.28124,1.0,0.71723,1.0
+SYS004,Watershed and Recharge Landscape,ecosystem and hydrology,61,background food-water stress,0.21009,0.28119,1.0,0.71763,1.0
+SYS004,Watershed and Recharge Landscape,ecosystem and hydrology,62,background food-water stress,0.21065,0.28113,1.0,0.71805,1.0
+SYS004,Watershed and Recharge Landscape,ecosystem and hydrology,63,background food-water stress,0.21296,0.28107,1.0,0.71851,1.0
+SYS004,Watershed and Recharge Landscape,ecosystem and hydrology,64,background food-water stress,0.21169,0.28101,1.0,0.71895,1.0
+SYS004,Watershed and Recharge Landscape,ecosystem and hydrology,65,background food-water stress,0.21623,0.28095,1.0,0.71947,1.0
+SYS004,Watershed and Recharge Landscape,ecosystem and hydrology,66,background food-water stress,0.21585,0.28087,1.0,0.71999,1.0
+SYS004,Watershed and Recharge Landscape,ecosystem and hydrology,67,background food-water stress,0.21356,0.2808,1.0,0.72046,1.0
+SYS004,Watershed and Recharge Landscape,ecosystem and hydrology,68,background food-water stress,0.2115,0.28074,1.0,0.7209,1.0
+SYS004,Watershed and Recharge Landscape,ecosystem and hydrology,69,background food-water stress,0.21246,0.28067,1.0,0.72136,1.0
+SYS004,Watershed and Recharge Landscape,ecosystem and hydrology,70,Compound heat drought market and power disruption,0.81496,0.28061,0.95137,0.73266,0.78621
+SYS004,Watershed and Recharge Landscape,ecosystem and hydrology,71,background food-water stress,0.21825,0.27903,1.0,0.73324,1.0
+SYS004,Watershed and Recharge Landscape,ecosystem and hydrology,72,background food-water stress,0.21872,0.27895,1.0,0.73383,1.0
+SYS004,Watershed and Recharge Landscape,ecosystem and hydrology,73,background food-water stress,0.21862,0.27886,1.0,0.73442,1.0
+SYS004,Watershed and Recharge Landscape,ecosystem and hydrology,74,background food-water stress,0.22112,0.27878,1.0,0.73505,1.0
+SYS004,Watershed and Recharge Landscape,ecosystem and hydrology,75,background food-water stress,0.21469,0.27869,1.0,0.73557,1.0
+SYS004,Watershed and Recharge Landscape,ecosystem and hydrology,76,background food-water stress,0.22305,0.27862,1.0,0.73624,1.0
+SYS004,Watershed and Recharge Landscape,ecosystem and hydrology,77,background food-water stress,0.22471,0.27853,1.0,0.73694,1.0
+SYS004,Watershed and Recharge Landscape,ecosystem and hydrology,78,background food-water stress,0.22477,0.27843,1.0,0.73765,1.0
+SYS004,Watershed and Recharge Landscape,ecosystem and hydrology,79,background food-water stress,0.21901,0.27833,1.0,0.73825,1.0
+SYS005,Smallholder Food and Water Livelihood System,community livelihoods,0,background food-water stress,0.18779,0.214,0.91649,0.74081,0.94831
+SYS005,Smallholder Food and Water Livelihood System,community livelihoods,1,background food-water stress,0.18315,0.21389,1.0,0.74154,1.0
+SYS005,Smallholder Food and Water Livelihood System,community livelihoods,2,background food-water stress,0.18425,0.21378,1.0,0.74229,1.0
+SYS005,Smallholder Food and Water Livelihood System,community livelihoods,3,background food-water stress,0.18352,0.21368,1.0,0.74303,1.0
+SYS005,Smallholder Food and Water Livelihood System,community livelihoods,4,background food-water stress,0.18554,0.21358,1.0,0.74381,1.0
+SYS005,Smallholder Food and Water Livelihood System,community livelihoods,5,background food-water stress,0.1844,0.21347,1.0,0.74457,1.0
+SYS005,Smallholder Food and Water Livelihood System,community livelihoods,6,background food-water stress,0.1862,0.21336,1.0,0.74536,1.0
+SYS005,Smallholder Food and Water Livelihood System,community livelihoods,7,background food-water stress,0.18961,0.21325,1.0,0.74621,1.0
+SYS005,Smallholder Food and Water Livelihood System,community livelihoods,8,background food-water stress,0.18583,0.21313,1.0,0.747,1.0
+SYS005,Smallholder Food and Water Livelihood System,community livelihoods,9,background food-water stress,0.18964,0.21302,1.0,0.74786,1.0
+SYS005,Smallholder Food and Water Livelihood System,community livelihoods,10,background food-water stress,0.188,0.2129,1.0,0.74869,1.0
+SYS005,Smallholder Food and Water Livelihood System,community livelihoods,11,background food-water stress,0.18811,0.21278,1.0,0.74952,1.0
+SYS005,Smallholder Food and Water Livelihood System,community livelihoods,12,Multi-season drought and groundwater stress,0.71914,0.21267,0.95508,0.75991,0.82778
+SYS005,Smallholder Food and Water Livelihood System,community livelihoods,13,background food-water stress,0.19018,0.21121,1.0,0.7608,1.0
+SYS005,Smallholder Food and Water Livelihood System,community livelihoods,14,background food-water stress,0.19048,0.21109,1.0,0.7617,1.0
+SYS005,Smallholder Food and Water Livelihood System,community livelihoods,15,background food-water stress,0.19668,0.21096,1.0,0.7627,1.0
+SYS005,Smallholder Food and Water Livelihood System,community livelihoods,16,background food-water stress,0.19153,0.21082,1.0,0.76362,1.0
+SYS005,Smallholder Food and Water Livelihood System,community livelihoods,17,background food-water stress,0.19577,0.21069,1.0,0.76462,1.0
+SYS005,Smallholder Food and Water Livelihood System,community livelihoods,18,background food-water stress,0.1959,0.21055,1.0,0.76562,1.0
+SYS005,Smallholder Food and Water Livelihood System,community livelihoods,19,background food-water stress,0.19466,0.21041,1.0,0.7666,1.0
+SYS005,Smallholder Food and Water Livelihood System,community livelihoods,20,background food-water stress,0.19883,0.21028,1.0,0.76765,1.0
+SYS005,Smallholder Food and Water Livelihood System,community livelihoods,21,background food-water stress,0.1977,0.21013,1.0,0.76869,1.0
+SYS005,Smallholder Food and Water Livelihood System,community livelihoods,22,background food-water stress,0.2027,0.20998,1.0,0.76982,1.0
+SYS005,Smallholder Food and Water Livelihood System,community livelihoods,23,background food-water stress,0.19609,0.20983,1.0,0.77083,1.0
+SYS005,Smallholder Food and Water Livelihood System,community livelihoods,24,background food-water stress,0.19501,0.20968,1.0,0.77182,1.0
+SYS005,Smallholder Food and Water Livelihood System,community livelihoods,25,background food-water stress,0.19495,0.20954,1.0,0.77282,1.0
+SYS005,Smallholder Food and Water Livelihood System,community livelihoods,26,background food-water stress,0.19799,0.20941,1.0,0.77387,1.0
+SYS005,Smallholder Food and Water Livelihood System,community livelihoods,27,Extreme flood with sanitation and crop damage,0.73166,0.20926,0.94888,0.78453,0.82773
+SYS005,Smallholder Food and Water Livelihood System,community livelihoods,28,background food-water stress,0.19713,0.20777,1.0,0.78558,1.0
+SYS005,Smallholder Food and Water Livelihood System,community livelihoods,29,background food-water stress,0.20311,0.20762,1.0,0.78675,1.0
+SYS005,Smallholder Food and Water Livelihood System,community livelihoods,30,background food-water stress,0.20157,0.20746,1.0,0.78789,1.0
+SYS005,Smallholder Food and Water Livelihood System,community livelihoods,31,background food-water stress,0.20614,0.2073,1.0,0.78911,1.0
+SYS005,Smallholder Food and Water Livelihood System,community livelihoods,32,background food-water stress,0.20519,0.20712,1.0,0.79032,1.0
+SYS005,Smallholder Food and Water Livelihood System,community livelihoods,33,background food-water stress,0.20552,0.20696,1.0,0.79153,1.0
+SYS005,Smallholder Food and Water Livelihood System,community livelihoods,34,background food-water stress,0.2092,0.20679,1.0,0.79282,1.0
+SYS005,Smallholder Food and Water Livelihood System,community livelihoods,35,background food-water stress,0.21113,0.20661,1.0,0.79414,1.0
+SYS005,Smallholder Food and Water Livelihood System,community livelihoods,36,background food-water stress,0.20945,0.20642,1.0,0.79543,1.0
+SYS005,Smallholder Food and Water Livelihood System,community livelihoods,37,background food-water stress,0.20949,0.20624,1.0,0.79673,1.0
+SYS005,Smallholder Food and Water Livelihood System,community livelihoods,38,background food-water stress,0.20625,0.20606,1.0,0.79797,1.0
+SYS005,Smallholder Food and Water Livelihood System,community livelihoods,39,background food-water stress,0.20995,0.20588,1.0,0.79928,1.0
+SYS005,Smallholder Food and Water Livelihood System,community livelihoods,40,background food-water stress,0.20953,0.2057,1.0,0.80058,1.0
+SYS005,Smallholder Food and Water Livelihood System,community livelihoods,41,background food-water stress,0.2086,0.20552,1.0,0.80187,1.0
+SYS005,Smallholder Food and Water Livelihood System,community livelihoods,42,Food price spike and input shortage,0.64062,0.20534,0.97762,0.81093,0.84184
+SYS005,Smallholder Food and Water Livelihood System,community livelihoods,43,background food-water stress,0.21523,0.20407,1.0,0.81236,1.0
+SYS005,Smallholder Food and Water Livelihood System,community livelihoods,44,background food-water stress,0.213,0.20387,1.0,0.81375,1.0
+SYS005,Smallholder Food and Water Livelihood System,community livelihoods,45,background food-water stress,0.21729,0.20368,1.0,0.81521,1.0
+SYS005,Smallholder Food and Water Livelihood System,community livelihoods,46,background food-water stress,0.21771,0.20347,1.0,0.81669,1.0
+SYS005,Smallholder Food and Water Livelihood System,community livelihoods,47,background food-water stress,0.21371,0.20326,1.0,0.8181,1.0
+SYS005,Smallholder Food and Water Livelihood System,community livelihoods,48,background food-water stress,0.21242,0.20307,1.0,0.81949,1.0
+SYS005,Smallholder Food and Water Livelihood System,community livelihoods,49,background food-water stress,0.21389,0.20287,1.0,0.8209,1.0
+SYS005,Smallholder Food and Water Livelihood System,community livelihoods,50,background food-water stress,0.21329,0.20267,1.0,0.82231,1.0
+SYS005,Smallholder Food and Water Livelihood System,community livelihoods,51,background food-water stress,0.21506,0.20248,1.0,0.82375,1.0
+SYS005,Smallholder Food and Water Livelihood System,community livelihoods,52,background food-water stress,0.21814,0.20228,1.0,0.82525,1.0
+SYS005,Smallholder Food and Water Livelihood System,community livelihoods,53,background food-water stress,0.21506,0.20207,1.0,0.8267,1.0
+SYS005,Smallholder Food and Water Livelihood System,community livelihoods,54,background food-water stress,0.21862,0.20186,1.0,0.82821,1.0
+SYS005,Smallholder Food and Water Livelihood System,community livelihoods,55,background food-water stress,0.2195,0.20165,1.0,0.82974,1.0
+SYS005,Smallholder Food and Water Livelihood System,community livelihoods,56,Water-quality contamination event,0.64317,0.20144,0.97454,0.8389,0.83374
+SYS005,Smallholder Food and Water Livelihood System,community livelihoods,57,background food-water stress,0.22127,0.20015,1.0,0.84048,1.0
+SYS005,Smallholder Food and Water Livelihood System,community livelihoods,58,background food-water stress,0.2236,0.19993,1.0,0.84211,1.0
+SYS005,Smallholder Food and Water Livelihood System,community livelihoods,59,background food-water stress,0.2243,0.19971,1.0,0.84375,1.0
+SYS005,Smallholder Food and Water Livelihood System,community livelihoods,60,background food-water stress,0.22823,0.19948,1.0,0.84546,1.0
+SYS005,Smallholder Food and Water Livelihood System,community livelihoods,61,background food-water stress,0.22529,0.19924,1.0,0.84713,1.0
+SYS005,Smallholder Food and Water Livelihood System,community livelihoods,62,background food-water stress,0.22424,0.199,1.0,0.84877,1.0
+SYS005,Smallholder Food and Water Livelihood System,community livelihoods,63,background food-water stress,0.22967,0.19877,1.0,0.85052,1.0
+SYS005,Smallholder Food and Water Livelihood System,community livelihoods,64,background food-water stress,0.22911,0.19853,1.0,0.85226,1.0
+SYS005,Smallholder Food and Water Livelihood System,community livelihoods,65,background food-water stress,0.22571,0.19828,1.0,0.85395,1.0
+SYS005,Smallholder Food and Water Livelihood System,community livelihoods,66,background food-water stress,0.23362,0.19805,1.0,0.85578,1.0
+SYS005,Smallholder Food and Water Livelihood System,community livelihoods,67,background food-water stress,0.22701,0.19779,1.0,0.85749,1.0
+SYS005,Smallholder Food and Water Livelihood System,community livelihoods,68,background food-water stress,0.23083,0.19755,1.0,0.85927,1.0
+SYS005,Smallholder Food and Water Livelihood System,community livelihoods,69,background food-water stress,0.22788,0.1973,1.0,0.86101,1.0
+SYS005,Smallholder Food and Water Livelihood System,community livelihoods,70,Compound heat drought market and power disruption,0.83172,0.19706,0.90795,0.87361,0.7666
+SYS005,Smallholder Food and Water Livelihood System,community livelihoods,71,background food-water stress,0.23385,0.19529,1.0,0.87548,1.0
+SYS005,Smallholder Food and Water Livelihood System,community livelihoods,72,background food-water stress,0.23113,0.19503,1.0,0.8773,1.0
+SYS005,Smallholder Food and Water Livelihood System,community livelihoods,73,background food-water stress,0.23641,0.19478,1.0,0.87922,1.0
+SYS005,Smallholder Food and Water Livelihood System,community livelihoods,74,background food-water stress,0.23866,0.19451,1.0,0.88118,1.0
+SYS005,Smallholder Food and Water Livelihood System,community livelihoods,75,background food-water stress,0.23394,0.19423,1.0,0.88306,1.0
+SYS005,Smallholder Food and Water Livelihood System,community livelihoods,76,background food-water stress,0.23748,0.19397,1.0,0.88501,1.0
+SYS005,Smallholder Food and Water Livelihood System,community livelihoods,77,background food-water stress,0.23785,0.1937,1.0,0.88696,1.0
+SYS005,Smallholder Food and Water Livelihood System,community livelihoods,78,background food-water stress,0.24324,0.19343,1.0,0.88902,1.0
+SYS005,Smallholder Food and Water Livelihood System,community livelihoods,79,background food-water stress,0.23516,0.19314,1.0,0.89094,1.0
+SYS006,Coastal Delta Food-Water System,delta and salinity risk,0,background food-water stress,0.18896,0.1816,0.88189,0.78122,0.90856
+SYS006,Coastal Delta Food-Water System,delta and salinity risk,1,background food-water stress,0.1927,0.18143,1.0,0.78251,1.0
+SYS006,Coastal Delta Food-Water System,delta and salinity risk,2,background food-water stress,0.18938,0.18125,1.0,0.78375,1.0
+SYS006,Coastal Delta Food-Water System,delta and salinity risk,3,background food-water stress,0.18654,0.18108,1.0,0.78493,1.0
+SYS006,Coastal Delta Food-Water System,delta and salinity risk,4,background food-water stress,0.19079,0.18091,1.0,0.7862,1.0
+SYS006,Coastal Delta Food-Water System,delta and salinity risk,5,background food-water stress,0.18968,0.18073,1.0,0.78744,1.0
+SYS006,Coastal Delta Food-Water System,delta and salinity risk,6,background food-water stress,0.18861,0.18056,1.0,0.78867,1.0
+SYS006,Coastal Delta Food-Water System,delta and salinity risk,7,background food-water stress,0.19104,0.18039,1.0,0.78994,1.0
+SYS006,Coastal Delta Food-Water System,delta and salinity risk,8,background food-water stress,0.19484,0.18021,1.0,0.79129,1.0
+SYS006,Coastal Delta Food-Water System,delta and salinity risk,9,background food-water stress,0.19434,0.18002,1.0,0.79263,1.0
+SYS006,Coastal Delta Food-Water System,delta and salinity risk,10,background food-water stress,0.19771,0.17983,1.0,0.79403,1.0
+SYS006,Coastal Delta Food-Water System,delta and salinity risk,11,background food-water stress,0.19944,0.17964,1.0,0.79546,1.0
+SYS006,Coastal Delta Food-Water System,delta and salinity risk,12,Multi-season drought and groundwater stress,0.72466,0.17944,0.93853,0.80635,0.80923
+SYS006,Coastal Delta Food-Water System,delta and salinity risk,13,background food-water stress,0.19592,0.17791,1.0,0.80774,1.0
+SYS006,Coastal Delta Food-Water System,delta and salinity risk,14,background food-water stress,0.2035,0.17772,1.0,0.80927,1.0
+SYS006,Coastal Delta Food-Water System,delta and salinity risk,15,background food-water stress,0.19706,0.1775,1.0,0.81069,1.0
+SYS006,Coastal Delta Food-Water System,delta and salinity risk,16,background food-water stress,0.20281,0.1773,1.0,0.81221,1.0
+SYS006,Coastal Delta Food-Water System,delta and salinity risk,17,background food-water stress,0.2051,0.17709,1.0,0.81378,1.0
+SYS006,Coastal Delta Food-Water System,delta and salinity risk,18,background food-water stress,0.20493,0.17687,1.0,0.81535,1.0
+SYS006,Coastal Delta Food-Water System,delta and salinity risk,19,background food-water stress,0.20089,0.17665,1.0,0.81684,1.0
+SYS006,Coastal Delta Food-Water System,delta and salinity risk,20,background food-water stress,0.20361,0.17644,1.0,0.81839,1.0
+SYS006,Coastal Delta Food-Water System,delta and salinity risk,21,background food-water stress,0.20542,0.17623,1.0,0.81997,1.0
+SYS006,Coastal Delta Food-Water System,delta and salinity risk,22,background food-water stress,0.20403,0.176,1.0,0.82153,1.0
+SYS006,Coastal Delta Food-Water System,delta and salinity risk,23,background food-water stress,0.20862,0.17579,1.0,0.82318,1.0
+SYS006,Coastal Delta Food-Water System,delta and salinity risk,24,background food-water stress,0.20856,0.17555,1.0,0.82483,1.0
+SYS006,Coastal Delta Food-Water System,delta and salinity risk,25,background food-water stress,0.20274,0.17532,1.0,0.82637,1.0
+SYS006,Coastal Delta Food-Water System,delta and salinity risk,26,background food-water stress,0.20348,0.17511,1.0,0.82793,1.0
+SYS006,Coastal Delta Food-Water System,delta and salinity risk,27,Extreme flood with sanitation and crop damage,0.73815,0.17489,0.93136,0.83912,0.80827
+SYS006,Coastal Delta Food-Water System,delta and salinity risk,28,background food-water stress,0.20412,0.17332,1.0,0.84072,1.0
+SYS006,Coastal Delta Food-Water System,delta and salinity risk,29,background food-water stress,0.21097,0.1731,1.0,0.84244,1.0
+SYS006,Coastal Delta Food-Water System,delta and salinity risk,30,background food-water stress,0.2151,0.17286,1.0,0.84423,1.0
+SYS006,Coastal Delta Food-Water System,delta and salinity risk,31,background food-water stress,0.20839,0.17261,1.0,0.84591,1.0
+SYS006,Coastal Delta Food-Water System,delta and salinity risk,32,background food-water stress,0.207,0.17237,1.0,0.84757,1.0
+SYS006,Coastal Delta Food-Water System,delta and salinity risk,33,background food-water stress,0.21334,0.17214,1.0,0.84935,1.0
+SYS006,Coastal Delta Food-Water System,delta and salinity risk,34,background food-water stress,0.21397,0.17189,1.0,0.85113,1.0
+SYS006,Coastal Delta Food-Water System,delta and salinity risk,35,background food-water stress,0.21625,0.17164,1.0,0.85297,1.0
+SYS006,Coastal Delta Food-Water System,delta and salinity risk,36,background food-water stress,0.21275,0.17138,1.0,0.85474,1.0
+SYS006,Coastal Delta Food-Water System,delta and salinity risk,37,background food-water stress,0.21501,0.17114,1.0,0.85656,1.0
+SYS006,Coastal Delta Food-Water System,delta and salinity risk,38,background food-water stress,0.21725,0.17088,1.0,0.85842,1.0
+SYS006,Coastal Delta Food-Water System,delta and salinity risk,39,background food-water stress,0.2175,0.17062,1.0,0.86028,1.0
+SYS006,Coastal Delta Food-Water System,delta and salinity risk,40,background food-water stress,0.21422,0.17036,1.0,0.8621,1.0
+SYS006,Coastal Delta Food-Water System,delta and salinity risk,41,background food-water stress,0.22224,0.17011,1.0,0.86406,1.0
+SYS006,Coastal Delta Food-Water System,delta and salinity risk,42,Food price spike and input shortage,0.64809,0.16983,0.95911,0.87368,0.82161
+SYS006,Coastal Delta Food-Water System,delta and salinity risk,43,background food-water stress,0.2183,0.16848,1.0,0.87559,1.0
+SYS006,Coastal Delta Food-Water System,delta and salinity risk,44,background food-water stress,0.22231,0.16822,1.0,0.87757,1.0
+SYS006,Coastal Delta Food-Water System,delta and salinity risk,45,background food-water stress,0.21754,0.16794,1.0,0.87947,1.0
+SYS006,Coastal Delta Food-Water System,delta and salinity risk,46,background food-water stress,0.22324,0.16767,1.0,0.88148,1.0
+SYS006,Coastal Delta Food-Water System,delta and salinity risk,47,background food-water stress,0.22018,0.16739,1.0,0.88343,1.0
+SYS006,Coastal Delta Food-Water System,delta and salinity risk,48,background food-water stress,0.2282,0.16712,1.0,0.88554,1.0
+SYS006,Coastal Delta Food-Water System,delta and salinity risk,49,background food-water stress,0.22374,0.16682,1.0,0.88756,1.0
+SYS006,Coastal Delta Food-Water System,delta and salinity risk,50,background food-water stress,0.2263,0.16654,1.0,0.88964,1.0
+SYS006,Coastal Delta Food-Water System,delta and salinity risk,51,background food-water stress,0.22728,0.16625,1.0,0.89173,1.0
+SYS006,Coastal Delta Food-Water System,delta and salinity risk,52,background food-water stress,0.22924,0.16596,1.0,0.89387,1.0
+SYS006,Coastal Delta Food-Water System,delta and salinity risk,53,background food-water stress,0.22465,0.16566,1.0,0.89592,1.0
+SYS006,Coastal Delta Food-Water System,delta and salinity risk,54,background food-water stress,0.22766,0.16537,1.0,0.89804,1.0
+SYS006,Coastal Delta Food-Water System,delta and salinity risk,55,background food-water stress,0.2313,0.16507,1.0,0.90022,1.0
+SYS006,Coastal Delta Food-Water System,delta and salinity risk,56,Water-quality contamination event,0.65163,0.16477,0.95504,0.90997,0.81278
+SYS006,Coastal Delta Food-Water System,delta and salinity risk,57,background food-water stress,0.23047,0.1634,1.0,0.91216,1.0
+SYS006,Coastal Delta Food-Water System,delta and salinity risk,58,background food-water stress,0.23669,0.1631,1.0,0.91446,1.0
+SYS006,Coastal Delta Food-Water System,delta and salinity risk,59,background food-water stress,0.23572,0.16278,1.0,0.91675,1.0
+SYS006,Coastal Delta Food-Water System,delta and salinity risk,60,background food-water stress,0.23228,0.16245,1.0,0.91898,1.0
+SYS006,Coastal Delta Food-Water System,delta and salinity risk,61,background food-water stress,0.23378,0.16214,1.0,0.92125,1.0
+SYS006,Coastal Delta Food-Water System,delta and salinity risk,62,background food-water stress,0.23644,0.16183,1.0,0.92356,1.0
+SYS006,Coastal Delta Food-Water System,delta and salinity risk,63,background food-water stress,0.2333,0.1615,1.0,0.92582,1.0
+SYS006,Coastal Delta Food-Water System,delta and salinity risk,64,background food-water stress,0.23329,0.16119,1.0,0.92809,1.0
+SYS006,Coastal Delta Food-Water System,delta and salinity risk,65,background food-water stress,0.24149,0.16087,1.0,0.9305,1.0
+SYS006,Coastal Delta Food-Water System,delta and salinity risk,66,background food-water stress,0.23837,0.16053,1.0,0.93287,1.0
+SYS006,Coastal Delta Food-Water System,delta and salinity risk,67,background food-water stress,0.24093,0.1602,1.0,0.93528,1.0
+SYS006,Coastal Delta Food-Water System,delta and salinity risk,68,background food-water stress,0.24197,0.15986,1.0,0.93772,1.0
+SYS006,Coastal Delta Food-Water System,delta and salinity risk,69,background food-water stress,0.241,0.15952,1.0,0.94014,1.0
+SYS006,Coastal Delta Food-Water System,delta and salinity risk,70,Compound heat drought market and power disruption,0.84122,0.15918,0.88741,0.95337,0.74528
+SYS006,Coastal Delta Food-Water System,delta and salinity risk,71,background food-water stress,0.24554,0.15733,0.97629,0.95591,1.0
+SYS006,Coastal Delta Food-Water System,delta and salinity risk,72,background food-water stress,0.24439,0.15697,1.0,0.95842,1.0
+SYS006,Coastal Delta Food-Water System,delta and salinity risk,73,background food-water stress,0.24252,0.15662,1.0,0.96091,1.0
+SYS006,Coastal Delta Food-Water System,delta and salinity risk,74,background food-water stress,0.24704,0.15627,1.0,0.96348,1.0
+SYS006,Coastal Delta Food-Water System,delta and salinity risk,75,background food-water stress,0.24488,0.15591,1.0,0.96602,1.0
+SYS006,Coastal Delta Food-Water System,delta and salinity risk,76,background food-water stress,0.24576,0.15556,1.0,0.96857,1.0
+SYS006,Coastal Delta Food-Water System,delta and salinity risk,77,background food-water stress,0.24417,0.1552,1.0,0.9711,1.0
+SYS006,Coastal Delta Food-Water System,delta and salinity risk,78,background food-water stress,0.2529,0.15485,1.0,0.9738,1.0
+SYS006,Coastal Delta Food-Water System,delta and salinity risk,79,background food-water stress,0.24924,0.15447,1.0,0.97643,1.0

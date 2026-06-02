@@ -1,0 +1,9 @@
+scenario,availability_weight,access_weight,stability_weight,quality_weight,adaptive_capacity_weight,equity_protection_weight,resource_depletion_risk_weight,description
+Balanced,0.17,0.17,0.16,0.14,0.16,0.14,0.06,Balanced food-water resilience across availability access stability quality adaptation equity and depletion risk.
+Availability-first,0.40,0.12,0.12,0.10,0.12,0.10,0.04,Prioritizes sufficient food and water supply.
+Access-first,0.12,0.40,0.12,0.10,0.12,0.10,0.04,Prioritizes affordability distribution rights service access and inclusion.
+Stability-first,0.12,0.12,0.40,0.10,0.12,0.10,0.04,Prioritizes consistent supply and access across seasons and shocks.
+Quality-first,0.12,0.12,0.12,0.36,0.12,0.12,0.04,Prioritizes nutrition food safety water quality and sanitation.
+Adaptation-first,0.12,0.12,0.12,0.10,0.38,0.12,0.04,Prioritizes learning flexibility monitoring and adjustment under changing conditions.
+Equity-first,0.10,0.14,0.12,0.10,0.12,0.38,0.04,Prioritizes vulnerable users historically underserved communities and fair governance.
+Depletion-sensitive,0.13,0.13,0.13,0.12,0.13,0.12,0.24,Prioritizes penalties for aquifer depletion soil degradation ecosystem decline and resource overuse.

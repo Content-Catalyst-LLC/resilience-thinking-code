@@ -1,0 +1,7 @@
+strategy_id,strategy,mean_resilience_value,median_resilience_value,probability_ranked_first,probability_top_two,probability_bottom_two
+FW004,Community Water Governance and Access Reform,7.62095,7.62277,31.2,56.37,12.4
+FW006,Safe Water Treatment and Sanitation Resilience Plan,7.61085,7.61001,29.27,52.97,14.37
+FW005,Diversified Agroecological Production Program,7.57703,7.57632,23.4,47.37,16.4
+FW003,Watershed Restoration and Recharge Program,7.41635,7.41305,8.1,21.07,40.83
+FW002,Regional Food Storage and Distribution Network,7.38756,7.3867,6.2,16.63,43.83
+FW001,Climate-Smart Irrigation Upgrade,7.23151,7.23388,1.83,5.6,72.17

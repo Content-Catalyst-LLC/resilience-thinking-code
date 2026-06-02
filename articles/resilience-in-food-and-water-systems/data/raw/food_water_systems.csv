@@ -1,0 +1,7 @@
+system_id,system,system_domain,baseline_performance,climate_exposure,market_exposure,infrastructure_support,ecosystem_condition,adaptive_capacity,equity_sensitivity,resource_coupling,critical_function
+SYS001,Irrigated Agricultural Basin,agriculture and water allocation,0.82,0.76,0.58,0.68,0.56,0.70,0.78,0.80,crop production irrigation groundwater surface water soil moisture and farm livelihoods
+SYS002,Urban Drinking Water and Sanitation Network,water and public health,0.86,0.66,0.48,0.74,0.60,0.72,0.84,0.76,safe drinking water sanitation treatment distribution and emergency water service
+SYS003,Regional Food Storage and Distribution System,food logistics,0.84,0.58,0.72,0.70,0.54,0.66,0.76,0.72,food reserves cold chains freight warehouses markets and emergency distribution
+SYS004,Watershed and Recharge Landscape,ecosystem and hydrology,0.80,0.74,0.42,0.58,0.72,0.76,0.70,0.68,groundwater recharge runoff regulation water quality soil moisture and ecological flow
+SYS005,Smallholder Food and Water Livelihood System,community livelihoods,0.78,0.72,0.66,0.54,0.62,0.78,0.86,0.74,household food security local water access crop diversity labor and mutual support
+SYS006,Coastal Delta Food-Water System,delta and salinity risk,0.76,0.82,0.60,0.62,0.58,0.68,0.82,0.78,coastal agriculture fisheries freshwater salinity flood buffering and livelihoods
