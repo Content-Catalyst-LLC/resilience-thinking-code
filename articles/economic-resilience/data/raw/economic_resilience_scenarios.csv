@@ -1,0 +1,9 @@
+scenario,resistance_weight,recovery_weight,adaptability_weight,transformability_weight,equity_protection_weight,institutional_capacity_weight,implementation_burden_weight,description
+Balanced,0.16,0.16,0.17,0.17,0.17,0.17,0.02,Balanced economic resilience across resistance recovery adaptation transformation equity institutions and implementation burden.
+Resistance-first,0.40,0.15,0.12,0.12,0.10,0.10,0.01,Prioritizes shock absorption buffers redundancy financial stability supply continuity and resistance to immediate disruption.
+Recovery-first,0.15,0.40,0.12,0.12,0.10,0.10,0.01,Prioritizes speed and quality of restoring employment firms public services credit and essential economic functions.
+Adaptation-first,0.12,0.12,0.40,0.15,0.10,0.10,0.01,Prioritizes learning innovation workforce mobility firm adaptation and structural adjustment.
+Transformation-first,0.12,0.12,0.15,0.40,0.10,0.10,0.01,Prioritizes transition away from obsolete fragile extractive or climate-vulnerable economic structures.
+Equity-first,0.12,0.12,0.14,0.14,0.38,0.10,0.01,Prioritizes vulnerable households workers small firms marginalized communities and distributional recovery.
+Institution-first,0.12,0.12,0.14,0.14,0.10,0.38,0.01,Prioritizes public capacity fiscal readiness coordination regulation and institutional legitimacy.
+Implementation-aware,0.15,0.15,0.16,0.16,0.16,0.16,0.10,Penalizes implementation burden when administrative finance legal or political capacity is constrained.

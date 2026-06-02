@@ -1,0 +1,7 @@
+strategy_id,strategy,mean_economic_resilience_value,median_economic_resilience_value,probability_ranked_first,probability_top_two,probability_bottom_two
+ER005,Climate Transition and Just Regional Development Plan,8.40369,8.40666,42.77,66.57,7.6
+ER004,Countercyclical Stabilization and Public Investment Framework,8.32501,8.32524,28.13,54.6,12.7
+ER006,Community Finance and Small Business Continuity Fund,8.18564,8.18459,12.4,30.53,27.63
+ER001,Industrial Diversification and Local Production Program,8.1333,8.13812,8.1,22.9,35.3
+ER003,Workforce Retraining and Mobility Initiative,8.11996,8.11681,7.9,21.6,38.77
+ER002,Supply Chain Buffer and Redundancy Strategy,7.87013,7.87038,0.7,3.8,78.0

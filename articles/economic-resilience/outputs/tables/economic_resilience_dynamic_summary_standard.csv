@@ -1,0 +1,7 @@
+system,mean_economic_function,minimum_economic_function,final_economic_function,mean_equity_adjusted_function,maximum_household_fragility,final_household_fragility,maximum_firm_fragility,final_firm_fragility
+Port-dependent logistics and trade economy,0.98209,0.77454,1.0,0.97648,0.82143,0.82143,0.69911,0.69418
+Single-industry regional manufacturing economy,0.97986,0.7712,1.0,0.97568,0.86626,0.86626,0.72335,0.71902
+Urban small-business and household service economy,0.9779,0.75479,1.0,0.97455,0.99324,0.99324,0.86947,0.866
+Public-service-dependent regional economy,0.97646,0.75494,1.0,0.97222,0.92966,0.92966,0.68633,0.68242
+Agricultural watershed economy under climate stress,0.9755,0.75204,1.0,0.97188,0.93867,0.93867,0.73174,0.73143
+Climate-exposed tourism and service economy,0.97129,0.74272,1.0,0.96922,0.9878,0.9878,0.78056,0.78056

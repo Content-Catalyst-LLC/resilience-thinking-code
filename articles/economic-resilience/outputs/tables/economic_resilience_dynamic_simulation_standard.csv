@@ -1,0 +1,481 @@
+system_id,system,system_context,time,event,stress_load,adaptive_response,economic_function,household_fragility,firm_fragility,equity_adjusted_function
+ES001,Single-industry regional manufacturing economy,regional industrial concentration,0,background economic stress,0.14943,0.389,0.83376,0.70063,0.71839,0.86271
+ES001,Single-industry regional manufacturing economy,regional industrial concentration,1,background economic stress,0.15048,0.38914,0.92722,0.70126,0.71679,0.95941
+ES001,Single-industry regional manufacturing economy,regional industrial concentration,2,background economic stress,0.15155,0.38927,1.0,0.70189,0.7152,1.0
+ES001,Single-industry regional manufacturing economy,regional industrial concentration,3,background economic stress,0.15164,0.38941,1.0,0.70251,0.71362,1.0
+ES001,Single-industry regional manufacturing economy,regional industrial concentration,4,background economic stress,0.15195,0.38954,1.0,0.70314,0.71206,1.0
+ES001,Single-industry regional manufacturing economy,regional industrial concentration,5,background economic stress,0.15143,0.38967,1.0,0.70376,0.7105,1.0
+ES001,Single-industry regional manufacturing economy,regional industrial concentration,6,background economic stress,0.15263,0.3898,1.0,0.70438,0.70895,1.0
+ES001,Single-industry regional manufacturing economy,regional industrial concentration,7,background economic stress,0.15219,0.38993,1.0,0.705,0.70742,1.0
+ES001,Single-industry regional manufacturing economy,regional industrial concentration,8,background economic stress,0.15127,0.39006,1.0,0.70562,0.70589,1.0
+ES001,Single-industry regional manufacturing economy,regional industrial concentration,9,background economic stress,0.15249,0.39019,1.0,0.70624,0.70438,1.0
+ES001,Single-industry regional manufacturing economy,regional industrial concentration,10,background economic stress,0.15168,0.39031,1.0,0.70686,0.70288,1.0
+ES001,Single-industry regional manufacturing economy,regional industrial concentration,11,background economic stress,0.15424,0.39044,1.0,0.70747,0.70138,1.0
+ES001,Single-industry regional manufacturing economy,regional industrial concentration,12,Regional employer closure and supplier contraction,0.79714,0.39056,0.86239,0.73101,0.71452,0.73296
+ES001,Single-industry regional manufacturing economy,regional industrial concentration,13,background economic stress,0.15521,0.38543,0.95352,0.73167,0.7131,0.98662
+ES001,Single-industry regional manufacturing economy,regional industrial concentration,14,background economic stress,0.15387,0.38553,1.0,0.73234,0.71169,1.0
+ES001,Single-industry regional manufacturing economy,regional industrial concentration,15,background economic stress,0.15405,0.38564,1.0,0.733,0.7103,1.0
+ES001,Single-industry regional manufacturing economy,regional industrial concentration,16,background economic stress,0.1555,0.38574,1.0,0.73366,0.70891,1.0
+ES001,Single-industry regional manufacturing economy,regional industrial concentration,17,background economic stress,0.15429,0.38584,1.0,0.73432,0.70754,1.0
+ES001,Single-industry regional manufacturing economy,regional industrial concentration,18,background economic stress,0.15447,0.38594,1.0,0.73499,0.70617,1.0
+ES001,Single-industry regional manufacturing economy,regional industrial concentration,19,background economic stress,0.15475,0.38604,1.0,0.73565,0.70482,1.0
+ES001,Single-industry regional manufacturing economy,regional industrial concentration,20,background economic stress,0.15542,0.38613,1.0,0.7363,0.70348,1.0
+ES001,Single-industry regional manufacturing economy,regional industrial concentration,21,background economic stress,0.1564,0.38623,1.0,0.73696,0.70215,1.0
+ES001,Single-industry regional manufacturing economy,regional industrial concentration,22,background economic stress,0.15753,0.38632,1.0,0.73762,0.70083,1.0
+ES001,Single-industry regional manufacturing economy,regional industrial concentration,23,background economic stress,0.15583,0.38642,1.0,0.73827,0.69952,1.0
+ES001,Single-industry regional manufacturing economy,regional industrial concentration,24,background economic stress,0.15802,0.38651,1.0,0.73893,0.69823,1.0
+ES001,Single-industry regional manufacturing economy,regional industrial concentration,25,background economic stress,0.15723,0.3866,1.0,0.73958,0.69694,1.0
+ES001,Single-industry regional manufacturing economy,regional industrial concentration,26,background economic stress,0.15839,0.38669,1.0,0.74024,0.69566,1.0
+ES001,Single-industry regional manufacturing economy,regional industrial concentration,27,Port disruption and critical input shortage,0.83508,0.38677,0.85684,0.75997,0.71148,0.75224
+ES001,Single-industry regional manufacturing economy,regional industrial concentration,28,background economic stress,0.15909,0.3818,0.94593,0.76067,0.71027,0.97877
+ES001,Single-industry regional manufacturing economy,regional industrial concentration,29,background economic stress,0.15763,0.38187,1.0,0.76137,0.70908,1.0
+ES001,Single-industry regional manufacturing economy,regional industrial concentration,30,background economic stress,0.15916,0.38194,1.0,0.76207,0.7079,1.0
+ES001,Single-industry regional manufacturing economy,regional industrial concentration,31,background economic stress,0.15805,0.382,1.0,0.76277,0.70674,1.0
+ES001,Single-industry regional manufacturing economy,regional industrial concentration,32,background economic stress,0.158,0.38207,1.0,0.76347,0.70558,1.0
+ES001,Single-industry regional manufacturing economy,regional industrial concentration,33,background economic stress,0.15927,0.38213,1.0,0.76417,0.70443,1.0
+ES001,Single-industry regional manufacturing economy,regional industrial concentration,34,background economic stress,0.16051,0.3822,1.0,0.76487,0.7033,1.0
+ES001,Single-industry regional manufacturing economy,regional industrial concentration,35,background economic stress,0.16022,0.38226,1.0,0.76557,0.70218,1.0
+ES001,Single-industry regional manufacturing economy,regional industrial concentration,36,background economic stress,0.15951,0.38232,1.0,0.76626,0.70107,1.0
+ES001,Single-industry regional manufacturing economy,regional industrial concentration,37,background economic stress,0.16145,0.38237,1.0,0.76696,0.69997,1.0
+ES001,Single-industry regional manufacturing economy,regional industrial concentration,38,background economic stress,0.1619,0.38243,1.0,0.76765,0.69888,1.0
+ES001,Single-industry regional manufacturing economy,regional industrial concentration,39,background economic stress,0.1604,0.38249,1.0,0.76835,0.6978,1.0
+ES001,Single-industry regional manufacturing economy,regional industrial concentration,40,background economic stress,0.1612,0.38254,1.0,0.76904,0.69674,1.0
+ES001,Single-industry regional manufacturing economy,regional industrial concentration,41,background economic stress,0.16195,0.38259,1.0,0.76974,0.69568,1.0
+ES001,Single-industry regional manufacturing economy,regional industrial concentration,42,Credit tightening and small-business liquidity stress,0.79623,0.38264,0.85741,0.79087,0.71106,0.73353
+ES001,Single-industry regional manufacturing economy,regional industrial concentration,43,background economic stress,0.16357,0.37753,0.94413,0.79162,0.71008,0.97691
+ES001,Single-industry regional manufacturing economy,regional industrial concentration,44,background economic stress,0.16181,0.37756,1.0,0.79236,0.70911,1.0
+ES001,Single-industry regional manufacturing economy,regional industrial concentration,45,background economic stress,0.16318,0.37759,1.0,0.79311,0.70815,1.0
+ES001,Single-industry regional manufacturing economy,regional industrial concentration,46,background economic stress,0.16452,0.37762,1.0,0.79385,0.70721,1.0
+ES001,Single-industry regional manufacturing economy,regional industrial concentration,47,background economic stress,0.16384,0.37765,1.0,0.79459,0.70628,1.0
+ES001,Single-industry regional manufacturing economy,regional industrial concentration,48,background economic stress,0.16439,0.37768,1.0,0.79534,0.70536,1.0
+ES001,Single-industry regional manufacturing economy,regional industrial concentration,49,background economic stress,0.16479,0.3777,1.0,0.79608,0.70445,1.0
+ES001,Single-industry regional manufacturing economy,regional industrial concentration,50,background economic stress,0.16436,0.37773,1.0,0.79682,0.70355,1.0
+ES001,Single-industry regional manufacturing economy,regional industrial concentration,51,background economic stress,0.16405,0.37775,1.0,0.79756,0.70266,1.0
+ES001,Single-industry regional manufacturing economy,regional industrial concentration,52,background economic stress,0.16509,0.37777,1.0,0.79831,0.70179,1.0
+ES001,Single-industry regional manufacturing economy,regional industrial concentration,53,background economic stress,0.16519,0.37779,1.0,0.79905,0.70093,1.0
+ES001,Single-industry regional manufacturing economy,regional industrial concentration,54,background economic stress,0.16497,0.3778,1.0,0.79979,0.70008,1.0
+ES001,Single-industry regional manufacturing economy,regional industrial concentration,55,background economic stress,0.16656,0.37782,1.0,0.80053,0.69924,1.0
+ES001,Single-industry regional manufacturing economy,regional industrial concentration,56,Climate disaster damaging infrastructure firms and housing,0.91704,0.37783,0.79812,0.82291,0.7149,0.6694
+ES001,Single-industry regional manufacturing economy,regional industrial concentration,57,background economic stress,0.16623,0.37251,0.88287,0.82371,0.71414,0.91353
+ES001,Single-industry regional manufacturing economy,regional industrial concentration,58,background economic stress,0.16681,0.3725,0.96745,0.8245,0.71339,1.0
+ES001,Single-industry regional manufacturing economy,regional industrial concentration,59,background economic stress,0.16779,0.37249,1.0,0.8253,0.71265,1.0
+ES001,Single-industry regional manufacturing economy,regional industrial concentration,60,background economic stress,0.16819,0.37249,1.0,0.82609,0.71193,1.0
+ES001,Single-industry regional manufacturing economy,regional industrial concentration,61,background economic stress,0.16865,0.37248,1.0,0.82689,0.71122,1.0
+ES001,Single-industry regional manufacturing economy,regional industrial concentration,62,background economic stress,0.16829,0.37247,1.0,0.82768,0.71052,1.0
+ES001,Single-industry regional manufacturing economy,regional industrial concentration,63,background economic stress,0.16752,0.37245,1.0,0.82848,0.70983,1.0
+ES001,Single-industry regional manufacturing economy,regional industrial concentration,64,background economic stress,0.16933,0.37244,1.0,0.82928,0.70915,1.0
+ES001,Single-industry regional manufacturing economy,regional industrial concentration,65,background economic stress,0.16975,0.37242,1.0,0.83007,0.70849,1.0
+ES001,Single-industry regional manufacturing economy,regional industrial concentration,66,background economic stress,0.16951,0.3724,1.0,0.83087,0.70784,1.0
+ES001,Single-industry regional manufacturing economy,regional industrial concentration,67,background economic stress,0.16991,0.37238,1.0,0.83166,0.7072,1.0
+ES001,Single-industry regional manufacturing economy,regional industrial concentration,68,background economic stress,0.16951,0.37236,1.0,0.83246,0.70657,1.0
+ES001,Single-industry regional manufacturing economy,regional industrial concentration,69,background economic stress,0.16972,0.37234,1.0,0.83326,0.70595,1.0
+ES001,Single-industry regional manufacturing economy,regional industrial concentration,70,Compound inflation fiscal climate and labor crisis,0.9615,0.37231,0.7712,0.85853,0.72335,0.63819
+ES001,Single-industry regional manufacturing economy,regional industrial concentration,71,background economic stress,0.17096,0.36634,0.85309,0.85939,0.72282,0.88271
+ES001,Single-industry regional manufacturing economy,regional industrial concentration,72,background economic stress,0.17009,0.36629,0.93524,0.86025,0.7223,0.96772
+ES001,Single-industry regional manufacturing economy,regional industrial concentration,73,background economic stress,0.17173,0.36624,1.0,0.8611,0.72179,1.0
+ES001,Single-industry regional manufacturing economy,regional industrial concentration,74,background economic stress,0.17248,0.36619,1.0,0.86196,0.7213,1.0
+ES001,Single-industry regional manufacturing economy,regional industrial concentration,75,background economic stress,0.17093,0.36614,1.0,0.86282,0.72082,1.0
+ES001,Single-industry regional manufacturing economy,regional industrial concentration,76,background economic stress,0.17273,0.36609,1.0,0.86368,0.72035,1.0
+ES001,Single-industry regional manufacturing economy,regional industrial concentration,77,background economic stress,0.17287,0.36604,1.0,0.86454,0.71989,1.0
+ES001,Single-industry regional manufacturing economy,regional industrial concentration,78,background economic stress,0.17162,0.36598,1.0,0.8654,0.71945,1.0
+ES001,Single-industry regional manufacturing economy,regional industrial concentration,79,background economic stress,0.1717,0.36592,1.0,0.86626,0.71902,1.0
+ES002,Port-dependent logistics and trade economy,supply chain and logistics exposure,0,background economic stress,0.15104,0.3944,0.87764,0.66058,0.69834,0.90024
+ES002,Port-dependent logistics and trade economy,supply chain and logistics exposure,1,background economic stress,0.15028,0.39455,0.97555,0.66115,0.69668,1.0
+ES002,Port-dependent logistics and trade economy,supply chain and logistics exposure,2,background economic stress,0.15254,0.3947,1.0,0.66172,0.69504,1.0
+ES002,Port-dependent logistics and trade economy,supply chain and logistics exposure,3,background economic stress,0.15268,0.39485,1.0,0.66229,0.69341,1.0
+ES002,Port-dependent logistics and trade economy,supply chain and logistics exposure,4,background economic stress,0.15174,0.395,1.0,0.66286,0.69178,1.0
+ES002,Port-dependent logistics and trade economy,supply chain and logistics exposure,5,background economic stress,0.1525,0.39515,1.0,0.66343,0.69017,1.0
+ES002,Port-dependent logistics and trade economy,supply chain and logistics exposure,6,background economic stress,0.15158,0.3953,1.0,0.664,0.68857,1.0
+ES002,Port-dependent logistics and trade economy,supply chain and logistics exposure,7,background economic stress,0.15185,0.39544,1.0,0.66457,0.68698,1.0
+ES002,Port-dependent logistics and trade economy,supply chain and logistics exposure,8,background economic stress,0.15228,0.39558,1.0,0.66513,0.6854,1.0
+ES002,Port-dependent logistics and trade economy,supply chain and logistics exposure,9,background economic stress,0.15358,0.39573,1.0,0.66569,0.68383,1.0
+ES002,Port-dependent logistics and trade economy,supply chain and logistics exposure,10,background economic stress,0.15258,0.39587,1.0,0.66625,0.68227,1.0
+ES002,Port-dependent logistics and trade economy,supply chain and logistics exposure,11,background economic stress,0.1548,0.39601,1.0,0.66681,0.68073,1.0
+ES002,Port-dependent logistics and trade economy,supply chain and logistics exposure,12,Regional employer closure and supplier contraction,0.79761,0.39614,0.86514,0.69029,0.6938,0.72754
+ES002,Port-dependent logistics and trade economy,supply chain and logistics exposure,13,background economic stress,0.15339,0.39103,0.96128,0.6909,0.69233,0.98604
+ES002,Port-dependent logistics and trade economy,supply chain and logistics exposure,14,background economic stress,0.15396,0.39115,1.0,0.69151,0.69087,1.0
+ES002,Port-dependent logistics and trade economy,supply chain and logistics exposure,15,background economic stress,0.15394,0.39127,1.0,0.69212,0.68941,1.0
+ES002,Port-dependent logistics and trade economy,supply chain and logistics exposure,16,background economic stress,0.15597,0.39139,1.0,0.69272,0.68797,1.0
+ES002,Port-dependent logistics and trade economy,supply chain and logistics exposure,17,background economic stress,0.15517,0.3915,1.0,0.69333,0.68654,1.0
+ES002,Port-dependent logistics and trade economy,supply chain and logistics exposure,18,background economic stress,0.15569,0.39162,1.0,0.69393,0.68512,1.0
+ES002,Port-dependent logistics and trade economy,supply chain and logistics exposure,19,background economic stress,0.15557,0.39173,1.0,0.69454,0.68371,1.0
+ES002,Port-dependent logistics and trade economy,supply chain and logistics exposure,20,background economic stress,0.15663,0.39185,1.0,0.69514,0.68231,1.0
+ES002,Port-dependent logistics and trade economy,supply chain and logistics exposure,21,background economic stress,0.15628,0.39196,1.0,0.69574,0.68093,1.0
+ES002,Port-dependent logistics and trade economy,supply chain and logistics exposure,22,background economic stress,0.15602,0.39207,1.0,0.69634,0.67955,1.0
+ES002,Port-dependent logistics and trade economy,supply chain and logistics exposure,23,background economic stress,0.15685,0.39218,1.0,0.69694,0.67818,1.0
+ES002,Port-dependent logistics and trade economy,supply chain and logistics exposure,24,background economic stress,0.15678,0.39228,1.0,0.69753,0.67683,1.0
+ES002,Port-dependent logistics and trade economy,supply chain and logistics exposure,25,background economic stress,0.15653,0.39239,1.0,0.69813,0.67548,1.0
+ES002,Port-dependent logistics and trade economy,supply chain and logistics exposure,26,background economic stress,0.15863,0.39249,1.0,0.69872,0.67415,1.0
+ES002,Port-dependent logistics and trade economy,supply chain and logistics exposure,27,Port disruption and critical input shortage,0.83552,0.3926,0.86323,0.7184,0.68991,0.75011
+ES002,Port-dependent logistics and trade economy,supply chain and logistics exposure,28,background economic stress,0.15917,0.38764,0.95678,0.71904,0.68865,0.98142
+ES002,Port-dependent logistics and trade economy,supply chain and logistics exposure,29,background economic stress,0.15939,0.38772,1.0,0.71968,0.6874,1.0
+ES002,Port-dependent logistics and trade economy,supply chain and logistics exposure,30,background economic stress,0.16021,0.38781,1.0,0.72033,0.68616,1.0
+ES002,Port-dependent logistics and trade economy,supply chain and logistics exposure,31,background economic stress,0.15919,0.38789,1.0,0.72097,0.68493,1.0
+ES002,Port-dependent logistics and trade economy,supply chain and logistics exposure,32,background economic stress,0.15941,0.38797,1.0,0.72161,0.68372,1.0
+ES002,Port-dependent logistics and trade economy,supply chain and logistics exposure,33,background economic stress,0.15978,0.38805,1.0,0.72225,0.68251,1.0
+ES002,Port-dependent logistics and trade economy,supply chain and logistics exposure,34,background economic stress,0.15998,0.38813,1.0,0.72289,0.68132,1.0
+ES002,Port-dependent logistics and trade economy,supply chain and logistics exposure,35,background economic stress,0.16093,0.38821,1.0,0.72352,0.68014,1.0
+ES002,Port-dependent logistics and trade economy,supply chain and logistics exposure,36,background economic stress,0.15946,0.38829,1.0,0.72416,0.67896,1.0
+ES002,Port-dependent logistics and trade economy,supply chain and logistics exposure,37,background economic stress,0.16091,0.38836,1.0,0.7248,0.67781,1.0
+ES002,Port-dependent logistics and trade economy,supply chain and logistics exposure,38,background economic stress,0.16135,0.38844,1.0,0.72543,0.67666,1.0
+ES002,Port-dependent logistics and trade economy,supply chain and logistics exposure,39,background economic stress,0.16111,0.38851,1.0,0.72607,0.67552,1.0
+ES002,Port-dependent logistics and trade economy,supply chain and logistics exposure,40,background economic stress,0.16052,0.38858,1.0,0.7267,0.67439,1.0
+ES002,Port-dependent logistics and trade economy,supply chain and logistics exposure,41,background economic stress,0.16255,0.38865,1.0,0.72734,0.67328,1.0
+ES002,Port-dependent logistics and trade economy,supply chain and logistics exposure,42,Credit tightening and small-business liquidity stress,0.79666,0.38871,0.86115,0.74841,0.68859,0.72902
+ES002,Port-dependent logistics and trade economy,supply chain and logistics exposure,43,background economic stress,0.16167,0.38362,0.95301,0.74909,0.68755,0.97756
+ES002,Port-dependent logistics and trade economy,supply chain and logistics exposure,44,background economic stress,0.16338,0.38367,1.0,0.74978,0.68652,1.0
+ES002,Port-dependent logistics and trade economy,supply chain and logistics exposure,45,background economic stress,0.16256,0.38372,1.0,0.75046,0.68551,1.0
+ES002,Port-dependent logistics and trade economy,supply chain and logistics exposure,46,background economic stress,0.16251,0.38376,1.0,0.75114,0.6845,1.0
+ES002,Port-dependent logistics and trade economy,supply chain and logistics exposure,47,background economic stress,0.16315,0.38381,1.0,0.75182,0.68351,1.0
+ES002,Port-dependent logistics and trade economy,supply chain and logistics exposure,48,background economic stress,0.16311,0.38385,1.0,0.7525,0.68252,1.0
+ES002,Port-dependent logistics and trade economy,supply chain and logistics exposure,49,background economic stress,0.16359,0.3839,1.0,0.75318,0.68155,1.0
+ES002,Port-dependent logistics and trade economy,supply chain and logistics exposure,50,background economic stress,0.16524,0.38394,1.0,0.75387,0.68059,1.0
+ES002,Port-dependent logistics and trade economy,supply chain and logistics exposure,51,background economic stress,0.16561,0.38398,1.0,0.75455,0.67965,1.0
+ES002,Port-dependent logistics and trade economy,supply chain and logistics exposure,52,background economic stress,0.16491,0.38401,1.0,0.75523,0.67871,1.0
+ES002,Port-dependent logistics and trade economy,supply chain and logistics exposure,53,background economic stress,0.16593,0.38405,1.0,0.75591,0.67779,1.0
+ES002,Port-dependent logistics and trade economy,supply chain and logistics exposure,54,background economic stress,0.16572,0.38408,1.0,0.75658,0.67687,1.0
+ES002,Port-dependent logistics and trade economy,supply chain and logistics exposure,55,background economic stress,0.16604,0.38412,1.0,0.75726,0.67597,1.0
+ES002,Port-dependent logistics and trade economy,supply chain and logistics exposure,56,Climate disaster damaging infrastructure firms and housing,0.91745,0.38415,0.8013,0.77958,0.69157,0.66489
+ES002,Port-dependent logistics and trade economy,supply chain and logistics exposure,57,background economic stress,0.16797,0.37884,0.8901,0.78031,0.69075,0.91303
+ES002,Port-dependent logistics and trade economy,supply chain and logistics exposure,58,background economic stress,0.16676,0.37885,0.97928,0.78104,0.68993,1.0
+ES002,Port-dependent logistics and trade economy,supply chain and logistics exposure,59,background economic stress,0.16848,0.37886,1.0,0.78178,0.68913,1.0
+ES002,Port-dependent logistics and trade economy,supply chain and logistics exposure,60,background economic stress,0.16827,0.37887,1.0,0.78251,0.68834,1.0
+ES002,Port-dependent logistics and trade economy,supply chain and logistics exposure,61,background economic stress,0.16851,0.37888,1.0,0.78324,0.68757,1.0
+ES002,Port-dependent logistics and trade economy,supply chain and logistics exposure,62,background economic stress,0.16701,0.37889,1.0,0.78397,0.6868,1.0
+ES002,Port-dependent logistics and trade economy,supply chain and logistics exposure,63,background economic stress,0.16748,0.37889,1.0,0.7847,0.68605,1.0
+ES002,Port-dependent logistics and trade economy,supply chain and logistics exposure,64,background economic stress,0.1676,0.3789,1.0,0.78543,0.68531,1.0
+ES002,Port-dependent logistics and trade economy,supply chain and logistics exposure,65,background economic stress,0.16868,0.3789,1.0,0.78616,0.68458,1.0
+ES002,Port-dependent logistics and trade economy,supply chain and logistics exposure,66,background economic stress,0.1705,0.3789,1.0,0.78689,0.68386,1.0
+ES002,Port-dependent logistics and trade economy,supply chain and logistics exposure,67,background economic stress,0.17058,0.37889,1.0,0.78763,0.68316,1.0
+ES002,Port-dependent logistics and trade economy,supply chain and logistics exposure,68,background economic stress,0.17074,0.37889,1.0,0.78836,0.68246,1.0
+ES002,Port-dependent logistics and trade economy,supply chain and logistics exposure,69,background economic stress,0.16913,0.37889,1.0,0.78909,0.68178,1.0
+ES002,Port-dependent logistics and trade economy,supply chain and logistics exposure,70,Compound inflation fiscal climate and labor crisis,0.96189,0.37888,0.77454,0.8143,0.69911,0.63401
+ES002,Port-dependent logistics and trade economy,supply chain and logistics exposure,71,background economic stress,0.17167,0.37292,0.86085,0.81509,0.69852,0.88303
+ES002,Port-dependent logistics and trade economy,supply chain and logistics exposure,72,background economic stress,0.17211,0.3729,0.94701,0.81588,0.69793,0.97141
+ES002,Port-dependent logistics and trade economy,supply chain and logistics exposure,73,background economic stress,0.17246,0.37287,1.0,0.81667,0.69736,1.0
+ES002,Port-dependent logistics and trade economy,supply chain and logistics exposure,74,background economic stress,0.17268,0.37284,1.0,0.81746,0.6968,1.0
+ES002,Port-dependent logistics and trade economy,supply chain and logistics exposure,75,background economic stress,0.17125,0.3728,1.0,0.81826,0.69625,1.0
+ES002,Port-dependent logistics and trade economy,supply chain and logistics exposure,76,background economic stress,0.17161,0.37277,1.0,0.81905,0.69572,1.0
+ES002,Port-dependent logistics and trade economy,supply chain and logistics exposure,77,background economic stress,0.17347,0.37273,1.0,0.81984,0.69519,1.0
+ES002,Port-dependent logistics and trade economy,supply chain and logistics exposure,78,background economic stress,0.1736,0.3727,1.0,0.82063,0.69468,1.0
+ES002,Port-dependent logistics and trade economy,supply chain and logistics exposure,79,background economic stress,0.17426,0.37266,1.0,0.82143,0.69418,1.0
+ES003,Climate-exposed tourism and service economy,climate tourism and service employment,0,background economic stress,0.15327,0.3426,0.80072,0.78109,0.73885,0.83032
+ES003,Climate-exposed tourism and service economy,climate tourism and service employment,1,background economic stress,0.15475,0.34261,0.88098,0.78219,0.73772,0.91354
+ES003,Climate-exposed tourism and service economy,climate tourism and service employment,2,background economic stress,0.15385,0.34261,0.96152,0.78328,0.7366,0.99706
+ES003,Climate-exposed tourism and service economy,climate tourism and service employment,3,background economic stress,0.15552,0.34262,1.0,0.78438,0.73549,1.0
+ES003,Climate-exposed tourism and service economy,climate tourism and service employment,4,background economic stress,0.15551,0.34262,1.0,0.78547,0.73439,1.0
+ES003,Climate-exposed tourism and service economy,climate tourism and service employment,5,background economic stress,0.15519,0.34262,1.0,0.78656,0.7333,1.0
+ES003,Climate-exposed tourism and service economy,climate tourism and service employment,6,background economic stress,0.15606,0.34262,1.0,0.78766,0.73223,1.0
+ES003,Climate-exposed tourism and service economy,climate tourism and service employment,7,background economic stress,0.15619,0.34262,1.0,0.78875,0.73117,1.0
+ES003,Climate-exposed tourism and service economy,climate tourism and service employment,8,background economic stress,0.15509,0.34261,1.0,0.78984,0.73012,1.0
+ES003,Climate-exposed tourism and service economy,climate tourism and service employment,9,background economic stress,0.15662,0.34261,1.0,0.79094,0.72908,1.0
+ES003,Climate-exposed tourism and service economy,climate tourism and service employment,10,background economic stress,0.15712,0.3426,1.0,0.79203,0.72805,1.0
+ES003,Climate-exposed tourism and service economy,climate tourism and service employment,11,background economic stress,0.15712,0.34259,1.0,0.79313,0.72704,1.0
+ES003,Climate-exposed tourism and service economy,climate tourism and service employment,12,Regional employer closure and supplier contraction,0.80111,0.34258,0.839,0.81714,0.74065,0.71496
+ES003,Climate-exposed tourism and service economy,climate tourism and service employment,13,background economic stress,0.15901,0.33731,0.91672,0.81829,0.73972,0.95061
+ES003,Climate-exposed tourism and service economy,climate tourism and service employment,14,background economic stress,0.1589,0.33728,0.99448,0.81944,0.73879,1.0
+ES003,Climate-exposed tourism and service economy,climate tourism and service employment,15,background economic stress,0.15823,0.33725,1.0,0.82058,0.73788,1.0
+ES003,Climate-exposed tourism and service economy,climate tourism and service employment,16,background economic stress,0.1581,0.33722,1.0,0.82173,0.73698,1.0
+ES003,Climate-exposed tourism and service economy,climate tourism and service employment,17,background economic stress,0.15811,0.33718,1.0,0.82288,0.73609,1.0
+ES003,Climate-exposed tourism and service economy,climate tourism and service employment,18,background economic stress,0.16015,0.33714,1.0,0.82403,0.73522,1.0
+ES003,Climate-exposed tourism and service economy,climate tourism and service employment,19,background economic stress,0.1601,0.33711,1.0,0.82518,0.73435,1.0
+ES003,Climate-exposed tourism and service economy,climate tourism and service employment,20,background economic stress,0.16016,0.33707,1.0,0.82633,0.7335,1.0
+ES003,Climate-exposed tourism and service economy,climate tourism and service employment,21,background economic stress,0.15998,0.33702,1.0,0.82748,0.73266,1.0
+ES003,Climate-exposed tourism and service economy,climate tourism and service employment,22,background economic stress,0.1604,0.33698,1.0,0.82863,0.73184,1.0
+ES003,Climate-exposed tourism and service economy,climate tourism and service employment,23,background economic stress,0.15994,0.33694,1.0,0.82978,0.73102,1.0
+ES003,Climate-exposed tourism and service economy,climate tourism and service employment,24,background economic stress,0.16101,0.33689,1.0,0.83093,0.73022,1.0
+ES003,Climate-exposed tourism and service economy,climate tourism and service employment,25,background economic stress,0.16028,0.33684,1.0,0.83208,0.72943,1.0
+ES003,Climate-exposed tourism and service economy,climate tourism and service employment,26,background economic stress,0.16178,0.33679,1.0,0.83323,0.72866,1.0
+ES003,Climate-exposed tourism and service economy,climate tourism and service employment,27,Port disruption and critical input shortage,0.83921,0.33674,0.83361,0.85346,0.74497,0.73371
+ES003,Climate-exposed tourism and service economy,climate tourism and service employment,28,background economic stress,0.16274,0.33162,0.90889,0.85467,0.74427,0.94248
+ES003,Climate-exposed tourism and service economy,climate tourism and service employment,29,background economic stress,0.16311,0.33155,0.98404,0.85587,0.74358,1.0
+ES003,Climate-exposed tourism and service economy,climate tourism and service employment,30,background economic stress,0.16228,0.33148,1.0,0.85708,0.74291,1.0
+ES003,Climate-exposed tourism and service economy,climate tourism and service employment,31,background economic stress,0.16214,0.3314,1.0,0.85828,0.74225,1.0
+ES003,Climate-exposed tourism and service economy,climate tourism and service employment,32,background economic stress,0.16304,0.33133,1.0,0.85949,0.7416,1.0
+ES003,Climate-exposed tourism and service economy,climate tourism and service employment,33,background economic stress,0.16423,0.33125,1.0,0.8607,0.74096,1.0
+ES003,Climate-exposed tourism and service economy,climate tourism and service employment,34,background economic stress,0.16403,0.33117,1.0,0.86191,0.74034,1.0
+ES003,Climate-exposed tourism and service economy,climate tourism and service employment,35,background economic stress,0.16492,0.33109,1.0,0.86311,0.73973,1.0
+ES003,Climate-exposed tourism and service economy,climate tourism and service employment,36,background economic stress,0.16436,0.331,1.0,0.86432,0.73913,1.0
+ES003,Climate-exposed tourism and service economy,climate tourism and service employment,37,background economic stress,0.16455,0.33092,1.0,0.86554,0.73854,1.0
+ES003,Climate-exposed tourism and service economy,climate tourism and service employment,38,background economic stress,0.16614,0.33083,1.0,0.86675,0.73797,1.0
+ES003,Climate-exposed tourism and service economy,climate tourism and service employment,39,background economic stress,0.16448,0.33074,1.0,0.86796,0.73741,1.0
+ES003,Climate-exposed tourism and service economy,climate tourism and service employment,40,background economic stress,0.16486,0.33065,1.0,0.86917,0.73687,1.0
+ES003,Climate-exposed tourism and service economy,climate tourism and service employment,41,background economic stress,0.16612,0.33055,1.0,0.87039,0.73633,1.0
+ES003,Climate-exposed tourism and service economy,climate tourism and service employment,42,Credit tightening and small-business liquidity stress,0.80053,0.33046,0.83219,0.89204,0.75223,0.71382
+ES003,Climate-exposed tourism and service economy,climate tourism and service employment,43,background economic stress,0.16718,0.3252,0.90464,0.89331,0.75177,0.93807
+ES003,Climate-exposed tourism and service economy,climate tourism and service employment,44,background economic stress,0.16694,0.32509,0.97714,0.89458,0.75133,1.0
+ES003,Climate-exposed tourism and service economy,climate tourism and service employment,45,background economic stress,0.16753,0.32497,1.0,0.89585,0.7509,1.0
+ES003,Climate-exposed tourism and service economy,climate tourism and service employment,46,background economic stress,0.1675,0.32486,1.0,0.89712,0.75048,1.0
+ES003,Climate-exposed tourism and service economy,climate tourism and service employment,47,background economic stress,0.16836,0.32474,1.0,0.89839,0.75008,1.0
+ES003,Climate-exposed tourism and service economy,climate tourism and service employment,48,background economic stress,0.1692,0.32461,1.0,0.89967,0.74969,1.0
+ES003,Climate-exposed tourism and service economy,climate tourism and service employment,49,background economic stress,0.16931,0.32449,1.0,0.90094,0.74931,1.0
+ES003,Climate-exposed tourism and service economy,climate tourism and service employment,50,background economic stress,0.1691,0.32436,1.0,0.90222,0.74895,1.0
+ES003,Climate-exposed tourism and service economy,climate tourism and service employment,51,background economic stress,0.16893,0.32424,1.0,0.9035,0.7486,1.0
+ES003,Climate-exposed tourism and service economy,climate tourism and service employment,52,background economic stress,0.17044,0.32411,1.0,0.90478,0.74826,1.0
+ES003,Climate-exposed tourism and service economy,climate tourism and service employment,53,background economic stress,0.16941,0.32397,1.0,0.90606,0.74794,1.0
+ES003,Climate-exposed tourism and service economy,climate tourism and service employment,54,background economic stress,0.17015,0.32384,1.0,0.90734,0.74763,1.0
+ES003,Climate-exposed tourism and service economy,climate tourism and service employment,55,background economic stress,0.17105,0.3237,1.0,0.90862,0.74733,1.0
+ES003,Climate-exposed tourism and service economy,climate tourism and service employment,56,Climate disaster damaging infrastructure firms and housing,0.92151,0.32357,0.77094,0.93155,0.76353,0.64833
+ES003,Climate-exposed tourism and service economy,climate tourism and service employment,57,background economic stress,0.17155,0.31809,0.84042,0.93289,0.76332,0.87149
+ES003,Climate-exposed tourism and service economy,climate tourism and service employment,58,background economic stress,0.17106,0.31793,0.91003,0.93423,0.76311,0.94366
+ES003,Climate-exposed tourism and service economy,climate tourism and service employment,59,background economic stress,0.17225,0.31777,0.97922,0.93557,0.76292,1.0
+ES003,Climate-exposed tourism and service economy,climate tourism and service employment,60,background economic stress,0.17215,0.31761,1.0,0.93691,0.76275,1.0
+ES003,Climate-exposed tourism and service economy,climate tourism and service employment,61,background economic stress,0.17325,0.31745,1.0,0.93826,0.76259,1.0
+ES003,Climate-exposed tourism and service economy,climate tourism and service employment,62,background economic stress,0.17276,0.31728,1.0,0.9396,0.76244,1.0
+ES003,Climate-exposed tourism and service economy,climate tourism and service employment,63,background economic stress,0.1728,0.31711,1.0,0.94095,0.7623,1.0
+ES003,Climate-exposed tourism and service economy,climate tourism and service employment,64,background economic stress,0.17422,0.31694,1.0,0.9423,0.76218,1.0
+ES003,Climate-exposed tourism and service economy,climate tourism and service employment,65,background economic stress,0.17334,0.31677,1.0,0.94366,0.76207,1.0
+ES003,Climate-exposed tourism and service economy,climate tourism and service employment,66,background economic stress,0.17328,0.3166,1.0,0.94501,0.76198,1.0
+ES003,Climate-exposed tourism and service economy,climate tourism and service employment,67,background economic stress,0.17495,0.31642,1.0,0.94637,0.7619,1.0
+ES003,Climate-exposed tourism and service economy,climate tourism and service employment,68,background economic stress,0.17525,0.31624,1.0,0.94772,0.76183,1.0
+ES003,Climate-exposed tourism and service economy,climate tourism and service employment,69,background economic stress,0.17351,0.31606,1.0,0.94908,0.76178,1.0
+ES003,Climate-exposed tourism and service economy,climate tourism and service employment,70,Compound inflation fiscal climate and labor crisis,0.96614,0.31588,0.74272,0.97492,0.77974,0.61628
+ES003,Climate-exposed tourism and service economy,climate tourism and service employment,71,background economic stress,0.17429,0.30975,0.80949,0.97635,0.77977,0.83941
+ES003,Climate-exposed tourism and service economy,climate tourism and service employment,72,background economic stress,0.17661,0.30954,0.87548,0.97777,0.77982,0.90783
+ES003,Climate-exposed tourism and service economy,climate tourism and service employment,73,background economic stress,0.17695,0.30934,0.94131,0.9792,0.77989,0.9761
+ES003,Climate-exposed tourism and service economy,climate tourism and service employment,74,background economic stress,0.17593,0.30913,1.0,0.98063,0.77996,1.0
+ES003,Climate-exposed tourism and service economy,climate tourism and service employment,75,background economic stress,0.17587,0.30892,1.0,0.98206,0.78005,1.0
+ES003,Climate-exposed tourism and service economy,climate tourism and service employment,76,background economic stress,0.17727,0.3087,1.0,0.98349,0.78016,1.0
+ES003,Climate-exposed tourism and service economy,climate tourism and service employment,77,background economic stress,0.17821,0.30849,1.0,0.98493,0.78028,1.0
+ES003,Climate-exposed tourism and service economy,climate tourism and service employment,78,background economic stress,0.1766,0.30827,1.0,0.98636,0.78041,1.0
+ES003,Climate-exposed tourism and service economy,climate tourism and service employment,79,background economic stress,0.17749,0.30805,1.0,0.9878,0.78056,1.0
+ES004,Urban small-business and household service economy,local enterprise household demand and community finance,0,background economic stress,0.15308,0.3812,0.85248,0.82071,0.85847,0.8859
+ES004,Urban small-business and household service economy,local enterprise household demand and community finance,1,background economic stress,0.15197,0.38132,0.94534,0.82141,0.85695,0.98239
+ES004,Urban small-business and household service economy,local enterprise household demand and community finance,2,background economic stress,0.15291,0.38143,1.0,0.82212,0.85544,1.0
+ES004,Urban small-business and household service economy,local enterprise household demand and community finance,3,background economic stress,0.1532,0.38154,1.0,0.82283,0.85394,1.0
+ES004,Urban small-business and household service economy,local enterprise household demand and community finance,4,background economic stress,0.15211,0.38165,1.0,0.82353,0.85245,1.0
+ES004,Urban small-business and household service economy,local enterprise household demand and community finance,5,background economic stress,0.152,0.38176,1.0,0.82423,0.85097,1.0
+ES004,Urban small-business and household service economy,local enterprise household demand and community finance,6,background economic stress,0.15362,0.38187,1.0,0.82493,0.8495,1.0
+ES004,Urban small-business and household service economy,local enterprise household demand and community finance,7,background economic stress,0.15262,0.38198,1.0,0.82563,0.84805,1.0
+ES004,Urban small-business and household service economy,local enterprise household demand and community finance,8,background economic stress,0.15355,0.38208,1.0,0.82633,0.8466,1.0
+ES004,Urban small-business and household service economy,local enterprise household demand and community finance,9,background economic stress,0.15513,0.38219,1.0,0.82703,0.84517,1.0
+ES004,Urban small-business and household service economy,local enterprise household demand and community finance,10,background economic stress,0.15533,0.38229,1.0,0.82773,0.84375,1.0
+ES004,Urban small-business and household service economy,local enterprise household demand and community finance,11,background economic stress,0.15363,0.38239,1.0,0.82842,0.84233,1.0
+ES004,Urban small-business and household service economy,local enterprise household demand and community finance,12,Regional employer closure and supplier contraction,0.79865,0.38249,0.84684,0.85204,0.85555,0.72354
+ES004,Urban small-business and household service economy,local enterprise household demand and community finance,13,background economic stress,0.15447,0.37734,0.93802,0.85278,0.85421,0.97479
+ES004,Urban small-business and household service economy,local enterprise household demand and community finance,14,background economic stress,0.15509,0.37742,1.0,0.85353,0.85289,1.0
+ES004,Urban small-business and household service economy,local enterprise household demand and community finance,15,background economic stress,0.15692,0.3775,1.0,0.85428,0.85157,1.0
+ES004,Urban small-business and household service economy,local enterprise household demand and community finance,16,background economic stress,0.15508,0.37758,1.0,0.85502,0.85027,1.0
+ES004,Urban small-business and household service economy,local enterprise household demand and community finance,17,background economic stress,0.15586,0.37766,1.0,0.85576,0.84897,1.0
+ES004,Urban small-business and household service economy,local enterprise household demand and community finance,18,background economic stress,0.15581,0.37774,1.0,0.85651,0.84769,1.0
+ES004,Urban small-business and household service economy,local enterprise household demand and community finance,19,background economic stress,0.15612,0.37781,1.0,0.85725,0.84642,1.0
+ES004,Urban small-business and household service economy,local enterprise household demand and community finance,20,background economic stress,0.1574,0.37789,1.0,0.85799,0.84516,1.0
+ES004,Urban small-business and household service economy,local enterprise household demand and community finance,21,background economic stress,0.15677,0.37796,1.0,0.85873,0.84392,1.0
+ES004,Urban small-business and household service economy,local enterprise household demand and community finance,22,background economic stress,0.15762,0.37803,1.0,0.85947,0.84268,1.0
+ES004,Urban small-business and household service economy,local enterprise household demand and community finance,23,background economic stress,0.15872,0.3781,1.0,0.86021,0.84146,1.0
+ES004,Urban small-business and household service economy,local enterprise household demand and community finance,24,background economic stress,0.15895,0.37817,1.0,0.86095,0.84024,1.0
+ES004,Urban small-business and household service economy,local enterprise household demand and community finance,25,background economic stress,0.1584,0.37823,1.0,0.86168,0.83904,1.0
+ES004,Urban small-business and household service economy,local enterprise household demand and community finance,26,background economic stress,0.15962,0.3783,1.0,0.86242,0.83785,1.0
+ES004,Urban small-business and household service economy,local enterprise household demand and community finance,27,Port disruption and critical input shortage,0.83661,0.37836,0.84388,0.88224,0.85375,0.74464
+ES004,Urban small-business and household service economy,local enterprise household demand and community finance,28,background economic stress,0.15999,0.37336,0.93243,0.88302,0.85263,0.96898
+ES004,Urban small-business and household service economy,local enterprise household demand and community finance,29,background economic stress,0.16091,0.37341,1.0,0.88381,0.85152,1.0
+ES004,Urban small-business and household service economy,local enterprise household demand and community finance,30,background economic stress,0.15966,0.37345,1.0,0.88459,0.85043,1.0
+ES004,Urban small-business and household service economy,local enterprise household demand and community finance,31,background economic stress,0.16023,0.3735,1.0,0.88538,0.84934,1.0
+ES004,Urban small-business and household service economy,local enterprise household demand and community finance,32,background economic stress,0.16104,0.37354,1.0,0.88616,0.84827,1.0
+ES004,Urban small-business and household service economy,local enterprise household demand and community finance,33,background economic stress,0.16225,0.37358,1.0,0.88695,0.84721,1.0
+ES004,Urban small-business and household service economy,local enterprise household demand and community finance,34,background economic stress,0.16165,0.37362,1.0,0.88773,0.84616,1.0
+ES004,Urban small-business and household service economy,local enterprise household demand and community finance,35,background economic stress,0.16154,0.37365,1.0,0.88852,0.84513,1.0
+ES004,Urban small-business and household service economy,local enterprise household demand and community finance,36,background economic stress,0.16122,0.37369,1.0,0.8893,0.8441,1.0
+ES004,Urban small-business and household service economy,local enterprise household demand and community finance,37,background economic stress,0.16155,0.37372,1.0,0.89008,0.84309,1.0
+ES004,Urban small-business and household service economy,local enterprise household demand and community finance,38,background economic stress,0.16164,0.37376,1.0,0.89086,0.84209,1.0
+ES004,Urban small-business and household service economy,local enterprise household demand and community finance,39,background economic stress,0.1639,0.37379,1.0,0.89165,0.8411,1.0
+ES004,Urban small-business and household service economy,local enterprise household demand and community finance,40,background economic stress,0.1639,0.37382,1.0,0.89243,0.84012,1.0
+ES004,Urban small-business and household service economy,local enterprise household demand and community finance,41,background economic stress,0.16418,0.37384,1.0,0.89321,0.83915,1.0
+ES004,Urban small-business and household service economy,local enterprise household demand and community finance,42,Credit tightening and small-business liquidity stress,0.7978,0.37387,0.84213,0.91443,0.85462,0.72424
+ES004,Urban small-business and household service economy,local enterprise household demand and community finance,43,background economic stress,0.16417,0.36873,0.92832,0.91526,0.85372,0.96471
+ES004,Urban small-business and household service economy,local enterprise household demand and community finance,44,background economic stress,0.1649,0.36874,1.0,0.9161,0.85284,1.0
+ES004,Urban small-business and household service economy,local enterprise household demand and community finance,45,background economic stress,0.16409,0.36875,1.0,0.91693,0.85198,1.0
+ES004,Urban small-business and household service economy,local enterprise household demand and community finance,46,background economic stress,0.16483,0.36875,1.0,0.91776,0.85112,1.0
+ES004,Urban small-business and household service economy,local enterprise household demand and community finance,47,background economic stress,0.16422,0.36876,1.0,0.91859,0.85028,1.0
+ES004,Urban small-business and household service economy,local enterprise household demand and community finance,48,background economic stress,0.16519,0.36876,1.0,0.91943,0.84945,1.0
+ES004,Urban small-business and household service economy,local enterprise household demand and community finance,49,background economic stress,0.16502,0.36876,1.0,0.92026,0.84863,1.0
+ES004,Urban small-business and household service economy,local enterprise household demand and community finance,50,background economic stress,0.16488,0.36876,1.0,0.92109,0.84782,1.0
+ES004,Urban small-business and household service economy,local enterprise household demand and community finance,51,background economic stress,0.16727,0.36875,1.0,0.92192,0.84702,1.0
+ES004,Urban small-business and household service economy,local enterprise household demand and community finance,52,background economic stress,0.1654,0.36875,1.0,0.92276,0.84624,1.0
+ES004,Urban small-business and household service economy,local enterprise household demand and community finance,53,background economic stress,0.16752,0.36874,1.0,0.92359,0.84547,1.0
+ES004,Urban small-business and household service economy,local enterprise household demand and community finance,54,background economic stress,0.16749,0.36873,1.0,0.92442,0.84471,1.0
+ES004,Urban small-business and household service economy,local enterprise household demand and community finance,55,background economic stress,0.16616,0.36872,1.0,0.92525,0.84396,1.0
+ES004,Urban small-business and household service economy,local enterprise household demand and community finance,56,Climate disaster damaging infrastructure firms and housing,0.91863,0.36871,0.78193,0.94773,0.85972,0.65932
+ES004,Urban small-business and household service economy,local enterprise household demand and community finance,57,background economic stress,0.16815,0.36336,0.86566,0.94861,0.85905,0.89959
+ES004,Urban small-business and household service economy,local enterprise household demand and community finance,58,background economic stress,0.16974,0.36333,0.94888,0.9495,0.85839,0.98607
+ES004,Urban small-business and household service economy,local enterprise household demand and community finance,59,background economic stress,0.16998,0.3633,1.0,0.95039,0.85774,1.0
+ES004,Urban small-business and household service economy,local enterprise household demand and community finance,60,background economic stress,0.16914,0.36326,1.0,0.95127,0.85711,1.0
+ES004,Urban small-business and household service economy,local enterprise household demand and community finance,61,background economic stress,0.16995,0.36323,1.0,0.95216,0.85649,1.0
+ES004,Urban small-business and household service economy,local enterprise household demand and community finance,62,background economic stress,0.17005,0.36319,1.0,0.95305,0.85588,1.0
+ES004,Urban small-business and household service economy,local enterprise household demand and community finance,63,background economic stress,0.16923,0.36315,1.0,0.95394,0.85529,1.0
+ES004,Urban small-business and household service economy,local enterprise household demand and community finance,64,background economic stress,0.17016,0.36311,1.0,0.95483,0.8547,1.0
+ES004,Urban small-business and household service economy,local enterprise household demand and community finance,65,background economic stress,0.17055,0.36307,1.0,0.95572,0.85413,1.0
+ES004,Urban small-business and household service economy,local enterprise household demand and community finance,66,background economic stress,0.17029,0.36302,1.0,0.95661,0.85358,1.0
+ES004,Urban small-business and household service economy,local enterprise household demand and community finance,67,background economic stress,0.17166,0.36297,1.0,0.9575,0.85303,1.0
+ES004,Urban small-business and household service economy,local enterprise household demand and community finance,68,background economic stress,0.17095,0.36293,1.0,0.95839,0.8525,1.0
+ES004,Urban small-business and household service economy,local enterprise household demand and community finance,69,background economic stress,0.17201,0.36288,1.0,0.95928,0.85198,1.0
+ES004,Urban small-business and household service economy,local enterprise household demand and community finance,70,Compound inflation fiscal climate and labor crisis,0.96312,0.36282,0.75479,0.98465,0.86947,0.62799
+ES004,Urban small-business and household service economy,local enterprise household demand and community finance,71,background economic stress,0.17124,0.35682,0.8361,0.9856,0.86903,0.86887
+ES004,Urban small-business and household service economy,local enterprise household demand and community finance,72,background economic stress,0.17249,0.35675,0.91699,0.98656,0.86861,0.95293
+ES004,Urban small-business and household service economy,local enterprise household demand and community finance,73,background economic stress,0.17172,0.35668,0.9981,0.98751,0.8682,1.0
+ES004,Urban small-business and household service economy,local enterprise household demand and community finance,74,background economic stress,0.17355,0.3566,1.0,0.98846,0.8678,1.0
+ES004,Urban small-business and household service economy,local enterprise household demand and community finance,75,background economic stress,0.17441,0.35652,1.0,0.98942,0.86741,1.0
+ES004,Urban small-business and household service economy,local enterprise household demand and community finance,76,background economic stress,0.17382,0.35644,1.0,0.99037,0.86704,1.0
+ES004,Urban small-business and household service economy,local enterprise household demand and community finance,77,background economic stress,0.17414,0.35636,1.0,0.99133,0.86668,1.0
+ES004,Urban small-business and household service economy,local enterprise household demand and community finance,78,background economic stress,0.17456,0.35628,1.0,0.99229,0.86633,1.0
+ES004,Urban small-business and household service economy,local enterprise household demand and community finance,79,background economic stress,0.1738,0.35619,1.0,0.99324,0.866,1.0
+ES005,Agricultural watershed economy under climate stress,food water agriculture and climate exposure,0,background economic stress,0.15494,0.3528,0.83404,0.74099,0.69875,0.86299
+ES005,Agricultural watershed economy under climate stress,food water agriculture and climate exposure,1,background economic stress,0.15497,0.35284,0.91807,0.74198,0.69752,0.94995
+ES005,Agricultural watershed economy under climate stress,food water agriculture and climate exposure,2,background economic stress,0.15486,0.35287,1.0,0.74297,0.69629,1.0
+ES005,Agricultural watershed economy under climate stress,food water agriculture and climate exposure,3,background economic stress,0.15381,0.3529,1.0,0.74397,0.69508,1.0
+ES005,Agricultural watershed economy under climate stress,food water agriculture and climate exposure,4,background economic stress,0.15434,0.35293,1.0,0.74496,0.69388,1.0
+ES005,Agricultural watershed economy under climate stress,food water agriculture and climate exposure,5,background economic stress,0.15559,0.35296,1.0,0.74595,0.69269,1.0
+ES005,Agricultural watershed economy under climate stress,food water agriculture and climate exposure,6,background economic stress,0.15609,0.35299,1.0,0.74694,0.69151,1.0
+ES005,Agricultural watershed economy under climate stress,food water agriculture and climate exposure,7,background economic stress,0.1543,0.35302,1.0,0.74793,0.69034,1.0
+ES005,Agricultural watershed economy under climate stress,food water agriculture and climate exposure,8,background economic stress,0.15495,0.35304,1.0,0.74892,0.68919,1.0
+ES005,Agricultural watershed economy under climate stress,food water agriculture and climate exposure,9,background economic stress,0.1571,0.35307,1.0,0.74991,0.68805,1.0
+ES005,Agricultural watershed economy under climate stress,food water agriculture and climate exposure,10,background economic stress,0.15534,0.35309,1.0,0.75089,0.68691,1.0
+ES005,Agricultural watershed economy under climate stress,food water agriculture and climate exposure,11,background economic stress,0.157,0.35311,1.0,0.75188,0.6858,1.0
+ES005,Agricultural watershed economy under climate stress,food water agriculture and climate exposure,12,Regional employer closure and supplier contraction,0.80063,0.35312,0.8472,0.77579,0.6993,0.72005
+ES005,Agricultural watershed economy under climate stress,food water agriculture and climate exposure,13,background economic stress,0.1571,0.34789,0.92946,0.77683,0.69826,0.96173
+ES005,Agricultural watershed economy under climate stress,food water agriculture and climate exposure,14,background economic stress,0.15818,0.34789,1.0,0.77787,0.69723,1.0
+ES005,Agricultural watershed economy under climate stress,food water agriculture and climate exposure,15,background economic stress,0.15901,0.34789,1.0,0.77892,0.69621,1.0
+ES005,Agricultural watershed economy under climate stress,food water agriculture and climate exposure,16,background economic stress,0.15854,0.34788,1.0,0.77996,0.69521,1.0
+ES005,Agricultural watershed economy under climate stress,food water agriculture and climate exposure,17,background economic stress,0.15831,0.34788,1.0,0.781,0.69421,1.0
+ES005,Agricultural watershed economy under climate stress,food water agriculture and climate exposure,18,background economic stress,0.15839,0.34787,1.0,0.78204,0.69323,1.0
+ES005,Agricultural watershed economy under climate stress,food water agriculture and climate exposure,19,background economic stress,0.15943,0.34786,1.0,0.78308,0.69226,1.0
+ES005,Agricultural watershed economy under climate stress,food water agriculture and climate exposure,20,background economic stress,0.15971,0.34785,1.0,0.78412,0.6913,1.0
+ES005,Agricultural watershed economy under climate stress,food water agriculture and climate exposure,21,background economic stress,0.1594,0.34784,1.0,0.78516,0.69035,1.0
+ES005,Agricultural watershed economy under climate stress,food water agriculture and climate exposure,22,background economic stress,0.15981,0.34783,1.0,0.78621,0.68942,1.0
+ES005,Agricultural watershed economy under climate stress,food water agriculture and climate exposure,23,background economic stress,0.16026,0.34781,1.0,0.78725,0.6885,1.0
+ES005,Agricultural watershed economy under climate stress,food water agriculture and climate exposure,24,background economic stress,0.1598,0.3478,1.0,0.78829,0.68759,1.0
+ES005,Agricultural watershed economy under climate stress,food water agriculture and climate exposure,25,background economic stress,0.15986,0.34778,1.0,0.78933,0.68669,1.0
+ES005,Agricultural watershed economy under climate stress,food water agriculture and climate exposure,26,background economic stress,0.16113,0.34776,1.0,0.79037,0.6858,1.0
+ES005,Agricultural watershed economy under climate stress,food water agriculture and climate exposure,27,Port disruption and critical input shortage,0.8387,0.34774,0.84208,0.8105,0.70201,0.73928
+ES005,Agricultural watershed economy under climate stress,food water agriculture and climate exposure,28,background economic stress,0.16085,0.34265,0.92199,0.81159,0.70119,0.954
+ES005,Agricultural watershed economy under climate stress,food water agriculture and climate exposure,29,background economic stress,0.16241,0.34261,1.0,0.81268,0.7004,1.0
+ES005,Agricultural watershed economy under climate stress,food water agriculture and climate exposure,30,background economic stress,0.1632,0.34257,1.0,0.81378,0.69961,1.0
+ES005,Agricultural watershed economy under climate stress,food water agriculture and climate exposure,31,background economic stress,0.16353,0.34253,1.0,0.81487,0.69884,1.0
+ES005,Agricultural watershed economy under climate stress,food water agriculture and climate exposure,32,background economic stress,0.1623,0.34248,1.0,0.81597,0.69808,1.0
+ES005,Agricultural watershed economy under climate stress,food water agriculture and climate exposure,33,background economic stress,0.16299,0.34243,1.0,0.81706,0.69733,1.0
+ES005,Agricultural watershed economy under climate stress,food water agriculture and climate exposure,34,background economic stress,0.16458,0.34239,1.0,0.81816,0.69659,1.0
+ES005,Agricultural watershed economy under climate stress,food water agriculture and climate exposure,35,background economic stress,0.16335,0.34233,1.0,0.81926,0.69587,1.0
+ES005,Agricultural watershed economy under climate stress,food water agriculture and climate exposure,36,background economic stress,0.16529,0.34228,1.0,0.82035,0.69516,1.0
+ES005,Agricultural watershed economy under climate stress,food water agriculture and climate exposure,37,background economic stress,0.16349,0.34223,1.0,0.82145,0.69446,1.0
+ES005,Agricultural watershed economy under climate stress,food water agriculture and climate exposure,38,background economic stress,0.16543,0.34217,1.0,0.82255,0.69377,1.0
+ES005,Agricultural watershed economy under climate stress,food water agriculture and climate exposure,39,background economic stress,0.16361,0.34211,1.0,0.82365,0.6931,1.0
+ES005,Agricultural watershed economy under climate stress,food water agriculture and climate exposure,40,background economic stress,0.16551,0.34205,1.0,0.82475,0.69244,1.0
+ES005,Agricultural watershed economy under climate stress,food water agriculture and climate exposure,41,background economic stress,0.16613,0.34199,1.0,0.82585,0.69179,1.0
+ES005,Agricultural watershed economy under climate stress,food water agriculture and climate exposure,42,Credit tightening and small-business liquidity stress,0.79998,0.34193,0.84094,0.84739,0.70757,0.71944
+ES005,Agricultural watershed economy under climate stress,food water agriculture and climate exposure,43,background economic stress,0.16641,0.33671,0.91777,0.84854,0.707,0.94963
+ES005,Agricultural watershed economy under climate stress,food water agriculture and climate exposure,44,background economic stress,0.1669,0.33662,0.99442,0.8497,0.70644,1.0
+ES005,Agricultural watershed economy under climate stress,food water agriculture and climate exposure,45,background economic stress,0.1679,0.33654,1.0,0.85085,0.7059,1.0
+ES005,Agricultural watershed economy under climate stress,food water agriculture and climate exposure,46,background economic stress,0.16838,0.33646,1.0,0.85201,0.70537,1.0
+ES005,Agricultural watershed economy under climate stress,food water agriculture and climate exposure,47,background economic stress,0.16653,0.33637,1.0,0.85316,0.70485,1.0
+ES005,Agricultural watershed economy under climate stress,food water agriculture and climate exposure,48,background economic stress,0.16769,0.33628,1.0,0.85432,0.70434,1.0
+ES005,Agricultural watershed economy under climate stress,food water agriculture and climate exposure,49,background economic stress,0.1667,0.33619,1.0,0.85548,0.70385,1.0
+ES005,Agricultural watershed economy under climate stress,food water agriculture and climate exposure,50,background economic stress,0.16785,0.33609,1.0,0.85664,0.70336,1.0
+ES005,Agricultural watershed economy under climate stress,food water agriculture and climate exposure,51,background economic stress,0.16751,0.336,1.0,0.8578,0.7029,1.0
+ES005,Agricultural watershed economy under climate stress,food water agriculture and climate exposure,52,background economic stress,0.16782,0.3359,1.0,0.85896,0.70244,1.0
+ES005,Agricultural watershed economy under climate stress,food water agriculture and climate exposure,53,background economic stress,0.1693,0.3358,1.0,0.86012,0.702,1.0
+ES005,Agricultural watershed economy under climate stress,food water agriculture and climate exposure,54,background economic stress,0.16816,0.3357,1.0,0.86128,0.70157,1.0
+ES005,Agricultural watershed economy under climate stress,food water agriculture and climate exposure,55,background economic stress,0.16861,0.3356,1.0,0.86245,0.70115,1.0
+ES005,Agricultural watershed economy under climate stress,food water agriculture and climate exposure,56,Climate disaster damaging infrastructure firms and housing,0.92092,0.3355,0.77997,0.88525,0.71724,0.65418
+ES005,Agricultural watershed economy under climate stress,food water agriculture and climate exposure,57,background economic stress,0.16921,0.33005,0.85443,0.88647,0.7169,0.8841
+ES005,Agricultural watershed economy under climate stress,food water agriculture and climate exposure,58,background economic stress,0.17157,0.32993,0.92812,0.88769,0.71658,0.96034
+ES005,Agricultural watershed economy under climate stress,food water agriculture and climate exposure,59,background economic stress,0.17036,0.3298,1.0,0.88891,0.71627,1.0
+ES005,Agricultural watershed economy under climate stress,food water agriculture and climate exposure,60,background economic stress,0.17018,0.32967,1.0,0.89014,0.71597,1.0
+ES005,Agricultural watershed economy under climate stress,food water agriculture and climate exposure,61,background economic stress,0.17188,0.32954,1.0,0.89136,0.71569,1.0
+ES005,Agricultural watershed economy under climate stress,food water agriculture and climate exposure,62,background economic stress,0.17241,0.32941,1.0,0.89259,0.71542,1.0
+ES005,Agricultural watershed economy under climate stress,food water agriculture and climate exposure,63,background economic stress,0.17245,0.32928,1.0,0.89381,0.71516,1.0
+ES005,Agricultural watershed economy under climate stress,food water agriculture and climate exposure,64,background economic stress,0.17251,0.32914,1.0,0.89504,0.71492,1.0
+ES005,Agricultural watershed economy under climate stress,food water agriculture and climate exposure,65,background economic stress,0.17275,0.32901,1.0,0.89627,0.71469,1.0
+ES005,Agricultural watershed economy under climate stress,food water agriculture and climate exposure,66,background economic stress,0.1735,0.32887,1.0,0.8975,0.71447,1.0
+ES005,Agricultural watershed economy under climate stress,food water agriculture and climate exposure,67,background economic stress,0.17271,0.32872,1.0,0.89874,0.71427,1.0
+ES005,Agricultural watershed economy under climate stress,food water agriculture and climate exposure,68,background economic stress,0.17436,0.32858,1.0,0.89997,0.71408,1.0
+ES005,Agricultural watershed economy under climate stress,food water agriculture and climate exposure,69,background economic stress,0.17425,0.32843,1.0,0.90121,0.7139,1.0
+ES005,Agricultural watershed economy under climate stress,food water agriculture and climate exposure,70,Compound inflation fiscal climate and labor crisis,0.96552,0.32828,0.75204,0.92692,0.73174,0.62232
+ES005,Agricultural watershed economy under climate stress,food water agriculture and climate exposure,71,background economic stress,0.1757,0.32219,0.82269,0.92822,0.73165,0.85126
+ES005,Agricultural watershed economy under climate stress,food water agriculture and climate exposure,72,background economic stress,0.17606,0.32202,0.8932,0.92952,0.73157,0.92421
+ES005,Agricultural watershed economy under climate stress,food water agriculture and climate exposure,73,background economic stress,0.17621,0.32185,0.96362,0.93082,0.73151,0.99707
+ES005,Agricultural watershed economy under climate stress,food water agriculture and climate exposure,74,background economic stress,0.17565,0.32167,1.0,0.93213,0.73146,1.0
+ES005,Agricultural watershed economy under climate stress,food water agriculture and climate exposure,75,background economic stress,0.17593,0.3215,1.0,0.93343,0.73143,1.0
+ES005,Agricultural watershed economy under climate stress,food water agriculture and climate exposure,76,background economic stress,0.17676,0.32132,1.0,0.93474,0.73141,1.0
+ES005,Agricultural watershed economy under climate stress,food water agriculture and climate exposure,77,background economic stress,0.17663,0.32114,1.0,0.93605,0.7314,1.0
+ES005,Agricultural watershed economy under climate stress,food water agriculture and climate exposure,78,background economic stress,0.17547,0.32096,1.0,0.93736,0.73141,1.0
+ES005,Agricultural watershed economy under climate stress,food water agriculture and climate exposure,79,background economic stress,0.17806,0.32077,1.0,0.93867,0.73143,1.0
+ES006,Public-service-dependent regional economy,fiscal resilience and institutional capacity,0,background economic stress,0.15173,0.3852,0.81899,0.76067,0.67843,0.84559
+ES006,Public-service-dependent regional economy,fiscal resilience and institutional capacity,1,background economic stress,0.15061,0.38533,0.90837,0.76133,0.67687,0.93787
+ES006,Public-service-dependent regional economy,fiscal resilience and institutional capacity,2,background economic stress,0.15201,0.38545,0.99732,0.762,0.67532,1.0
+ES006,Public-service-dependent regional economy,fiscal resilience and institutional capacity,3,background economic stress,0.15268,0.38558,1.0,0.76266,0.67378,1.0
+ES006,Public-service-dependent regional economy,fiscal resilience and institutional capacity,4,background economic stress,0.15127,0.3857,1.0,0.76333,0.67225,1.0
+ES006,Public-service-dependent regional economy,fiscal resilience and institutional capacity,5,background economic stress,0.1527,0.38582,1.0,0.76399,0.67073,1.0
+ES006,Public-service-dependent regional economy,fiscal resilience and institutional capacity,6,background economic stress,0.15183,0.38594,1.0,0.76465,0.66922,1.0
+ES006,Public-service-dependent regional economy,fiscal resilience and institutional capacity,7,background economic stress,0.15164,0.38606,1.0,0.76531,0.66773,1.0
+ES006,Public-service-dependent regional economy,fiscal resilience and institutional capacity,8,background economic stress,0.15237,0.38618,1.0,0.76597,0.66624,1.0
+ES006,Public-service-dependent regional economy,fiscal resilience and institutional capacity,9,background economic stress,0.15367,0.38629,1.0,0.76662,0.66476,1.0
+ES006,Public-service-dependent regional economy,fiscal resilience and institutional capacity,10,background economic stress,0.15235,0.38641,1.0,0.76728,0.6633,1.0
+ES006,Public-service-dependent regional economy,fiscal resilience and institutional capacity,11,background economic stress,0.15394,0.38652,1.0,0.76794,0.66185,1.0
+ES006,Public-service-dependent regional economy,fiscal resilience and institutional capacity,12,Regional employer closure and supplier contraction,0.79755,0.38663,0.84655,0.79151,0.67502,0.7176
+ES006,Public-service-dependent regional economy,fiscal resilience and institutional capacity,13,background economic stress,0.15407,0.38149,0.93397,0.79221,0.67364,0.96431
+ES006,Public-service-dependent regional economy,fiscal resilience and institutional capacity,14,background economic stress,0.15385,0.38158,1.0,0.79292,0.67227,1.0
+ES006,Public-service-dependent regional economy,fiscal resilience and institutional capacity,15,background economic stress,0.15478,0.38167,1.0,0.79362,0.67092,1.0
+ES006,Public-service-dependent regional economy,fiscal resilience and institutional capacity,16,background economic stress,0.15492,0.38176,1.0,0.79432,0.66957,1.0
+ES006,Public-service-dependent regional economy,fiscal resilience and institutional capacity,17,background economic stress,0.15537,0.38185,1.0,0.79503,0.66824,1.0
+ES006,Public-service-dependent regional economy,fiscal resilience and institutional capacity,18,background economic stress,0.15672,0.38194,1.0,0.79573,0.66691,1.0
+ES006,Public-service-dependent regional economy,fiscal resilience and institutional capacity,19,background economic stress,0.15707,0.38203,1.0,0.79643,0.6656,1.0
+ES006,Public-service-dependent regional economy,fiscal resilience and institutional capacity,20,background economic stress,0.15553,0.38212,1.0,0.79712,0.6643,1.0
+ES006,Public-service-dependent regional economy,fiscal resilience and institutional capacity,21,background economic stress,0.15776,0.3822,1.0,0.79782,0.66301,1.0
+ES006,Public-service-dependent regional economy,fiscal resilience and institutional capacity,22,background economic stress,0.15704,0.38228,1.0,0.79852,0.66173,1.0
+ES006,Public-service-dependent regional economy,fiscal resilience and institutional capacity,23,background economic stress,0.1582,0.38236,1.0,0.79922,0.66046,1.0
+ES006,Public-service-dependent regional economy,fiscal resilience and institutional capacity,24,background economic stress,0.15808,0.38244,1.0,0.79991,0.65921,1.0
+ES006,Public-service-dependent regional economy,fiscal resilience and institutional capacity,25,background economic stress,0.15758,0.38252,1.0,0.80061,0.65796,1.0
+ES006,Public-service-dependent regional economy,fiscal resilience and institutional capacity,26,background economic stress,0.15712,0.3826,1.0,0.8013,0.65673,1.0
+ES006,Public-service-dependent regional economy,fiscal resilience and institutional capacity,27,Port disruption and critical input shortage,0.8355,0.38268,0.8444,0.82107,0.67258,0.73942
+ES006,Public-service-dependent regional economy,fiscal resilience and institutional capacity,28,background economic stress,0.1598,0.37769,0.92915,0.82182,0.67142,0.95933
+ES006,Public-service-dependent regional economy,fiscal resilience and institutional capacity,29,background economic stress,0.16024,0.37775,1.0,0.82256,0.67027,1.0
+ES006,Public-service-dependent regional economy,fiscal resilience and institutional capacity,30,background economic stress,0.15952,0.3778,1.0,0.8233,0.66913,1.0
+ES006,Public-service-dependent regional economy,fiscal resilience and institutional capacity,31,background economic stress,0.15846,0.37786,1.0,0.82404,0.66801,1.0
+ES006,Public-service-dependent regional economy,fiscal resilience and institutional capacity,32,background economic stress,0.16055,0.37791,1.0,0.82478,0.66689,1.0
+ES006,Public-service-dependent regional economy,fiscal resilience and institutional capacity,33,background economic stress,0.16066,0.37797,1.0,0.82552,0.66579,1.0
+ES006,Public-service-dependent regional economy,fiscal resilience and institutional capacity,34,background economic stress,0.16121,0.37802,1.0,0.82626,0.6647,1.0
+ES006,Public-service-dependent regional economy,fiscal resilience and institutional capacity,35,background economic stress,0.16172,0.37807,1.0,0.827,0.66362,1.0
+ES006,Public-service-dependent regional economy,fiscal resilience and institutional capacity,36,background economic stress,0.16198,0.37811,1.0,0.82774,0.66255,1.0
+ES006,Public-service-dependent regional economy,fiscal resilience and institutional capacity,37,background economic stress,0.16161,0.37816,1.0,0.82848,0.66149,1.0
+ES006,Public-service-dependent regional economy,fiscal resilience and institutional capacity,38,background economic stress,0.16098,0.3782,1.0,0.82922,0.66044,1.0
+ES006,Public-service-dependent regional economy,fiscal resilience and institutional capacity,39,background economic stress,0.1616,0.37825,1.0,0.82996,0.65941,1.0
+ES006,Public-service-dependent regional economy,fiscal resilience and institutional capacity,40,background economic stress,0.16179,0.37829,1.0,0.83069,0.65838,1.0
+ES006,Public-service-dependent regional economy,fiscal resilience and institutional capacity,41,background economic stress,0.16271,0.37833,1.0,0.83143,0.65737,1.0
+ES006,Public-service-dependent regional economy,fiscal resilience and institutional capacity,42,Credit tightening and small-business liquidity stress,0.79667,0.37837,0.84206,0.85261,0.67279,0.71852
+ES006,Public-service-dependent regional economy,fiscal resilience and institutional capacity,43,background economic stress,0.16329,0.37324,0.92472,0.85339,0.67185,0.95476
+ES006,Public-service-dependent regional economy,fiscal resilience and institutional capacity,44,background economic stress,0.16407,0.37327,1.0,0.85418,0.67093,1.0
+ES006,Public-service-dependent regional economy,fiscal resilience and institutional capacity,45,background economic stress,0.16352,0.37328,1.0,0.85497,0.67002,1.0
+ES006,Public-service-dependent regional economy,fiscal resilience and institutional capacity,46,background economic stress,0.16398,0.3733,1.0,0.85576,0.66912,1.0
+ES006,Public-service-dependent regional economy,fiscal resilience and institutional capacity,47,background economic stress,0.16521,0.37332,1.0,0.85654,0.66823,1.0
+ES006,Public-service-dependent regional economy,fiscal resilience and institutional capacity,48,background economic stress,0.16502,0.37333,1.0,0.85733,0.66735,1.0
+ES006,Public-service-dependent regional economy,fiscal resilience and institutional capacity,49,background economic stress,0.16565,0.37335,1.0,0.85812,0.66648,1.0
+ES006,Public-service-dependent regional economy,fiscal resilience and institutional capacity,50,background economic stress,0.1653,0.37336,1.0,0.8589,0.66563,1.0
+ES006,Public-service-dependent regional economy,fiscal resilience and institutional capacity,51,background economic stress,0.16407,0.37337,1.0,0.85969,0.66479,1.0
+ES006,Public-service-dependent regional economy,fiscal resilience and institutional capacity,52,background economic stress,0.1651,0.37337,1.0,0.86047,0.66396,1.0
+ES006,Public-service-dependent regional economy,fiscal resilience and institutional capacity,53,background economic stress,0.16502,0.37338,1.0,0.86126,0.66314,1.0
+ES006,Public-service-dependent regional economy,fiscal resilience and institutional capacity,54,background economic stress,0.16521,0.37338,1.0,0.86205,0.66233,1.0
+ES006,Public-service-dependent regional economy,fiscal resilience and institutional capacity,55,background economic stress,0.16512,0.37339,1.0,0.86283,0.66154,1.0
+ES006,Public-service-dependent regional economy,fiscal resilience and institutional capacity,56,Climate disaster damaging infrastructure firms and housing,0.91749,0.37339,0.78197,0.88526,0.67725,0.6541
+ES006,Public-service-dependent regional economy,fiscal resilience and institutional capacity,57,background economic stress,0.16603,0.36805,0.86261,0.8861,0.67653,0.89062
+ES006,Public-service-dependent regional economy,fiscal resilience and institutional capacity,58,background economic stress,0.16726,0.36803,0.94285,0.88694,0.67583,0.97348
+ES006,Public-service-dependent regional economy,fiscal resilience and institutional capacity,59,background economic stress,0.1683,0.36801,1.0,0.88778,0.67513,1.0
+ES006,Public-service-dependent regional economy,fiscal resilience and institutional capacity,60,background economic stress,0.16879,0.36799,1.0,0.88862,0.67445,1.0
+ES006,Public-service-dependent regional economy,fiscal resilience and institutional capacity,61,background economic stress,0.16931,0.36797,1.0,0.88946,0.67379,1.0
+ES006,Public-service-dependent regional economy,fiscal resilience and institutional capacity,62,background economic stress,0.16857,0.36795,1.0,0.8903,0.67313,1.0
+ES006,Public-service-dependent regional economy,fiscal resilience and institutional capacity,63,background economic stress,0.16736,0.36792,1.0,0.89114,0.67249,1.0
+ES006,Public-service-dependent regional economy,fiscal resilience and institutional capacity,64,background economic stress,0.16808,0.36789,1.0,0.89198,0.67186,1.0
+ES006,Public-service-dependent regional economy,fiscal resilience and institutional capacity,65,background economic stress,0.168,0.36786,1.0,0.89282,0.67124,1.0
+ES006,Public-service-dependent regional economy,fiscal resilience and institutional capacity,66,background economic stress,0.17037,0.36783,1.0,0.89366,0.67063,1.0
+ES006,Public-service-dependent regional economy,fiscal resilience and institutional capacity,67,background economic stress,0.16921,0.3678,1.0,0.89451,0.67004,1.0
+ES006,Public-service-dependent regional economy,fiscal resilience and institutional capacity,68,background economic stress,0.17052,0.36776,1.0,0.89535,0.66946,1.0
+ES006,Public-service-dependent regional economy,fiscal resilience and institutional capacity,69,background economic stress,0.17008,0.36773,1.0,0.89619,0.66889,1.0
+ES006,Public-service-dependent regional economy,fiscal resilience and institutional capacity,70,Compound inflation fiscal climate and labor crisis,0.96197,0.36769,0.75494,0.92151,0.68633,0.62304
+ES006,Public-service-dependent regional economy,fiscal resilience and institutional capacity,71,background economic stress,0.17143,0.3617,0.83246,0.92242,0.68584,0.8595
+ES006,Public-service-dependent regional economy,fiscal resilience and institutional capacity,72,background economic stress,0.17239,0.36164,0.90966,0.92332,0.68537,0.9392
+ES006,Public-service-dependent regional economy,fiscal resilience and institutional capacity,73,background economic stress,0.17215,0.36158,0.98692,0.92422,0.68491,1.0
+ES006,Public-service-dependent regional economy,fiscal resilience and institutional capacity,74,background economic stress,0.1709,0.36152,1.0,0.92513,0.68447,1.0
+ES006,Public-service-dependent regional economy,fiscal resilience and institutional capacity,75,background economic stress,0.17263,0.36146,1.0,0.92603,0.68403,1.0
+ES006,Public-service-dependent regional economy,fiscal resilience and institutional capacity,76,background economic stress,0.17217,0.36139,1.0,0.92694,0.68361,1.0
+ES006,Public-service-dependent regional economy,fiscal resilience and institutional capacity,77,background economic stress,0.17405,0.36132,1.0,0.92785,0.6832,1.0
+ES006,Public-service-dependent regional economy,fiscal resilience and institutional capacity,78,background economic stress,0.17247,0.36125,1.0,0.92876,0.6828,1.0
+ES006,Public-service-dependent regional economy,fiscal resilience and institutional capacity,79,background economic stress,0.17267,0.36118,1.0,0.92966,0.68242,1.0
