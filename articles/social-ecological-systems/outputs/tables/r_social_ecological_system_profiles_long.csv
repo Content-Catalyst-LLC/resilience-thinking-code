@@ -1,0 +1,81 @@
+system_type,dimension,value
+Fishery,ecological_condition,0.68
+Fishery,governance_quality,0.61
+Fishery,livelihood_diversity,0.48
+Fishery,infrastructure_support,0.46
+Fishery,knowledge_integration,0.57
+Fishery,social_trust,0.54
+Fishery,market_pressure,0.78
+Fishery,climate_exposure,0.62
+Fishery,ses_resilience_profile,0.3913
+Fishery,coupled_vulnerability,0.6435
+Forest Commons,ecological_condition,0.74
+Forest Commons,governance_quality,0.72
+Forest Commons,livelihood_diversity,0.55
+Forest Commons,infrastructure_support,0.4
+Forest Commons,knowledge_integration,0.76
+Forest Commons,social_trust,0.7
+Forest Commons,market_pressure,0.52
+Forest Commons,climate_exposure,0.58
+Forest Commons,ses_resilience_profile,0.5060000000000001
+Forest Commons,coupled_vulnerability,0.5004
+Watershed,ecological_condition,0.62
+Watershed,governance_quality,0.66
+Watershed,livelihood_diversity,0.63
+Watershed,infrastructure_support,0.71
+Watershed,knowledge_integration,0.68
+Watershed,social_trust,0.64
+Watershed,market_pressure,0.6
+Watershed,climate_exposure,0.66
+Watershed,ses_resilience_profile,0.4865999999999999
+Watershed,coupled_vulnerability,0.5566
+Coastal Community,ecological_condition,0.58
+Coastal Community,governance_quality,0.57
+Coastal Community,livelihood_diversity,0.52
+Coastal Community,infrastructure_support,0.65
+Coastal Community,knowledge_integration,0.6
+Coastal Community,social_trust,0.55
+Coastal Community,market_pressure,0.74
+Coastal Community,climate_exposure,0.82
+Coastal Community,ses_resilience_profile,0.3913000000000001
+Coastal Community,coupled_vulnerability,0.6737000000000001
+Agricultural Landscape,ecological_condition,0.64
+Agricultural Landscape,governance_quality,0.6
+Agricultural Landscape,livelihood_diversity,0.59
+Agricultural Landscape,infrastructure_support,0.58
+Agricultural Landscape,knowledge_integration,0.62
+Agricultural Landscape,social_trust,0.58
+Agricultural Landscape,market_pressure,0.69
+Agricultural Landscape,climate_exposure,0.72
+Agricultural Landscape,ses_resilience_profile,0.42750000000000005
+Agricultural Landscape,coupled_vulnerability,0.6295999999999999
+Urban Watershed,ecological_condition,0.56
+Urban Watershed,governance_quality,0.54
+Urban Watershed,livelihood_diversity,0.5
+Urban Watershed,infrastructure_support,0.69
+Urban Watershed,knowledge_integration,0.55
+Urban Watershed,social_trust,0.49
+Urban Watershed,market_pressure,0.66
+Urban Watershed,climate_exposure,0.76
+Urban Watershed,ses_resilience_profile,0.38319999999999993
+Urban Watershed,coupled_vulnerability,0.6156
+Rangeland Commons,ecological_condition,0.6
+Rangeland Commons,governance_quality,0.62
+Rangeland Commons,livelihood_diversity,0.54
+Rangeland Commons,infrastructure_support,0.44
+Rangeland Commons,knowledge_integration,0.64
+Rangeland Commons,social_trust,0.6
+Rangeland Commons,market_pressure,0.63
+Rangeland Commons,climate_exposure,0.7
+Rangeland Commons,ses_resilience_profile,0.41070000000000007
+Rangeland Commons,coupled_vulnerability,0.6062000000000001
+Mangrove-Fishery System,ecological_condition,0.7
+Mangrove-Fishery System,governance_quality,0.65
+Mangrove-Fishery System,livelihood_diversity,0.57
+Mangrove-Fishery System,infrastructure_support,0.52
+Mangrove-Fishery System,knowledge_integration,0.69
+Mangrove-Fishery System,social_trust,0.62
+Mangrove-Fishery System,market_pressure,0.68
+Mangrove-Fishery System,climate_exposure,0.78
+Mangrove-Fishery System,ses_resilience_profile,0.45449999999999996
+Mangrove-Fishery System,coupled_vulnerability,0.6197000000000001

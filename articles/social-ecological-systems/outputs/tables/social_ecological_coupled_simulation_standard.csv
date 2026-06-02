@@ -1,0 +1,451 @@
+scenario_id,scenario_name,time_step,ecology,social_pressure,extraction,resilience_margin,threshold_flag
+SC001,Strong governance and learning,1,0.72669,0.54629,0.04125,1.0179,viable margin
+SC001,Strong governance and learning,2,0.70582,0.54348,0.0397,0.99984,viable margin
+SC001,Strong governance and learning,3,0.68701,0.54148,0.03836,0.98303,viable margin
+SC001,Strong governance and learning,4,0.66995,0.54021,0.0372,0.96724,viable margin
+SC001,Strong governance and learning,5,0.65439,0.53961,0.03619,0.95228,viable margin
+SC001,Strong governance and learning,6,0.64011,0.53963,0.03531,0.93798,viable margin
+SC001,Strong governance and learning,7,0.62694,0.54021,0.03454,0.92423,viable margin
+SC001,Strong governance and learning,8,0.61472,0.54132,0.03387,0.9109,viable margin
+SC001,Strong governance and learning,9,0.60333,0.54291,0.03328,0.89792,viable margin
+SC001,Strong governance and learning,10,0.59266,0.54497,0.03276,0.88519,viable margin
+SC001,Strong governance and learning,11,0.58262,0.54746,0.0323,0.87266,viable margin
+SC001,Strong governance and learning,12,0.57312,0.55035,0.0319,0.86026,viable margin
+SC001,Strong governance and learning,13,0.56409,0.55364,0.03154,0.84795,viable margin
+SC001,Strong governance and learning,14,0.55547,0.55729,0.03123,0.83568,viable margin
+SC001,Strong governance and learning,15,0.54721,0.5613,0.03096,0.8234,viable margin
+SC001,Strong governance and learning,16,0.53925,0.56565,0.03071,0.8111,viable margin
+SC001,Strong governance and learning,17,0.53157,0.57034,0.0305,0.79873,viable margin
+SC001,Strong governance and learning,18,0.52411,0.57534,0.03032,0.78627,viable margin
+SC001,Strong governance and learning,19,0.51685,0.58066,0.03015,0.77369,viable margin
+SC001,Strong governance and learning,20,0.50976,0.59468,0.03001,0.75258,viable margin
+SC001,Strong governance and learning,21,0.50237,0.60061,0.03031,0.73926,viable margin
+SC001,Strong governance and learning,22,0.49514,0.60686,0.03017,0.72578,viable margin
+SC001,Strong governance and learning,23,0.48803,0.61342,0.03005,0.71211,viable margin
+SC001,Strong governance and learning,24,0.48102,0.62027,0.02994,0.69825,viable margin
+SC001,Strong governance and learning,25,0.4741,0.62743,0.02984,0.68417,viable margin
+SC001,Strong governance and learning,26,0.46724,0.63488,0.02975,0.66986,viable margin
+SC001,Strong governance and learning,27,0.46043,0.64262,0.02966,0.65531,viable margin
+SC001,Strong governance and learning,28,0.45365,0.65065,0.02959,0.6405,viable margin
+SC001,Strong governance and learning,29,0.44691,0.65897,0.02952,0.62543,viable margin
+SC001,Strong governance and learning,30,0.44017,0.66759,0.02945,0.61008,viable margin
+SC001,Strong governance and learning,31,0.43344,0.67649,0.02939,0.59445,viable margin
+SC001,Strong governance and learning,32,0.4267,0.68568,0.02932,0.57852,viable margin
+SC001,Strong governance and learning,33,0.41995,0.69516,0.02926,0.56229,viable margin
+SC001,Strong governance and learning,34,0.41319,0.70494,0.02919,0.54575,viable margin
+SC001,Strong governance and learning,35,0.4064,0.715,0.02913,0.5289,viable margin
+SC001,Strong governance and learning,36,0.39958,0.72536,0.02906,0.51172,viable margin
+SC001,Strong governance and learning,37,0.39273,0.73601,0.02898,0.49422,viable margin
+SC001,Strong governance and learning,38,0.38584,0.74696,0.02891,0.47638,viable margin
+SC001,Strong governance and learning,39,0.37892,0.75821,0.02882,0.45821,viable margin
+SC001,Strong governance and learning,40,0.37196,0.76975,0.02873,0.4397,viable margin
+SC001,Strong governance and learning,41,0.36495,0.7816,0.02863,0.42085,viable margin
+SC001,Strong governance and learning,42,0.35791,0.80215,0.02852,0.39326,viable margin
+SC001,Strong governance and learning,43,0.35052,0.81462,0.02871,0.37341,viable margin
+SC001,Strong governance and learning,44,0.34312,0.8274,0.02855,0.35322,viable margin
+SC001,Strong governance and learning,45,0.3357,0.84051,0.02839,0.3327,viable margin
+SC001,Strong governance and learning,46,0.32827,0.85393,0.02822,0.31184,viable margin
+SC001,Strong governance and learning,47,0.32082,0.86768,0.02803,0.29064,viable margin
+SC001,Strong governance and learning,48,0.31335,0.88174,0.02784,0.26911,viable margin
+SC001,Strong governance and learning,49,0.30588,0.89613,0.02763,0.24725,viable margin
+SC001,Strong governance and learning,50,0.29839,0.91084,0.02741,0.22505,viable margin
+SC001,Strong governance and learning,51,0.2909,0.92587,0.02718,0.20253,viable margin
+SC001,Strong governance and learning,52,0.28341,0.94122,0.02693,0.17969,threshold risk
+SC001,Strong governance and learning,53,0.27592,0.9569,0.02668,0.15652,threshold risk
+SC001,Strong governance and learning,54,0.26844,0.9729,0.0264,0.13304,threshold risk
+SC001,Strong governance and learning,55,0.26097,0.98921,0.02612,0.10926,threshold risk
+SC001,Strong governance and learning,56,0.25353,1.00585,0.02582,0.08518,threshold risk
+SC001,Strong governance and learning,57,0.24611,1.02281,0.0255,0.0608,threshold risk
+SC001,Strong governance and learning,58,0.23872,1.04009,0.02517,0.03613,threshold risk
+SC001,Strong governance and learning,59,0.23137,1.05768,0.02483,0.01119,threshold risk
+SC001,Strong governance and learning,60,0.22406,1.07558,0.02447,-0.01402,threshold risk
+SC001,Strong governance and learning,61,0.21681,1.0938,0.0241,-0.03949,threshold risk
+SC001,Strong governance and learning,62,0.20962,1.11232,0.02371,-0.0652,threshold risk
+SC001,Strong governance and learning,63,0.2025,1.13116,0.02332,-0.09116,threshold risk
+SC001,Strong governance and learning,64,0.19545,1.15029,0.02291,-0.11734,threshold risk
+SC001,Strong governance and learning,65,0.18849,1.16973,0.02248,-0.14374,threshold risk
+SC001,Strong governance and learning,66,0.18162,1.18946,0.02205,-0.17034,threshold risk
+SC001,Strong governance and learning,67,0.17485,1.2,0.0216,-0.18765,threshold risk
+SC001,Strong governance and learning,68,0.16835,1.2,0.02098,-0.19415,threshold risk
+SC001,Strong governance and learning,69,0.16229,1.2,0.0202,-0.20021,threshold risk
+SC001,Strong governance and learning,70,0.15663,1.2,0.01947,-0.20587,threshold risk
+SC001,Strong governance and learning,71,0.15134,1.2,0.0188,-0.21116,threshold risk
+SC001,Strong governance and learning,72,0.14639,1.2,0.01816,-0.21611,threshold risk
+SC001,Strong governance and learning,73,0.14176,1.2,0.01757,-0.22074,threshold risk
+SC001,Strong governance and learning,74,0.13743,1.2,0.01701,-0.22507,threshold risk
+SC001,Strong governance and learning,75,0.13336,1.2,0.01649,-0.22914,threshold risk
+SC001,Strong governance and learning,76,0.12954,1.2,0.016,-0.23296,threshold risk
+SC001,Strong governance and learning,77,0.12596,1.2,0.01554,-0.23654,threshold risk
+SC001,Strong governance and learning,78,0.12259,1.2,0.01511,-0.23991,threshold risk
+SC001,Strong governance and learning,79,0.11942,1.2,0.01471,-0.24308,threshold risk
+SC001,Strong governance and learning,80,0.11645,1.2,0.01433,-0.24605,threshold risk
+SC001,Strong governance and learning,81,0.11364,1.2,0.01397,-0.24886,threshold risk
+SC001,Strong governance and learning,82,0.111,1.2,0.01364,-0.2515,threshold risk
+SC001,Strong governance and learning,83,0.10852,1.2,0.01332,-0.25398,threshold risk
+SC001,Strong governance and learning,84,0.10618,1.2,0.01302,-0.25632,threshold risk
+SC001,Strong governance and learning,85,0.10397,1.2,0.01274,-0.25853,threshold risk
+SC001,Strong governance and learning,86,0.10188,1.2,0.01248,-0.26062,threshold risk
+SC001,Strong governance and learning,87,0.09992,1.2,0.01223,-0.26258,threshold risk
+SC001,Strong governance and learning,88,0.09806,1.2,0.01199,-0.26444,threshold risk
+SC001,Strong governance and learning,89,0.09631,1.2,0.01177,-0.26619,threshold risk
+SC001,Strong governance and learning,90,0.09466,1.2,0.01156,-0.26784,threshold risk
+SC002,Moderate governance,1,0.72119,0.55769,0.04125,0.718,viable margin
+SC002,Moderate governance,2,0.6945,0.56653,0.04022,0.68247,viable margin
+SC002,Moderate governance,3,0.66956,0.57643,0.03934,0.64763,viable margin
+SC002,Moderate governance,4,0.64611,0.58735,0.0386,0.61326,viable margin
+SC002,Moderate governance,5,0.62389,0.59922,0.03795,0.57917,viable margin
+SC002,Moderate governance,6,0.60272,0.61201,0.03739,0.54521,viable margin
+SC002,Moderate governance,7,0.58243,0.62566,0.03689,0.51126,viable margin
+SC002,Moderate governance,8,0.56288,0.64016,0.03644,0.47722,viable margin
+SC002,Moderate governance,9,0.54397,0.65547,0.03603,0.44301,viable margin
+SC002,Moderate governance,10,0.5256,0.67157,0.03566,0.40854,viable margin
+SC002,Moderate governance,11,0.50769,0.68844,0.0353,0.37376,viable margin
+SC002,Moderate governance,12,0.49018,0.70606,0.03495,0.33862,viable margin
+SC002,Moderate governance,13,0.473,0.72442,0.03461,0.30308,viable margin
+SC002,Moderate governance,14,0.45612,0.74351,0.03427,0.26711,viable margin
+SC002,Moderate governance,15,0.43949,0.76331,0.03391,0.23068,viable margin
+SC002,Moderate governance,16,0.42309,0.78382,0.03355,0.19377,threshold risk
+SC002,Moderate governance,17,0.40689,0.80502,0.03316,0.15638,threshold risk
+SC002,Moderate governance,18,0.39089,0.82691,0.03276,0.11847,threshold risk
+SC002,Moderate governance,19,0.37505,0.84948,0.03232,0.08007,threshold risk
+SC002,Moderate governance,20,0.35938,0.88603,0.03186,0.02785,threshold risk
+SC002,Moderate governance,21,0.3434,0.90996,0.03184,-0.01207,threshold risk
+SC002,Moderate governance,22,0.32763,0.93458,0.03125,-0.05245,threshold risk
+SC002,Moderate governance,23,0.31207,0.95986,0.03062,-0.09329,threshold risk
+SC002,Moderate governance,24,0.29673,0.9858,0.02995,-0.13457,threshold risk
+SC002,Moderate governance,25,0.28161,1.01239,0.02925,-0.17627,threshold risk
+SC002,Moderate governance,26,0.26673,1.03962,0.02851,-0.21839,threshold risk
+SC002,Moderate governance,27,0.25209,1.06748,0.02773,-0.26089,threshold risk
+SC002,Moderate governance,28,0.2377,1.09596,0.02691,-0.30376,threshold risk
+SC002,Moderate governance,29,0.22358,1.12504,0.02605,-0.34696,threshold risk
+SC002,Moderate governance,30,0.20976,1.15472,0.02515,-0.39047,threshold risk
+SC002,Moderate governance,31,0.19624,1.18499,0.02422,-0.43425,threshold risk
+SC002,Moderate governance,32,0.18304,1.2,0.02325,-0.46246,threshold risk
+SC002,Moderate governance,33,0.17048,1.2,0.02196,-0.47502,threshold risk
+SC002,Moderate governance,34,0.15878,1.2,0.02046,-0.48672,threshold risk
+SC002,Moderate governance,35,0.14785,1.2,0.01905,-0.49765,threshold risk
+SC002,Moderate governance,36,0.13762,1.2,0.01774,-0.50788,threshold risk
+SC002,Moderate governance,37,0.12804,1.2,0.01651,-0.51746,threshold risk
+SC002,Moderate governance,38,0.11905,1.2,0.01537,-0.52645,threshold risk
+SC002,Moderate governance,39,0.1106,1.2,0.01429,-0.5349,threshold risk
+SC002,Moderate governance,40,0.10263,1.2,0.01327,-0.54287,threshold risk
+SC002,Moderate governance,41,0.09512,1.2,0.01232,-0.55038,threshold risk
+SC002,Moderate governance,42,0.08804,1.2,0.01141,-0.55746,threshold risk
+SC002,Moderate governance,43,0.08133,1.2,0.01056,-0.56417,threshold risk
+SC002,Moderate governance,44,0.07499,1.2,0.00976,-0.57051,threshold risk
+SC002,Moderate governance,45,0.06898,1.2,0.009,-0.57652,threshold risk
+SC002,Moderate governance,46,0.06328,1.2,0.00828,-0.58222,threshold risk
+SC002,Moderate governance,47,0.05787,1.2,0.00759,-0.58763,threshold risk
+SC002,Moderate governance,48,0.05273,1.2,0.00694,-0.59277,threshold risk
+SC002,Moderate governance,49,0.04784,1.2,0.00633,-0.59766,threshold risk
+SC002,Moderate governance,50,0.04318,1.2,0.00574,-0.60232,threshold risk
+SC002,Moderate governance,51,0.03874,1.2,0.00518,-0.60676,threshold risk
+SC002,Moderate governance,52,0.03451,1.2,0.00465,-0.61099,threshold risk
+SC002,Moderate governance,53,0.03048,1.2,0.00414,-0.61502,threshold risk
+SC002,Moderate governance,54,0.02662,1.2,0.00366,-0.61888,threshold risk
+SC002,Moderate governance,55,0.02294,1.2,0.00319,-0.62256,threshold risk
+SC002,Moderate governance,56,0.01942,1.2,0.00275,-0.62608,threshold risk
+SC002,Moderate governance,57,0.01606,1.2,0.00233,-0.62944,threshold risk
+SC002,Moderate governance,58,0.01283,1.2,0.00193,-0.63267,threshold risk
+SC002,Moderate governance,59,0.01,1.2,0.00154,-0.6355,threshold risk
+SC002,Moderate governance,60,0.01,1.2,0.0012,-0.6355,threshold risk
+SC002,Moderate governance,61,0.01,1.2,0.0012,-0.6355,threshold risk
+SC002,Moderate governance,62,0.01,1.2,0.0012,-0.6355,threshold risk
+SC002,Moderate governance,63,0.01,1.2,0.0012,-0.6355,threshold risk
+SC002,Moderate governance,64,0.01,1.2,0.0012,-0.6355,threshold risk
+SC002,Moderate governance,65,0.01,1.2,0.0012,-0.6355,threshold risk
+SC002,Moderate governance,66,0.01,1.2,0.0012,-0.6355,threshold risk
+SC002,Moderate governance,67,0.01,1.2,0.0012,-0.6355,threshold risk
+SC002,Moderate governance,68,0.01,1.2,0.0012,-0.6355,threshold risk
+SC002,Moderate governance,69,0.01,1.2,0.0012,-0.6355,threshold risk
+SC002,Moderate governance,70,0.01,1.2,0.0012,-0.6355,threshold risk
+SC002,Moderate governance,71,0.01,1.2,0.0012,-0.6355,threshold risk
+SC002,Moderate governance,72,0.01,1.2,0.0012,-0.6355,threshold risk
+SC002,Moderate governance,73,0.01,1.2,0.0012,-0.6355,threshold risk
+SC002,Moderate governance,74,0.01,1.2,0.0012,-0.6355,threshold risk
+SC002,Moderate governance,75,0.01,1.2,0.0012,-0.6355,threshold risk
+SC002,Moderate governance,76,0.01,1.2,0.0012,-0.6355,threshold risk
+SC002,Moderate governance,77,0.01,1.2,0.0012,-0.6355,threshold risk
+SC002,Moderate governance,78,0.01,1.2,0.0012,-0.6355,threshold risk
+SC002,Moderate governance,79,0.01,1.2,0.0012,-0.6355,threshold risk
+SC002,Moderate governance,80,0.01,1.2,0.0012,-0.6355,threshold risk
+SC002,Moderate governance,81,0.01,1.2,0.0012,-0.6355,threshold risk
+SC002,Moderate governance,82,0.01,1.2,0.0012,-0.6355,threshold risk
+SC002,Moderate governance,83,0.01,1.2,0.0012,-0.6355,threshold risk
+SC002,Moderate governance,84,0.01,1.2,0.0012,-0.6355,threshold risk
+SC002,Moderate governance,85,0.01,1.2,0.0012,-0.6355,threshold risk
+SC002,Moderate governance,86,0.01,1.2,0.0012,-0.6355,threshold risk
+SC002,Moderate governance,87,0.01,1.2,0.0012,-0.6355,threshold risk
+SC002,Moderate governance,88,0.01,1.2,0.0012,-0.6355,threshold risk
+SC002,Moderate governance,89,0.01,1.2,0.0012,-0.6355,threshold risk
+SC002,Moderate governance,90,0.01,1.2,0.0012,-0.6355,threshold risk
+SC003,Weak governance and high pressure,1,0.7143,0.57449,0.04125,0.33581,viable margin
+SC003,Weak governance and high pressure,2,0.68014,0.60044,0.04104,0.2757,viable margin
+SC003,Weak governance and high pressure,3,0.64726,0.62781,0.04084,0.21545,viable margin
+SC003,Weak governance and high pressure,4,0.61544,0.65654,0.04064,0.15489,threshold risk
+SC003,Weak governance and high pressure,5,0.58451,0.68661,0.04041,0.09391,threshold risk
+SC003,Weak governance and high pressure,6,0.55436,0.71797,0.04013,0.03239,threshold risk
+SC003,Weak governance and high pressure,7,0.52487,0.7506,0.0398,-0.02973,threshold risk
+SC003,Weak governance and high pressure,8,0.49598,0.78448,0.0394,-0.0925,threshold risk
+SC003,Weak governance and high pressure,9,0.46762,0.81957,0.03891,-0.15595,threshold risk
+SC003,Weak governance and high pressure,10,0.43976,0.85586,0.03832,-0.2201,threshold risk
+SC003,Weak governance and high pressure,11,0.41238,0.89333,0.03764,-0.28495,threshold risk
+SC003,Weak governance and high pressure,12,0.38548,0.93195,0.03684,-0.35047,threshold risk
+SC003,Weak governance and high pressure,13,0.35905,0.97171,0.03592,-0.41666,threshold risk
+SC003,Weak governance and high pressure,14,0.33312,1.01259,0.03489,-0.48346,threshold risk
+SC003,Weak governance and high pressure,15,0.30771,1.05455,0.03373,-0.55084,threshold risk
+SC003,Weak governance and high pressure,16,0.28286,1.09759,0.03245,-0.61874,threshold risk
+SC003,Weak governance and high pressure,17,0.25859,1.14167,0.03105,-0.68708,threshold risk
+SC003,Weak governance and high pressure,18,0.23495,1.18677,0.02952,-0.75582,threshold risk
+SC003,Weak governance and high pressure,19,0.212,1.2,0.02788,-0.792,threshold risk
+SC003,Weak governance and high pressure,20,0.19047,1.2,0.02544,-0.81353,threshold risk
+SC003,Weak governance and high pressure,21,0.1705,1.2,0.02286,-0.8335,threshold risk
+SC003,Weak governance and high pressure,22,0.15191,1.2,0.02046,-0.85209,threshold risk
+SC003,Weak governance and high pressure,23,0.13454,1.2,0.01823,-0.86946,threshold risk
+SC003,Weak governance and high pressure,24,0.11826,1.2,0.01614,-0.88574,threshold risk
+SC003,Weak governance and high pressure,25,0.10296,1.2,0.01419,-0.90104,threshold risk
+SC003,Weak governance and high pressure,26,0.08854,1.2,0.01235,-0.91546,threshold risk
+SC003,Weak governance and high pressure,27,0.07492,1.2,0.01062,-0.92908,threshold risk
+SC003,Weak governance and high pressure,28,0.06203,1.2,0.00899,-0.94197,threshold risk
+SC003,Weak governance and high pressure,29,0.04979,1.2,0.00744,-0.95421,threshold risk
+SC003,Weak governance and high pressure,30,0.03815,1.2,0.00597,-0.96585,threshold risk
+SC003,Weak governance and high pressure,31,0.02705,1.2,0.00458,-0.97695,threshold risk
+SC003,Weak governance and high pressure,32,0.01646,1.2,0.00325,-0.98754,threshold risk
+SC003,Weak governance and high pressure,33,0.01,1.2,0.00198,-0.994,threshold risk
+SC003,Weak governance and high pressure,34,0.01,1.2,0.0012,-0.994,threshold risk
+SC003,Weak governance and high pressure,35,0.01,1.2,0.0012,-0.994,threshold risk
+SC003,Weak governance and high pressure,36,0.01,1.2,0.0012,-0.994,threshold risk
+SC003,Weak governance and high pressure,37,0.01,1.2,0.0012,-0.994,threshold risk
+SC003,Weak governance and high pressure,38,0.01,1.2,0.0012,-0.994,threshold risk
+SC003,Weak governance and high pressure,39,0.01,1.2,0.0012,-0.994,threshold risk
+SC003,Weak governance and high pressure,40,0.01,1.2,0.0012,-0.994,threshold risk
+SC003,Weak governance and high pressure,41,0.01,1.2,0.0012,-0.994,threshold risk
+SC003,Weak governance and high pressure,42,0.01,1.2,0.0012,-0.994,threshold risk
+SC003,Weak governance and high pressure,43,0.01,1.2,0.0012,-0.994,threshold risk
+SC003,Weak governance and high pressure,44,0.01,1.2,0.0012,-0.994,threshold risk
+SC003,Weak governance and high pressure,45,0.01,1.2,0.0012,-0.994,threshold risk
+SC003,Weak governance and high pressure,46,0.01,1.2,0.0012,-0.994,threshold risk
+SC003,Weak governance and high pressure,47,0.01,1.2,0.0012,-0.994,threshold risk
+SC003,Weak governance and high pressure,48,0.01,1.2,0.0012,-0.994,threshold risk
+SC003,Weak governance and high pressure,49,0.01,1.2,0.0012,-0.994,threshold risk
+SC003,Weak governance and high pressure,50,0.01,1.2,0.0012,-0.994,threshold risk
+SC003,Weak governance and high pressure,51,0.01,1.2,0.0012,-0.994,threshold risk
+SC003,Weak governance and high pressure,52,0.01,1.2,0.0012,-0.994,threshold risk
+SC003,Weak governance and high pressure,53,0.01,1.2,0.0012,-0.994,threshold risk
+SC003,Weak governance and high pressure,54,0.01,1.2,0.0012,-0.994,threshold risk
+SC003,Weak governance and high pressure,55,0.01,1.2,0.0012,-0.994,threshold risk
+SC003,Weak governance and high pressure,56,0.01,1.2,0.0012,-0.994,threshold risk
+SC003,Weak governance and high pressure,57,0.01,1.2,0.0012,-0.994,threshold risk
+SC003,Weak governance and high pressure,58,0.01,1.2,0.0012,-0.994,threshold risk
+SC003,Weak governance and high pressure,59,0.01,1.2,0.0012,-0.994,threshold risk
+SC003,Weak governance and high pressure,60,0.01,1.2,0.0012,-0.994,threshold risk
+SC003,Weak governance and high pressure,61,0.01,1.2,0.0012,-0.994,threshold risk
+SC003,Weak governance and high pressure,62,0.01,1.2,0.0012,-0.994,threshold risk
+SC003,Weak governance and high pressure,63,0.01,1.2,0.0012,-0.994,threshold risk
+SC003,Weak governance and high pressure,64,0.01,1.2,0.0012,-0.994,threshold risk
+SC003,Weak governance and high pressure,65,0.01,1.2,0.0012,-0.994,threshold risk
+SC003,Weak governance and high pressure,66,0.01,1.2,0.0012,-0.994,threshold risk
+SC003,Weak governance and high pressure,67,0.01,1.2,0.0012,-0.994,threshold risk
+SC003,Weak governance and high pressure,68,0.01,1.2,0.0012,-0.994,threshold risk
+SC003,Weak governance and high pressure,69,0.01,1.2,0.0012,-0.994,threshold risk
+SC003,Weak governance and high pressure,70,0.01,1.2,0.0012,-0.994,threshold risk
+SC003,Weak governance and high pressure,71,0.01,1.2,0.0012,-0.994,threshold risk
+SC003,Weak governance and high pressure,72,0.01,1.2,0.0012,-0.994,threshold risk
+SC003,Weak governance and high pressure,73,0.01,1.2,0.0012,-0.994,threshold risk
+SC003,Weak governance and high pressure,74,0.01,1.2,0.0012,-0.994,threshold risk
+SC003,Weak governance and high pressure,75,0.01,1.2,0.0012,-0.994,threshold risk
+SC003,Weak governance and high pressure,76,0.01,1.2,0.0012,-0.994,threshold risk
+SC003,Weak governance and high pressure,77,0.01,1.2,0.0012,-0.994,threshold risk
+SC003,Weak governance and high pressure,78,0.01,1.2,0.0012,-0.994,threshold risk
+SC003,Weak governance and high pressure,79,0.01,1.2,0.0012,-0.994,threshold risk
+SC003,Weak governance and high pressure,80,0.01,1.2,0.0012,-0.994,threshold risk
+SC003,Weak governance and high pressure,81,0.01,1.2,0.0012,-0.994,threshold risk
+SC003,Weak governance and high pressure,82,0.01,1.2,0.0012,-0.994,threshold risk
+SC003,Weak governance and high pressure,83,0.01,1.2,0.0012,-0.994,threshold risk
+SC003,Weak governance and high pressure,84,0.01,1.2,0.0012,-0.994,threshold risk
+SC003,Weak governance and high pressure,85,0.01,1.2,0.0012,-0.994,threshold risk
+SC003,Weak governance and high pressure,86,0.01,1.2,0.0012,-0.994,threshold risk
+SC003,Weak governance and high pressure,87,0.01,1.2,0.0012,-0.994,threshold risk
+SC003,Weak governance and high pressure,88,0.01,1.2,0.0012,-0.994,threshold risk
+SC003,Weak governance and high pressure,89,0.01,1.2,0.0012,-0.994,threshold risk
+SC003,Weak governance and high pressure,90,0.01,1.2,0.0012,-0.994,threshold risk
+SC004,Market shock with adaptive response,1,0.69085,0.61225,0.0432,0.66059,viable margin
+SC004,Market shock with adaptive response,2,0.66356,0.62568,0.0423,0.61988,viable margin
+SC004,Market shock with adaptive response,3,0.63782,0.64021,0.04152,0.5796,viable margin
+SC004,Market shock with adaptive response,4,0.61339,0.6558,0.04083,0.53959,viable margin
+SC004,Market shock with adaptive response,5,0.59005,0.67239,0.04023,0.49966,viable margin
+SC004,Market shock with adaptive response,6,0.56765,0.68994,0.03967,0.45971,viable margin
+SC004,Market shock with adaptive response,7,0.54604,0.70842,0.03916,0.41962,viable margin
+SC004,Market shock with adaptive response,8,0.52511,0.7278,0.03868,0.37931,viable margin
+SC004,Market shock with adaptive response,9,0.50476,0.74805,0.03822,0.3387,viable margin
+SC004,Market shock with adaptive response,10,0.48492,0.76916,0.03776,0.29776,viable margin
+SC004,Market shock with adaptive response,11,0.46552,0.7911,0.0373,0.25642,viable margin
+SC004,Market shock with adaptive response,12,0.44652,0.81386,0.03683,0.21465,viable margin
+SC004,Market shock with adaptive response,13,0.42787,0.83743,0.03634,0.17244,threshold risk
+SC004,Market shock with adaptive response,14,0.40954,0.86178,0.03583,0.12977,threshold risk
+SC004,Market shock with adaptive response,15,0.39151,0.8869,0.03529,0.08661,threshold risk
+SC004,Market shock with adaptive response,16,0.37377,0.91279,0.03472,0.04298,threshold risk
+SC004,Market shock with adaptive response,17,0.3563,0.93943,0.03412,-0.00113,threshold risk
+SC004,Market shock with adaptive response,18,0.33909,0.96681,0.03347,-0.04571,threshold risk
+SC004,Market shock with adaptive response,19,0.32216,0.99491,0.03278,-0.09076,threshold risk
+SC004,Market shock with adaptive response,20,0.3055,1.04964,0.03205,-0.16214,threshold risk
+SC004,Market shock with adaptive response,21,0.28832,1.0792,0.03207,-0.20888,threshold risk
+SC004,Market shock with adaptive response,22,0.27154,1.10948,0.03112,-0.25594,threshold risk
+SC004,Market shock with adaptive response,23,0.25516,1.14047,0.03013,-0.30331,threshold risk
+SC004,Market shock with adaptive response,24,0.23918,1.17215,0.0291,-0.35096,threshold risk
+SC004,Market shock with adaptive response,25,0.22363,1.2,0.02804,-0.39437,threshold risk
+SC004,Market shock with adaptive response,26,0.2086,1.2,0.02684,-0.4094,threshold risk
+SC004,Market shock with adaptive response,27,0.1947,1.2,0.02503,-0.4233,threshold risk
+SC004,Market shock with adaptive response,28,0.1818,1.2,0.02336,-0.4362,threshold risk
+SC004,Market shock with adaptive response,29,0.1698,1.2,0.02182,-0.4482,threshold risk
+SC004,Market shock with adaptive response,30,0.15862,1.2,0.02038,-0.45938,threshold risk
+SC004,Market shock with adaptive response,31,0.14818,1.2,0.01903,-0.46982,threshold risk
+SC004,Market shock with adaptive response,32,0.13842,1.2,0.01778,-0.47958,threshold risk
+SC004,Market shock with adaptive response,33,0.12927,1.2,0.01661,-0.48873,threshold risk
+SC004,Market shock with adaptive response,34,0.12068,1.2,0.01551,-0.49732,threshold risk
+SC004,Market shock with adaptive response,35,0.11261,1.2,0.01448,-0.50539,threshold risk
+SC004,Market shock with adaptive response,36,0.10501,1.2,0.01351,-0.51299,threshold risk
+SC004,Market shock with adaptive response,37,0.09785,1.2,0.0126,-0.52015,threshold risk
+SC004,Market shock with adaptive response,38,0.09109,1.2,0.01174,-0.52691,threshold risk
+SC004,Market shock with adaptive response,39,0.0847,1.2,0.01093,-0.5333,threshold risk
+SC004,Market shock with adaptive response,40,0.07866,1.2,0.01016,-0.53934,threshold risk
+SC004,Market shock with adaptive response,41,0.07294,1.2,0.00944,-0.54506,threshold risk
+SC004,Market shock with adaptive response,42,0.06751,1.2,0.00875,-0.55049,threshold risk
+SC004,Market shock with adaptive response,43,0.06237,1.2,0.0081,-0.55563,threshold risk
+SC004,Market shock with adaptive response,44,0.05748,1.2,0.00748,-0.56052,threshold risk
+SC004,Market shock with adaptive response,45,0.05284,1.2,0.0069,-0.56516,threshold risk
+SC004,Market shock with adaptive response,46,0.04842,1.2,0.00634,-0.56958,threshold risk
+SC004,Market shock with adaptive response,47,0.04422,1.2,0.00581,-0.57378,threshold risk
+SC004,Market shock with adaptive response,48,0.04021,1.2,0.00531,-0.57779,threshold risk
+SC004,Market shock with adaptive response,49,0.0364,1.2,0.00483,-0.5816,threshold risk
+SC004,Market shock with adaptive response,50,0.03275,1.2,0.00437,-0.58525,threshold risk
+SC004,Market shock with adaptive response,51,0.02928,1.2,0.00393,-0.58872,threshold risk
+SC004,Market shock with adaptive response,52,0.02596,1.2,0.00351,-0.59204,threshold risk
+SC004,Market shock with adaptive response,53,0.02279,1.2,0.00311,-0.59521,threshold risk
+SC004,Market shock with adaptive response,54,0.01975,1.2,0.00273,-0.59825,threshold risk
+SC004,Market shock with adaptive response,55,0.01685,1.2,0.00237,-0.60115,threshold risk
+SC004,Market shock with adaptive response,56,0.01407,1.2,0.00202,-0.60393,threshold risk
+SC004,Market shock with adaptive response,57,0.01142,1.2,0.00169,-0.60658,threshold risk
+SC004,Market shock with adaptive response,58,0.01,1.2,0.00137,-0.608,threshold risk
+SC004,Market shock with adaptive response,59,0.01,1.2,0.0012,-0.608,threshold risk
+SC004,Market shock with adaptive response,60,0.01,1.2,0.0012,-0.608,threshold risk
+SC004,Market shock with adaptive response,61,0.01,1.2,0.0012,-0.608,threshold risk
+SC004,Market shock with adaptive response,62,0.01,1.2,0.0012,-0.608,threshold risk
+SC004,Market shock with adaptive response,63,0.01,1.2,0.0012,-0.608,threshold risk
+SC004,Market shock with adaptive response,64,0.01,1.2,0.0012,-0.608,threshold risk
+SC004,Market shock with adaptive response,65,0.01,1.2,0.0012,-0.608,threshold risk
+SC004,Market shock with adaptive response,66,0.01,1.2,0.0012,-0.608,threshold risk
+SC004,Market shock with adaptive response,67,0.01,1.2,0.0012,-0.608,threshold risk
+SC004,Market shock with adaptive response,68,0.01,1.2,0.0012,-0.608,threshold risk
+SC004,Market shock with adaptive response,69,0.01,1.2,0.0012,-0.608,threshold risk
+SC004,Market shock with adaptive response,70,0.01,1.2,0.0012,-0.608,threshold risk
+SC004,Market shock with adaptive response,71,0.01,1.2,0.0012,-0.608,threshold risk
+SC004,Market shock with adaptive response,72,0.01,1.2,0.0012,-0.608,threshold risk
+SC004,Market shock with adaptive response,73,0.01,1.2,0.0012,-0.608,threshold risk
+SC004,Market shock with adaptive response,74,0.01,1.2,0.0012,-0.608,threshold risk
+SC004,Market shock with adaptive response,75,0.01,1.2,0.0012,-0.608,threshold risk
+SC004,Market shock with adaptive response,76,0.01,1.2,0.0012,-0.608,threshold risk
+SC004,Market shock with adaptive response,77,0.01,1.2,0.0012,-0.608,threshold risk
+SC004,Market shock with adaptive response,78,0.01,1.2,0.0012,-0.608,threshold risk
+SC004,Market shock with adaptive response,79,0.01,1.2,0.0012,-0.608,threshold risk
+SC004,Market shock with adaptive response,80,0.01,1.2,0.0012,-0.608,threshold risk
+SC004,Market shock with adaptive response,81,0.01,1.2,0.0012,-0.608,threshold risk
+SC004,Market shock with adaptive response,82,0.01,1.2,0.0012,-0.608,threshold risk
+SC004,Market shock with adaptive response,83,0.01,1.2,0.0012,-0.608,threshold risk
+SC004,Market shock with adaptive response,84,0.01,1.2,0.0012,-0.608,threshold risk
+SC004,Market shock with adaptive response,85,0.01,1.2,0.0012,-0.608,threshold risk
+SC004,Market shock with adaptive response,86,0.01,1.2,0.0012,-0.608,threshold risk
+SC004,Market shock with adaptive response,87,0.01,1.2,0.0012,-0.608,threshold risk
+SC004,Market shock with adaptive response,88,0.01,1.2,0.0012,-0.608,threshold risk
+SC004,Market shock with adaptive response,89,0.01,1.2,0.0012,-0.608,threshold risk
+SC004,Market shock with adaptive response,90,0.01,1.2,0.0012,-0.608,threshold risk
+SC005,Climate stress with local stewardship,1,0.67528,0.52468,0.0364,0.7846,viable margin
+SC005,Climate stress with local stewardship,2,0.65227,0.53036,0.03543,0.75592,viable margin
+SC005,Climate stress with local stewardship,3,0.6307,0.53696,0.03459,0.72775,viable margin
+SC005,Climate stress with local stewardship,4,0.61035,0.54443,0.03387,0.69992,viable margin
+SC005,Climate stress with local stewardship,5,0.59103,0.55274,0.03323,0.67229,viable margin
+SC005,Climate stress with local stewardship,6,0.57258,0.56184,0.03267,0.64474,viable margin
+SC005,Climate stress with local stewardship,7,0.55487,0.5717,0.03217,0.61717,viable margin
+SC005,Climate stress with local stewardship,8,0.53778,0.58229,0.03172,0.58949,viable margin
+SC005,Climate stress with local stewardship,9,0.52123,0.5936,0.03131,0.56164,viable margin
+SC005,Climate stress with local stewardship,10,0.50514,0.6056,0.03094,0.53354,viable margin
+SC005,Climate stress with local stewardship,11,0.48942,0.61827,0.03059,0.50515,viable margin
+SC005,Climate stress with local stewardship,12,0.47404,0.63161,0.03026,0.47643,viable margin
+SC005,Climate stress with local stewardship,13,0.45892,0.64559,0.02994,0.44733,viable margin
+SC005,Climate stress with local stewardship,14,0.44404,0.66022,0.02963,0.41782,viable margin
+SC005,Climate stress with local stewardship,15,0.42935,0.67548,0.02932,0.38787,viable margin
+SC005,Climate stress with local stewardship,16,0.41483,0.69136,0.029,0.35747,viable margin
+SC005,Climate stress with local stewardship,17,0.40045,0.70786,0.02868,0.32659,viable margin
+SC005,Climate stress with local stewardship,18,0.38619,0.72498,0.02835,0.29522,viable margin
+SC005,Climate stress with local stewardship,19,0.37204,0.7427,0.028,0.26334,viable margin
+SC005,Climate stress with local stewardship,20,0.35798,0.77363,0.02763,0.21835,viable margin
+SC005,Climate stress with local stewardship,21,0.34355,0.79257,0.02769,0.18498,threshold risk
+SC005,Climate stress with local stewardship,22,0.32924,0.81214,0.02723,0.15111,threshold risk
+SC005,Climate stress with local stewardship,23,0.31505,0.83231,0.02674,0.11674,threshold risk
+SC005,Climate stress with local stewardship,24,0.30097,0.85309,0.02622,0.08189,threshold risk
+SC005,Climate stress with local stewardship,25,0.28701,0.87446,0.02568,0.04654,threshold risk
+SC005,Climate stress with local stewardship,26,0.27316,0.89644,0.0251,0.01072,threshold risk
+SC005,Climate stress with local stewardship,27,0.25944,0.919,0.02449,-0.02557,threshold risk
+SC005,Climate stress with local stewardship,28,0.24584,0.94215,0.02384,-0.06231,threshold risk
+SC005,Climate stress with local stewardship,29,0.23239,0.96588,0.02316,-0.09948,threshold risk
+SC005,Climate stress with local stewardship,30,0.2191,0.99018,0.02245,-0.13708,threshold risk
+SC005,Climate stress with local stewardship,31,0.20597,1.01504,0.02169,-0.17507,threshold risk
+SC005,Climate stress with local stewardship,32,0.19303,1.04046,0.02091,-0.21343,threshold risk
+SC005,Climate stress with local stewardship,33,0.18029,1.06643,0.02008,-0.25214,threshold risk
+SC005,Climate stress with local stewardship,34,0.16776,1.09293,0.01923,-0.29117,threshold risk
+SC005,Climate stress with local stewardship,35,0.15548,1.11997,0.01834,-0.33049,threshold risk
+SC005,Climate stress with local stewardship,36,0.14345,1.14752,0.01741,-0.37007,threshold risk
+SC005,Climate stress with local stewardship,37,0.1317,1.17558,0.01646,-0.40988,threshold risk
+SC005,Climate stress with local stewardship,38,0.12024,1.2,0.01548,-0.44576,threshold risk
+SC005,Climate stress with local stewardship,39,0.10916,1.2,0.01443,-0.45684,threshold risk
+SC005,Climate stress with local stewardship,40,0.09872,1.2,0.0131,-0.46728,threshold risk
+SC005,Climate stress with local stewardship,41,0.08887,1.2,0.01185,-0.47713,threshold risk
+SC005,Climate stress with local stewardship,42,0.07956,1.2,0.01066,-0.48644,threshold risk
+SC005,Climate stress with local stewardship,43,0.07075,1.2,0.00955,-0.49525,threshold risk
+SC005,Climate stress with local stewardship,44,0.0624,1.2,0.00849,-0.5036,threshold risk
+SC005,Climate stress with local stewardship,45,0.05448,1.2,0.00749,-0.51152,threshold risk
+SC005,Climate stress with local stewardship,46,0.04694,1.2,0.00654,-0.51906,threshold risk
+SC005,Climate stress with local stewardship,47,0.03977,1.2,0.00563,-0.52623,threshold risk
+SC005,Climate stress with local stewardship,48,0.03293,1.2,0.00477,-0.53307,threshold risk
+SC005,Climate stress with local stewardship,49,0.0264,1.2,0.00395,-0.5396,threshold risk
+SC005,Climate stress with local stewardship,50,0.02017,1.2,0.00317,-0.54583,threshold risk
+SC005,Climate stress with local stewardship,51,0.01421,1.2,0.00242,-0.55179,threshold risk
+SC005,Climate stress with local stewardship,52,0.01,1.2,0.00171,-0.556,threshold risk
+SC005,Climate stress with local stewardship,53,0.01,1.2,0.0012,-0.556,threshold risk
+SC005,Climate stress with local stewardship,54,0.01,1.2,0.0012,-0.556,threshold risk
+SC005,Climate stress with local stewardship,55,0.01,1.2,0.0012,-0.556,threshold risk
+SC005,Climate stress with local stewardship,56,0.01,1.2,0.0012,-0.556,threshold risk
+SC005,Climate stress with local stewardship,57,0.01,1.2,0.0012,-0.556,threshold risk
+SC005,Climate stress with local stewardship,58,0.01,1.2,0.0012,-0.556,threshold risk
+SC005,Climate stress with local stewardship,59,0.01,1.2,0.0012,-0.556,threshold risk
+SC005,Climate stress with local stewardship,60,0.01,1.2,0.0012,-0.556,threshold risk
+SC005,Climate stress with local stewardship,61,0.01,1.2,0.0012,-0.556,threshold risk
+SC005,Climate stress with local stewardship,62,0.01,1.2,0.0012,-0.556,threshold risk
+SC005,Climate stress with local stewardship,63,0.01,1.2,0.0012,-0.556,threshold risk
+SC005,Climate stress with local stewardship,64,0.01,1.2,0.0012,-0.556,threshold risk
+SC005,Climate stress with local stewardship,65,0.01,1.2,0.0012,-0.556,threshold risk
+SC005,Climate stress with local stewardship,66,0.01,1.2,0.0012,-0.556,threshold risk
+SC005,Climate stress with local stewardship,67,0.01,1.2,0.0012,-0.556,threshold risk
+SC005,Climate stress with local stewardship,68,0.01,1.2,0.0012,-0.556,threshold risk
+SC005,Climate stress with local stewardship,69,0.01,1.2,0.0012,-0.556,threshold risk
+SC005,Climate stress with local stewardship,70,0.01,1.2,0.0012,-0.556,threshold risk
+SC005,Climate stress with local stewardship,71,0.01,1.2,0.0012,-0.556,threshold risk
+SC005,Climate stress with local stewardship,72,0.01,1.2,0.0012,-0.556,threshold risk
+SC005,Climate stress with local stewardship,73,0.01,1.2,0.0012,-0.556,threshold risk
+SC005,Climate stress with local stewardship,74,0.01,1.2,0.0012,-0.556,threshold risk
+SC005,Climate stress with local stewardship,75,0.01,1.2,0.0012,-0.556,threshold risk
+SC005,Climate stress with local stewardship,76,0.01,1.2,0.0012,-0.556,threshold risk
+SC005,Climate stress with local stewardship,77,0.01,1.2,0.0012,-0.556,threshold risk
+SC005,Climate stress with local stewardship,78,0.01,1.2,0.0012,-0.556,threshold risk
+SC005,Climate stress with local stewardship,79,0.01,1.2,0.0012,-0.556,threshold risk
+SC005,Climate stress with local stewardship,80,0.01,1.2,0.0012,-0.556,threshold risk
+SC005,Climate stress with local stewardship,81,0.01,1.2,0.0012,-0.556,threshold risk
+SC005,Climate stress with local stewardship,82,0.01,1.2,0.0012,-0.556,threshold risk
+SC005,Climate stress with local stewardship,83,0.01,1.2,0.0012,-0.556,threshold risk
+SC005,Climate stress with local stewardship,84,0.01,1.2,0.0012,-0.556,threshold risk
+SC005,Climate stress with local stewardship,85,0.01,1.2,0.0012,-0.556,threshold risk
+SC005,Climate stress with local stewardship,86,0.01,1.2,0.0012,-0.556,threshold risk
+SC005,Climate stress with local stewardship,87,0.01,1.2,0.0012,-0.556,threshold risk
+SC005,Climate stress with local stewardship,88,0.01,1.2,0.0012,-0.556,threshold risk
+SC005,Climate stress with local stewardship,89,0.01,1.2,0.0012,-0.556,threshold risk
+SC005,Climate stress with local stewardship,90,0.01,1.2,0.0012,-0.556,threshold risk

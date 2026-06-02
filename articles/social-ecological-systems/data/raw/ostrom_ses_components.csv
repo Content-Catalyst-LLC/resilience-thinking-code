@@ -1,0 +1,8 @@
+component_id,component_name,description,example_variables
+C001,Resource system,The broader ecological or biophysical system being governed,Fishery forest watershed rangeland aquifer coastal zone agricultural landscape
+C002,Resource units,The units extracted protected used harvested or restored,Fish timber water forage habitat carbon ecosystem services
+C003,Governance system,Rules rights institutions monitoring sanctions and decision processes,Tenure rules enforcement monitoring participation conflict resolution
+C004,Users and communities,People or organizations who depend on shape or govern the system,Households fishers farmers cooperatives agencies firms local communities
+C005,Interactions,The actions and feedbacks linking users governance and resources,Harvest cooperation conflict monitoring restoration rule revision
+C006,Outcomes,Social ecological economic and governance results,Stock condition livelihood security equity trust biodiversity compliance
+C007,External settings,Broader social economic political ecological and climatic contexts,Markets climate policy migration technology geopolitical shocks

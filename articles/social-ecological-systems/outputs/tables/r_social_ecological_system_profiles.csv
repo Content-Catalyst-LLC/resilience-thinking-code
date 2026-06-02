@@ -1,0 +1,9 @@
+system_id,system_type,ecological_condition,governance_quality,livelihood_diversity,infrastructure_support,knowledge_integration,social_trust,market_pressure,climate_exposure,adaptive_capacity,resource_dependency,critical_function,ses_resilience_profile,coupled_vulnerability,diagnostic
+SES001,Fishery,0.68,0.61,0.48,0.46,0.57,0.54,0.78,0.62,0.55,0.82,fish stock renewal livelihood continuity and harvest governance,0.3913,0.6435,Mixed SES resilience profile
+SES002,Forest Commons,0.74,0.72,0.55,0.4,0.76,0.7,0.52,0.58,0.68,0.64,forest regeneration local stewardship and fire-risk management,0.5060000000000001,0.5004,Mixed SES resilience profile
+SES003,Watershed,0.62,0.66,0.63,0.71,0.68,0.64,0.6,0.66,0.64,0.7,water quality flood regulation and basin governance,0.4865999999999999,0.5566,Mixed SES resilience profile
+SES004,Coastal Community,0.58,0.57,0.52,0.65,0.6,0.55,0.74,0.82,0.56,0.76,coastal protection livelihoods housing and climate adaptation,0.3913000000000001,0.6737000000000001,High coupled vulnerability
+SES005,Agricultural Landscape,0.64,0.6,0.59,0.58,0.62,0.58,0.69,0.72,0.6,0.8,soil fertility food production and livelihood resilience,0.42750000000000005,0.6295999999999999,Mixed SES resilience profile
+SES006,Urban Watershed,0.56,0.54,0.5,0.69,0.55,0.49,0.66,0.76,0.52,0.58,stormwater heat mitigation public health and urban ecology,0.38319999999999993,0.6156,Governance capacity concern
+SES007,Rangeland Commons,0.6,0.62,0.54,0.44,0.64,0.6,0.63,0.7,0.58,0.78,forage soil retention pastoral livelihoods and grazing governance,0.41070000000000007,0.6062000000000001,Mixed SES resilience profile
+SES008,Mangrove-Fishery System,0.7,0.65,0.57,0.52,0.69,0.62,0.68,0.78,0.66,0.72,nursery habitat storm buffering fisheries and coastal livelihoods,0.45449999999999996,0.6197000000000001,Mixed SES resilience profile

@@ -1,0 +1,6 @@
+scenario_id,scenario_name,minimum_ecology,final_ecology,maximum_social_pressure,minimum_resilience_margin,threshold_risk_steps
+SC001,Strong governance and learning,0.0947,0.0947,1.2,-0.2678,39
+SC002,Moderate governance,0.01,0.01,1.2,-0.6355,75
+SC003,Weak governance and high pressure,0.01,0.01,1.2,-0.994,87
+SC004,Market shock with adaptive response,0.01,0.01,1.2,-0.608,78
+SC005,Climate stress with local stewardship,0.01,0.01,1.2,-0.556,70

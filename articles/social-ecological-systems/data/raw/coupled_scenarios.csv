@@ -1,0 +1,6 @@
+scenario_id,scenario_name,initial_ecology,initial_social_pressure,governance_effectiveness,livelihood_pressure,climate_pressure,market_shock,description
+SC001,Strong governance and learning,0.75,0.55,0.82,0.45,0.50,0.24,High governance and learning capacity under moderate pressure.
+SC002,Moderate governance,0.75,0.55,0.60,0.55,0.58,0.38,Moderate governance with rising livelihood and climate pressure.
+SC003,Weak governance and high pressure,0.75,0.55,0.35,0.74,0.70,0.56,Weak governance with high livelihood climate and market pressure.
+SC004,Market shock with adaptive response,0.72,0.60,0.68,0.66,0.62,0.74,Market shock where adaptive institutions respond with partial success.
+SC005,Climate stress with local stewardship,0.70,0.52,0.76,0.54,0.82,0.36,High climate stress buffered by stronger stewardship and learning.
