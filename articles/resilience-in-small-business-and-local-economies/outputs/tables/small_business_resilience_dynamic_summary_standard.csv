@@ -1,0 +1,7 @@
+business,mean_function,minimum_function,final_function,minimum_cash_runway,final_cash_runway,maximum_owner_strain,mean_fragility_gap,final_equity_adjusted_function,maximum_survival_risk,final_survival_risk
+Resilient diversified small firm,1.0,1.0,1.0,0.793,1.0,0.27102,0.00043,0.9268,0.12665,0.0
+Digitally ready service business,0.99981,0.98155,1.0,0.511,1.0,0.43906,0.00202,0.8708,0.26542,0.0
+Local manufacturer with supplier exposure,0.99952,0.96667,1.0,0.4866,1.0,0.50403,0.00416,0.8596,0.29216,0.0
+Community-embedded food business,0.99931,0.93345,1.0,0.4028,1.0,0.55425,0.00265,0.8428,0.34316,0.0
+Undercapitalized neighborhood retailer,0.99807,0.87071,1.0,0.309,1.0,0.65875,0.00722,0.8148,0.41885,0.0
+Microenterprise with administrative access barriers,0.99765,0.85008,1.0,0.3232,1.0,0.69993,0.00712,0.8036,0.42934,0.0

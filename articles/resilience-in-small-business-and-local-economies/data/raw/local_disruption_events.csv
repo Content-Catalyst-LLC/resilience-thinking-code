@@ -1,0 +1,8 @@
+event_id,event_name,primary_stress,shock_intensity,demand_loss,supplier_disruption,digital_disruption,rent_debt_pressure,workforce_stress,insurance_gap,public_support_delay,inequality_pressure,affected_functions
+EV001,Demand shock,revenue and customer demand stress,0.58,0.86,0.42,0.38,0.50,0.46,0.48,0.52,0.64,sales foot traffic revenue confidence payroll inventory and customer retention
+EV002,Supplier delay and price increase,supply chain and input-cost stress,0.66,0.46,0.94,0.40,0.56,0.52,0.46,0.50,0.62,inventory production pricing customer fulfillment margins and vendor relationships
+EV003,Digital payment and platform disruption,digital operations and cyber continuity stress,0.54,0.44,0.42,0.92,0.46,0.48,0.40,0.48,0.58,payments booking website reviews online ordering customer communication and accounting records
+EV004,Extreme weather closure,climate disaster and physical interruption stress,0.74,0.76,0.70,0.62,0.68,0.72,0.82,0.70,0.78,facilities inventory worker safety customer access insurance documentation and recovery liquidity
+EV005,Rent and debt pressure,commercial rent debt and liquidity stress,0.70,0.62,0.48,0.44,0.92,0.58,0.56,0.60,0.82,rent debt service cash runway credit access owner stress and displacement risk
+EV006,Insurance claim delay and undercoverage,insurance liquidity and recovery delay stress,0.64,0.56,0.50,0.42,0.70,0.50,0.94,0.80,0.84,claims documentation repairs cash flow reopening recovery assistance and uneven loss absorption
+EV007,Compound local economic stress,compound demand supply digital rent workforce insurance and inequality stress,0.88,0.86,0.84,0.80,0.86,0.82,0.86,0.88,0.92,revenue supply payroll rent debt insurance customers public support equity and survival

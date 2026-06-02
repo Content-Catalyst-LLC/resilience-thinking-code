@@ -1,0 +1,577 @@
+business_id,business,business_context,time,event,shock_load,adaptive_capacity,fragility_gap,function,cash_runway,customer_demand,owner_strain,equity_adjusted_function,survival_risk
+SB001,Undercapitalized neighborhood retailer,low cash runway high community role and limited formal finance,0,background local volatility,0.08485,0.4388,0.0,0.87071,0.309,0.8306,0.65875,0.65598,0.41885
+SB001,Undercapitalized neighborhood retailer,low cash runway high community role and limited formal finance,1,background local volatility,0.08574,0.44344,0.0,0.97519,0.33794,0.8692,0.59535,0.7468,0.35948
+SB001,Undercapitalized neighborhood retailer,low cash runway high community role and limited formal finance,2,background local volatility,0.08665,0.44807,0.0,1.0,0.36682,0.9078,0.5298,0.77242,0.32757
+SB001,Undercapitalized neighborhood retailer,low cash runway high community role and limited formal finance,3,background local volatility,0.08664,0.45269,0.0,1.0,0.39564,0.9464,0.46195,0.77784,0.30392
+SB001,Undercapitalized neighborhood retailer,low cash runway high community role and limited formal finance,4,background local volatility,0.08686,0.4573,0.0,1.0,0.4244,0.985,0.39183,0.78345,0.27983
+SB001,Undercapitalized neighborhood retailer,low cash runway high community role and limited formal finance,5,background local volatility,0.08629,0.4619,0.0,1.0,0.4531,1.0,0.31956,0.78924,0.25533
+SB001,Undercapitalized neighborhood retailer,low cash runway high community role and limited formal finance,6,background local volatility,0.08732,0.4665,0.0,1.0,0.48174,1.0,0.24748,0.795,0.23089
+SB001,Undercapitalized neighborhood retailer,low cash runway high community role and limited formal finance,7,background local volatility,0.08683,0.47108,0.0,1.0,0.51032,1.0,0.17531,0.80078,0.20645
+SB001,Undercapitalized neighborhood retailer,low cash runway high community role and limited formal finance,8,Demand shock,0.5336,0.47565,0.05795,1.0,0.4882,0.917,0.19225,0.77342,0.22338
+SB001,Undercapitalized neighborhood retailer,low cash runway high community role and limited formal finance,9,background local volatility,0.08604,0.47211,0.0,1.0,0.51666,0.9556,0.11994,0.80521,0.19316
+SB001,Undercapitalized neighborhood retailer,low cash runway high community role and limited formal finance,10,background local volatility,0.08709,0.47667,0.0,1.0,0.54506,0.9942,0.04781,0.81097,0.16879
+SB001,Undercapitalized neighborhood retailer,low cash runway high community role and limited formal finance,11,background local volatility,0.08626,0.48121,0.0,1.0,0.5734,1.0,0.0,0.8148,0.14931
+SB001,Undercapitalized neighborhood retailer,low cash runway high community role and limited formal finance,12,background local volatility,0.08854,0.48574,0.0,1.0,0.60168,1.0,0.0,0.8148,0.13941
+SB001,Undercapitalized neighborhood retailer,low cash runway high community role and limited formal finance,13,background local volatility,0.08872,0.49027,0.0,1.0,0.6299,1.0,0.0,0.8148,0.12954
+SB001,Undercapitalized neighborhood retailer,low cash runway high community role and limited formal finance,14,background local volatility,0.0874,0.49478,0.0,1.0,0.65806,1.0,0.0,0.8148,0.11968
+SB001,Undercapitalized neighborhood retailer,low cash runway high community role and limited formal finance,15,background local volatility,0.08749,0.49929,0.0,1.0,0.68616,1.0,0.0,0.8148,0.10984
+SB001,Undercapitalized neighborhood retailer,low cash runway high community role and limited formal finance,16,background local volatility,0.08874,0.50379,0.0,1.0,0.7142,1.0,0.0,0.8148,0.10003
+SB001,Undercapitalized neighborhood retailer,low cash runway high community role and limited formal finance,17,background local volatility,0.08754,0.50827,0.0,1.0,0.74218,1.0,0.0,0.8148,0.09024
+SB001,Undercapitalized neighborhood retailer,low cash runway high community role and limited formal finance,18,background local volatility,0.08763,0.51275,0.0,1.0,0.7701,1.0,0.0,0.8148,0.08047
+SB001,Undercapitalized neighborhood retailer,low cash runway high community role and limited formal finance,19,background local volatility,0.0878,0.51722,0.0,1.0,0.79796,1.0,0.0,0.8148,0.07071
+SB001,Undercapitalized neighborhood retailer,low cash runway high community role and limited formal finance,20,Supplier delay and price increase,0.566,0.52167,0.04433,1.0,0.77211,0.981,0.02073,0.78814,0.08834
+SB001,Undercapitalized neighborhood retailer,low cash runway high community role and limited formal finance,21,background local volatility,0.08848,0.51754,0.0,1.0,0.79985,1.0,0.0,0.8148,0.07005
+SB001,Undercapitalized neighborhood retailer,low cash runway high community role and limited formal finance,22,background local volatility,0.0893,0.52198,0.0,1.0,0.82753,1.0,0.0,0.8148,0.06036
+SB001,Undercapitalized neighborhood retailer,low cash runway high community role and limited formal finance,23,background local volatility,0.09026,0.5264,0.0,1.0,0.85515,1.0,0.0,0.8148,0.0507
+SB001,Undercapitalized neighborhood retailer,low cash runway high community role and limited formal finance,24,background local volatility,0.08861,0.53082,0.0,1.0,0.88271,1.0,0.0,0.8148,0.04105
+SB001,Undercapitalized neighborhood retailer,low cash runway high community role and limited formal finance,25,background local volatility,0.09054,0.53523,0.0,1.0,0.91021,1.0,0.0,0.8148,0.03143
+SB001,Undercapitalized neighborhood retailer,low cash runway high community role and limited formal finance,26,background local volatility,0.08973,0.53963,0.0,1.0,0.93765,1.0,0.0,0.8148,0.02182
+SB001,Undercapitalized neighborhood retailer,low cash runway high community role and limited formal finance,27,background local volatility,0.09071,0.54402,0.0,1.0,0.96503,1.0,0.0,0.8148,0.01224
+SB001,Undercapitalized neighborhood retailer,low cash runway high community role and limited formal finance,28,background local volatility,0.09066,0.5484,0.0,1.0,0.99235,1.0,0.0,0.8148,0.00268
+SB001,Undercapitalized neighborhood retailer,low cash runway high community role and limited formal finance,29,background local volatility,0.08924,0.55278,0.0,1.0,1.0,1.0,0.0,0.8148,0.0
+SB001,Undercapitalized neighborhood retailer,low cash runway high community role and limited formal finance,30,background local volatility,0.09056,0.554,0.0,1.0,1.0,1.0,0.0,0.8148,0.0
+SB001,Undercapitalized neighborhood retailer,low cash runway high community role and limited formal finance,31,background local volatility,0.08945,0.554,0.0,1.0,1.0,1.0,0.0,0.8148,0.0
+SB001,Undercapitalized neighborhood retailer,low cash runway high community role and limited formal finance,32,background local volatility,0.08931,0.554,0.0,1.0,1.0,1.0,0.0,0.8148,0.0
+SB001,Undercapitalized neighborhood retailer,low cash runway high community role and limited formal finance,33,background local volatility,0.0904,0.554,0.0,1.0,1.0,1.0,0.0,0.8148,0.0
+SB001,Undercapitalized neighborhood retailer,low cash runway high community role and limited formal finance,34,background local volatility,0.09146,0.554,0.0,1.0,1.0,1.0,0.0,0.8148,0.0
+SB001,Undercapitalized neighborhood retailer,low cash runway high community role and limited formal finance,35,Digital payment and platform disruption,0.5152,0.554,0.0,1.0,0.98566,0.9842,0.00494,0.79141,0.00601
+SB001,Undercapitalized neighborhood retailer,low cash runway high community role and limited formal finance,36,background local volatility,0.09126,0.55171,0.0,1.0,1.0,1.0,0.0,0.8148,0.0
+SB001,Undercapitalized neighborhood retailer,low cash runway high community role and limited formal finance,37,background local volatility,0.09051,0.554,0.0,1.0,1.0,1.0,0.0,0.8148,0.0
+SB001,Undercapitalized neighborhood retailer,low cash runway high community role and limited formal finance,38,background local volatility,0.09222,0.554,0.0,1.0,1.0,1.0,0.0,0.8148,0.0
+SB001,Undercapitalized neighborhood retailer,low cash runway high community role and limited formal finance,39,background local volatility,0.09254,0.554,0.0,1.0,1.0,1.0,0.0,0.8148,0.0
+SB001,Undercapitalized neighborhood retailer,low cash runway high community role and limited formal finance,40,background local volatility,0.09107,0.554,0.0,1.0,1.0,1.0,0.0,0.8148,0.0
+SB001,Undercapitalized neighborhood retailer,low cash runway high community role and limited formal finance,41,background local volatility,0.09173,0.554,0.0,1.0,1.0,1.0,0.0,0.8148,0.0
+SB001,Undercapitalized neighborhood retailer,low cash runway high community role and limited formal finance,42,background local volatility,0.09233,0.554,0.0,1.0,1.0,1.0,0.0,0.8148,0.0
+SB001,Undercapitalized neighborhood retailer,low cash runway high community role and limited formal finance,43,background local volatility,0.09312,0.554,0.0,1.0,1.0,1.0,0.0,0.8148,0.0
+SB001,Undercapitalized neighborhood retailer,low cash runway high community role and limited formal finance,44,background local volatility,0.0914,0.554,0.0,1.0,1.0,1.0,0.0,0.8148,0.0
+SB001,Undercapitalized neighborhood retailer,low cash runway high community role and limited formal finance,45,background local volatility,0.09258,0.554,0.0,1.0,1.0,1.0,0.0,0.8148,0.0
+SB001,Undercapitalized neighborhood retailer,low cash runway high community role and limited formal finance,46,background local volatility,0.09372,0.554,0.0,1.0,1.0,1.0,0.0,0.8148,0.0
+SB001,Undercapitalized neighborhood retailer,low cash runway high community role and limited formal finance,47,background local volatility,0.09301,0.554,0.0,1.0,1.0,1.0,0.0,0.8148,0.0
+SB001,Undercapitalized neighborhood retailer,low cash runway high community role and limited formal finance,48,background local volatility,0.09342,0.554,0.0,1.0,1.0,1.0,0.0,0.8148,0.0
+SB001,Undercapitalized neighborhood retailer,low cash runway high community role and limited formal finance,49,background local volatility,0.09371,0.554,0.0,1.0,1.0,1.0,0.0,0.8148,0.0
+SB001,Undercapitalized neighborhood retailer,low cash runway high community role and limited formal finance,50,Extreme weather closure,0.7158,0.554,0.1618,1.0,0.94372,0.933,0.06531,0.77657,0.04894
+SB001,Undercapitalized neighborhood retailer,low cash runway high community role and limited formal finance,51,background local volatility,0.09337,0.545,0.0,1.0,0.96966,0.9716,0.0,0.8148,0.01062
+SB001,Undercapitalized neighborhood retailer,low cash runway high community role and limited formal finance,52,background local volatility,0.093,0.54915,0.0,1.0,0.99554,1.0,0.0,0.8148,0.00156
+SB001,Undercapitalized neighborhood retailer,low cash runway high community role and limited formal finance,53,background local volatility,0.09387,0.55329,0.0,1.0,1.0,1.0,0.0,0.8148,0.0
+SB001,Undercapitalized neighborhood retailer,low cash runway high community role and limited formal finance,54,background local volatility,0.09387,0.554,0.0,1.0,1.0,1.0,0.0,0.8148,0.0
+SB001,Undercapitalized neighborhood retailer,low cash runway high community role and limited formal finance,55,background local volatility,0.09357,0.554,0.0,1.0,1.0,1.0,0.0,0.8148,0.0
+SB001,Undercapitalized neighborhood retailer,low cash runway high community role and limited formal finance,56,background local volatility,0.09495,0.554,0.0,1.0,1.0,1.0,0.0,0.8148,0.0
+SB001,Undercapitalized neighborhood retailer,low cash runway high community role and limited formal finance,57,background local volatility,0.09392,0.554,0.0,1.0,1.0,1.0,0.0,0.8148,0.0
+SB001,Undercapitalized neighborhood retailer,low cash runway high community role and limited formal finance,58,background local volatility,0.09436,0.554,0.0,1.0,1.0,1.0,0.0,0.8148,0.0
+SB001,Undercapitalized neighborhood retailer,low cash runway high community role and limited formal finance,59,background local volatility,0.09518,0.554,0.0,1.0,1.0,1.0,0.0,0.8148,0.0
+SB001,Undercapitalized neighborhood retailer,low cash runway high community role and limited formal finance,60,background local volatility,0.09545,0.554,0.0,1.0,1.0,1.0,0.0,0.8148,0.0
+SB001,Undercapitalized neighborhood retailer,low cash runway high community role and limited formal finance,61,background local volatility,0.09579,0.554,0.0,1.0,1.0,1.0,0.0,0.8148,0.0
+SB001,Undercapitalized neighborhood retailer,low cash runway high community role and limited formal finance,62,background local volatility,0.09536,0.554,0.0,1.0,1.0,1.0,0.0,0.8148,0.0
+SB001,Undercapitalized neighborhood retailer,low cash runway high community role and limited formal finance,63,background local volatility,0.09456,0.554,0.0,1.0,1.0,1.0,0.0,0.8148,0.0
+SB001,Undercapitalized neighborhood retailer,low cash runway high community role and limited formal finance,64,background local volatility,0.09613,0.554,0.0,1.0,1.0,1.0,0.0,0.8148,0.0
+SB001,Undercapitalized neighborhood retailer,low cash runway high community role and limited formal finance,65,background local volatility,0.09643,0.554,0.0,1.0,1.0,1.0,0.0,0.8148,0.0
+SB001,Undercapitalized neighborhood retailer,low cash runway high community role and limited formal finance,66,Rent and debt pressure,0.6216,0.554,0.0676,1.0,0.94579,0.9554,0.03423,0.77706,0.03258
+SB001,Undercapitalized neighborhood retailer,low cash runway high community role and limited formal finance,67,background local volatility,0.09627,0.54533,0.0,1.0,0.97077,0.994,0.0,0.8148,0.01023
+SB001,Undercapitalized neighborhood retailer,low cash runway high community role and limited formal finance,68,background local volatility,0.09654,0.54932,0.0,1.0,0.99569,1.0,0.0,0.8148,0.00151
+SB001,Undercapitalized neighborhood retailer,low cash runway high community role and limited formal finance,69,background local volatility,0.09608,0.55331,0.0,1.0,1.0,1.0,0.0,0.8148,0.0
+SB001,Undercapitalized neighborhood retailer,low cash runway high community role and limited formal finance,70,background local volatility,0.09618,0.554,0.0,1.0,1.0,1.0,0.0,0.8148,0.0
+SB001,Undercapitalized neighborhood retailer,low cash runway high community role and limited formal finance,71,background local volatility,0.09655,0.554,0.0,1.0,1.0,1.0,0.0,0.8148,0.0
+SB001,Undercapitalized neighborhood retailer,low cash runway high community role and limited formal finance,72,background local volatility,0.09565,0.554,0.0,1.0,1.0,1.0,0.0,0.8148,0.0
+SB001,Undercapitalized neighborhood retailer,low cash runway high community role and limited formal finance,73,background local volatility,0.09707,0.554,0.0,1.0,1.0,1.0,0.0,0.8148,0.0
+SB001,Undercapitalized neighborhood retailer,low cash runway high community role and limited formal finance,74,background local volatility,0.09767,0.554,0.0,1.0,1.0,1.0,0.0,0.8148,0.0
+SB001,Undercapitalized neighborhood retailer,low cash runway high community role and limited formal finance,75,background local volatility,0.09615,0.554,0.0,1.0,1.0,1.0,0.0,0.8148,0.0
+SB001,Undercapitalized neighborhood retailer,low cash runway high community role and limited formal finance,76,background local volatility,0.09771,0.554,0.0,1.0,1.0,1.0,0.0,0.8148,0.0
+SB001,Undercapitalized neighborhood retailer,low cash runway high community role and limited formal finance,77,background local volatility,0.09774,0.554,0.0,1.0,1.0,1.0,0.0,0.8148,0.0
+SB001,Undercapitalized neighborhood retailer,low cash runway high community role and limited formal finance,78,Insurance claim delay and undercoverage,0.6202,0.554,0.0662,1.0,0.94388,0.965,0.03377,0.7761,0.03302
+SB001,Undercapitalized neighborhood retailer,low cash runway high community role and limited formal finance,79,background local volatility,0.09664,0.54502,0.0,1.0,0.96814,1.0,0.0,0.8148,0.01115
+SB001,Undercapitalized neighborhood retailer,low cash runway high community role and limited formal finance,80,background local volatility,0.09662,0.5489,0.0,1.0,0.99234,1.0,0.0,0.8148,0.00268
+SB001,Undercapitalized neighborhood retailer,low cash runway high community role and limited formal finance,81,background local volatility,0.09808,0.55277,0.0,1.0,1.0,1.0,0.0,0.8148,0.0
+SB001,Undercapitalized neighborhood retailer,low cash runway high community role and limited formal finance,82,background local volatility,0.09733,0.554,0.0,1.0,1.0,1.0,0.0,0.8148,0.0
+SB001,Undercapitalized neighborhood retailer,low cash runway high community role and limited formal finance,83,background local volatility,0.09769,0.554,0.0,1.0,1.0,1.0,0.0,0.8148,0.0
+SB001,Undercapitalized neighborhood retailer,low cash runway high community role and limited formal finance,84,background local volatility,0.09859,0.554,0.0,1.0,1.0,1.0,0.0,0.8148,0.0
+SB001,Undercapitalized neighborhood retailer,low cash runway high community role and limited formal finance,85,background local volatility,0.09881,0.554,0.0,1.0,1.0,1.0,0.0,0.8148,0.0
+SB001,Undercapitalized neighborhood retailer,low cash runway high community role and limited formal finance,86,background local volatility,0.0992,0.554,0.0,1.0,1.0,1.0,0.0,0.8148,0.0
+SB001,Undercapitalized neighborhood retailer,low cash runway high community role and limited formal finance,87,background local volatility,0.09891,0.554,0.0,1.0,1.0,1.0,0.0,0.8148,0.0
+SB001,Undercapitalized neighborhood retailer,low cash runway high community role and limited formal finance,88,Compound local economic stress,0.8494,0.554,0.2954,0.96887,0.92272,0.917,0.1094,0.7405,0.08936
+SB001,Undercapitalized neighborhood retailer,low cash runway high community role and limited formal finance,89,background local volatility,0.09865,0.54163,0.0,1.0,0.94638,0.9556,0.03936,0.81165,0.02664
+SB001,Undercapitalized neighborhood retailer,low cash runway high community role and limited formal finance,90,background local volatility,0.09803,0.54542,0.0,1.0,0.96998,0.9942,0.0,0.8148,0.01051
+SB001,Undercapitalized neighborhood retailer,low cash runway high community role and limited formal finance,91,background local volatility,0.09842,0.5492,0.0,1.0,0.99352,1.0,0.0,0.8148,0.00227
+SB001,Undercapitalized neighborhood retailer,low cash runway high community role and limited formal finance,92,background local volatility,0.09876,0.55296,0.0,1.0,1.0,1.0,0.0,0.8148,0.0
+SB001,Undercapitalized neighborhood retailer,low cash runway high community role and limited formal finance,93,background local volatility,0.09971,0.554,0.0,1.0,1.0,1.0,0.0,0.8148,0.0
+SB001,Undercapitalized neighborhood retailer,low cash runway high community role and limited formal finance,94,background local volatility,0.10033,0.554,0.0,1.0,1.0,1.0,0.0,0.8148,0.0
+SB001,Undercapitalized neighborhood retailer,low cash runway high community role and limited formal finance,95,background local volatility,0.09925,0.554,0.0,1.0,1.0,1.0,0.0,0.8148,0.0
+SB002,Digitally ready service business,strong digital systems with moderate capital and community embeddedness,0,background local volatility,0.08589,0.5992,0.0,0.98155,0.511,0.8226,0.43906,0.8195,0.26542
+SB002,Digitally ready service business,strong digital systems with moderate capital and community embeddedness,1,background local volatility,0.08512,0.60736,0.0,1.0,0.56194,0.8672,0.35798,0.84216,0.22492
+SB002,Digitally ready service business,strong digital systems with moderate capital and community embeddedness,2,background local volatility,0.08712,0.61551,0.0,1.0,0.61282,0.9118,0.27726,0.84862,0.19097
+SB002,Digitally ready service business,strong digital systems with moderate capital and community embeddedness,3,background local volatility,0.08717,0.62365,0.0,1.0,0.66364,0.9564,0.19655,0.85508,0.15704
+SB002,Digitally ready service business,strong digital systems with moderate capital and community embeddedness,4,background local volatility,0.08622,0.63178,0.0,1.0,0.7144,1.0,0.11567,0.86155,0.12309
+SB002,Digitally ready service business,strong digital systems with moderate capital and community embeddedness,5,background local volatility,0.08684,0.6399,0.0,1.0,0.7651,1.0,0.0349,0.86801,0.0892
+SB002,Digitally ready service business,strong digital systems with moderate capital and community embeddedness,6,background local volatility,0.08591,0.64802,0.0,1.0,0.81574,1.0,0.0,0.8708,0.06449
+SB002,Digitally ready service business,strong digital systems with moderate capital and community embeddedness,7,background local volatility,0.08608,0.65612,0.0,1.0,0.86632,1.0,0.0,0.8708,0.04679
+SB002,Digitally ready service business,strong digital systems with moderate capital and community embeddedness,8,Demand shock,0.5336,0.66421,0.0,1.0,0.87012,0.923,0.0,0.8448,0.04546
+SB002,Digitally ready service business,strong digital systems with moderate capital and community embeddedness,9,background local volatility,0.08654,0.66482,0.0,1.0,0.92058,0.9676,0.0,0.8708,0.0278
+SB002,Digitally ready service business,strong digital systems with moderate capital and community embeddedness,10,background local volatility,0.08766,0.67289,0.0,1.0,0.97098,1.0,0.0,0.8708,0.01016
+SB002,Digitally ready service business,strong digital systems with moderate capital and community embeddedness,11,background local volatility,0.08666,0.68096,0.0,1.0,1.0,1.0,0.0,0.8708,0.0
+SB002,Digitally ready service business,strong digital systems with moderate capital and community embeddedness,12,background local volatility,0.08863,0.6856,0.0,1.0,1.0,1.0,0.0,0.8708,0.0
+SB002,Digitally ready service business,strong digital systems with moderate capital and community embeddedness,13,background local volatility,0.08662,0.6856,0.0,1.0,1.0,1.0,0.0,0.8708,0.0
+SB002,Digitally ready service business,strong digital systems with moderate capital and community embeddedness,14,background local volatility,0.08706,0.6856,0.0,1.0,1.0,1.0,0.0,0.8708,0.0
+SB002,Digitally ready service business,strong digital systems with moderate capital and community embeddedness,15,background local volatility,0.08696,0.6856,0.0,1.0,1.0,1.0,0.0,0.8708,0.0
+SB002,Digitally ready service business,strong digital systems with moderate capital and community embeddedness,16,background local volatility,0.08875,0.6856,0.0,1.0,1.0,1.0,0.0,0.8708,0.0
+SB002,Digitally ready service business,strong digital systems with moderate capital and community embeddedness,17,background local volatility,0.08793,0.6856,0.0,1.0,1.0,1.0,0.0,0.8708,0.0
+SB002,Digitally ready service business,strong digital systems with moderate capital and community embeddedness,18,background local volatility,0.08833,0.6856,0.0,1.0,1.0,1.0,0.0,0.8708,0.0
+SB002,Digitally ready service business,strong digital systems with moderate capital and community embeddedness,19,background local volatility,0.08813,0.6856,0.0,1.0,1.0,1.0,0.0,0.8708,0.0
+SB002,Digitally ready service business,strong digital systems with moderate capital and community embeddedness,20,Supplier delay and price increase,0.566,0.6856,0.0,1.0,0.99973,0.987,0.00548,0.84536,0.00119
+SB002,Digitally ready service business,strong digital systems with moderate capital and community embeddedness,21,background local volatility,0.08918,0.68556,0.0,1.0,1.0,1.0,0.0,0.8708,0.0
+SB002,Digitally ready service business,strong digital systems with moderate capital and community embeddedness,22,background local volatility,0.08877,0.6856,0.0,1.0,1.0,1.0,0.0,0.8708,0.0
+SB002,Digitally ready service business,strong digital systems with moderate capital and community embeddedness,23,background local volatility,0.08845,0.6856,0.0,1.0,1.0,1.0,0.0,0.8708,0.0
+SB002,Digitally ready service business,strong digital systems with moderate capital and community embeddedness,24,background local volatility,0.08913,0.6856,0.0,1.0,1.0,1.0,0.0,0.8708,0.0
+SB002,Digitally ready service business,strong digital systems with moderate capital and community embeddedness,25,background local volatility,0.08898,0.6856,0.0,1.0,1.0,1.0,0.0,0.8708,0.0
+SB002,Digitally ready service business,strong digital systems with moderate capital and community embeddedness,26,background local volatility,0.08867,0.6856,0.0,1.0,1.0,1.0,0.0,0.8708,0.0
+SB002,Digitally ready service business,strong digital systems with moderate capital and community embeddedness,27,background local volatility,0.09053,0.6856,0.0,1.0,1.0,1.0,0.0,0.8708,0.0
+SB002,Digitally ready service business,strong digital systems with moderate capital and community embeddedness,28,background local volatility,0.09033,0.6856,0.0,1.0,1.0,1.0,0.0,0.8708,0.0
+SB002,Digitally ready service business,strong digital systems with moderate capital and community embeddedness,29,background local volatility,0.09045,0.6856,0.0,1.0,1.0,1.0,0.0,0.8708,0.0
+SB002,Digitally ready service business,strong digital systems with moderate capital and community embeddedness,30,background local volatility,0.09112,0.6856,0.0,1.0,1.0,1.0,0.0,0.8708,0.0
+SB002,Digitally ready service business,strong digital systems with moderate capital and community embeddedness,31,background local volatility,0.0901,0.6856,0.0,1.0,1.0,1.0,0.0,0.8708,0.0
+SB002,Digitally ready service business,strong digital systems with moderate capital and community embeddedness,32,background local volatility,0.09021,0.6856,0.0,1.0,1.0,1.0,0.0,0.8708,0.0
+SB002,Digitally ready service business,strong digital systems with moderate capital and community embeddedness,33,background local volatility,0.09047,0.6856,0.0,1.0,1.0,1.0,0.0,0.8708,0.0
+SB002,Digitally ready service business,strong digital systems with moderate capital and community embeddedness,34,background local volatility,0.09057,0.6856,0.0,1.0,1.0,1.0,0.0,0.8708,0.0
+SB002,Digitally ready service business,strong digital systems with moderate capital and community embeddedness,35,Digital payment and platform disruption,0.5152,0.6856,0.0,1.0,1.0,0.9902,0.0,0.8478,0.0
+SB002,Digitally ready service business,strong digital systems with moderate capital and community embeddedness,36,background local volatility,0.09151,0.6856,0.0,1.0,1.0,1.0,0.0,0.8708,0.0
+SB002,Digitally ready service business,strong digital systems with moderate capital and community embeddedness,37,background local volatility,0.09007,0.6856,0.0,1.0,1.0,1.0,0.0,0.8708,0.0
+SB002,Digitally ready service business,strong digital systems with moderate capital and community embeddedness,38,background local volatility,0.09131,0.6856,0.0,1.0,1.0,1.0,0.0,0.8708,0.0
+SB002,Digitally ready service business,strong digital systems with moderate capital and community embeddedness,39,background local volatility,0.09163,0.6856,0.0,1.0,1.0,1.0,0.0,0.8708,0.0
+SB002,Digitally ready service business,strong digital systems with moderate capital and community embeddedness,40,background local volatility,0.09133,0.6856,0.0,1.0,1.0,1.0,0.0,0.8708,0.0
+SB002,Digitally ready service business,strong digital systems with moderate capital and community embeddedness,41,background local volatility,0.0907,0.6856,0.0,1.0,1.0,1.0,0.0,0.8708,0.0
+SB002,Digitally ready service business,strong digital systems with moderate capital and community embeddedness,42,background local volatility,0.09249,0.6856,0.0,1.0,1.0,1.0,0.0,0.8708,0.0
+SB002,Digitally ready service business,strong digital systems with moderate capital and community embeddedness,43,background local volatility,0.09097,0.6856,0.0,1.0,1.0,1.0,0.0,0.8708,0.0
+SB002,Digitally ready service business,strong digital systems with moderate capital and community embeddedness,44,background local volatility,0.09245,0.6856,0.0,1.0,1.0,1.0,0.0,0.8708,0.0
+SB002,Digitally ready service business,strong digital systems with moderate capital and community embeddedness,45,background local volatility,0.09162,0.6856,0.0,1.0,1.0,1.0,0.0,0.8708,0.0
+SB002,Digitally ready service business,strong digital systems with moderate capital and community embeddedness,46,background local volatility,0.09148,0.6856,0.0,1.0,1.0,1.0,0.0,0.8708,0.0
+SB002,Digitally ready service business,strong digital systems with moderate capital and community embeddedness,47,background local volatility,0.09198,0.6856,0.0,1.0,1.0,1.0,0.0,0.8708,0.0
+SB002,Digitally ready service business,strong digital systems with moderate capital and community embeddedness,48,background local volatility,0.09186,0.6856,0.0,1.0,1.0,1.0,0.0,0.8708,0.0
+SB002,Digitally ready service business,strong digital systems with moderate capital and community embeddedness,49,background local volatility,0.09221,0.6856,0.0,1.0,1.0,1.0,0.0,0.8708,0.0
+SB002,Digitally ready service business,strong digital systems with moderate capital and community embeddedness,50,Extreme weather closure,0.7158,0.6856,0.0302,1.0,0.9715,0.939,0.03697,0.83484,0.02039
+SB002,Digitally ready service business,strong digital systems with moderate capital and community embeddedness,51,background local volatility,0.09379,0.68104,0.0,1.0,1.0,0.9836,0.0,0.8708,0.0
+SB002,Digitally ready service business,strong digital systems with moderate capital and community embeddedness,52,background local volatility,0.09405,0.6856,0.0,1.0,1.0,1.0,0.0,0.8708,0.0
+SB002,Digitally ready service business,strong digital systems with moderate capital and community embeddedness,53,background local volatility,0.09332,0.6856,0.0,1.0,1.0,1.0,0.0,0.8708,0.0
+SB002,Digitally ready service business,strong digital systems with moderate capital and community embeddedness,54,background local volatility,0.09417,0.6856,0.0,1.0,1.0,1.0,0.0,0.8708,0.0
+SB002,Digitally ready service business,strong digital systems with moderate capital and community embeddedness,55,background local volatility,0.09389,0.6856,0.0,1.0,1.0,1.0,0.0,0.8708,0.0
+SB002,Digitally ready service business,strong digital systems with moderate capital and community embeddedness,56,background local volatility,0.0941,0.6856,0.0,1.0,1.0,1.0,0.0,0.8708,0.0
+SB002,Digitally ready service business,strong digital systems with moderate capital and community embeddedness,57,background local volatility,0.09515,0.6856,0.0,1.0,1.0,1.0,0.0,0.8708,0.0
+SB002,Digitally ready service business,strong digital systems with moderate capital and community embeddedness,58,background local volatility,0.09395,0.6856,0.0,1.0,1.0,1.0,0.0,0.8708,0.0
+SB002,Digitally ready service business,strong digital systems with moderate capital and community embeddedness,59,background local volatility,0.09544,0.6856,0.0,1.0,1.0,1.0,0.0,0.8708,0.0
+SB002,Digitally ready service business,strong digital systems with moderate capital and community embeddedness,60,background local volatility,0.09516,0.6856,0.0,1.0,1.0,1.0,0.0,0.8708,0.0
+SB002,Digitally ready service business,strong digital systems with moderate capital and community embeddedness,61,background local volatility,0.09529,0.6856,0.0,1.0,1.0,1.0,0.0,0.8708,0.0
+SB002,Digitally ready service business,strong digital systems with moderate capital and community embeddedness,62,background local volatility,0.09381,0.6856,0.0,1.0,1.0,1.0,0.0,0.8708,0.0
+SB002,Digitally ready service business,strong digital systems with moderate capital and community embeddedness,63,background local volatility,0.09415,0.6856,0.0,1.0,1.0,1.0,0.0,0.8708,0.0
+SB002,Digitally ready service business,strong digital systems with moderate capital and community embeddedness,64,background local volatility,0.09418,0.6856,0.0,1.0,1.0,1.0,0.0,0.8708,0.0
+SB002,Digitally ready service business,strong digital systems with moderate capital and community embeddedness,65,background local volatility,0.09508,0.6856,0.0,1.0,1.0,1.0,0.0,0.8708,0.0
+SB002,Digitally ready service business,strong digital systems with moderate capital and community embeddedness,66,Rent and debt pressure,0.6216,0.6856,0.0,1.0,0.97195,0.9614,0.01549,0.83456,0.01291
+SB002,Digitally ready service business,strong digital systems with moderate capital and community embeddedness,67,background local volatility,0.09682,0.68111,0.0,1.0,1.0,1.0,0.0,0.8708,0.0
+SB002,Digitally ready service business,strong digital systems with moderate capital and community embeddedness,68,background local volatility,0.0968,0.6856,0.0,1.0,1.0,1.0,0.0,0.8708,0.0
+SB002,Digitally ready service business,strong digital systems with moderate capital and community embeddedness,69,background local volatility,0.09686,0.6856,0.0,1.0,1.0,1.0,0.0,0.8708,0.0
+SB002,Digitally ready service business,strong digital systems with moderate capital and community embeddedness,70,background local volatility,0.09529,0.6856,0.0,1.0,1.0,1.0,0.0,0.8708,0.0
+SB002,Digitally ready service business,strong digital systems with moderate capital and community embeddedness,71,background local volatility,0.09684,0.6856,0.0,1.0,1.0,1.0,0.0,0.8708,0.0
+SB002,Digitally ready service business,strong digital systems with moderate capital and community embeddedness,72,background local volatility,0.09716,0.6856,0.0,1.0,1.0,1.0,0.0,0.8708,0.0
+SB002,Digitally ready service business,strong digital systems with moderate capital and community embeddedness,73,background local volatility,0.09739,0.6856,0.0,1.0,1.0,1.0,0.0,0.8708,0.0
+SB002,Digitally ready service business,strong digital systems with moderate capital and community embeddedness,74,background local volatility,0.0975,0.6856,0.0,1.0,1.0,1.0,0.0,0.8708,0.0
+SB002,Digitally ready service business,strong digital systems with moderate capital and community embeddedness,75,background local volatility,0.09609,0.6856,0.0,1.0,1.0,1.0,0.0,0.8708,0.0
+SB002,Digitally ready service business,strong digital systems with moderate capital and community embeddedness,76,background local volatility,0.09633,0.6856,0.0,1.0,1.0,1.0,0.0,0.8708,0.0
+SB002,Digitally ready service business,strong digital systems with moderate capital and community embeddedness,77,background local volatility,0.09795,0.6856,0.0,1.0,1.0,1.0,0.0,0.8708,0.0
+SB002,Digitally ready service business,strong digital systems with moderate capital and community embeddedness,78,Insurance claim delay and undercoverage,0.6202,0.6856,0.0,1.0,0.97001,0.971,0.01524,0.83358,0.01354
+SB002,Digitally ready service business,strong digital systems with moderate capital and community embeddedness,79,background local volatility,0.09812,0.6808,0.0,1.0,1.0,1.0,0.0,0.8708,0.0
+SB002,Digitally ready service business,strong digital systems with moderate capital and community embeddedness,80,background local volatility,0.09864,0.6856,0.0,1.0,1.0,1.0,0.0,0.8708,0.0
+SB002,Digitally ready service business,strong digital systems with moderate capital and community embeddedness,81,background local volatility,0.09772,0.6856,0.0,1.0,1.0,1.0,0.0,0.8708,0.0
+SB002,Digitally ready service business,strong digital systems with moderate capital and community embeddedness,82,background local volatility,0.09893,0.6856,0.0,1.0,1.0,1.0,0.0,0.8708,0.0
+SB002,Digitally ready service business,strong digital systems with moderate capital and community embeddedness,83,background local volatility,0.09728,0.6856,0.0,1.0,1.0,1.0,0.0,0.8708,0.0
+SB002,Digitally ready service business,strong digital systems with moderate capital and community embeddedness,84,background local volatility,0.0994,0.6856,0.0,1.0,1.0,1.0,0.0,0.8708,0.0
+SB002,Digitally ready service business,strong digital systems with moderate capital and community embeddedness,85,background local volatility,0.09937,0.6856,0.0,1.0,1.0,1.0,0.0,0.8708,0.0
+SB002,Digitally ready service business,strong digital systems with moderate capital and community embeddedness,86,background local volatility,0.09821,0.6856,0.0,1.0,1.0,1.0,0.0,0.8708,0.0
+SB002,Digitally ready service business,strong digital systems with moderate capital and community embeddedness,87,background local volatility,0.09771,0.6856,0.0,1.0,1.0,1.0,0.0,0.8708,0.0
+SB002,Digitally ready service business,strong digital systems with moderate capital and community embeddedness,88,Compound local economic stress,0.8494,0.6856,0.1638,1.0,0.9505,0.923,0.08106,0.82432,0.04992
+SB002,Digitally ready service business,strong digital systems with moderate capital and community embeddedness,89,background local volatility,0.09917,0.67768,0.0,1.0,0.99616,0.9676,0.00251,0.8706,0.00185
+SB002,Digitally ready service business,strong digital systems with moderate capital and community embeddedness,90,background local volatility,0.09965,0.68498,0.0,1.0,1.0,1.0,0.0,0.8708,0.0
+SB002,Digitally ready service business,strong digital systems with moderate capital and community embeddedness,91,background local volatility,0.09899,0.6856,0.0,1.0,1.0,1.0,0.0,0.8708,0.0
+SB002,Digitally ready service business,strong digital systems with moderate capital and community embeddedness,92,background local volatility,0.09844,0.6856,0.0,1.0,1.0,1.0,0.0,0.8708,0.0
+SB002,Digitally ready service business,strong digital systems with moderate capital and community embeddedness,93,background local volatility,0.09912,0.6856,0.0,1.0,1.0,1.0,0.0,0.8708,0.0
+SB002,Digitally ready service business,strong digital systems with moderate capital and community embeddedness,94,background local volatility,0.10058,0.6856,0.0,1.0,1.0,1.0,0.0,0.8708,0.0
+SB002,Digitally ready service business,strong digital systems with moderate capital and community embeddedness,95,background local volatility,0.09897,0.6856,0.0,1.0,1.0,1.0,0.0,0.8708,0.0
+SB003,Community-embedded food business,strong local relationships but thin cash and moderate supplier fragility,0,background local volatility,0.08486,0.5528,0.0,0.93345,0.4028,0.8616,0.55425,0.74197,0.34316
+SB003,Community-embedded food business,strong local relationships but thin cash and moderate supplier fragility,1,background local volatility,0.08613,0.55965,0.0,1.0,0.44554,0.9152,0.46531,0.80558,0.28712
+SB003,Community-embedded food business,strong local relationships but thin cash and moderate supplier fragility,2,background local volatility,0.08521,0.56649,0.0,1.0,0.48822,0.9688,0.37585,0.81273,0.25429
+SB003,Community-embedded food business,strong local relationships but thin cash and moderate supplier fragility,3,background local volatility,0.08666,0.57332,0.0,1.0,0.53084,1.0,0.28665,0.81987,0.22154
+SB003,Community-embedded food business,strong local relationships but thin cash and moderate supplier fragility,4,background local volatility,0.08656,0.58013,0.0,1.0,0.5734,1.0,0.19743,0.82701,0.1888
+SB003,Community-embedded food business,strong local relationships but thin cash and moderate supplier fragility,5,background local volatility,0.08617,0.58694,0.0,1.0,0.6159,1.0,0.10814,0.83415,0.15606
+SB003,Community-embedded food business,strong local relationships but thin cash and moderate supplier fragility,6,background local volatility,0.08688,0.59374,0.0,1.0,0.65834,1.0,0.01898,0.84128,0.12338
+SB003,Community-embedded food business,strong local relationships but thin cash and moderate supplier fragility,7,background local volatility,0.08691,0.60053,0.0,1.0,0.70072,1.0,0.0,0.8428,0.10475
+SB003,Community-embedded food business,strong local relationships but thin cash and moderate supplier fragility,8,Demand shock,0.5336,0.60732,0.0,1.0,0.69716,0.932,0.0,0.8168,0.10599
+SB003,Community-embedded food business,strong local relationships but thin cash and moderate supplier fragility,9,background local volatility,0.08595,0.60675,0.0,1.0,0.73942,0.9856,0.0,0.8428,0.0912
+SB003,Community-embedded food business,strong local relationships but thin cash and moderate supplier fragility,10,background local volatility,0.08727,0.61351,0.0,1.0,0.78162,1.0,0.0,0.8428,0.07643
+SB003,Community-embedded food business,strong local relationships but thin cash and moderate supplier fragility,11,background local volatility,0.08764,0.62026,0.0,1.0,0.82376,1.0,0.0,0.8428,0.06168
+SB003,Community-embedded food business,strong local relationships but thin cash and moderate supplier fragility,12,background local volatility,0.08755,0.627,0.0,1.0,0.86584,1.0,0.0,0.8428,0.04695
+SB003,Community-embedded food business,strong local relationships but thin cash and moderate supplier fragility,13,background local volatility,0.08856,0.63373,0.0,1.0,0.90786,1.0,0.0,0.8428,0.03225
+SB003,Community-embedded food business,strong local relationships but thin cash and moderate supplier fragility,14,background local volatility,0.08836,0.64046,0.0,1.0,0.94982,1.0,0.0,0.8428,0.01756
+SB003,Community-embedded food business,strong local relationships but thin cash and moderate supplier fragility,15,background local volatility,0.08766,0.64717,0.0,1.0,0.99172,1.0,0.0,0.8428,0.0029
+SB003,Community-embedded food business,strong local relationships but thin cash and moderate supplier fragility,16,background local volatility,0.08744,0.65388,0.0,1.0,1.0,1.0,0.0,0.8428,0.0
+SB003,Community-embedded food business,strong local relationships but thin cash and moderate supplier fragility,17,background local volatility,0.08736,0.6552,0.0,1.0,1.0,1.0,0.0,0.8428,0.0
+SB003,Community-embedded food business,strong local relationships but thin cash and moderate supplier fragility,18,background local volatility,0.08914,0.6552,0.0,1.0,1.0,1.0,0.0,0.8428,0.0
+SB003,Community-embedded food business,strong local relationships but thin cash and moderate supplier fragility,19,background local volatility,0.08901,0.6552,0.0,1.0,1.0,1.0,0.0,0.8428,0.0
+SB003,Community-embedded food business,strong local relationships but thin cash and moderate supplier fragility,20,Supplier delay and price increase,0.566,0.6552,0.0,1.0,0.99237,0.996,0.0,0.8178,0.00267
+SB003,Community-embedded food business,strong local relationships but thin cash and moderate supplier fragility,21,background local volatility,0.08911,0.65398,0.0,1.0,1.0,1.0,0.0,0.8428,0.0
+SB003,Community-embedded food business,strong local relationships but thin cash and moderate supplier fragility,22,background local volatility,0.08886,0.6552,0.0,1.0,1.0,1.0,0.0,0.8428,0.0
+SB003,Community-embedded food business,strong local relationships but thin cash and moderate supplier fragility,23,background local volatility,0.08915,0.6552,0.0,1.0,1.0,1.0,0.0,0.8428,0.0
+SB003,Community-embedded food business,strong local relationships but thin cash and moderate supplier fragility,24,background local volatility,0.08863,0.6552,0.0,1.0,1.0,1.0,0.0,0.8428,0.0
+SB003,Community-embedded food business,strong local relationships but thin cash and moderate supplier fragility,25,background local volatility,0.08952,0.6552,0.0,1.0,1.0,1.0,0.0,0.8428,0.0
+SB003,Community-embedded food business,strong local relationships but thin cash and moderate supplier fragility,26,background local volatility,0.08875,0.6552,0.0,1.0,1.0,1.0,0.0,0.8428,0.0
+SB003,Community-embedded food business,strong local relationships but thin cash and moderate supplier fragility,27,background local volatility,0.09004,0.6552,0.0,1.0,1.0,1.0,0.0,0.8428,0.0
+SB003,Community-embedded food business,strong local relationships but thin cash and moderate supplier fragility,28,background local volatility,0.09021,0.6552,0.0,1.0,1.0,1.0,0.0,0.8428,0.0
+SB003,Community-embedded food business,strong local relationships but thin cash and moderate supplier fragility,29,background local volatility,0.09046,0.6552,0.0,1.0,1.0,1.0,0.0,0.8428,0.0
+SB003,Community-embedded food business,strong local relationships but thin cash and moderate supplier fragility,30,background local volatility,0.08959,0.6552,0.0,1.0,1.0,1.0,0.0,0.8428,0.0
+SB003,Community-embedded food business,strong local relationships but thin cash and moderate supplier fragility,31,background local volatility,0.08937,0.6552,0.0,1.0,1.0,1.0,0.0,0.8428,0.0
+SB003,Community-embedded food business,strong local relationships but thin cash and moderate supplier fragility,32,background local volatility,0.0901,0.6552,0.0,1.0,1.0,1.0,0.0,0.8428,0.0
+SB003,Community-embedded food business,strong local relationships but thin cash and moderate supplier fragility,33,background local volatility,0.0911,0.6552,0.0,1.0,1.0,1.0,0.0,0.8428,0.0
+SB003,Community-embedded food business,strong local relationships but thin cash and moderate supplier fragility,34,background local volatility,0.09082,0.6552,0.0,1.0,1.0,1.0,0.0,0.8428,0.0
+SB003,Community-embedded food business,strong local relationships but thin cash and moderate supplier fragility,35,Digital payment and platform disruption,0.5152,0.6552,0.0,1.0,1.0,0.9992,0.0,0.8198,0.0
+SB003,Community-embedded food business,strong local relationships but thin cash and moderate supplier fragility,36,background local volatility,0.09169,0.6552,0.0,1.0,1.0,1.0,0.0,0.8428,0.0
+SB003,Community-embedded food business,strong local relationships but thin cash and moderate supplier fragility,37,background local volatility,0.09108,0.6552,0.0,1.0,1.0,1.0,0.0,0.8428,0.0
+SB003,Community-embedded food business,strong local relationships but thin cash and moderate supplier fragility,38,background local volatility,0.09116,0.6552,0.0,1.0,1.0,1.0,0.0,0.8428,0.0
+SB003,Community-embedded food business,strong local relationships but thin cash and moderate supplier fragility,39,background local volatility,0.09253,0.6552,0.0,1.0,1.0,1.0,0.0,0.8428,0.0
+SB003,Community-embedded food business,strong local relationships but thin cash and moderate supplier fragility,40,background local volatility,0.0909,0.6552,0.0,1.0,1.0,1.0,0.0,0.8428,0.0
+SB003,Community-embedded food business,strong local relationships but thin cash and moderate supplier fragility,41,background local volatility,0.09115,0.6552,0.0,1.0,1.0,1.0,0.0,0.8428,0.0
+SB003,Community-embedded food business,strong local relationships but thin cash and moderate supplier fragility,42,background local volatility,0.09221,0.6552,0.0,1.0,1.0,1.0,0.0,0.8428,0.0
+SB003,Community-embedded food business,strong local relationships but thin cash and moderate supplier fragility,43,background local volatility,0.09247,0.6552,0.0,1.0,1.0,1.0,0.0,0.8428,0.0
+SB003,Community-embedded food business,strong local relationships but thin cash and moderate supplier fragility,44,background local volatility,0.09214,0.6552,0.0,1.0,1.0,1.0,0.0,0.8428,0.0
+SB003,Community-embedded food business,strong local relationships but thin cash and moderate supplier fragility,45,background local volatility,0.09259,0.6552,0.0,1.0,1.0,1.0,0.0,0.8428,0.0
+SB003,Community-embedded food business,strong local relationships but thin cash and moderate supplier fragility,46,background local volatility,0.09246,0.6552,0.0,1.0,1.0,1.0,0.0,0.8428,0.0
+SB003,Community-embedded food business,strong local relationships but thin cash and moderate supplier fragility,47,background local volatility,0.09315,0.6552,0.0,1.0,1.0,1.0,0.0,0.8428,0.0
+SB003,Community-embedded food business,strong local relationships but thin cash and moderate supplier fragility,48,background local volatility,0.09383,0.6552,0.0,1.0,1.0,1.0,0.0,0.8428,0.0
+SB003,Community-embedded food business,strong local relationships but thin cash and moderate supplier fragility,49,background local volatility,0.09383,0.6552,0.0,1.0,1.0,1.0,0.0,0.8428,0.0
+SB003,Community-embedded food business,strong local relationships but thin cash and moderate supplier fragility,50,Extreme weather closure,0.7158,0.6552,0.0606,1.0,0.96337,0.948,0.03313,0.80715,0.02551
+SB003,Community-embedded food business,strong local relationships but thin cash and moderate supplier fragility,51,background local volatility,0.09368,0.64934,0.0,1.0,1.0,1.0,0.0,0.8428,0.0
+SB003,Community-embedded food business,strong local relationships but thin cash and moderate supplier fragility,52,background local volatility,0.09343,0.6552,0.0,1.0,1.0,1.0,0.0,0.8428,0.0
+SB003,Community-embedded food business,strong local relationships but thin cash and moderate supplier fragility,53,background local volatility,0.09472,0.6552,0.0,1.0,1.0,1.0,0.0,0.8428,0.0
+SB003,Community-embedded food business,strong local relationships but thin cash and moderate supplier fragility,54,background local volatility,0.09367,0.6552,0.0,1.0,1.0,1.0,0.0,0.8428,0.0
+SB003,Community-embedded food business,strong local relationships but thin cash and moderate supplier fragility,55,background local volatility,0.09425,0.6552,0.0,1.0,1.0,1.0,0.0,0.8428,0.0
+SB003,Community-embedded food business,strong local relationships but thin cash and moderate supplier fragility,56,background local volatility,0.09498,0.6552,0.0,1.0,1.0,1.0,0.0,0.8428,0.0
+SB003,Community-embedded food business,strong local relationships but thin cash and moderate supplier fragility,57,background local volatility,0.09469,0.6552,0.0,1.0,1.0,1.0,0.0,0.8428,0.0
+SB003,Community-embedded food business,strong local relationships but thin cash and moderate supplier fragility,58,background local volatility,0.09414,0.6552,0.0,1.0,1.0,1.0,0.0,0.8428,0.0
+SB003,Community-embedded food business,strong local relationships but thin cash and moderate supplier fragility,59,background local volatility,0.09513,0.6552,0.0,1.0,1.0,1.0,0.0,0.8428,0.0
+SB003,Community-embedded food business,strong local relationships but thin cash and moderate supplier fragility,60,background local volatility,0.09494,0.6552,0.0,1.0,1.0,1.0,0.0,0.8428,0.0
+SB003,Community-embedded food business,strong local relationships but thin cash and moderate supplier fragility,61,background local volatility,0.09585,0.6552,0.0,1.0,1.0,1.0,0.0,0.8428,0.0
+SB003,Community-embedded food business,strong local relationships but thin cash and moderate supplier fragility,62,background local volatility,0.0953,0.6552,0.0,1.0,1.0,1.0,0.0,0.8428,0.0
+SB003,Community-embedded food business,strong local relationships but thin cash and moderate supplier fragility,63,background local volatility,0.09523,0.6552,0.0,1.0,1.0,1.0,0.0,0.8428,0.0
+SB003,Community-embedded food business,strong local relationships but thin cash and moderate supplier fragility,64,background local volatility,0.09644,0.6552,0.0,1.0,1.0,1.0,0.0,0.8428,0.0
+SB003,Community-embedded food business,strong local relationships but thin cash and moderate supplier fragility,65,background local volatility,0.09552,0.6552,0.0,1.0,1.0,1.0,0.0,0.8428,0.0
+SB003,Community-embedded food business,strong local relationships but thin cash and moderate supplier fragility,66,Rent and debt pressure,0.6216,0.6552,0.0,1.0,0.96459,0.9704,0.00709,0.80723,0.01381
+SB003,Community-embedded food business,strong local relationships but thin cash and moderate supplier fragility,67,background local volatility,0.09551,0.64953,0.0,1.0,1.0,1.0,0.0,0.8428,0.0
+SB003,Community-embedded food business,strong local relationships but thin cash and moderate supplier fragility,68,background local volatility,0.09695,0.6552,0.0,1.0,1.0,1.0,0.0,0.8428,0.0
+SB003,Community-embedded food business,strong local relationships but thin cash and moderate supplier fragility,69,background local volatility,0.09712,0.6552,0.0,1.0,1.0,1.0,0.0,0.8428,0.0
+SB003,Community-embedded food business,strong local relationships but thin cash and moderate supplier fragility,70,background local volatility,0.09541,0.6552,0.0,1.0,1.0,1.0,0.0,0.8428,0.0
+SB003,Community-embedded food business,strong local relationships but thin cash and moderate supplier fragility,71,background local volatility,0.09532,0.6552,0.0,1.0,1.0,1.0,0.0,0.8428,0.0
+SB003,Community-embedded food business,strong local relationships but thin cash and moderate supplier fragility,72,background local volatility,0.09736,0.6552,0.0,1.0,1.0,1.0,0.0,0.8428,0.0
+SB003,Community-embedded food business,strong local relationships but thin cash and moderate supplier fragility,73,background local volatility,0.09757,0.6552,0.0,1.0,1.0,1.0,0.0,0.8428,0.0
+SB003,Community-embedded food business,strong local relationships but thin cash and moderate supplier fragility,74,background local volatility,0.09652,0.6552,0.0,1.0,1.0,1.0,0.0,0.8428,0.0
+SB003,Community-embedded food business,strong local relationships but thin cash and moderate supplier fragility,75,background local volatility,0.09636,0.6552,0.0,1.0,1.0,1.0,0.0,0.8428,0.0
+SB003,Community-embedded food business,strong local relationships but thin cash and moderate supplier fragility,76,background local volatility,0.09754,0.6552,0.0,1.0,1.0,1.0,0.0,0.8428,0.0
+SB003,Community-embedded food business,strong local relationships but thin cash and moderate supplier fragility,77,background local volatility,0.09831,0.6552,0.0,1.0,1.0,1.0,0.0,0.8428,0.0
+SB003,Community-embedded food business,strong local relationships but thin cash and moderate supplier fragility,78,Insurance claim delay and undercoverage,0.6202,0.6552,0.0,1.0,0.96265,0.98,0.00684,0.80625,0.01444
+SB003,Community-embedded food business,strong local relationships but thin cash and moderate supplier fragility,79,background local volatility,0.09686,0.64922,0.0,1.0,1.0,1.0,0.0,0.8428,0.0
+SB003,Community-embedded food business,strong local relationships but thin cash and moderate supplier fragility,80,background local volatility,0.09757,0.6552,0.0,1.0,1.0,1.0,0.0,0.8428,0.0
+SB003,Community-embedded food business,strong local relationships but thin cash and moderate supplier fragility,81,background local volatility,0.09824,0.6552,0.0,1.0,1.0,1.0,0.0,0.8428,0.0
+SB003,Community-embedded food business,strong local relationships but thin cash and moderate supplier fragility,82,background local volatility,0.09733,0.6552,0.0,1.0,1.0,1.0,0.0,0.8428,0.0
+SB003,Community-embedded food business,strong local relationships but thin cash and moderate supplier fragility,83,background local volatility,0.09795,0.6552,0.0,1.0,1.0,1.0,0.0,0.8428,0.0
+SB003,Community-embedded food business,strong local relationships but thin cash and moderate supplier fragility,84,background local volatility,0.09744,0.6552,0.0,1.0,1.0,1.0,0.0,0.8428,0.0
+SB003,Community-embedded food business,strong local relationships but thin cash and moderate supplier fragility,85,background local volatility,0.0984,0.6552,0.0,1.0,1.0,1.0,0.0,0.8428,0.0
+SB003,Community-embedded food business,strong local relationships but thin cash and moderate supplier fragility,86,background local volatility,0.09795,0.6552,0.0,1.0,1.0,1.0,0.0,0.8428,0.0
+SB003,Community-embedded food business,strong local relationships but thin cash and moderate supplier fragility,87,background local volatility,0.09774,0.6552,0.0,1.0,1.0,1.0,0.0,0.8428,0.0
+SB003,Community-embedded food business,strong local relationships but thin cash and moderate supplier fragility,88,Compound local economic stress,0.8494,0.6552,0.1942,1.0,0.94237,0.932,0.07722,0.79662,0.05504
+SB003,Community-embedded food business,strong local relationships but thin cash and moderate supplier fragility,89,background local volatility,0.09878,0.64598,0.0,1.0,0.97983,0.9856,0.0,0.8428,0.00706
+SB003,Community-embedded food business,strong local relationships but thin cash and moderate supplier fragility,90,background local volatility,0.09836,0.65197,0.0,1.0,1.0,1.0,0.0,0.8428,0.0
+SB003,Community-embedded food business,strong local relationships but thin cash and moderate supplier fragility,91,background local volatility,0.09844,0.6552,0.0,1.0,1.0,1.0,0.0,0.8428,0.0
+SB003,Community-embedded food business,strong local relationships but thin cash and moderate supplier fragility,92,background local volatility,0.09866,0.6552,0.0,1.0,1.0,1.0,0.0,0.8428,0.0
+SB003,Community-embedded food business,strong local relationships but thin cash and moderate supplier fragility,93,background local volatility,0.09945,0.6552,0.0,1.0,1.0,1.0,0.0,0.8428,0.0
+SB003,Community-embedded food business,strong local relationships but thin cash and moderate supplier fragility,94,background local volatility,0.09936,0.6552,0.0,1.0,1.0,1.0,0.0,0.8428,0.0
+SB003,Community-embedded food business,strong local relationships but thin cash and moderate supplier fragility,95,background local volatility,0.1005,0.6552,0.0,1.0,1.0,1.0,0.0,0.8428,0.0
+SB004,Local manufacturer with supplier exposure,moderate function and cash with high supplier concentration exposure,0,background local volatility,0.08685,0.5124,0.0,0.96667,0.4866,0.8084,0.50403,0.79043,0.29216
+SB004,Local manufacturer with supplier exposure,moderate function and cash with high supplier concentration exposure,1,background local volatility,0.08575,0.51986,0.0,1.0,0.53314,0.8428,0.42787,0.82537,0.24897
+SB004,Local manufacturer with supplier exposure,moderate function and cash with high supplier concentration exposure,2,background local volatility,0.08653,0.5273,0.0,1.0,0.57962,0.8772,0.35184,0.83145,0.2175
+SB004,Local manufacturer with supplier exposure,moderate function and cash with high supplier concentration exposure,3,background local volatility,0.08671,0.53474,0.0,1.0,0.62604,0.9116,0.27585,0.83753,0.18606
+SB004,Local manufacturer with supplier exposure,moderate function and cash with high supplier concentration exposure,4,background local volatility,0.08562,0.54217,0.0,1.0,0.6724,0.946,0.19966,0.84363,0.15459
+SB004,Local manufacturer with supplier exposure,moderate function and cash with high supplier concentration exposure,5,background local volatility,0.08544,0.54958,0.0,1.0,0.7187,0.9804,0.12344,0.84972,0.12314
+SB004,Local manufacturer with supplier exposure,moderate function and cash with high supplier concentration exposure,6,background local volatility,0.08685,0.55699,0.0,1.0,0.76494,1.0,0.04747,0.8558,0.09177
+SB004,Local manufacturer with supplier exposure,moderate function and cash with high supplier concentration exposure,7,background local volatility,0.08584,0.56439,0.0,1.0,0.81112,1.0,0.0,0.8596,0.06611
+SB004,Local manufacturer with supplier exposure,moderate function and cash with high supplier concentration exposure,8,Demand shock,0.5336,0.57178,0.0,1.0,0.80789,0.9128,0.00445,0.83324,0.06813
+SB004,Local manufacturer with supplier exposure,moderate function and cash with high supplier concentration exposure,9,background local volatility,0.08677,0.57126,0.0,1.0,0.85395,0.9472,0.0,0.8596,0.05112
+SB004,Local manufacturer with supplier exposure,moderate function and cash with high supplier concentration exposure,10,background local volatility,0.08814,0.57863,0.0,1.0,0.89995,0.9816,0.0,0.8596,0.03502
+SB004,Local manufacturer with supplier exposure,moderate function and cash with high supplier concentration exposure,11,background local volatility,0.08824,0.58599,0.0,1.0,0.94589,1.0,0.0,0.8596,0.01894
+SB004,Local manufacturer with supplier exposure,moderate function and cash with high supplier concentration exposure,12,background local volatility,0.08658,0.59334,0.0,1.0,0.99177,1.0,0.0,0.8596,0.00288
+SB004,Local manufacturer with supplier exposure,moderate function and cash with high supplier concentration exposure,13,background local volatility,0.08665,0.60068,0.0,1.0,1.0,1.0,0.0,0.8596,0.0
+SB004,Local manufacturer with supplier exposure,moderate function and cash with high supplier concentration exposure,14,background local volatility,0.08713,0.602,0.0,1.0,1.0,1.0,0.0,0.8596,0.0
+SB004,Local manufacturer with supplier exposure,moderate function and cash with high supplier concentration exposure,15,background local volatility,0.08874,0.602,0.0,1.0,1.0,1.0,0.0,0.8596,0.0
+SB004,Local manufacturer with supplier exposure,moderate function and cash with high supplier concentration exposure,16,background local volatility,0.08696,0.602,0.0,1.0,1.0,1.0,0.0,0.8596,0.0
+SB004,Local manufacturer with supplier exposure,moderate function and cash with high supplier concentration exposure,17,background local volatility,0.08759,0.602,0.0,1.0,1.0,1.0,0.0,0.8596,0.0
+SB004,Local manufacturer with supplier exposure,moderate function and cash with high supplier concentration exposure,18,background local volatility,0.08746,0.602,0.0,1.0,1.0,1.0,0.0,0.8596,0.0
+SB004,Local manufacturer with supplier exposure,moderate function and cash with high supplier concentration exposure,19,background local volatility,0.08766,0.602,0.0,1.0,1.0,1.0,0.0,0.8596,0.0
+SB004,Local manufacturer with supplier exposure,moderate function and cash with high supplier concentration exposure,20,Supplier delay and price increase,0.566,0.602,0.0,1.0,0.9927,0.9768,0.01028,0.83378,0.00461
+SB004,Local manufacturer with supplier exposure,moderate function and cash with high supplier concentration exposure,21,background local volatility,0.08891,0.60083,0.0,1.0,1.0,1.0,0.0,0.8596,0.0
+SB004,Local manufacturer with supplier exposure,moderate function and cash with high supplier concentration exposure,22,background local volatility,0.08824,0.602,0.0,1.0,1.0,1.0,0.0,0.8596,0.0
+SB004,Local manufacturer with supplier exposure,moderate function and cash with high supplier concentration exposure,23,background local volatility,0.08893,0.602,0.0,1.0,1.0,1.0,0.0,0.8596,0.0
+SB004,Local manufacturer with supplier exposure,moderate function and cash with high supplier concentration exposure,24,background local volatility,0.08986,0.602,0.0,1.0,1.0,1.0,0.0,0.8596,0.0
+SB004,Local manufacturer with supplier exposure,moderate function and cash with high supplier concentration exposure,25,background local volatility,0.08999,0.602,0.0,1.0,1.0,1.0,0.0,0.8596,0.0
+SB004,Local manufacturer with supplier exposure,moderate function and cash with high supplier concentration exposure,26,background local volatility,0.0894,0.602,0.0,1.0,1.0,1.0,0.0,0.8596,0.0
+SB004,Local manufacturer with supplier exposure,moderate function and cash with high supplier concentration exposure,27,background local volatility,0.09044,0.602,0.0,1.0,1.0,1.0,0.0,0.8596,0.0
+SB004,Local manufacturer with supplier exposure,moderate function and cash with high supplier concentration exposure,28,background local volatility,0.09007,0.602,0.0,1.0,1.0,1.0,0.0,0.8596,0.0
+SB004,Local manufacturer with supplier exposure,moderate function and cash with high supplier concentration exposure,29,background local volatility,0.09083,0.602,0.0,1.0,1.0,1.0,0.0,0.8596,0.0
+SB004,Local manufacturer with supplier exposure,moderate function and cash with high supplier concentration exposure,30,background local volatility,0.0896,0.602,0.0,1.0,1.0,1.0,0.0,0.8596,0.0
+SB004,Local manufacturer with supplier exposure,moderate function and cash with high supplier concentration exposure,31,background local volatility,0.09004,0.602,0.0,1.0,1.0,1.0,0.0,0.8596,0.0
+SB004,Local manufacturer with supplier exposure,moderate function and cash with high supplier concentration exposure,32,background local volatility,0.09069,0.602,0.0,1.0,1.0,1.0,0.0,0.8596,0.0
+SB004,Local manufacturer with supplier exposure,moderate function and cash with high supplier concentration exposure,33,background local volatility,0.09172,0.602,0.0,1.0,1.0,1.0,0.0,0.8596,0.0
+SB004,Local manufacturer with supplier exposure,moderate function and cash with high supplier concentration exposure,34,background local volatility,0.09108,0.602,0.0,1.0,1.0,1.0,0.0,0.8596,0.0
+SB004,Local manufacturer with supplier exposure,moderate function and cash with high supplier concentration exposure,35,Digital payment and platform disruption,0.5152,0.602,0.0,1.0,1.0,0.98,0.00114,0.83651,0.00023
+SB004,Local manufacturer with supplier exposure,moderate function and cash with high supplier concentration exposure,36,background local volatility,0.09104,0.602,0.0,1.0,1.0,1.0,0.0,0.8596,0.0
+SB004,Local manufacturer with supplier exposure,moderate function and cash with high supplier concentration exposure,37,background local volatility,0.09065,0.602,0.0,1.0,1.0,1.0,0.0,0.8596,0.0
+SB004,Local manufacturer with supplier exposure,moderate function and cash with high supplier concentration exposure,38,background local volatility,0.09088,0.602,0.0,1.0,1.0,1.0,0.0,0.8596,0.0
+SB004,Local manufacturer with supplier exposure,moderate function and cash with high supplier concentration exposure,39,background local volatility,0.09087,0.602,0.0,1.0,1.0,1.0,0.0,0.8596,0.0
+SB004,Local manufacturer with supplier exposure,moderate function and cash with high supplier concentration exposure,40,background local volatility,0.09287,0.602,0.0,1.0,1.0,1.0,0.0,0.8596,0.0
+SB004,Local manufacturer with supplier exposure,moderate function and cash with high supplier concentration exposure,41,background local volatility,0.09278,0.602,0.0,1.0,1.0,1.0,0.0,0.8596,0.0
+SB004,Local manufacturer with supplier exposure,moderate function and cash with high supplier concentration exposure,42,background local volatility,0.09295,0.602,0.0,1.0,1.0,1.0,0.0,0.8596,0.0
+SB004,Local manufacturer with supplier exposure,moderate function and cash with high supplier concentration exposure,43,background local volatility,0.09222,0.602,0.0,1.0,1.0,1.0,0.0,0.8596,0.0
+SB004,Local manufacturer with supplier exposure,moderate function and cash with high supplier concentration exposure,44,background local volatility,0.0928,0.602,0.0,1.0,1.0,1.0,0.0,0.8596,0.0
+SB004,Local manufacturer with supplier exposure,moderate function and cash with high supplier concentration exposure,45,background local volatility,0.09196,0.602,0.0,1.0,1.0,1.0,0.0,0.8596,0.0
+SB004,Local manufacturer with supplier exposure,moderate function and cash with high supplier concentration exposure,46,background local volatility,0.09256,0.602,0.0,1.0,1.0,1.0,0.0,0.8596,0.0
+SB004,Local manufacturer with supplier exposure,moderate function and cash with high supplier concentration exposure,47,background local volatility,0.0919,0.602,0.0,1.0,1.0,1.0,0.0,0.8596,0.0
+SB004,Local manufacturer with supplier exposure,moderate function and cash with high supplier concentration exposure,48,background local volatility,0.09271,0.602,0.0,1.0,1.0,1.0,0.0,0.8596,0.0
+SB004,Local manufacturer with supplier exposure,moderate function and cash with high supplier concentration exposure,49,background local volatility,0.09246,0.602,0.0,1.0,1.0,1.0,0.0,0.8596,0.0
+SB004,Local manufacturer with supplier exposure,moderate function and cash with high supplier concentration exposure,50,Extreme weather closure,0.7158,0.602,0.1138,1.0,0.96236,0.9288,0.05431,0.82225,0.03542
+SB004,Local manufacturer with supplier exposure,moderate function and cash with high supplier concentration exposure,51,background local volatility,0.09239,0.59598,0.0,1.0,1.0,0.9632,0.0,0.8596,0.0
+SB004,Local manufacturer with supplier exposure,moderate function and cash with high supplier concentration exposure,52,background local volatility,0.09451,0.602,0.0,1.0,1.0,0.9976,0.0,0.8596,0.0
+SB004,Local manufacturer with supplier exposure,moderate function and cash with high supplier concentration exposure,53,background local volatility,0.09268,0.602,0.0,1.0,1.0,1.0,0.0,0.8596,0.0
+SB004,Local manufacturer with supplier exposure,moderate function and cash with high supplier concentration exposure,54,background local volatility,0.09455,0.602,0.0,1.0,1.0,1.0,0.0,0.8596,0.0
+SB004,Local manufacturer with supplier exposure,moderate function and cash with high supplier concentration exposure,55,background local volatility,0.09443,0.602,0.0,1.0,1.0,1.0,0.0,0.8596,0.0
+SB004,Local manufacturer with supplier exposure,moderate function and cash with high supplier concentration exposure,56,background local volatility,0.09312,0.602,0.0,1.0,1.0,1.0,0.0,0.8596,0.0
+SB004,Local manufacturer with supplier exposure,moderate function and cash with high supplier concentration exposure,57,background local volatility,0.09421,0.602,0.0,1.0,1.0,1.0,0.0,0.8596,0.0
+SB004,Local manufacturer with supplier exposure,moderate function and cash with high supplier concentration exposure,58,background local volatility,0.09559,0.602,0.0,1.0,1.0,1.0,0.0,0.8596,0.0
+SB004,Local manufacturer with supplier exposure,moderate function and cash with high supplier concentration exposure,59,background local volatility,0.09572,0.602,0.0,1.0,1.0,1.0,0.0,0.8596,0.0
+SB004,Local manufacturer with supplier exposure,moderate function and cash with high supplier concentration exposure,60,background local volatility,0.09485,0.602,0.0,1.0,1.0,1.0,0.0,0.8596,0.0
+SB004,Local manufacturer with supplier exposure,moderate function and cash with high supplier concentration exposure,61,background local volatility,0.0955,0.602,0.0,1.0,1.0,1.0,0.0,0.8596,0.0
+SB004,Local manufacturer with supplier exposure,moderate function and cash with high supplier concentration exposure,62,background local volatility,0.0955,0.602,0.0,1.0,1.0,1.0,0.0,0.8596,0.0
+SB004,Local manufacturer with supplier exposure,moderate function and cash with high supplier concentration exposure,63,background local volatility,0.09465,0.602,0.0,1.0,1.0,1.0,0.0,0.8596,0.0
+SB004,Local manufacturer with supplier exposure,moderate function and cash with high supplier concentration exposure,64,background local volatility,0.09542,0.602,0.0,1.0,1.0,1.0,0.0,0.8596,0.0
+SB004,Local manufacturer with supplier exposure,moderate function and cash with high supplier concentration exposure,65,background local volatility,0.09568,0.602,0.0,1.0,1.0,1.0,0.0,0.8596,0.0
+SB004,Local manufacturer with supplier exposure,moderate function and cash with high supplier concentration exposure,66,Rent and debt pressure,0.6216,0.602,0.0196,1.0,0.96443,0.9512,0.02323,0.82274,0.01906
+SB004,Local manufacturer with supplier exposure,moderate function and cash with high supplier concentration exposure,67,background local volatility,0.0955,0.59631,0.0,1.0,1.0,0.9856,0.0,0.8596,0.0
+SB004,Local manufacturer with supplier exposure,moderate function and cash with high supplier concentration exposure,68,background local volatility,0.09667,0.602,0.0,1.0,1.0,1.0,0.0,0.8596,0.0
+SB004,Local manufacturer with supplier exposure,moderate function and cash with high supplier concentration exposure,69,background local volatility,0.09592,0.602,0.0,1.0,1.0,1.0,0.0,0.8596,0.0
+SB004,Local manufacturer with supplier exposure,moderate function and cash with high supplier concentration exposure,70,background local volatility,0.0968,0.602,0.0,1.0,1.0,1.0,0.0,0.8596,0.0
+SB004,Local manufacturer with supplier exposure,moderate function and cash with high supplier concentration exposure,71,background local volatility,0.09531,0.602,0.0,1.0,1.0,1.0,0.0,0.8596,0.0
+SB004,Local manufacturer with supplier exposure,moderate function and cash with high supplier concentration exposure,72,background local volatility,0.09637,0.602,0.0,1.0,1.0,1.0,0.0,0.8596,0.0
+SB004,Local manufacturer with supplier exposure,moderate function and cash with high supplier concentration exposure,73,background local volatility,0.09556,0.602,0.0,1.0,1.0,1.0,0.0,0.8596,0.0
+SB004,Local manufacturer with supplier exposure,moderate function and cash with high supplier concentration exposure,74,background local volatility,0.09715,0.602,0.0,1.0,1.0,1.0,0.0,0.8596,0.0
+SB004,Local manufacturer with supplier exposure,moderate function and cash with high supplier concentration exposure,75,background local volatility,0.09784,0.602,0.0,1.0,1.0,1.0,0.0,0.8596,0.0
+SB004,Local manufacturer with supplier exposure,moderate function and cash with high supplier concentration exposure,76,background local volatility,0.0972,0.602,0.0,1.0,1.0,1.0,0.0,0.8596,0.0
+SB004,Local manufacturer with supplier exposure,moderate function and cash with high supplier concentration exposure,77,background local volatility,0.09741,0.602,0.0,1.0,1.0,1.0,0.0,0.8596,0.0
+SB004,Local manufacturer with supplier exposure,moderate function and cash with high supplier concentration exposure,78,Insurance claim delay and undercoverage,0.6202,0.602,0.0182,1.0,0.96252,0.9608,0.02277,0.82178,0.01949
+SB004,Local manufacturer with supplier exposure,moderate function and cash with high supplier concentration exposure,79,background local volatility,0.09784,0.596,0.0,1.0,1.0,0.9952,0.0,0.8596,0.0
+SB004,Local manufacturer with supplier exposure,moderate function and cash with high supplier concentration exposure,80,background local volatility,0.09705,0.602,0.0,1.0,1.0,1.0,0.0,0.8596,0.0
+SB004,Local manufacturer with supplier exposure,moderate function and cash with high supplier concentration exposure,81,background local volatility,0.09758,0.602,0.0,1.0,1.0,1.0,0.0,0.8596,0.0
+SB004,Local manufacturer with supplier exposure,moderate function and cash with high supplier concentration exposure,82,background local volatility,0.09819,0.602,0.0,1.0,1.0,1.0,0.0,0.8596,0.0
+SB004,Local manufacturer with supplier exposure,moderate function and cash with high supplier concentration exposure,83,background local volatility,0.0985,0.602,0.0,1.0,1.0,1.0,0.0,0.8596,0.0
+SB004,Local manufacturer with supplier exposure,moderate function and cash with high supplier concentration exposure,84,background local volatility,0.09801,0.602,0.0,1.0,1.0,1.0,0.0,0.8596,0.0
+SB004,Local manufacturer with supplier exposure,moderate function and cash with high supplier concentration exposure,85,background local volatility,0.0984,0.602,0.0,1.0,1.0,1.0,0.0,0.8596,0.0
+SB004,Local manufacturer with supplier exposure,moderate function and cash with high supplier concentration exposure,86,background local volatility,0.09819,0.602,0.0,1.0,1.0,1.0,0.0,0.8596,0.0
+SB004,Local manufacturer with supplier exposure,moderate function and cash with high supplier concentration exposure,87,background local volatility,0.09888,0.602,0.0,1.0,1.0,1.0,0.0,0.8596,0.0
+SB004,Local manufacturer with supplier exposure,moderate function and cash with high supplier concentration exposure,88,Compound local economic stress,0.8494,0.602,0.2474,0.98719,0.94136,0.9128,0.0984,0.80064,0.06943
+SB004,Local manufacturer with supplier exposure,moderate function and cash with high supplier concentration exposure,89,background local volatility,0.09947,0.59262,0.0,1.0,0.98262,0.9472,0.02471,0.85762,0.01103
+SB004,Local manufacturer with supplier exposure,moderate function and cash with high supplier concentration exposure,90,background local volatility,0.09879,0.59922,0.0,1.0,1.0,0.9816,0.0,0.8596,0.0
+SB004,Local manufacturer with supplier exposure,moderate function and cash with high supplier concentration exposure,91,background local volatility,0.09979,0.602,0.0,1.0,1.0,1.0,0.0,0.8596,0.0
+SB004,Local manufacturer with supplier exposure,moderate function and cash with high supplier concentration exposure,92,background local volatility,0.10034,0.602,0.0,1.0,1.0,1.0,0.0,0.8596,0.0
+SB004,Local manufacturer with supplier exposure,moderate function and cash with high supplier concentration exposure,93,background local volatility,0.09974,0.602,0.0,1.0,1.0,1.0,0.0,0.8596,0.0
+SB004,Local manufacturer with supplier exposure,moderate function and cash with high supplier concentration exposure,94,background local volatility,0.10095,0.602,0.0,1.0,1.0,1.0,0.0,0.8596,0.0
+SB004,Local manufacturer with supplier exposure,moderate function and cash with high supplier concentration exposure,95,background local volatility,0.09949,0.602,0.0,1.0,1.0,1.0,0.0,0.8596,0.0
+SB005,Resilient diversified small firm,stronger liquidity workforce digital supplier support and equity access,0,background local volatility,0.0868,0.7632,0.0,1.0,0.793,0.8554,0.27102,0.90512,0.12665
+SB005,Resilient diversified small firm,stronger liquidity workforce digital supplier support and equity access,1,background local volatility,0.08674,0.77488,0.0,1.0,0.86594,0.9108,0.16204,0.91384,0.07933
+SB005,Resilient diversified small firm,stronger liquidity workforce digital supplier support and equity access,2,background local volatility,0.08656,0.78655,0.0,1.0,0.93882,0.9662,0.05302,0.92256,0.03202
+SB005,Resilient diversified small firm,stronger liquidity workforce digital supplier support and equity access,3,background local volatility,0.0855,0.79821,0.0,1.0,1.0,1.0,0.0,0.9268,0.0
+SB005,Resilient diversified small firm,stronger liquidity workforce digital supplier support and equity access,4,background local volatility,0.08589,0.808,0.0,1.0,1.0,1.0,0.0,0.9268,0.0
+SB005,Resilient diversified small firm,stronger liquidity workforce digital supplier support and equity access,5,background local volatility,0.08696,0.808,0.0,1.0,1.0,1.0,0.0,0.9268,0.0
+SB005,Resilient diversified small firm,stronger liquidity workforce digital supplier support and equity access,6,background local volatility,0.08734,0.808,0.0,1.0,1.0,1.0,0.0,0.9268,0.0
+SB005,Resilient diversified small firm,stronger liquidity workforce digital supplier support and equity access,7,background local volatility,0.08559,0.808,0.0,1.0,1.0,1.0,0.0,0.9268,0.0
+SB005,Resilient diversified small firm,stronger liquidity workforce digital supplier support and equity access,8,Demand shock,0.5336,0.808,0.0,1.0,1.0,0.9338,0.0,0.9008,0.0
+SB005,Resilient diversified small firm,stronger liquidity workforce digital supplier support and equity access,9,background local volatility,0.08625,0.808,0.0,1.0,1.0,0.9892,0.0,0.9268,0.0
+SB005,Resilient diversified small firm,stronger liquidity workforce digital supplier support and equity access,10,background local volatility,0.08815,0.808,0.0,1.0,1.0,1.0,0.0,0.9268,0.0
+SB005,Resilient diversified small firm,stronger liquidity workforce digital supplier support and equity access,11,background local volatility,0.08643,0.808,0.0,1.0,1.0,1.0,0.0,0.9268,0.0
+SB005,Resilient diversified small firm,stronger liquidity workforce digital supplier support and equity access,12,background local volatility,0.08787,0.808,0.0,1.0,1.0,1.0,0.0,0.9268,0.0
+SB005,Resilient diversified small firm,stronger liquidity workforce digital supplier support and equity access,13,background local volatility,0.08724,0.808,0.0,1.0,1.0,1.0,0.0,0.9268,0.0
+SB005,Resilient diversified small firm,stronger liquidity workforce digital supplier support and equity access,14,background local volatility,0.08815,0.808,0.0,1.0,1.0,1.0,0.0,0.9268,0.0
+SB005,Resilient diversified small firm,stronger liquidity workforce digital supplier support and equity access,15,background local volatility,0.08882,0.808,0.0,1.0,1.0,1.0,0.0,0.9268,0.0
+SB005,Resilient diversified small firm,stronger liquidity workforce digital supplier support and equity access,16,background local volatility,0.0883,0.808,0.0,1.0,1.0,1.0,0.0,0.9268,0.0
+SB005,Resilient diversified small firm,stronger liquidity workforce digital supplier support and equity access,17,background local volatility,0.08799,0.808,0.0,1.0,1.0,1.0,0.0,0.9268,0.0
+SB005,Resilient diversified small firm,stronger liquidity workforce digital supplier support and equity access,18,background local volatility,0.08797,0.808,0.0,1.0,1.0,1.0,0.0,0.9268,0.0
+SB005,Resilient diversified small firm,stronger liquidity workforce digital supplier support and equity access,19,background local volatility,0.08884,0.808,0.0,1.0,1.0,1.0,0.0,0.9268,0.0
+SB005,Resilient diversified small firm,stronger liquidity workforce digital supplier support and equity access,20,Supplier delay and price increase,0.566,0.808,0.0,1.0,1.0,0.9978,0.0,0.9018,0.0
+SB005,Resilient diversified small firm,stronger liquidity workforce digital supplier support and equity access,21,background local volatility,0.08916,0.808,0.0,1.0,1.0,1.0,0.0,0.9268,0.0
+SB005,Resilient diversified small firm,stronger liquidity workforce digital supplier support and equity access,22,background local volatility,0.08878,0.808,0.0,1.0,1.0,1.0,0.0,0.9268,0.0
+SB005,Resilient diversified small firm,stronger liquidity workforce digital supplier support and equity access,23,background local volatility,0.08907,0.808,0.0,1.0,1.0,1.0,0.0,0.9268,0.0
+SB005,Resilient diversified small firm,stronger liquidity workforce digital supplier support and equity access,24,background local volatility,0.08939,0.808,0.0,1.0,1.0,1.0,0.0,0.9268,0.0
+SB005,Resilient diversified small firm,stronger liquidity workforce digital supplier support and equity access,25,background local volatility,0.08887,0.808,0.0,1.0,1.0,1.0,0.0,0.9268,0.0
+SB005,Resilient diversified small firm,stronger liquidity workforce digital supplier support and equity access,26,background local volatility,0.08883,0.808,0.0,1.0,1.0,1.0,0.0,0.9268,0.0
+SB005,Resilient diversified small firm,stronger liquidity workforce digital supplier support and equity access,27,background local volatility,0.08991,0.808,0.0,1.0,1.0,1.0,0.0,0.9268,0.0
+SB005,Resilient diversified small firm,stronger liquidity workforce digital supplier support and equity access,28,background local volatility,0.08894,0.808,0.0,1.0,1.0,1.0,0.0,0.9268,0.0
+SB005,Resilient diversified small firm,stronger liquidity workforce digital supplier support and equity access,29,background local volatility,0.09028,0.808,0.0,1.0,1.0,1.0,0.0,0.9268,0.0
+SB005,Resilient diversified small firm,stronger liquidity workforce digital supplier support and equity access,30,background local volatility,0.09092,0.808,0.0,1.0,1.0,1.0,0.0,0.9268,0.0
+SB005,Resilient diversified small firm,stronger liquidity workforce digital supplier support and equity access,31,background local volatility,0.09114,0.808,0.0,1.0,1.0,1.0,0.0,0.9268,0.0
+SB005,Resilient diversified small firm,stronger liquidity workforce digital supplier support and equity access,32,background local volatility,0.08991,0.808,0.0,1.0,1.0,1.0,0.0,0.9268,0.0
+SB005,Resilient diversified small firm,stronger liquidity workforce digital supplier support and equity access,33,background local volatility,0.09045,0.808,0.0,1.0,1.0,1.0,0.0,0.9268,0.0
+SB005,Resilient diversified small firm,stronger liquidity workforce digital supplier support and equity access,34,background local volatility,0.09182,0.808,0.0,1.0,1.0,1.0,0.0,0.9268,0.0
+SB005,Resilient diversified small firm,stronger liquidity workforce digital supplier support and equity access,35,Digital payment and platform disruption,0.5152,0.808,0.0,1.0,1.0,1.0,0.0,0.9038,0.0
+SB005,Resilient diversified small firm,stronger liquidity workforce digital supplier support and equity access,36,background local volatility,0.09074,0.808,0.0,1.0,1.0,1.0,0.0,0.9268,0.0
+SB005,Resilient diversified small firm,stronger liquidity workforce digital supplier support and equity access,37,background local volatility,0.09243,0.808,0.0,1.0,1.0,1.0,0.0,0.9268,0.0
+SB005,Resilient diversified small firm,stronger liquidity workforce digital supplier support and equity access,38,background local volatility,0.09068,0.808,0.0,1.0,1.0,1.0,0.0,0.9268,0.0
+SB005,Resilient diversified small firm,stronger liquidity workforce digital supplier support and equity access,39,background local volatility,0.09237,0.808,0.0,1.0,1.0,1.0,0.0,0.9268,0.0
+SB005,Resilient diversified small firm,stronger liquidity workforce digital supplier support and equity access,40,background local volatility,0.0906,0.808,0.0,1.0,1.0,1.0,0.0,0.9268,0.0
+SB005,Resilient diversified small firm,stronger liquidity workforce digital supplier support and equity access,41,background local volatility,0.09225,0.808,0.0,1.0,1.0,1.0,0.0,0.9268,0.0
+SB005,Resilient diversified small firm,stronger liquidity workforce digital supplier support and equity access,42,background local volatility,0.09273,0.808,0.0,1.0,1.0,1.0,0.0,0.9268,0.0
+SB005,Resilient diversified small firm,stronger liquidity workforce digital supplier support and equity access,43,background local volatility,0.09226,0.808,0.0,1.0,1.0,1.0,0.0,0.9268,0.0
+SB005,Resilient diversified small firm,stronger liquidity workforce digital supplier support and equity access,44,background local volatility,0.09262,0.808,0.0,1.0,1.0,1.0,0.0,0.9268,0.0
+SB005,Resilient diversified small firm,stronger liquidity workforce digital supplier support and equity access,45,background local volatility,0.09344,0.808,0.0,1.0,1.0,1.0,0.0,0.9268,0.0
+SB005,Resilient diversified small firm,stronger liquidity workforce digital supplier support and equity access,46,background local volatility,0.09379,0.808,0.0,1.0,1.0,1.0,0.0,0.9268,0.0
+SB005,Resilient diversified small firm,stronger liquidity workforce digital supplier support and equity access,47,background local volatility,0.09198,0.808,0.0,1.0,1.0,1.0,0.0,0.9268,0.0
+SB005,Resilient diversified small firm,stronger liquidity workforce digital supplier support and equity access,48,background local volatility,0.09295,0.808,0.0,1.0,1.0,1.0,0.0,0.9268,0.0
+SB005,Resilient diversified small firm,stronger liquidity workforce digital supplier support and equity access,49,background local volatility,0.09195,0.808,0.0,1.0,1.0,1.0,0.0,0.9268,0.0
+SB005,Resilient diversified small firm,stronger liquidity workforce digital supplier support and equity access,50,Extreme weather closure,0.7158,0.808,0.0,1.0,0.99605,0.9498,0.00424,0.89346,0.00223
+SB005,Resilient diversified small firm,stronger liquidity workforce digital supplier support and equity access,51,background local volatility,0.09306,0.80737,0.0,1.0,1.0,1.0,0.0,0.9268,0.0
+SB005,Resilient diversified small firm,stronger liquidity workforce digital supplier support and equity access,52,background local volatility,0.09265,0.808,0.0,1.0,1.0,1.0,0.0,0.9268,0.0
+SB005,Resilient diversified small firm,stronger liquidity workforce digital supplier support and equity access,53,background local volatility,0.09283,0.808,0.0,1.0,1.0,1.0,0.0,0.9268,0.0
+SB005,Resilient diversified small firm,stronger liquidity workforce digital supplier support and equity access,54,background local volatility,0.0941,0.808,0.0,1.0,1.0,1.0,0.0,0.9268,0.0
+SB005,Resilient diversified small firm,stronger liquidity workforce digital supplier support and equity access,55,background local volatility,0.09295,0.808,0.0,1.0,1.0,1.0,0.0,0.9268,0.0
+SB005,Resilient diversified small firm,stronger liquidity workforce digital supplier support and equity access,56,background local volatility,0.09327,0.808,0.0,1.0,1.0,1.0,0.0,0.9268,0.0
+SB005,Resilient diversified small firm,stronger liquidity workforce digital supplier support and equity access,57,background local volatility,0.09307,0.808,0.0,1.0,1.0,1.0,0.0,0.9268,0.0
+SB005,Resilient diversified small firm,stronger liquidity workforce digital supplier support and equity access,58,background local volatility,0.09515,0.808,0.0,1.0,1.0,1.0,0.0,0.9268,0.0
+SB005,Resilient diversified small firm,stronger liquidity workforce digital supplier support and equity access,59,background local volatility,0.09393,0.808,0.0,1.0,1.0,1.0,0.0,0.9268,0.0
+SB005,Resilient diversified small firm,stronger liquidity workforce digital supplier support and equity access,60,background local volatility,0.09367,0.808,0.0,1.0,1.0,1.0,0.0,0.9268,0.0
+SB005,Resilient diversified small firm,stronger liquidity workforce digital supplier support and equity access,61,background local volatility,0.09514,0.808,0.0,1.0,1.0,1.0,0.0,0.9268,0.0
+SB005,Resilient diversified small firm,stronger liquidity workforce digital supplier support and equity access,62,background local volatility,0.09552,0.808,0.0,1.0,1.0,1.0,0.0,0.9268,0.0
+SB005,Resilient diversified small firm,stronger liquidity workforce digital supplier support and equity access,63,background local volatility,0.09546,0.808,0.0,1.0,1.0,1.0,0.0,0.9268,0.0
+SB005,Resilient diversified small firm,stronger liquidity workforce digital supplier support and equity access,64,background local volatility,0.09541,0.808,0.0,1.0,1.0,1.0,0.0,0.9268,0.0
+SB005,Resilient diversified small firm,stronger liquidity workforce digital supplier support and equity access,65,background local volatility,0.09553,0.808,0.0,1.0,1.0,1.0,0.0,0.9268,0.0
+SB005,Resilient diversified small firm,stronger liquidity workforce digital supplier support and equity access,66,Rent and debt pressure,0.6216,0.808,0.0,1.0,0.99575,0.9722,0.0,0.8918,0.00149
+SB005,Resilient diversified small firm,stronger liquidity workforce digital supplier support and equity access,67,background local volatility,0.09628,0.80732,0.0,1.0,1.0,1.0,0.0,0.9268,0.0
+SB005,Resilient diversified small firm,stronger liquidity workforce digital supplier support and equity access,68,background local volatility,0.09544,0.808,0.0,1.0,1.0,1.0,0.0,0.9268,0.0
+SB005,Resilient diversified small firm,stronger liquidity workforce digital supplier support and equity access,69,background local volatility,0.09687,0.808,0.0,1.0,1.0,1.0,0.0,0.9268,0.0
+SB005,Resilient diversified small firm,stronger liquidity workforce digital supplier support and equity access,70,background local volatility,0.09667,0.808,0.0,1.0,1.0,1.0,0.0,0.9268,0.0
+SB005,Resilient diversified small firm,stronger liquidity workforce digital supplier support and equity access,71,background local volatility,0.09721,0.808,0.0,1.0,1.0,1.0,0.0,0.9268,0.0
+SB005,Resilient diversified small firm,stronger liquidity workforce digital supplier support and equity access,72,background local volatility,0.09744,0.808,0.0,1.0,1.0,1.0,0.0,0.9268,0.0
+SB005,Resilient diversified small firm,stronger liquidity workforce digital supplier support and equity access,73,background local volatility,0.09747,0.808,0.0,1.0,1.0,1.0,0.0,0.9268,0.0
+SB005,Resilient diversified small firm,stronger liquidity workforce digital supplier support and equity access,74,background local volatility,0.09685,0.808,0.0,1.0,1.0,1.0,0.0,0.9268,0.0
+SB005,Resilient diversified small firm,stronger liquidity workforce digital supplier support and equity access,75,background local volatility,0.097,0.808,0.0,1.0,1.0,1.0,0.0,0.9268,0.0
+SB005,Resilient diversified small firm,stronger liquidity workforce digital supplier support and equity access,76,background local volatility,0.09766,0.808,0.0,1.0,1.0,1.0,0.0,0.9268,0.0
+SB005,Resilient diversified small firm,stronger liquidity workforce digital supplier support and equity access,77,background local volatility,0.09744,0.808,0.0,1.0,1.0,1.0,0.0,0.9268,0.0
+SB005,Resilient diversified small firm,stronger liquidity workforce digital supplier support and equity access,78,Insurance claim delay and undercoverage,0.6202,0.808,0.0,1.0,0.9938,0.9818,0.0,0.8908,0.00217
+SB005,Resilient diversified small firm,stronger liquidity workforce digital supplier support and equity access,79,background local volatility,0.09642,0.80701,0.0,1.0,1.0,1.0,0.0,0.9268,0.0
+SB005,Resilient diversified small firm,stronger liquidity workforce digital supplier support and equity access,80,background local volatility,0.0987,0.808,0.0,1.0,1.0,1.0,0.0,0.9268,0.0
+SB005,Resilient diversified small firm,stronger liquidity workforce digital supplier support and equity access,81,background local volatility,0.09713,0.808,0.0,1.0,1.0,1.0,0.0,0.9268,0.0
+SB005,Resilient diversified small firm,stronger liquidity workforce digital supplier support and equity access,82,background local volatility,0.09796,0.808,0.0,1.0,1.0,1.0,0.0,0.9268,0.0
+SB005,Resilient diversified small firm,stronger liquidity workforce digital supplier support and equity access,83,background local volatility,0.09804,0.808,0.0,1.0,1.0,1.0,0.0,0.9268,0.0
+SB005,Resilient diversified small firm,stronger liquidity workforce digital supplier support and equity access,84,background local volatility,0.09732,0.808,0.0,1.0,1.0,1.0,0.0,0.9268,0.0
+SB005,Resilient diversified small firm,stronger liquidity workforce digital supplier support and equity access,85,background local volatility,0.09864,0.808,0.0,1.0,1.0,1.0,0.0,0.9268,0.0
+SB005,Resilient diversified small firm,stronger liquidity workforce digital supplier support and equity access,86,background local volatility,0.09882,0.808,0.0,1.0,1.0,1.0,0.0,0.9268,0.0
+SB005,Resilient diversified small firm,stronger liquidity workforce digital supplier support and equity access,87,background local volatility,0.0995,0.808,0.0,1.0,1.0,1.0,0.0,0.9268,0.0
+SB005,Resilient diversified small firm,stronger liquidity workforce digital supplier support and equity access,88,Compound local economic stress,0.8494,0.808,0.0414,1.0,0.97737,0.9338,0.0345,0.88404,0.01896
+SB005,Resilient diversified small firm,stronger liquidity workforce digital supplier support and equity access,89,background local volatility,0.09932,0.80438,0.0,1.0,1.0,0.9892,0.0,0.9268,0.0
+SB005,Resilient diversified small firm,stronger liquidity workforce digital supplier support and equity access,90,background local volatility,0.09874,0.808,0.0,1.0,1.0,1.0,0.0,0.9268,0.0
+SB005,Resilient diversified small firm,stronger liquidity workforce digital supplier support and equity access,91,background local volatility,0.09951,0.808,0.0,1.0,1.0,1.0,0.0,0.9268,0.0
+SB005,Resilient diversified small firm,stronger liquidity workforce digital supplier support and equity access,92,background local volatility,0.1006,0.808,0.0,1.0,1.0,1.0,0.0,0.9268,0.0
+SB005,Resilient diversified small firm,stronger liquidity workforce digital supplier support and equity access,93,background local volatility,0.09998,0.808,0.0,1.0,1.0,1.0,0.0,0.9268,0.0
+SB005,Resilient diversified small firm,stronger liquidity workforce digital supplier support and equity access,94,background local volatility,0.10063,0.808,0.0,1.0,1.0,1.0,0.0,0.9268,0.0
+SB005,Resilient diversified small firm,stronger liquidity workforce digital supplier support and equity access,95,background local volatility,0.09878,0.808,0.0,1.0,1.0,1.0,0.0,0.9268,0.0
+SB006,Microenterprise with administrative access barriers,small owner-operated firm with language paperwork and program-access barriers,0,background local volatility,0.08661,0.4468,0.0,0.85008,0.3232,0.842,0.69993,0.62623,0.42934
+SB006,Microenterprise with administrative access barriers,small owner-operated firm with language paperwork and program-access barriers,1,background local volatility,0.08549,0.45051,0.0,0.95403,0.34634,0.886,0.63781,0.71536,0.37243
+SB006,Microenterprise with administrative access barriers,small owner-operated firm with language paperwork and program-access barriers,2,background local volatility,0.0867,0.45421,0.0,1.0,0.36942,0.93,0.57407,0.75767,0.33552
+SB006,Microenterprise with administrative access barriers,small owner-operated firm with language paperwork and program-access barriers,3,background local volatility,0.08723,0.45791,0.0,1.0,0.39244,0.974,0.50857,0.76291,0.31436
+SB006,Microenterprise with administrative access barriers,small owner-operated firm with language paperwork and program-access barriers,4,background local volatility,0.08585,0.46159,0.0,1.0,0.4154,1.0,0.44099,0.76832,0.29281
+SB006,Microenterprise with administrative access barriers,small owner-operated firm with language paperwork and program-access barriers,5,background local volatility,0.08709,0.46526,0.0,1.0,0.4383,1.0,0.37181,0.77386,0.27096
+SB006,Microenterprise with administrative access barriers,small owner-operated firm with language paperwork and program-access barriers,6,background local volatility,0.0862,0.46893,0.0,1.0,0.46114,1.0,0.30152,0.77948,0.24891
+SB006,Microenterprise with administrative access barriers,small owner-operated firm with language paperwork and program-access barriers,7,background local volatility,0.08594,0.47258,0.0,1.0,0.48392,1.0,0.23119,0.7851,0.22687
+SB006,Microenterprise with administrative access barriers,small owner-operated firm with language paperwork and program-access barriers,8,Demand shock,0.5336,0.47623,0.05737,1.0,0.45719,0.9224,0.25005,0.7576,0.24573
+SB006,Microenterprise with administrative access barriers,small owner-operated firm with language paperwork and program-access barriers,9,background local volatility,0.08669,0.47195,0.0,1.0,0.47985,0.9664,0.17985,0.78921,0.21802
+SB006,Microenterprise with administrative access barriers,small owner-operated firm with language paperwork and program-access barriers,10,background local volatility,0.0878,0.47558,0.0,1.0,0.50245,1.0,0.10985,0.79481,0.19611
+SB006,Microenterprise with administrative access barriers,small owner-operated firm with language paperwork and program-access barriers,11,background local volatility,0.0865,0.47919,0.0,1.0,0.52499,1.0,0.03963,0.80043,0.17418
+SB006,Microenterprise with administrative access barriers,small owner-operated firm with language paperwork and program-access barriers,12,background local volatility,0.08788,0.4828,0.0,1.0,0.54747,1.0,0.0,0.8036,0.15839
+SB006,Microenterprise with administrative access barriers,small owner-operated firm with language paperwork and program-access barriers,13,background local volatility,0.08729,0.4864,0.0,1.0,0.56989,1.0,0.0,0.8036,0.15054
+SB006,Microenterprise with administrative access barriers,small owner-operated firm with language paperwork and program-access barriers,14,background local volatility,0.08701,0.48998,0.0,1.0,0.59225,1.0,0.0,0.8036,0.14271
+SB006,Microenterprise with administrative access barriers,small owner-operated firm with language paperwork and program-access barriers,15,background local volatility,0.08778,0.49356,0.0,1.0,0.61455,1.0,0.0,0.8036,0.13491
+SB006,Microenterprise with administrative access barriers,small owner-operated firm with language paperwork and program-access barriers,16,background local volatility,0.08783,0.49713,0.0,1.0,0.63679,1.0,0.0,0.8036,0.12712
+SB006,Microenterprise with administrative access barriers,small owner-operated firm with language paperwork and program-access barriers,17,background local volatility,0.08815,0.50069,0.0,1.0,0.65897,1.0,0.0,0.8036,0.11936
+SB006,Microenterprise with administrative access barriers,small owner-operated firm with language paperwork and program-access barriers,18,background local volatility,0.08931,0.50424,0.0,1.0,0.68109,1.0,0.0,0.8036,0.11162
+SB006,Microenterprise with administrative access barriers,small owner-operated firm with language paperwork and program-access barriers,19,background local volatility,0.08956,0.50777,0.0,1.0,0.70315,1.0,0.0,0.8036,0.1039
+SB006,Microenterprise with administrative access barriers,small owner-operated firm with language paperwork and program-access barriers,20,Supplier delay and price increase,0.566,0.5113,0.0547,1.0,0.67242,0.9864,0.02428,0.77666,0.12498
+SB006,Microenterprise with administrative access barriers,small owner-operated firm with language paperwork and program-access barriers,21,background local volatility,0.0882,0.50639,0.0,1.0,0.69436,1.0,0.0,0.8036,0.10698
+SB006,Microenterprise with administrative access barriers,small owner-operated firm with language paperwork and program-access barriers,22,background local volatility,0.09017,0.5099,0.0,1.0,0.71624,1.0,0.0,0.8036,0.09932
+SB006,Microenterprise with administrative access barriers,small owner-operated firm with language paperwork and program-access barriers,23,background local volatility,0.08942,0.5134,0.0,1.0,0.73806,1.0,0.0,0.8036,0.09168
+SB006,Microenterprise with administrative access barriers,small owner-operated firm with language paperwork and program-access barriers,24,background local volatility,0.0904,0.51689,0.0,1.0,0.75982,1.0,0.0,0.8036,0.08406
+SB006,Microenterprise with administrative access barriers,small owner-operated firm with language paperwork and program-access barriers,25,background local volatility,0.09021,0.52037,0.0,1.0,0.78152,1.0,0.0,0.8036,0.07647
+SB006,Microenterprise with administrative access barriers,small owner-operated firm with language paperwork and program-access barriers,26,background local volatility,0.08966,0.52384,0.0,1.0,0.80316,1.0,0.0,0.8036,0.0689
+SB006,Microenterprise with administrative access barriers,small owner-operated firm with language paperwork and program-access barriers,27,background local volatility,0.08915,0.5273,0.0,1.0,0.82474,1.0,0.0,0.8036,0.06134
+SB006,Microenterprise with administrative access barriers,small owner-operated firm with language paperwork and program-access barriers,28,background local volatility,0.09093,0.53076,0.0,1.0,0.84626,1.0,0.0,0.8036,0.05381
+SB006,Microenterprise with administrative access barriers,small owner-operated firm with language paperwork and program-access barriers,29,background local volatility,0.09125,0.5342,0.0,1.0,0.86772,1.0,0.0,0.8036,0.0463
+SB006,Microenterprise with administrative access barriers,small owner-operated firm with language paperwork and program-access barriers,30,background local volatility,0.0905,0.53763,0.0,1.0,0.88912,1.0,0.0,0.8036,0.03881
+SB006,Microenterprise with administrative access barriers,small owner-operated firm with language paperwork and program-access barriers,31,background local volatility,0.08943,0.54106,0.0,1.0,0.91046,1.0,0.0,0.8036,0.03134
+SB006,Microenterprise with administrative access barriers,small owner-operated firm with language paperwork and program-access barriers,32,background local volatility,0.09128,0.54447,0.0,1.0,0.93174,1.0,0.0,0.8036,0.02389
+SB006,Microenterprise with administrative access barriers,small owner-operated firm with language paperwork and program-access barriers,33,background local volatility,0.09129,0.54788,0.0,1.0,0.95296,1.0,0.0,0.8036,0.01647
+SB006,Microenterprise with administrative access barriers,small owner-operated firm with language paperwork and program-access barriers,34,background local volatility,0.09171,0.55127,0.0,1.0,0.97412,1.0,0.0,0.8036,0.00906
+SB006,Microenterprise with administrative access barriers,small owner-operated firm with language paperwork and program-access barriers,35,Digital payment and platform disruption,0.5152,0.55466,0.0,1.0,0.95515,0.9896,0.00694,0.78005,0.01708
+SB006,Microenterprise with administrative access barriers,small owner-operated firm with language paperwork and program-access barriers,36,background local volatility,0.09224,0.55162,0.0,1.0,0.97619,1.0,0.0,0.8036,0.00833
+SB006,Microenterprise with administrative access barriers,small owner-operated firm with language paperwork and program-access barriers,37,background local volatility,0.09239,0.55499,0.0,1.0,0.99717,1.0,0.0,0.8036,0.00099
+SB006,Microenterprise with administrative access barriers,small owner-operated firm with language paperwork and program-access barriers,38,background local volatility,0.09197,0.55835,0.0,1.0,1.0,1.0,0.0,0.8036,0.0
+SB006,Microenterprise with administrative access barriers,small owner-operated firm with language paperwork and program-access barriers,39,background local volatility,0.09129,0.5588,0.0,1.0,1.0,1.0,0.0,0.8036,0.0
+SB006,Microenterprise with administrative access barriers,small owner-operated firm with language paperwork and program-access barriers,40,background local volatility,0.09178,0.5588,0.0,1.0,1.0,1.0,0.0,0.8036,0.0
+SB006,Microenterprise with administrative access barriers,small owner-operated firm with language paperwork and program-access barriers,41,background local volatility,0.09186,0.5588,0.0,1.0,1.0,1.0,0.0,0.8036,0.0
+SB006,Microenterprise with administrative access barriers,small owner-operated firm with language paperwork and program-access barriers,42,background local volatility,0.09262,0.5588,0.0,1.0,1.0,1.0,0.0,0.8036,0.0
+SB006,Microenterprise with administrative access barriers,small owner-operated firm with language paperwork and program-access barriers,43,background local volatility,0.09245,0.5588,0.0,1.0,1.0,1.0,0.0,0.8036,0.0
+SB006,Microenterprise with administrative access barriers,small owner-operated firm with language paperwork and program-access barriers,44,background local volatility,0.09308,0.5588,0.0,1.0,1.0,1.0,0.0,0.8036,0.0
+SB006,Microenterprise with administrative access barriers,small owner-operated firm with language paperwork and program-access barriers,45,background local volatility,0.09249,0.5588,0.0,1.0,1.0,1.0,0.0,0.8036,0.0
+SB006,Microenterprise with administrative access barriers,small owner-operated firm with language paperwork and program-access barriers,46,background local volatility,0.09282,0.5588,0.0,1.0,1.0,1.0,0.0,0.8036,0.0
+SB006,Microenterprise with administrative access barriers,small owner-operated firm with language paperwork and program-access barriers,47,background local volatility,0.09386,0.5588,0.0,1.0,1.0,1.0,0.0,0.8036,0.0
+SB006,Microenterprise with administrative access barriers,small owner-operated firm with language paperwork and program-access barriers,48,background local volatility,0.0936,0.5588,0.0,1.0,1.0,1.0,0.0,0.8036,0.0
+SB006,Microenterprise with administrative access barriers,small owner-operated firm with language paperwork and program-access barriers,49,background local volatility,0.09408,0.5588,0.0,1.0,1.0,1.0,0.0,0.8036,0.0
+SB006,Microenterprise with administrative access barriers,small owner-operated firm with language paperwork and program-access barriers,50,Extreme weather closure,0.7158,0.5588,0.157,1.0,0.93922,0.9384,0.06659,0.76527,0.05029
+SB006,Microenterprise with administrative access barriers,small owner-operated firm with language paperwork and program-access barriers,51,background local volatility,0.09383,0.54907,0.0,1.0,0.95936,0.9824,0.0,0.8036,0.01423
+SB006,Microenterprise with administrative access barriers,small owner-operated firm with language paperwork and program-access barriers,52,background local volatility,0.0926,0.5523,0.0,1.0,0.97944,1.0,0.0,0.8036,0.0072
+SB006,Microenterprise with administrative access barriers,small owner-operated firm with language paperwork and program-access barriers,53,background local volatility,0.09346,0.55551,0.0,1.0,0.99946,1.0,0.0,0.8036,0.00019
+SB006,Microenterprise with administrative access barriers,small owner-operated firm with language paperwork and program-access barriers,54,background local volatility,0.0933,0.55871,0.0,1.0,1.0,1.0,0.0,0.8036,0.0
+SB006,Microenterprise with administrative access barriers,small owner-operated firm with language paperwork and program-access barriers,55,background local volatility,0.09338,0.5588,0.0,1.0,1.0,1.0,0.0,0.8036,0.0
+SB006,Microenterprise with administrative access barriers,small owner-operated firm with language paperwork and program-access barriers,56,background local volatility,0.0932,0.5588,0.0,1.0,1.0,1.0,0.0,0.8036,0.0
+SB006,Microenterprise with administrative access barriers,small owner-operated firm with language paperwork and program-access barriers,57,background local volatility,0.09332,0.5588,0.0,1.0,1.0,1.0,0.0,0.8036,0.0
+SB006,Microenterprise with administrative access barriers,small owner-operated firm with language paperwork and program-access barriers,58,background local volatility,0.09435,0.5588,0.0,1.0,1.0,1.0,0.0,0.8036,0.0
+SB006,Microenterprise with administrative access barriers,small owner-operated firm with language paperwork and program-access barriers,59,background local volatility,0.09523,0.5588,0.0,1.0,1.0,1.0,0.0,0.8036,0.0
+SB006,Microenterprise with administrative access barriers,small owner-operated firm with language paperwork and program-access barriers,60,background local volatility,0.09558,0.5588,0.0,1.0,1.0,1.0,0.0,0.8036,0.0
+SB006,Microenterprise with administrative access barriers,small owner-operated firm with language paperwork and program-access barriers,61,background local volatility,0.09597,0.5588,0.0,1.0,1.0,1.0,0.0,0.8036,0.0
+SB006,Microenterprise with administrative access barriers,small owner-operated firm with language paperwork and program-access barriers,62,background local volatility,0.0952,0.5588,0.0,1.0,1.0,1.0,0.0,0.8036,0.0
+SB006,Microenterprise with administrative access barriers,small owner-operated firm with language paperwork and program-access barriers,63,background local volatility,0.09398,0.5588,0.0,1.0,1.0,1.0,0.0,0.8036,0.0
+SB006,Microenterprise with administrative access barriers,small owner-operated firm with language paperwork and program-access barriers,64,background local volatility,0.09456,0.5588,0.0,1.0,1.0,1.0,0.0,0.8036,0.0
+SB006,Microenterprise with administrative access barriers,small owner-operated firm with language paperwork and program-access barriers,65,background local volatility,0.09439,0.5588,0.0,1.0,1.0,1.0,0.0,0.8036,0.0
+SB006,Microenterprise with administrative access barriers,small owner-operated firm with language paperwork and program-access barriers,66,Rent and debt pressure,0.6216,0.5588,0.0628,1.0,0.94128,0.9608,0.03551,0.76576,0.03393
+SB006,Microenterprise with administrative access barriers,small owner-operated firm with language paperwork and program-access barriers,67,background local volatility,0.09663,0.54941,0.0,1.0,0.96046,1.0,0.0,0.8036,0.01384
+SB006,Microenterprise with administrative access barriers,small owner-operated firm with language paperwork and program-access barriers,68,background local volatility,0.09547,0.55247,0.0,1.0,0.97958,1.0,0.0,0.8036,0.00715
+SB006,Microenterprise with administrative access barriers,small owner-operated firm with language paperwork and program-access barriers,69,background local volatility,0.09659,0.55553,0.0,1.0,0.99864,1.0,0.0,0.8036,0.00048
+SB006,Microenterprise with administrative access barriers,small owner-operated firm with language paperwork and program-access barriers,70,background local volatility,0.09608,0.55858,0.0,1.0,1.0,1.0,0.0,0.8036,0.0
+SB006,Microenterprise with administrative access barriers,small owner-operated firm with language paperwork and program-access barriers,71,background local volatility,0.09655,0.5588,0.0,1.0,1.0,1.0,0.0,0.8036,0.0
+SB006,Microenterprise with administrative access barriers,small owner-operated firm with language paperwork and program-access barriers,72,background local volatility,0.09734,0.5588,0.0,1.0,1.0,1.0,0.0,0.8036,0.0
+SB006,Microenterprise with administrative access barriers,small owner-operated firm with language paperwork and program-access barriers,73,background local volatility,0.09703,0.5588,0.0,1.0,1.0,1.0,0.0,0.8036,0.0
+SB006,Microenterprise with administrative access barriers,small owner-operated firm with language paperwork and program-access barriers,74,background local volatility,0.09578,0.5588,0.0,1.0,1.0,1.0,0.0,0.8036,0.0
+SB006,Microenterprise with administrative access barriers,small owner-operated firm with language paperwork and program-access barriers,75,background local volatility,0.09727,0.5588,0.0,1.0,1.0,1.0,0.0,0.8036,0.0
+SB006,Microenterprise with administrative access barriers,small owner-operated firm with language paperwork and program-access barriers,76,background local volatility,0.09675,0.5588,0.0,1.0,1.0,1.0,0.0,0.8036,0.0
+SB006,Microenterprise with administrative access barriers,small owner-operated firm with language paperwork and program-access barriers,77,background local volatility,0.09839,0.5588,0.0,1.0,1.0,1.0,0.0,0.8036,0.0
+SB006,Microenterprise with administrative access barriers,small owner-operated firm with language paperwork and program-access barriers,78,Insurance claim delay and undercoverage,0.6202,0.5588,0.0614,1.0,0.93937,0.9704,0.03505,0.7648,0.03437
+SB006,Microenterprise with administrative access barriers,small owner-operated firm with language paperwork and program-access barriers,79,background local volatility,0.09699,0.5491,0.0,1.0,0.95783,1.0,0.0,0.8036,0.01476
+SB006,Microenterprise with administrative access barriers,small owner-operated firm with language paperwork and program-access barriers,80,background local volatility,0.09708,0.55205,0.0,1.0,0.97623,1.0,0.0,0.8036,0.00832
+SB006,Microenterprise with administrative access barriers,small owner-operated firm with language paperwork and program-access barriers,81,background local volatility,0.09886,0.555,0.0,1.0,0.99457,1.0,0.0,0.8036,0.0019
+SB006,Microenterprise with administrative access barriers,small owner-operated firm with language paperwork and program-access barriers,82,background local volatility,0.09779,0.55793,0.0,1.0,1.0,1.0,0.0,0.8036,0.0
+SB006,Microenterprise with administrative access barriers,small owner-operated firm with language paperwork and program-access barriers,83,background local volatility,0.09715,0.5588,0.0,1.0,1.0,1.0,0.0,0.8036,0.0
+SB006,Microenterprise with administrative access barriers,small owner-operated firm with language paperwork and program-access barriers,84,background local volatility,0.09901,0.5588,0.0,1.0,1.0,1.0,0.0,0.8036,0.0
+SB006,Microenterprise with administrative access barriers,small owner-operated firm with language paperwork and program-access barriers,85,background local volatility,0.09946,0.5588,0.0,1.0,1.0,1.0,0.0,0.8036,0.0
+SB006,Microenterprise with administrative access barriers,small owner-operated firm with language paperwork and program-access barriers,86,background local volatility,0.09858,0.5588,0.0,1.0,1.0,1.0,0.0,0.8036,0.0
+SB006,Microenterprise with administrative access barriers,small owner-operated firm with language paperwork and program-access barriers,87,background local volatility,0.09795,0.5588,0.0,1.0,1.0,1.0,0.0,0.8036,0.0
+SB006,Microenterprise with administrative access barriers,small owner-operated firm with language paperwork and program-access barriers,88,Compound local economic stress,0.8494,0.5588,0.2906,0.97023,0.91821,0.9224,0.11068,0.73064,0.09024
+SB006,Microenterprise with administrative access barriers,small owner-operated firm with language paperwork and program-access barriers,89,background local volatility,0.09993,0.54571,0.0,1.0,0.93607,0.9664,0.04287,0.80017,0.03095
+SB006,Microenterprise with administrative access barriers,small owner-operated firm with language paperwork and program-access barriers,90,background local volatility,0.09882,0.54857,0.0,1.0,0.95387,1.0,0.0,0.8036,0.01614
+SB006,Microenterprise with administrative access barriers,small owner-operated firm with language paperwork and program-access barriers,91,background local volatility,0.09874,0.55142,0.0,1.0,0.97161,1.0,0.0,0.8036,0.00994
+SB006,Microenterprise with administrative access barriers,small owner-operated firm with language paperwork and program-access barriers,92,background local volatility,0.0984,0.55426,0.0,1.0,0.98929,1.0,0.0,0.8036,0.00375
+SB006,Microenterprise with administrative access barriers,small owner-operated firm with language paperwork and program-access barriers,93,background local volatility,0.10056,0.55709,0.0,1.0,1.0,1.0,0.0,0.8036,0.0
+SB006,Microenterprise with administrative access barriers,small owner-operated firm with language paperwork and program-access barriers,94,background local volatility,0.09916,0.5588,0.0,1.0,1.0,1.0,0.0,0.8036,0.0
+SB006,Microenterprise with administrative access barriers,small owner-operated firm with language paperwork and program-access barriers,95,background local volatility,0.09904,0.5588,0.0,1.0,1.0,1.0,0.0,0.8036,0.0

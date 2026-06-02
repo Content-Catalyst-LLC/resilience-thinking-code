@@ -1,0 +1,9 @@
+scenario,liquidity_support_weight,workforce_capacity_weight,supply_resilience_weight,digital_readiness_weight,public_capacity_weight,community_wealth_weight,equity_access_weight,inequality_risk_weight,implementation_burden_weight,description
+Balanced,0.14,0.14,0.12,0.12,0.14,0.15,0.16,0.07,0.06,Balanced local resilience across liquidity workforce supply digital public capacity community wealth equity inequality risk and implementation burden.
+Liquidity-first,0.36,0.10,0.10,0.09,0.12,0.11,0.12,0.05,0.05,Prioritizes emergency liquidity cash runway fair credit and working capital.
+Workforce-first,0.10,0.36,0.10,0.09,0.12,0.11,0.12,0.05,0.05,Prioritizes workforce capacity job quality childcare transit training and owner recovery.
+Procurement-first,0.10,0.10,0.26,0.08,0.16,0.20,0.16,0.07,0.05,Prioritizes local procurement supplier resilience anchor institution access and community wealth circulation.
+Digital-first,0.10,0.10,0.10,0.34,0.12,0.10,0.14,0.05,0.05,Prioritizes digital readiness cybersecurity payments online visibility and continuity of records.
+Community-wealth-first,0.10,0.10,0.12,0.08,0.14,0.34,0.18,0.08,0.05,Prioritizes local ownership cooperatives community finance anchor procurement and anti-displacement capacity.
+Equity-first,0.12,0.12,0.10,0.08,0.14,0.16,0.34,0.10,0.05,Prioritizes historically excluded firms minority-owned firms immigrant-owned firms rural firms and neighborhood access to capital.
+Implementation-aware,0.14,0.14,0.12,0.12,0.14,0.15,0.16,0.05,0.12,Penalizes implementation burden when administrative budget political technical or civic capacity is constrained.

@@ -1,0 +1,7 @@
+strategy_id,strategy,mean_local_resilience_value,median_local_resilience_value,probability_ranked_first,probability_top_two,probability_bottom_two
+LE003,Local Procurement and Anchor Institution Access,7.59537,7.59978,32.97,55.77,14.3
+LE002,Community Development Finance and Patient Capital,7.58071,7.58272,29.7,54.2,15.23
+LE005,Commercial Anti-Displacement and Ownership Strategy,7.46248,7.45952,13.03,30.5,33.3
+LE006,Workforce Childcare and Local Skills Resilience,7.44431,7.44556,11.47,26.23,35.27
+LE004,Small Business Continuity and Digital Resilience Support,7.38205,7.37973,7.17,18.3,48.57
+LE001,Emergency Microgrant and Liquidity Fund,7.359,7.35778,5.67,15.0,53.33
