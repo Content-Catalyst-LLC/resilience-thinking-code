@@ -1,0 +1,9 @@
+function_id,ecosystem_function,critical_role,species_richness,functional_diversity,functional_redundancy,response_diversity,functional_resilience_profile,diagnostic
+F001,Pollination,plant reproduction crop support and habitat renewal,0.72,0.60,0.52,0.49,0.4506,redundancy or response-diversity concern
+F002,Nutrient Cycling,nitrogen phosphorus carbon and soil fertility regulation,0.68,0.74,0.66,0.61,0.5766,mixed profile requiring monitoring
+F003,Predation Regulation,population regulation food-web balance and pest control,0.58,0.63,0.48,0.44,0.4191,redundancy or response-diversity concern
+F004,Seed Dispersal,plant regeneration migration and forest recovery,0.62,0.57,0.50,0.46,0.4248,redundancy or response-diversity concern
+F005,Soil Formation,soil structure organic matter and water retention,0.66,0.70,0.62,0.59,0.5463,mixed profile requiring monitoring
+F006,Water Filtration,nutrient removal sediment trapping and water quality,0.64,0.68,0.58,0.55,0.519,mixed profile requiring monitoring
+F007,Carbon Storage,biomass soil carbon peat storage and climate regulation,0.60,0.64,0.54,0.50,0.4746,high disturbance exposure
+F008,Disturbance Recovery,regeneration succession refugia and post-disturbance renewal,0.70,0.69,0.61,0.63,0.5616,mixed profile requiring monitoring

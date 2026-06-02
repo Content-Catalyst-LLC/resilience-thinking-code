@@ -1,0 +1,21 @@
+species_id,species_name,functional_group,trait_contribution,disturbance_sensitivity,recovery_capacity,initial_abundance,habitat_affinity
+S001,Pollinator bee guild,pollination,0.82,0.64,0.48,0.88,meadow edge
+S002,Hoverfly guild,pollination,0.61,0.42,0.56,0.73,riparian meadow
+S003,Moth pollinator guild,pollination,0.54,0.38,0.45,0.66,woodland edge
+S004,Mycorrhizal fungi guild,nutrient_cycling,0.90,0.34,0.62,0.91,soil forest
+S005,Soil bacteria guild,nutrient_cycling,0.86,0.40,0.66,0.94,soil wetland
+S006,Detritivore guild,nutrient_cycling,0.72,0.48,0.58,0.79,leaf litter
+S007,Raptor guild,predation,0.70,0.52,0.36,0.55,open woodland
+S008,Mesopredator guild,predation,0.58,0.46,0.44,0.68,forest edge
+S009,Insect predator guild,predation,0.62,0.38,0.60,0.76,grassland
+S010,Fruiting shrub disperser guild,seed_dispersal,0.68,0.44,0.52,0.72,shrubland
+S011,Bird seed disperser guild,seed_dispersal,0.82,0.50,0.55,0.69,forest canopy
+S012,Mammal seed disperser guild,seed_dispersal,0.74,0.56,0.48,0.61,forest understory
+S013,Deep-rooted grass guild,soil_function,0.76,0.36,0.67,0.84,grassland
+S014,Soil engineer invertebrate guild,soil_function,0.78,0.52,0.54,0.71,soil
+S015,Wetland sedge guild,water_filtration,0.73,0.42,0.60,0.77,wetland
+S016,Riparian tree guild,water_filtration,0.80,0.50,0.56,0.69,riparian corridor
+S017,Peat moss guild,carbon_storage,0.84,0.62,0.42,0.63,peatland
+S018,Long-lived tree guild,carbon_storage,0.88,0.58,0.38,0.72,forest
+S019,Resprouting shrub guild,disturbance_recovery,0.70,0.36,0.76,0.75,fire-adapted shrubland
+S020,Seed-bank annual guild,disturbance_recovery,0.62,0.40,0.82,0.80,disturbance mosaic

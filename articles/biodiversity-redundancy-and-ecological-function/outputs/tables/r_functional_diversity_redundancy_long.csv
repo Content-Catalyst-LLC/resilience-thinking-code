@@ -1,0 +1,73 @@
+ecosystem_function,dimension,value
+Pollination,species_richness,0.72
+Pollination,functional_diversity,0.6
+Pollination,functional_redundancy,0.52
+Pollination,response_diversity,0.49
+Pollination,connectivity,0.54
+Pollination,ecological_memory,0.5
+Pollination,disturbance_exposure,0.72
+Pollination,functional_resilience_profile,0.45059999999999995
+Pollination,function_threshold_risk_index,0.522
+Nutrient Cycling,species_richness,0.68
+Nutrient Cycling,functional_diversity,0.74
+Nutrient Cycling,functional_redundancy,0.66
+Nutrient Cycling,response_diversity,0.61
+Nutrient Cycling,connectivity,0.58
+Nutrient Cycling,ecological_memory,0.7
+Nutrient Cycling,disturbance_exposure,0.56
+Nutrient Cycling,functional_resilience_profile,0.5766
+Nutrient Cycling,function_threshold_risk_index,0.39
+Predation Regulation,species_richness,0.58
+Predation Regulation,functional_diversity,0.63
+Predation Regulation,functional_redundancy,0.48
+Predation Regulation,response_diversity,0.44
+Predation Regulation,connectivity,0.5
+Predation Regulation,ecological_memory,0.45
+Predation Regulation,disturbance_exposure,0.64
+Predation Regulation,functional_resilience_profile,0.4191000000000001
+Predation Regulation,function_threshold_risk_index,0.537
+Seed Dispersal,species_richness,0.62
+Seed Dispersal,functional_diversity,0.57
+Seed Dispersal,functional_redundancy,0.5
+Seed Dispersal,response_diversity,0.46
+Seed Dispersal,connectivity,0.47
+Seed Dispersal,ecological_memory,0.52
+Seed Dispersal,disturbance_exposure,0.66
+Seed Dispersal,functional_resilience_profile,0.4248
+Seed Dispersal,function_threshold_risk_index,0.5332
+Soil Formation,species_richness,0.66
+Soil Formation,functional_diversity,0.7
+Soil Formation,functional_redundancy,0.62
+Soil Formation,response_diversity,0.59
+Soil Formation,connectivity,0.55
+Soil Formation,ecological_memory,0.68
+Soil Formation,disturbance_exposure,0.58
+Soil Formation,functional_resilience_profile,0.5463
+Soil Formation,function_threshold_risk_index,0.4178
+Water Filtration,species_richness,0.64
+Water Filtration,functional_diversity,0.68
+Water Filtration,functional_redundancy,0.58
+Water Filtration,response_diversity,0.55
+Water Filtration,connectivity,0.6
+Water Filtration,ecological_memory,0.63
+Water Filtration,disturbance_exposure,0.62
+Water Filtration,functional_resilience_profile,0.5190000000000001
+Water Filtration,function_threshold_risk_index,0.44439999999999996
+Carbon Storage,species_richness,0.6
+Carbon Storage,functional_diversity,0.64
+Carbon Storage,functional_redundancy,0.54
+Carbon Storage,response_diversity,0.5
+Carbon Storage,connectivity,0.52
+Carbon Storage,ecological_memory,0.66
+Carbon Storage,disturbance_exposure,0.7
+Carbon Storage,functional_resilience_profile,0.4746
+Carbon Storage,function_threshold_risk_index,0.49119999999999997
+Disturbance Recovery,species_richness,0.7
+Disturbance Recovery,functional_diversity,0.69
+Disturbance Recovery,functional_redundancy,0.61
+Disturbance Recovery,response_diversity,0.63
+Disturbance Recovery,connectivity,0.64
+Disturbance Recovery,ecological_memory,0.72
+Disturbance Recovery,disturbance_exposure,0.68
+Disturbance Recovery,functional_resilience_profile,0.5616
+Disturbance Recovery,function_threshold_risk_index,0.41200000000000003

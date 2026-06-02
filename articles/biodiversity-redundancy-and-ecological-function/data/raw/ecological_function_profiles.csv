@@ -1,0 +1,9 @@
+function_id,ecosystem_function,species_richness,functional_diversity,functional_redundancy,response_diversity,connectivity,ecological_memory,disturbance_exposure,critical_role
+F001,Pollination,0.72,0.60,0.52,0.49,0.54,0.50,0.72,plant reproduction crop support and habitat renewal
+F002,Nutrient Cycling,0.68,0.74,0.66,0.61,0.58,0.70,0.56,nitrogen phosphorus carbon and soil fertility regulation
+F003,Predation Regulation,0.58,0.63,0.48,0.44,0.50,0.45,0.64,population regulation food-web balance and pest control
+F004,Seed Dispersal,0.62,0.57,0.50,0.46,0.47,0.52,0.66,plant regeneration migration and forest recovery
+F005,Soil Formation,0.66,0.70,0.62,0.59,0.55,0.68,0.58,soil structure organic matter and water retention
+F006,Water Filtration,0.64,0.68,0.58,0.55,0.60,0.63,0.62,nutrient removal sediment trapping and water quality
+F007,Carbon Storage,0.60,0.64,0.54,0.50,0.52,0.66,0.70,biomass soil carbon peat storage and climate regulation
+F008,Disturbance Recovery,0.70,0.69,0.61,0.63,0.64,0.72,0.68,regeneration succession refugia and post-disturbance renewal

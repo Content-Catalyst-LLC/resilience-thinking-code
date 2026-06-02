@@ -1,0 +1,5 @@
+scenario_id,scenario_name,disturbance_pressure,shock_intensity,shock_frequency,recovery_support,description
+BD001,Moderate disturbance mosaic,0.22,0.18,10,0.62,Moderate disturbance with enough recovery support to preserve functional diversity.
+BD002,Climate-amplified stress,0.38,0.30,8,0.48,Heat drought flood fire or seasonal mismatch affecting response diversity.
+BD003,Compound biodiversity pressure,0.54,0.44,6,0.36,Combined habitat loss climate stress pollution and fragmentation.
+BD004,Slow functional simplification,0.34,0.22,12,0.40,Gradual erosion of redundancy and response diversity before visible collapse.
