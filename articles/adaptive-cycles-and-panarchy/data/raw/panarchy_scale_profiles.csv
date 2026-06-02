@@ -1,0 +1,10 @@
+scale_id,system_id,scale_name,scale_speed,potential,connectedness,resilience,rigidity,memory,innovation_capacity,disturbance_signal
+S001,ACYP001,forest_patch,fast,0.40,0.35,0.70,0.25,0.45,0.42,0.62
+S002,ACYP001,landscape_mosaic,medium,0.62,0.58,0.52,0.42,0.66,0.26,0.54
+S003,ACYP001,regional_climate_fire_regime,slow,0.74,0.76,0.38,0.66,0.82,0.14,0.70
+S004,ACYP003,neighborhood_drainage,fast,0.44,0.40,0.64,0.34,0.50,0.38,0.76
+S005,ACYP003,city_stormwater_network,medium,0.70,0.74,0.40,0.62,0.64,0.18,0.78
+S006,ACYP003,regional_precipitation_infrastructure_finance,slow,0.76,0.82,0.32,0.70,0.68,0.10,0.82
+S007,ACYP005,local_food_distribution,fast,0.38,0.36,0.68,0.28,0.44,0.40,0.70
+S008,ACYP005,national_supply_chain,medium,0.76,0.84,0.34,0.74,0.56,0.12,0.74
+S009,ACYP005,global_trade_climate_energy,slow,0.82,0.86,0.30,0.78,0.62,0.08,0.80

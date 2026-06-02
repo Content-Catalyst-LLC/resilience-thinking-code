@@ -1,0 +1,5 @@
+scenario_id,scenario_name,growth_rate,connect_rate,disturbance_pressure,rigidity_threshold,resilience_threshold,memory_strength,novelty_range_low,novelty_range_high,revolt_strength,remember_strength,description
+CY001,Balanced renewal,0.10,0.07,0.18,0.74,0.34,0.48,0.08,0.20,0.08,0.18,Moderate growth and disturbance with enough memory and novelty for renewal.
+CY002,Rigidity and lock-in,0.11,0.09,0.26,0.70,0.36,0.36,0.04,0.12,0.12,0.10,Fast connectedness growth and weak novelty increase lock-in risk.
+CY003,Strong memory renewal,0.09,0.06,0.20,0.76,0.32,0.62,0.10,0.24,0.06,0.24,Slow-cycle memory strongly supports reorganization.
+CY004,Cascading revolt,0.10,0.08,0.32,0.72,0.38,0.42,0.06,0.18,0.18,0.12,Fast-cycle release is more likely to destabilize larger vulnerable systems.

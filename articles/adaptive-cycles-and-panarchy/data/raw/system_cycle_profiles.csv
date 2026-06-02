@@ -1,0 +1,9 @@
+system_id,system_name,system_type,initial_phase,potential,connectedness,resilience,rigidity,memory,novelty,disturbance_exposure,critical_function
+ACYP001,Fire-Prone Forest Mosaic,ecological,K,0.72,0.68,0.46,0.50,0.74,0.18,0.70,forest regeneration habitat continuity and watershed protection
+ACYP002,River-Floodplain Governance,social-ecological,K,0.66,0.62,0.52,0.44,0.70,0.20,0.62,floodplain function water governance and riparian renewal
+ACYP003,Urban Stormwater System,infrastructure,K,0.70,0.78,0.38,0.66,0.60,0.12,0.78,stormwater service continuity flood protection and public health
+ACYP004,Community Recovery Network,community,r,0.36,0.28,0.78,0.20,0.52,0.44,0.58,mutual aid communication local leadership and recovery support
+ACYP005,Regional Food Supply Chain,economic,K,0.76,0.82,0.34,0.72,0.56,0.10,0.74,food availability distribution labor and production continuity
+ACYP006,Wetland Restoration Program,institutional,alpha,0.30,0.24,0.70,0.18,0.64,0.38,0.48,habitat restoration learning monitoring and water quality improvement
+ACYP007,Public Health Surveillance System,institutional,K,0.68,0.72,0.42,0.60,0.66,0.16,0.76,surveillance early warning communication and surge response
+ACYP008,Dryland Rangeland System,social-ecological,K,0.62,0.58,0.48,0.46,0.58,0.22,0.72,forage soil cover pastoral livelihoods and erosion control

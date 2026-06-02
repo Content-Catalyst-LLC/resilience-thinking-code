@@ -1,0 +1,9 @@
+system_id,system_name,system_type,initial_phase,potential,connectedness,resilience,rigidity,memory,novelty,diagnostic
+ACYP001,Fire-Prone Forest Mosaic,ecological,K,0.72,0.68,0.46,0.50,0.74,0.18,mixed adaptive-cycle profile requiring monitoring
+ACYP002,River-Floodplain Governance,social-ecological,K,0.66,0.62,0.52,0.44,0.70,0.20,mixed adaptive-cycle profile requiring monitoring
+ACYP003,Urban Stormwater System,infrastructure,K,0.70,0.78,0.38,0.66,0.60,0.12,conservation-phase brittleness concern
+ACYP004,Community Recovery Network,community,r,0.36,0.28,0.78,0.20,0.52,0.44,high experimentation and growth potential
+ACYP005,Regional Food Supply Chain,economic,K,0.76,0.82,0.34,0.72,0.56,0.10,conservation-phase brittleness concern
+ACYP006,Wetland Restoration Program,institutional,alpha,0.30,0.24,0.70,0.18,0.64,0.38,strong reorganization potential
+ACYP007,Public Health Surveillance System,institutional,K,0.68,0.72,0.42,0.60,0.66,0.16,mixed adaptive-cycle profile requiring monitoring
+ACYP008,Dryland Rangeland System,social-ecological,K,0.62,0.58,0.48,0.46,0.58,0.22,mixed adaptive-cycle profile requiring monitoring

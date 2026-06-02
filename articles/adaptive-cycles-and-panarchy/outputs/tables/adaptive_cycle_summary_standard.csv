@@ -1,0 +1,9 @@
+system_id,system_name,release_events,alpha_steps,minimum_resilience,maximum_rigidity,average_memory
+ACYP001,Fire-Prone Forest Mosaic,30,40,0.2015,0.8,0.7318
+ACYP002,River-Floodplain Governance,27,81,0.2036,0.8002,0.7124
+ACYP003,Urban Stormwater System,24,149,0.1997,0.7938,0.6776
+ACYP004,Community Recovery Network,21,133,0.2142,0.7993,0.6635
+ACYP005,Regional Food Supply Chain,24,149,0.1831,0.7999,0.6543
+ACYP006,Wetland Restoration Program,25,69,0.2044,0.7989,0.7241
+ACYP007,Public Health Surveillance System,24,129,0.2273,0.7985,0.694
+ACYP008,Dryland Rangeland System,28,76,0.2114,0.797,0.6408
