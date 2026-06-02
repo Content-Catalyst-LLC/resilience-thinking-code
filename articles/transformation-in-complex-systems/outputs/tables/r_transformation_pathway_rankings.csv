@@ -1,0 +1,43 @@
+pathway_id,pathway,system_domain,adaptive_support,transformability,governance_readiness,justice_contribution,ecological_viability,legitimacy,resource_feasibility,structural_risk,critical_function,transformation_value,scenario,rank
+TP002,Climate-Resilient Urban Redesign,urban systems and infrastructure,8.3,8.5,7.8,8.4,8.1,7.8,7,4,heat flood housing mobility and public-health resilience,7.5440000000000005,Adaptation-first,1
+TP006,Public Health Prevention Transformation,public health and community resilience,8.4,8.1,7.6,8.6,7.4,8,7.3,3.8,prevention workforce trust care access surveillance and community health,7.479,Adaptation-first,2
+TP005,Watershed Restoration and Land-Use Transition,watersheds and social-ecological systems,8.1,8.4,7.5,7.9,8.9,7.6,6.9,4.3,flood buffering water quality biodiversity and land-use resilience,7.4110000000000005,Adaptation-first,3
+TP001,Energy System Transition,energy and infrastructure,8,8.8,7.4,7.1,8.7,7.5,7.2,4.2,low-carbon reliable affordable and resilient energy service,7.327000000000001,Adaptation-first,4
+TP004,Institutional Governance Reform,governance and public institutions,7.6,8.7,8.4,8.2,7.2,8.1,6.8,4.1,legitimacy accountability coordination and adaptive public capacity,7.322,Adaptation-first,5
+TP003,Regional Food System Reconfiguration,food systems and agriculture,7.9,8.2,7.2,7.8,8.3,7.4,7.1,4.4,food security soil health local capacity and supply resilience,7.194999999999999,Adaptation-first,6
+TP002,Climate-Resilient Urban Redesign,urban systems and infrastructure,8.3,8.5,7.8,8.4,8.1,7.8,7,4,heat flood housing mobility and public-health resilience,7.5329999999999995,Balanced,1
+TP005,Watershed Restoration and Land-Use Transition,watersheds and social-ecological systems,8.1,8.4,7.5,7.9,8.9,7.6,6.9,4.3,flood buffering water quality biodiversity and land-use resilience,7.4239999999999995,Balanced,2
+TP004,Institutional Governance Reform,governance and public institutions,7.6,8.7,8.4,8.2,7.2,8.1,6.8,4.1,legitimacy accountability coordination and adaptive public capacity,7.422999999999999,Balanced,3
+TP006,Public Health Prevention Transformation,public health and community resilience,8.4,8.1,7.6,8.6,7.4,8,7.3,3.8,prevention workforce trust care access surveillance and community health,7.409,Balanced,4
+TP001,Energy System Transition,energy and infrastructure,8,8.8,7.4,7.1,8.7,7.5,7.2,4.2,low-carbon reliable affordable and resilient energy service,7.346,Balanced,5
+TP003,Regional Food System Reconfiguration,food systems and agriculture,7.9,8.2,7.2,7.8,8.3,7.4,7.1,4.4,food security soil health local capacity and supply resilience,7.196000000000001,Balanced,6
+TP005,Watershed Restoration and Land-Use Transition,watersheds and social-ecological systems,8.1,8.4,7.5,7.9,8.9,7.6,6.9,4.3,flood buffering water quality biodiversity and land-use resilience,7.621,Ecological-viability-first,1
+TP002,Climate-Resilient Urban Redesign,urban systems and infrastructure,8.3,8.5,7.8,8.4,8.1,7.8,7,4,heat flood housing mobility and public-health resilience,7.514,Ecological-viability-first,2
+TP001,Energy System Transition,energy and infrastructure,8,8.8,7.4,7.1,8.7,7.5,7.2,4.2,low-carbon reliable affordable and resilient energy service,7.509000000000001,Ecological-viability-first,3
+TP003,Regional Food System Reconfiguration,food systems and agriculture,7.9,8.2,7.2,7.8,8.3,7.4,7.1,4.4,food security soil health local capacity and supply resilience,7.306,Ecological-viability-first,4
+TP006,Public Health Prevention Transformation,public health and community resilience,8.4,8.1,7.6,8.6,7.4,8,7.3,3.8,prevention workforce trust care access surveillance and community health,7.258,Ecological-viability-first,5
+TP004,Institutional Governance Reform,governance and public institutions,7.6,8.7,8.4,8.2,7.2,8.1,6.8,4.1,legitimacy accountability coordination and adaptive public capacity,7.226000000000001,Ecological-viability-first,6
+TP004,Institutional Governance Reform,governance and public institutions,7.6,8.7,8.4,8.2,7.2,8.1,6.8,4.1,legitimacy accountability coordination and adaptive public capacity,7.478999999999999,Governance-first,1
+TP002,Climate-Resilient Urban Redesign,urban systems and infrastructure,8.3,8.5,7.8,8.4,8.1,7.8,7,4,heat flood housing mobility and public-health resilience,7.443999999999999,Governance-first,2
+TP006,Public Health Prevention Transformation,public health and community resilience,8.4,8.1,7.6,8.6,7.4,8,7.3,3.8,prevention workforce trust care access surveillance and community health,7.323,Governance-first,3
+TP005,Watershed Restoration and Land-Use Transition,watersheds and social-ecological systems,8.1,8.4,7.5,7.9,8.9,7.6,6.9,4.3,flood buffering water quality biodiversity and land-use resilience,7.292,Governance-first,4
+TP001,Energy System Transition,energy and infrastructure,8,8.8,7.4,7.1,8.7,7.5,7.2,4.2,low-carbon reliable affordable and resilient energy service,7.208000000000001,Governance-first,5
+TP003,Regional Food System Reconfiguration,food systems and agriculture,7.9,8.2,7.2,7.8,8.3,7.4,7.1,4.4,food security soil health local capacity and supply resilience,7.057000000000001,Governance-first,6
+TP002,Climate-Resilient Urban Redesign,urban systems and infrastructure,8.3,8.5,7.8,8.4,8.1,7.8,7,4,heat flood housing mobility and public-health resilience,7.574000000000001,Justice-first,1
+TP006,Public Health Prevention Transformation,public health and community resilience,8.4,8.1,7.6,8.6,7.4,8,7.3,3.8,prevention workforce trust care access surveillance and community health,7.529999999999999,Justice-first,2
+TP004,Institutional Governance Reform,governance and public institutions,7.6,8.7,8.4,8.2,7.2,8.1,6.8,4.1,legitimacy accountability coordination and adaptive public capacity,7.467,Justice-first,3
+TP005,Watershed Restoration and Land-Use Transition,watersheds and social-ecological systems,8.1,8.4,7.5,7.9,8.9,7.6,6.9,4.3,flood buffering water quality biodiversity and land-use resilience,7.374,Justice-first,4
+TP003,Regional Food System Reconfiguration,food systems and agriculture,7.9,8.2,7.2,7.8,8.3,7.4,7.1,4.4,food security soil health local capacity and supply resilience,7.176,Justice-first,5
+TP001,Energy System Transition,energy and infrastructure,8,8.8,7.4,7.1,8.7,7.5,7.2,4.2,low-carbon reliable affordable and resilient energy service,7.132000000000001,Justice-first,6
+TP002,Climate-Resilient Urban Redesign,urban systems and infrastructure,8.3,8.5,7.8,8.4,8.1,7.8,7,4,heat flood housing mobility and public-health resilience,5.824,Risk-sensitive,1
+TP006,Public Health Prevention Transformation,public health and community resilience,8.4,8.1,7.6,8.6,7.4,8,7.3,3.8,prevention workforce trust care access surveillance and community health,5.745000000000001,Risk-sensitive,2
+TP004,Institutional Governance Reform,governance and public institutions,7.6,8.7,8.4,8.2,7.2,8.1,6.8,4.1,legitimacy accountability coordination and adaptive public capacity,5.7170000000000005,Risk-sensitive,3
+TP005,Watershed Restoration and Land-Use Transition,watersheds and social-ecological systems,8.1,8.4,7.5,7.9,8.9,7.6,6.9,4.3,flood buffering water quality biodiversity and land-use resilience,5.692,Risk-sensitive,4
+TP001,Energy System Transition,energy and infrastructure,8,8.8,7.4,7.1,8.7,7.5,7.2,4.2,low-carbon reliable affordable and resilient energy service,5.628000000000001,Risk-sensitive,5
+TP003,Regional Food System Reconfiguration,food systems and agriculture,7.9,8.2,7.2,7.8,8.3,7.4,7.1,4.4,food security soil health local capacity and supply resilience,5.477,Risk-sensitive,6
+TP002,Climate-Resilient Urban Redesign,urban systems and infrastructure,8.3,8.5,7.8,8.4,8.1,7.8,7,4,heat flood housing mobility and public-health resilience,7.584,Transformation-first,1
+TP004,Institutional Governance Reform,governance and public institutions,7.6,8.7,8.4,8.2,7.2,8.1,6.8,4.1,legitimacy accountability coordination and adaptive public capacity,7.541999999999999,Transformation-first,2
+TP001,Energy System Transition,energy and infrastructure,8,8.8,7.4,7.1,8.7,7.5,7.2,4.2,low-carbon reliable affordable and resilient energy service,7.487000000000001,Transformation-first,3
+TP005,Watershed Restoration and Land-Use Transition,watersheds and social-ecological systems,8.1,8.4,7.5,7.9,8.9,7.6,6.9,4.3,flood buffering water quality biodiversity and land-use resilience,7.471000000000001,Transformation-first,4
+TP006,Public Health Prevention Transformation,public health and community resilience,8.4,8.1,7.6,8.6,7.4,8,7.3,3.8,prevention workforce trust care access surveillance and community health,7.419,Transformation-first,5
+TP003,Regional Food System Reconfiguration,food systems and agriculture,7.9,8.2,7.2,7.8,8.3,7.4,7.1,4.4,food security soil health local capacity and supply resilience,7.255,Transformation-first,6

@@ -1,0 +1,7 @@
+pathway_id,pathway,mean_transformation_value,median_transformation_value,probability_ranked_first,probability_top_two,probability_bottom_two
+TP002,Climate-Resilient Urban Redesign,7.52782,7.53119,33.7,57.0,14.3
+TP004,Institutional Governance Reform,7.41964,7.42367,17.4,36.43,26.13
+TP006,Public Health Prevention Transformation,7.4092,7.40685,17.33,34.87,29.43
+TP005,Watershed Restoration and Land-Use Transition,7.41841,7.42045,17.17,36.43,26.6
+TP001,Energy System Transition,7.34589,7.3454,10.73,25.43,38.93
+TP003,Regional Food System Reconfiguration,7.1993,7.19942,3.67,9.83,64.6

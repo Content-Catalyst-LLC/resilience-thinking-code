@@ -1,0 +1,8 @@
+scenario,adaptive_support_weight,transformability_weight,governance_readiness_weight,justice_contribution_weight,ecological_viability_weight,legitimacy_weight,resource_feasibility_weight,structural_risk_weight,description
+Balanced,0.16,0.22,0.16,0.15,0.13,0.08,0.05,0.05,Balanced transformation scoring across capacity governance justice ecology legitimacy feasibility and risk.
+Adaptation-first,0.32,0.16,0.13,0.12,0.10,0.07,0.05,0.05,Prioritizes adaptive support and near-term functional continuity.
+Transformation-first,0.12,0.36,0.13,0.12,0.10,0.07,0.05,0.05,Prioritizes depth of structural reorganization.
+Governance-first,0.12,0.16,0.32,0.12,0.10,0.08,0.05,0.05,Prioritizes institutional readiness and coordination.
+Justice-first,0.10,0.16,0.13,0.34,0.10,0.08,0.04,0.05,Prioritizes reducing unequal vulnerability and protecting affected communities.
+Ecological-viability-first,0.10,0.16,0.12,0.12,0.34,0.07,0.04,0.05,Prioritizes ecological function biodiversity and environmental limits.
+Risk-sensitive,0.13,0.17,0.15,0.13,0.12,0.07,0.04,0.19,Prioritizes structural-risk penalties and transition failure avoidance.
