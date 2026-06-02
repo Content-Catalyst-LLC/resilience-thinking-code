@@ -1,0 +1,7 @@
+system,mean_health_system_function,minimum_health_system_function,final_health_system_function,mean_equity_adjusted_function,maximum_dependency_coupling,final_dependency_coupling
+Community Health and Outreach Network,1.0,1.0,1.0,0.99125,0.65778,0.55989
+Local Public Health Department Network,1.0,1.0,1.0,0.99111,0.71868,0.70553
+Climate and Environmental Health Program,1.0,1.0,1.0,0.99083,0.69887,0.69192
+Regional Hospital and Emergency Care System,1.0,1.0,1.0,0.99069,0.78267,0.77777
+Laboratory and Diagnostic Network,1.0,1.0,1.0,0.99041,0.73838,0.69736
+Digital Health and Emergency Data Infrastructure,1.0,1.0,1.0,0.99027,0.83863,0.81727

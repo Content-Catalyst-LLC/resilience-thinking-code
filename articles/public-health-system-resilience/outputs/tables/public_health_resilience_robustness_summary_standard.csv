@@ -1,0 +1,7 @@
+strategy_id,strategy,mean_resilience_value,median_resilience_value,probability_ranked_first,probability_top_two,probability_bottom_two
+PH006,Equity-Centered Emergency Preparedness Framework,8.20986,8.20886,50.23,79.2,2.73
+PH004,Community Health Trust and Outreach Network,8.15273,8.15773,36.73,72.07,5.67
+PH002,Essential Health Service Continuity Program,7.82837,7.82678,4.23,13.4,44.53
+PH001,Integrated Surveillance and Laboratory Modernization,7.80246,7.80157,3.43,11.3,48.83
+PH003,Public Health Workforce Resilience Initiative,7.81039,7.81518,3.1,12.6,47.63
+PH005,Climate-Resilient Health Facilities Program,7.78845,7.79218,2.27,11.43,50.6

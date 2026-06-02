@@ -1,0 +1,9 @@
+scenario,prevention_weight,detection_weight,service_continuity_weight,workforce_capacity_weight,adaptive_governance_weight,trust_weight,equity_protection_weight,implementation_burden_weight,description
+Balanced,0.14,0.15,0.15,0.14,0.14,0.13,0.13,0.02,Balanced public health resilience across prevention detection continuity workforce governance trust equity and implementation burden.
+Prevention-first,0.38,0.12,0.12,0.10,0.10,0.09,0.08,0.01,Prioritizes preventing avoidable burden before crisis.
+Detection-first,0.10,0.38,0.12,0.10,0.10,0.10,0.09,0.01,Prioritizes surveillance laboratories early warning diagnostics and situational awareness.
+Continuity-first,0.10,0.12,0.38,0.10,0.10,0.10,0.09,0.01,Prioritizes preserving essential public health and healthcare services under disruption.
+Workforce-first,0.10,0.12,0.12,0.36,0.10,0.10,0.09,0.01,Prioritizes staffing depth worker safety surge capacity training and retention.
+Trust-first,0.10,0.12,0.12,0.10,0.10,0.36,0.09,0.01,Prioritizes trusted communication community legitimacy and misinformation resilience.
+Equity-first,0.09,0.10,0.12,0.10,0.12,0.13,0.33,0.01,Prioritizes vulnerable populations fair resource distribution access and community authority.
+Implementation-sensitive,0.13,0.13,0.13,0.12,0.12,0.12,0.12,0.13,Penalizes strategies with higher implementation burden when administrative capacity is constrained.

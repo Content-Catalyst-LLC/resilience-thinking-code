@@ -1,0 +1,7 @@
+strategy_id,strategy,system_domain,prevention,detection,service_continuity,workforce_capacity,adaptive_governance,trust,equity_protection,implementation_burden,critical_function
+PH001,Integrated Surveillance and Laboratory Modernization,surveillance and laboratories,7.8,9.0,7.9,7.8,8.4,7.5,7.7,3.5,improves early warning laboratory turnaround data integration variant tracking and public health intelligence
+PH002,Essential Health Service Continuity Program,service continuity and care access,7.6,7.4,9.0,8.1,8.2,7.9,8.2,3.2,maintains emergency care primary care maternal care medication access mental health and chronic disease services
+PH003,Public Health Workforce Resilience Initiative,workforce and surge capacity,7.4,7.5,8.0,9.0,8.3,8.0,8.1,3.4,protects staffing surge cross-training worker safety mental health retention and leadership capacity
+PH004,Community Health Trust and Outreach Network,community trust and outreach,8.2,7.9,8.1,8.2,8.5,9.0,8.9,2.8,builds trusted outreach language access local knowledge health navigation and community partnership capacity
+PH005,Climate-Resilient Health Facilities Program,climate health infrastructure,7.9,7.8,8.7,7.9,8.1,7.7,8.0,3.6,protects hospitals clinics laboratories shelters cooling water power ventilation and facility operations under climate stress
+PH006,Equity-Centered Emergency Preparedness Framework,equity and governance,8.1,8.0,8.2,8.3,8.8,8.7,9.1,3.0,aligns emergency powers resource distribution accessible communication community authority and recovery with equity

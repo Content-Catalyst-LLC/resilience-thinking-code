@@ -1,0 +1,6 @@
+event_id,event_name,primary_stress,hazard_intensity,surge_demand,service_disruption,workforce_burden,trust_pressure,supply_chain_stress,equity_burden,dependency_amplification,affected_functions
+EV001,Respiratory outbreak with misinformation surge,infectious disease,0.84,0.86,0.62,0.78,0.82,0.70,0.84,0.78,surveillance testing vaccination emergency care routine care communication workforce and public trust
+EV002,Extreme heatwave with grid and cooling stress,climate heat,0.86,0.74,0.70,0.68,0.62,0.58,0.88,0.74,emergency care cooling centers medication safety long-term care outreach mortality surveillance and grid dependence
+EV003,Flood and water contamination event,water and flood,0.82,0.72,0.76,0.70,0.66,0.72,0.86,0.78,water testing sanitation shelter health mold injury medication access and public communication
+EV004,Hospital cyberattack and data outage,cyber disruption,0.74,0.78,0.88,0.76,0.70,0.66,0.76,0.90,EHR emergency dispatch pharmacy records laboratory reporting scheduling billing and continuity of care
+EV005,Compound outbreak heat supply-chain and workforce crisis,compound,0.90,0.92,0.88,0.90,0.82,0.86,0.92,0.92,surge care surveillance laboratories workforce supplies communication essential services and community support
