@@ -1,0 +1,11 @@
+scenario,monitoring_value_weight,forecasting_value_weight,scenario_value_weight,decision_support_weight,governance_quality_weight,equity_safeguards_weight,human_oversight_weight,local_knowledge_weight,security_resilience_weight,ai_risk_weight,implementation_burden_weight,description
+Balanced,0.11,0.10,0.11,0.11,0.12,0.12,0.12,0.10,0.10,0.05,0.04,Balanced AI-enabled resilience across monitoring forecasting scenarios decisions governance equity human oversight local knowledge security risk and burden.
+Early-warning-first,0.28,0.18,0.08,0.08,0.09,0.08,0.08,0.07,0.08,0.04,0.04,Prioritizes weak signal detection anomaly detection forecasting and timely warnings.
+Scenario-first,0.08,0.14,0.28,0.12,0.10,0.09,0.09,0.09,0.07,0.04,0.04,Prioritizes stress testing scenario modeling plausible futures and trade-off exploration.
+Decision-support,0.09,0.09,0.11,0.28,0.12,0.09,0.13,0.08,0.07,0.03,0.03,Prioritizes decision support linked to human review accountable judgment and action.
+Governance-first,0.08,0.08,0.09,0.09,0.28,0.14,0.13,0.10,0.08,0.03,0.03,Prioritizes governance audit purpose limitation monitoring accountability and corrective action.
+Equity-first,0.07,0.07,0.09,0.09,0.16,0.28,0.15,0.12,0.07,0.03,0.03,Prioritizes equity safeguards vulnerability justice representation appeal and data rights.
+Human-oversight-first,0.07,0.07,0.09,0.13,0.14,0.13,0.28,0.10,0.07,0.03,0.03,Prioritizes human judgment local validation appeal manual fallback and override authority.
+Local-knowledge-first,0.07,0.07,0.10,0.09,0.13,0.15,0.14,0.28,0.07,0.03,0.03,Prioritizes local knowledge community participation Indigenous knowledge frontline expertise and contextual interpretation.
+Security-first,0.09,0.08,0.09,0.09,0.13,0.09,0.11,0.08,0.28,0.04,0.03,Prioritizes security adversarial robustness cyber defense data poisoning resistance and misuse prevention.
+Implementation-aware,0.11,0.10,0.11,0.11,0.12,0.12,0.12,0.10,0.10,0.03,0.12,Penalizes implementation burden when governance staffing data infrastructure trust or capacity is constrained.

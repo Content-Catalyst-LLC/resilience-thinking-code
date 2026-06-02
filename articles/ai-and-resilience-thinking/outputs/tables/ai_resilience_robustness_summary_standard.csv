@@ -1,0 +1,8 @@
+strategy_id,strategy,mean_ai_resilience_value,median_ai_resilience_value,probability_ranked_first,probability_top_two,probability_bottom_two
+AIR006,AI Governance Audit and Drift Monitoring,8.28894,8.28397,57.4,81.83,1.07
+AIR004,AI Decision Support with Human Oversight,8.15059,8.15153,24.1,55.2,4.27
+AIR005,Participatory AI and Local Knowledge Integration,8.0372,8.0405,8.1,26.6,13.6
+AIR007,AI Security and Misuse Resistance,7.98652,7.98594,6.27,19.23,20.1
+AIR002,AI Scenario Modeling and Stress Testing,7.91321,7.91302,2.67,10.5,33.27
+AIR003,AI-Assisted Infrastructure Maintenance,7.77644,7.7775,0.83,3.33,65.3
+AIR001,AI Early Warning and Anomaly Detection,7.79245,7.79411,0.63,3.3,62.4
