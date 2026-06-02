@@ -1,0 +1,481 @@
+system_id,system,system_domain,time,event,stress_load,adaptive_response,function_level,threshold_proximity,justice_weighted_function
+SYS001,Urban Heat System,urban public health,0,background climate stress,0.15171,0.123,0.82524,0.52156,0.86915
+SYS001,Urban Heat System,urban public health,1,background climate stress,0.15542,0.123,0.82903,0.52319,0.87313
+SYS001,Urban Heat System,urban public health,2,background climate stress,0.15919,0.123,0.83132,0.5249,0.87555
+SYS001,Urban Heat System,urban public health,3,background climate stress,0.15955,0.123,0.83336,0.52661,0.87769
+SYS001,Urban Heat System,urban public health,4,background climate stress,0.16073,0.123,0.83483,0.52835,0.87924
+SYS001,Urban Heat System,urban public health,5,background climate stress,0.15899,0.123,0.83678,0.53006,0.8813
+SYS001,Urban Heat System,urban public health,6,background climate stress,0.16323,0.123,0.83708,0.53184,0.88161
+SYS001,Urban Heat System,urban public health,7,background climate stress,0.16178,0.123,0.83775,0.5336,0.88232
+SYS001,Urban Heat System,urban public health,8,background climate stress,0.15865,0.123,0.83941,0.5353,0.88406
+SYS001,Urban Heat System,urban public health,9,background climate stress,0.16297,0.123,0.83937,0.53708,0.88403
+SYS001,Urban Heat System,urban public health,10,background climate stress,0.16025,0.123,0.84017,0.53881,0.88487
+SYS001,Urban Heat System,urban public health,11,background climate stress,0.16916,0.123,0.83763,0.54072,0.88219
+SYS001,Urban Heat System,urban public health,12,Extreme heat and grid stress,0.71889,0.123,0.63703,0.55362,0.56747
+SYS001,Urban Heat System,urban public health,13,background climate stress,0.17265,0.123,0.63205,0.5556,0.66567
+SYS001,Urban Heat System,urban public health,14,background climate stress,0.16813,0.123,0.62853,0.55749,0.66197
+SYS001,Urban Heat System,urban public health,15,background climate stress,0.16886,0.123,0.62461,0.55939,0.65783
+SYS001,Urban Heat System,urban public health,16,background climate stress,0.17395,0.123,0.61869,0.56139,0.65161
+SYS001,Urban Heat System,urban public health,17,background climate stress,0.16986,0.123,0.61409,0.56331,0.64676
+SYS001,Urban Heat System,urban public health,18,background climate stress,0.1706,0.123,0.60907,0.56525,0.64148
+SYS001,Urban Heat System,urban public health,19,background climate stress,0.17166,0.123,0.60352,0.5672,0.63562
+SYS001,Urban Heat System,urban public health,20,background climate stress,0.17406,0.123,0.59694,0.56921,0.62869
+SYS001,Urban Heat System,urban public health,21,background climate stress,0.17755,0.123,0.58894,0.57128,0.62027
+SYS001,Urban Heat System,urban public health,22,background climate stress,0.18158,0.123,0.57933,0.57344,0.61015
+SYS001,Urban Heat System,urban public health,23,background climate stress,0.1758,0.123,0.57163,0.57548,0.60204
+SYS001,Urban Heat System,urban public health,24,background climate stress,0.1835,0.123,0.56099,0.57767,0.59083
+SYS001,Urban Heat System,urban public health,25,background climate stress,0.1809,0.123,0.55111,0.57982,0.58043
+SYS001,Urban Heat System,urban public health,26,background climate stress,0.18501,0.123,0.53958,0.58204,0.56829
+SYS001,Urban Heat System,urban public health,27,background climate stress,0.18527,0.123,0.52779,0.58427,0.55586
+SYS001,Urban Heat System,urban public health,28,Coastal storm surge after wetland loss,0.69396,0.123,0.33268,0.59667,0.30194
+SYS001,Urban Heat System,urban public health,29,background climate stress,0.18269,0.123,0.32064,0.59885,0.33769
+SYS001,Urban Heat System,urban public health,30,background climate stress,0.18809,0.123,0.30648,0.60114,0.32278
+SYS001,Urban Heat System,urban public health,31,background climate stress,0.18438,0.123,0.29347,0.60335,0.30908
+SYS001,Urban Heat System,urban public health,32,background climate stress,0.18433,0.123,0.2803,0.60556,0.29522
+SYS001,Urban Heat System,urban public health,33,background climate stress,0.18884,0.123,0.26534,0.60786,0.27945
+SYS001,Urban Heat System,urban public health,34,background climate stress,0.19326,0.123,0.24859,0.61025,0.26182
+SYS001,Urban Heat System,urban public health,35,background climate stress,0.19243,0.123,0.23196,0.61262,0.2443
+SYS001,Urban Heat System,urban public health,36,background climate stress,0.19009,0.123,0.21597,0.61495,0.22746
+SYS001,Urban Heat System,urban public health,37,background climate stress,0.19695,0.123,0.19733,0.61741,0.20783
+SYS001,Urban Heat System,urban public health,38,background climate stress,0.19865,0.123,0.17789,0.61991,0.18735
+SYS001,Urban Heat System,urban public health,39,background climate stress,0.1936,0.123,0.16006,0.6223,0.16857
+SYS001,Urban Heat System,urban public health,40,background climate stress,0.19653,0.123,0.14098,0.62476,0.14848
+SYS001,Urban Heat System,urban public health,41,background climate stress,0.19928,0.123,0.12072,0.62727,0.12714
+SYS001,Urban Heat System,urban public health,42,background climate stress,0.20271,0.123,0.09903,0.62985,0.10429
+SYS001,Urban Heat System,urban public health,43,Drought with food and water stress,0.72988,0.123,0.0,0.64297,0.0
+SYS001,Urban Heat System,urban public health,44,background climate stress,0.19921,0.123,0.0,0.64548,0.0
+SYS001,Urban Heat System,urban public health,45,background climate stress,0.2041,0.123,0.0,0.64808,0.0
+SYS001,Urban Heat System,urban public health,46,background climate stress,0.20889,0.123,0.0,0.65078,0.0
+SYS001,Urban Heat System,urban public health,47,background climate stress,0.20672,0.123,0.0,0.65344,0.0
+SYS001,Urban Heat System,urban public health,48,background climate stress,0.20876,0.123,0.0,0.65614,0.0
+SYS001,Urban Heat System,urban public health,49,background climate stress,0.21035,0.123,0.0,0.65887,0.0
+SYS001,Urban Heat System,urban public health,50,background climate stress,0.20902,0.123,0.0,0.66158,0.0
+SYS001,Urban Heat System,urban public health,51,background climate stress,0.20813,0.123,0.0,0.66426,0.0
+SYS001,Urban Heat System,urban public health,52,background climate stress,0.21191,0.123,0.0,0.66702,0.0
+SYS001,Urban Heat System,urban public health,53,background climate stress,0.21243,0.123,0.0,0.6698,0.0
+SYS001,Urban Heat System,urban public health,54,background climate stress,0.21184,0.123,0.0,0.67256,0.0
+SYS001,Urban Heat System,urban public health,55,background climate stress,0.21752,0.123,0.0,0.67543,0.0
+SYS001,Urban Heat System,urban public health,56,background climate stress,0.21419,0.123,0.0,0.67824,0.0
+SYS001,Urban Heat System,urban public health,57,background climate stress,0.21636,0.123,0.0,0.68109,0.0
+SYS001,Urban Heat System,urban public health,58,background climate stress,0.21996,0.123,0.0,0.68401,0.0
+SYS001,Urban Heat System,urban public health,59,Wildfire smoke and evacuation pressure,0.74232,0.123,0.0,0.69739,0.0
+SYS001,Urban Heat System,urban public health,60,background climate stress,0.22398,0.123,0.0,0.70039,0.0
+SYS001,Urban Heat System,urban public health,61,background climate stress,0.22578,0.123,0.0,0.70343,0.0
+SYS001,Urban Heat System,urban public health,62,background climate stress,0.22475,0.123,0.0,0.70645,0.0
+SYS001,Urban Heat System,urban public health,63,background climate stress,0.22227,0.123,0.0,0.70942,0.0
+SYS001,Urban Heat System,urban public health,64,background climate stress,0.22873,0.123,0.0,0.71252,0.0
+SYS001,Urban Heat System,urban public health,65,background climate stress,0.23041,0.123,0.0,0.71565,0.0
+SYS001,Urban Heat System,urban public health,66,background climate stress,0.22979,0.123,0.0,0.71877,0.0
+SYS001,Urban Heat System,urban public health,67,background climate stress,0.23138,0.123,0.0,0.72192,0.0
+SYS001,Urban Heat System,urban public health,68,background climate stress,0.23023,0.123,0.0,0.72505,0.0
+SYS001,Urban Heat System,urban public health,69,background climate stress,0.23118,0.123,0.0,0.7282,0.0
+SYS001,Urban Heat System,urban public health,70,Compound flood heat and public health disruption,0.80147,0.123,0.0,0.74275,0.0
+SYS001,Urban Heat System,urban public health,71,background climate stress,0.23572,0.123,0.0,0.74599,0.0
+SYS001,Urban Heat System,urban public health,72,background climate stress,0.23294,0.123,0.0,0.74917,0.0
+SYS001,Urban Heat System,urban public health,73,background climate stress,0.23884,0.123,0.0,0.75247,0.0
+SYS001,Urban Heat System,urban public health,74,background climate stress,0.24165,0.123,0.0,0.75583,0.0
+SYS001,Urban Heat System,urban public health,75,background climate stress,0.23654,0.123,0.0,0.75908,0.0
+SYS001,Urban Heat System,urban public health,76,background climate stress,0.24299,0.123,0.0,0.76247,0.0
+SYS001,Urban Heat System,urban public health,77,background climate stress,0.24372,0.123,0.0,0.76586,0.0
+SYS001,Urban Heat System,urban public health,78,background climate stress,0.23961,0.123,0.0,0.76918,0.0
+SYS001,Urban Heat System,urban public health,79,background climate stress,0.24013,0.123,0.0,0.77251,0.0
+SYS002,Coastal Watershed,social-ecological systems,0,background climate stress,0.15043,0.1684,0.86129,0.48099,0.89747
+SYS002,Coastal Watershed,social-ecological systems,1,background climate stress,0.1478,0.1684,0.88345,0.48192,0.92056
+SYS002,Coastal Watershed,social-ecological systems,2,background climate stress,0.15558,0.1684,0.90274,0.48301,0.94066
+SYS002,Coastal Watershed,social-ecological systems,3,background climate stress,0.15607,0.1684,0.92176,0.48411,0.96048
+SYS002,Coastal Watershed,social-ecological systems,4,background climate stress,0.15282,0.1684,0.94187,0.48515,0.98142
+SYS002,Coastal Watershed,social-ecological systems,5,background climate stress,0.15544,0.1684,0.96094,0.48624,1.0
+SYS002,Coastal Watershed,social-ecological systems,6,background climate stress,0.15226,0.1684,0.98108,0.48726,1.0
+SYS002,Coastal Watershed,social-ecological systems,7,background climate stress,0.15318,0.1684,1.0,0.48831,1.0
+SYS002,Coastal Watershed,social-ecological systems,8,background climate stress,0.15464,0.1684,1.0,0.48938,1.0
+SYS002,Coastal Watershed,social-ecological systems,9,background climate stress,0.15913,0.1684,1.0,0.49054,1.0
+SYS002,Coastal Watershed,social-ecological systems,10,background climate stress,0.15568,0.1684,1.0,0.49163,1.0
+SYS002,Coastal Watershed,social-ecological systems,11,background climate stress,0.16337,0.1684,1.0,0.49288,1.0
+SYS002,Coastal Watershed,social-ecological systems,12,Extreme heat and grid stress,0.71267,0.1684,0.81786,0.50511,0.71939
+SYS002,Coastal Watershed,social-ecological systems,13,background climate stress,0.15846,0.1684,0.83425,0.50626,0.86929
+SYS002,Coastal Watershed,social-ecological systems,14,background climate stress,0.16043,0.1684,0.84984,0.50745,0.88553
+SYS002,Coastal Watershed,social-ecological systems,15,background climate stress,0.16037,0.1684,0.86536,0.50863,0.90171
+SYS002,Coastal Watershed,social-ecological systems,16,background climate stress,0.16737,0.1684,0.87826,0.50996,0.91515
+SYS002,Coastal Watershed,social-ecological systems,17,background climate stress,0.16463,0.1684,0.89205,0.51123,0.92951
+SYS002,Coastal Watershed,social-ecological systems,18,background climate stress,0.16647,0.1684,0.90507,0.51254,0.94308
+SYS002,Coastal Watershed,social-ecological systems,19,background climate stress,0.16604,0.1684,0.91814,0.51384,0.9567
+SYS002,Coastal Watershed,social-ecological systems,20,background climate stress,0.16974,0.1684,0.92977,0.51521,0.96882
+SYS002,Coastal Watershed,social-ecological systems,21,background climate stress,0.16853,0.1684,0.94173,0.51656,0.98129
+SYS002,Coastal Watershed,social-ecological systems,22,background climate stress,0.16767,0.1684,0.95389,0.5179,0.99396
+SYS002,Coastal Watershed,social-ecological systems,23,background climate stress,0.17056,0.1684,0.96491,0.51929,1.0
+SYS002,Coastal Watershed,social-ecological systems,24,background climate stress,0.17033,0.1684,0.9759,0.52067,1.0
+SYS002,Coastal Watershed,social-ecological systems,25,background climate stress,0.16948,0.1684,0.98708,0.52204,1.0
+SYS002,Coastal Watershed,social-ecological systems,26,background climate stress,0.1768,0.1684,0.99552,0.52356,1.0
+SYS002,Coastal Watershed,social-ecological systems,27,background climate stress,0.17642,0.1684,1.0,0.52507,1.0
+SYS002,Coastal Watershed,social-ecological systems,28,Coastal storm surge after wetland loss,0.68626,0.1684,0.82479,0.53677,0.73934
+SYS002,Coastal Watershed,social-ecological systems,29,background climate stress,0.17944,0.1684,0.8311,0.53834,0.866
+SYS002,Coastal Watershed,social-ecological systems,30,background climate stress,0.18233,0.1684,0.83624,0.53996,0.87136
+SYS002,Coastal Watershed,social-ecological systems,31,background climate stress,0.17887,0.1684,0.8425,0.54152,0.87788
+SYS002,Coastal Watershed,social-ecological systems,32,background climate stress,0.17965,0.1684,0.84835,0.54309,0.88398
+SYS002,Coastal Watershed,social-ecological systems,33,background climate stress,0.18097,0.1684,0.8536,0.54469,0.88945
+SYS002,Coastal Watershed,social-ecological systems,34,background climate stress,0.18173,0.1684,0.85845,0.5463,0.89451
+SYS002,Coastal Watershed,social-ecological systems,35,background climate stress,0.18504,0.1684,0.86198,0.54798,0.89819
+SYS002,Coastal Watershed,social-ecological systems,36,background climate stress,0.18002,0.1684,0.86719,0.54956,0.90361
+SYS002,Coastal Watershed,social-ecological systems,37,background climate stress,0.18506,0.1684,0.87045,0.55124,0.90701
+SYS002,Coastal Watershed,social-ecological systems,38,background climate stress,0.18664,0.1684,0.87301,0.55296,0.90967
+SYS002,Coastal Watershed,social-ecological systems,39,background climate stress,0.18587,0.1684,0.8757,0.55465,0.91248
+SYS002,Coastal Watershed,social-ecological systems,40,background climate stress,0.1839,0.1684,0.87897,0.55631,0.91589
+SYS002,Coastal Watershed,social-ecological systems,41,background climate stress,0.19098,0.1684,0.87956,0.55811,0.91651
+SYS002,Coastal Watershed,social-ecological systems,42,background climate stress,0.18568,0.1684,0.88192,0.5598,0.91896
+SYS002,Coastal Watershed,social-ecological systems,43,Drought with food and water stress,0.72077,0.1684,0.6915,0.5722,0.61212
+SYS002,Coastal Watershed,social-ecological systems,44,background climate stress,0.19395,0.1684,0.68976,0.57405,0.71873
+SYS002,Coastal Watershed,social-ecological systems,45,background climate stress,0.19121,0.1684,0.68884,0.57586,0.71778
+SYS002,Coastal Watershed,social-ecological systems,46,background climate stress,0.19109,0.1684,0.68783,0.57766,0.71672
+SYS002,Coastal Watershed,social-ecological systems,47,background climate stress,0.19336,0.1684,0.68585,0.57951,0.71466
+SYS002,Coastal Watershed,social-ecological systems,48,background climate stress,0.19329,0.1684,0.68376,0.58135,0.71248
+SYS002,Coastal Watershed,social-ecological systems,49,background climate stress,0.19501,0.1684,0.68089,0.58323,0.70949
+SYS002,Coastal Watershed,social-ecological systems,50,background climate stress,0.20078,0.1684,0.6758,0.58522,0.70419
+SYS002,Coastal Watershed,social-ecological systems,51,background climate stress,0.20215,0.1684,0.67006,0.58725,0.6982
+SYS002,Coastal Watershed,social-ecological systems,52,background climate stress,0.19985,0.1684,0.66498,0.58922,0.69291
+SYS002,Coastal Watershed,social-ecological systems,53,background climate stress,0.20343,0.1684,0.65846,0.59127,0.68611
+SYS002,Coastal Watershed,social-ecological systems,54,background climate stress,0.20282,0.1684,0.65199,0.59331,0.67937
+SYS002,Coastal Watershed,social-ecological systems,55,background climate stress,0.20402,0.1684,0.64492,0.59537,0.67201
+SYS002,Coastal Watershed,social-ecological systems,56,background climate stress,0.2084,0.1684,0.63612,0.59751,0.66283
+SYS002,Coastal Watershed,social-ecological systems,57,background climate stress,0.20432,0.1684,0.62861,0.59958,0.65501
+SYS002,Coastal Watershed,social-ecological systems,58,background climate stress,0.21034,0.1684,0.61877,0.60176,0.64476
+SYS002,Coastal Watershed,social-ecological systems,59,Wildfire smoke and evacuation pressure,0.73163,0.1684,0.42109,0.61438,0.37982
+SYS002,Coastal Watershed,social-ecological systems,60,background climate stress,0.21209,0.1684,0.40944,0.6166,0.42663
+SYS002,Coastal Watershed,social-ecological systems,61,background climate stress,0.21303,0.1684,0.39727,0.61884,0.41395
+SYS002,Coastal Watershed,social-ecological systems,62,background climate stress,0.20794,0.1684,0.38675,0.62098,0.40299
+SYS002,Coastal Watershed,social-ecological systems,63,background climate stress,0.20964,0.1684,0.37545,0.62315,0.39122
+SYS002,Coastal Watershed,social-ecological systems,64,background climate stress,0.21018,0.1684,0.36378,0.62533,0.37906
+SYS002,Coastal Watershed,social-ecological systems,65,background climate stress,0.214,0.1684,0.35056,0.62759,0.36528
+SYS002,Coastal Watershed,social-ecological systems,66,background climate stress,0.22042,0.1684,0.33485,0.62998,0.34891
+SYS002,Coastal Watershed,social-ecological systems,67,background climate stress,0.22082,0.1684,0.3188,0.63237,0.33219
+SYS002,Coastal Watershed,social-ecological systems,68,background climate stress,0.22152,0.1684,0.30232,0.63478,0.31501
+SYS002,Coastal Watershed,social-ecological systems,69,background climate stress,0.21607,0.1684,0.2876,0.63708,0.29968
+SYS002,Coastal Watershed,social-ecological systems,70,Compound flood heat and public health disruption,0.78962,0.1684,0.06621,0.65085,0.05713
+SYS002,Coastal Watershed,social-ecological systems,71,background climate stress,0.22488,0.1684,0.04704,0.65333,0.04901
+SYS002,Coastal Watershed,social-ecological systems,72,background climate stress,0.22654,0.1684,0.02706,0.65584,0.0282
+SYS002,Coastal Watershed,social-ecological systems,73,background climate stress,0.2279,0.1684,0.0064,0.65838,0.00667
+SYS002,Coastal Watershed,social-ecological systems,74,background climate stress,0.2288,0.1684,0.0,0.66093,0.0
+SYS002,Coastal Watershed,social-ecological systems,75,background climate stress,0.22398,0.1684,0.0,0.66339,0.0
+SYS002,Coastal Watershed,social-ecological systems,76,background climate stress,0.22537,0.1684,0.0,0.66588,0.0
+SYS002,Coastal Watershed,social-ecological systems,77,background climate stress,0.23194,0.1684,0.0,0.6685,0.0
+SYS002,Coastal Watershed,social-ecological systems,78,background climate stress,0.23251,0.1684,0.0,0.67113,0.0
+SYS002,Coastal Watershed,social-ecological systems,79,background climate stress,0.23496,0.1684,0.0,0.6738,0.0
+SYS003,Regional Food and Water System,food-water systems,0,background climate stress,0.15563,0.1424,0.8033,0.5514,0.84154
+SYS003,Regional Food and Water System,food-water systems,1,background climate stress,0.16075,0.1424,0.80465,0.55291,0.84295
+SYS003,Regional Food and Water System,food-water systems,2,background climate stress,0.15765,0.1424,0.80699,0.55435,0.8454
+SYS003,Regional Food and Water System,food-water systems,3,background climate stress,0.16344,0.1424,0.80713,0.55591,0.84555
+SYS003,Regional Food and Water System,food-water systems,4,background climate stress,0.16342,0.1424,0.80716,0.55747,0.84558
+SYS003,Regional Food and Water System,food-water systems,5,background climate stress,0.16233,0.1424,0.80745,0.55901,0.84588
+SYS003,Regional Food and Water System,food-water systems,6,background climate stress,0.16535,0.1424,0.80653,0.56061,0.84492
+SYS003,Regional Food and Water System,food-water systems,7,background climate stress,0.16582,0.1424,0.80531,0.56222,0.84365
+SYS003,Regional Food and Water System,food-water systems,8,background climate stress,0.16204,0.1424,0.80533,0.56375,0.84366
+SYS003,Regional Food and Water System,food-water systems,9,background climate stress,0.16734,0.1424,0.80332,0.56539,0.84156
+SYS003,Regional Food and Water System,food-water systems,10,background climate stress,0.16908,0.1424,0.80055,0.56706,0.83865
+SYS003,Regional Food and Water System,food-water systems,11,background climate stress,0.16911,0.1424,0.79763,0.56873,0.8356
+SYS003,Regional Food and Water System,food-water systems,12,Extreme heat and grid stress,0.72254,0.1424,0.59535,0.58148,0.527
+SYS003,Regional Food and Water System,food-water systems,13,background climate stress,0.17567,0.1424,0.58891,0.58328,0.61695
+SYS003,Regional Food and Water System,food-water systems,14,background climate stress,0.17532,0.1424,0.58246,0.58508,0.61019
+SYS003,Regional Food and Water System,food-water systems,15,background climate stress,0.17305,0.1424,0.57669,0.58683,0.60414
+SYS003,Regional Food and Water System,food-water systems,16,background climate stress,0.17265,0.1424,0.57091,0.58857,0.59809
+SYS003,Regional Food and Water System,food-water systems,17,background climate stress,0.17271,0.1424,0.56498,0.59032,0.59187
+SYS003,Regional Food and Water System,food-water systems,18,background climate stress,0.17979,0.1424,0.55636,0.59221,0.58284
+SYS003,Regional Food and Water System,food-water systems,19,background climate stress,0.17967,0.1424,0.54763,0.59409,0.57369
+SYS003,Regional Food and Water System,food-water systems,20,background climate stress,0.17992,0.1424,0.53866,0.59598,0.5643
+SYS003,Regional Food and Water System,food-water systems,21,background climate stress,0.17937,0.1424,0.52973,0.59786,0.55495
+SYS003,Regional Food and Water System,food-water systems,22,background climate stress,0.18087,0.1424,0.52012,0.59977,0.54488
+SYS003,Regional Food and Water System,food-water systems,23,background climate stress,0.17933,0.1424,0.51091,0.60165,0.53523
+SYS003,Regional Food and Water System,food-water systems,24,background climate stress,0.18307,0.1424,0.5002,0.6036,0.52401
+SYS003,Regional Food and Water System,food-water systems,25,background climate stress,0.18058,0.1424,0.49023,0.6055,0.51357
+SYS003,Regional Food and Water System,food-water systems,26,background climate stress,0.18583,0.1424,0.47822,0.60751,0.50099
+SYS003,Regional Food and Water System,food-water systems,27,background climate stress,0.18689,0.1424,0.46567,0.60954,0.48784
+SYS003,Regional Food and Water System,food-water systems,28,Coastal storm surge after wetland loss,0.69724,0.1424,0.26923,0.62177,0.24285
+SYS003,Regional Food and Water System,food-water systems,29,background climate stress,0.19054,0.1424,0.25422,0.62388,0.26632
+SYS003,Regional Food and Water System,food-water systems,30,background climate stress,0.18772,0.1424,0.24006,0.62592,0.25149
+SYS003,Regional Food and Water System,food-water systems,31,background climate stress,0.18732,0.1424,0.22588,0.62796,0.23663
+SYS003,Regional Food and Water System,food-water systems,32,background climate stress,0.19047,0.1424,0.2104,0.63006,0.22041
+SYS003,Regional Food and Water System,food-water systems,33,background climate stress,0.19466,0.1424,0.19325,0.63224,0.20245
+SYS003,Regional Food and Water System,food-water systems,34,background climate stress,0.19406,0.1424,0.17613,0.63442,0.18452
+SYS003,Regional Food and Water System,food-water systems,35,background climate stress,0.1972,0.1424,0.15772,0.63665,0.16522
+SYS003,Regional Food and Water System,food-water systems,36,background climate stress,0.19536,0.1424,0.13978,0.63885,0.14643
+SYS003,Regional Food and Water System,food-water systems,37,background climate stress,0.19608,0.1424,0.12141,0.64106,0.12719
+SYS003,Regional Food and Water System,food-water systems,38,background climate stress,0.20167,0.1424,0.10086,0.64339,0.10566
+SYS003,Regional Food and Water System,food-water systems,39,background climate stress,0.19602,0.1424,0.08214,0.6456,0.08605
+SYS003,Regional Food and Water System,food-water systems,40,background climate stress,0.19739,0.1424,0.06276,0.64784,0.06575
+SYS003,Regional Food and Water System,food-water systems,41,background climate stress,0.20184,0.1424,0.0416,0.65017,0.04358
+SYS003,Regional Food and Water System,food-water systems,42,background climate stress,0.20324,0.1424,0.01975,0.65252,0.02069
+SYS003,Regional Food and Water System,food-water systems,43,Drought with food and water stress,0.73283,0.1424,0.0,0.66547,0.0
+SYS003,Regional Food and Water System,food-water systems,44,background climate stress,0.20489,0.1424,0.0,0.66786,0.0
+SYS003,Regional Food and Water System,food-water systems,45,background climate stress,0.20704,0.1424,0.0,0.67029,0.0
+SYS003,Regional Food and Water System,food-water systems,46,background climate stress,0.20702,0.1424,0.0,0.67272,0.0
+SYS003,Regional Food and Water System,food-water systems,47,background climate stress,0.21011,0.1424,0.0,0.67522,0.0
+SYS003,Regional Food and Water System,food-water systems,48,background climate stress,0.21314,0.1424,0.0,0.67777,0.0
+SYS003,Regional Food and Water System,food-water systems,49,background climate stress,0.21362,0.1424,0.0,0.68033,0.0
+SYS003,Regional Food and Water System,food-water systems,50,background climate stress,0.213,0.1424,0.0,0.68288,0.0
+SYS003,Regional Food and Water System,food-water systems,51,background climate stress,0.21253,0.1424,0.0,0.68543,0.0
+SYS003,Regional Food and Water System,food-water systems,52,background climate stress,0.21787,0.1424,0.0,0.68807,0.0
+SYS003,Regional Food and Water System,food-water systems,53,background climate stress,0.21443,0.1424,0.0,0.69065,0.0
+SYS003,Regional Food and Water System,food-water systems,54,background climate stress,0.2171,0.1424,0.0,0.69329,0.0
+SYS003,Regional Food and Water System,food-water systems,55,background climate stress,0.22034,0.1424,0.0,0.69599,0.0
+SYS003,Regional Food and Water System,food-water systems,56,background climate stress,0.21975,0.1424,0.0,0.69867,0.0
+SYS003,Regional Food and Water System,food-water systems,57,background climate stress,0.21818,0.1424,0.0,0.70133,0.0
+SYS003,Regional Food and Water System,food-water systems,58,background climate stress,0.22242,0.1424,0.0,0.70407,0.0
+SYS003,Regional Food and Water System,food-water systems,59,Wildfire smoke and evacuation pressure,0.74493,0.1424,0.0,0.71726,0.0
+SYS003,Regional Food and Water System,food-water systems,60,background climate stress,0.22465,0.1424,0.0,0.72004,0.0
+SYS003,Regional Food and Water System,food-water systems,61,background climate stress,0.22856,0.1424,0.0,0.7229,0.0
+SYS003,Regional Food and Water System,food-water systems,62,background climate stress,0.22703,0.1424,0.0,0.72573,0.0
+SYS003,Regional Food and Water System,food-water systems,63,background climate stress,0.22731,0.1424,0.0,0.72857,0.0
+SYS003,Regional Food and Water System,food-water systems,64,background climate stress,0.23236,0.1424,0.0,0.73151,0.0
+SYS003,Regional Food and Water System,food-water systems,65,background climate stress,0.22945,0.1424,0.0,0.73439,0.0
+SYS003,Regional Food and Water System,food-water systems,66,background climate stress,0.22938,0.1424,0.0,0.73727,0.0
+SYS003,Regional Food and Water System,food-water systems,67,background climate stress,0.23532,0.1424,0.0,0.74027,0.0
+SYS003,Regional Food and Water System,food-water systems,68,background climate stress,0.23649,0.1424,0.0,0.74329,0.0
+SYS003,Regional Food and Water System,food-water systems,69,background climate stress,0.23066,0.1424,0.0,0.74619,0.0
+SYS003,Regional Food and Water System,food-water systems,70,Compound flood heat and public health disruption,0.8038,0.1424,0.0,0.76056,0.0
+SYS003,Regional Food and Water System,food-water systems,71,background climate stress,0.23344,0.1424,0.0,0.76352,0.0
+SYS003,Regional Food and Water System,food-water systems,72,background climate stress,0.24162,0.1424,0.0,0.76664,0.0
+SYS003,Regional Food and Water System,food-water systems,73,background climate stress,0.24297,0.1424,0.0,0.76979,0.0
+SYS003,Regional Food and Water System,food-water systems,74,background climate stress,0.23961,0.1424,0.0,0.77288,0.0
+SYS003,Regional Food and Water System,food-water systems,75,background climate stress,0.23957,0.1424,0.0,0.77596,0.0
+SYS003,Regional Food and Water System,food-water systems,76,background climate stress,0.24456,0.1424,0.0,0.77914,0.0
+SYS003,Regional Food and Water System,food-water systems,77,background climate stress,0.24799,0.1424,0.0,0.78239,0.0
+SYS003,Regional Food and Water System,food-water systems,78,background climate stress,0.24259,0.1424,0.0,0.78554,0.0
+SYS003,Regional Food and Water System,food-water systems,79,background climate stress,0.24583,0.1424,0.0,0.78874,0.0
+SYS004,Electric Grid and Critical Services,infrastructure,0,background climate stress,0.15661,0.2144,0.89719,0.50056,0.92985
+SYS004,Electric Grid and Critical Services,infrastructure,1,background climate stress,0.1527,0.2144,0.93574,0.50104,0.9698
+SYS004,Electric Grid and Critical Services,infrastructure,2,background climate stress,0.15584,0.2144,0.97312,0.50158,1.0
+SYS004,Electric Grid and Critical Services,infrastructure,3,background climate stress,0.15678,0.2144,1.0,0.50215,1.0
+SYS004,Electric Grid and Critical Services,infrastructure,4,background climate stress,0.15289,0.2144,1.0,0.50263,1.0
+SYS004,Electric Grid and Critical Services,infrastructure,5,background climate stress,0.15244,0.2144,1.0,0.50311,1.0
+SYS004,Electric Grid and Critical Services,infrastructure,6,background climate stress,0.15795,0.2144,1.0,0.50369,1.0
+SYS004,Electric Grid and Critical Services,infrastructure,7,background climate stress,0.15442,0.2144,1.0,0.50421,1.0
+SYS004,Electric Grid and Critical Services,infrastructure,8,background climate stress,0.15755,0.2144,1.0,0.50479,1.0
+SYS004,Electric Grid and Critical Services,infrastructure,9,background climate stress,0.16291,0.2144,1.0,0.50547,1.0
+SYS004,Electric Grid and Critical Services,infrastructure,10,background climate stress,0.16356,0.2144,1.0,0.50617,1.0
+SYS004,Electric Grid and Critical Services,infrastructure,11,background climate stress,0.15759,0.2144,1.0,0.50675,1.0
+SYS004,Electric Grid and Critical Services,infrastructure,12,Extreme heat and grid stress,0.71448,0.2144,0.83582,0.51847,0.7305
+SYS004,Electric Grid and Critical Services,infrastructure,13,background climate stress,0.1603,0.2144,0.8702,0.5191,0.90187
+SYS004,Electric Grid and Critical Services,infrastructure,14,background climate stress,0.16237,0.2144,0.90379,0.51978,0.93668
+SYS004,Electric Grid and Critical Services,infrastructure,15,background climate stress,0.16862,0.2144,0.93507,0.52058,0.9691
+SYS004,Electric Grid and Critical Services,infrastructure,16,background climate stress,0.16222,0.2144,0.96859,0.52125,1.0
+SYS004,Electric Grid and Critical Services,infrastructure,17,background climate stress,0.16483,0.2144,1.0,0.52197,1.0
+SYS004,Electric Grid and Critical Services,infrastructure,18,background climate stress,0.16458,0.2144,1.0,0.52269,1.0
+SYS004,Electric Grid and Critical Services,infrastructure,19,background climate stress,0.16558,0.2144,1.0,0.52343,1.0
+SYS004,Electric Grid and Critical Services,infrastructure,20,background climate stress,0.16996,0.2144,1.0,0.52425,1.0
+SYS004,Electric Grid and Critical Services,infrastructure,21,background climate stress,0.16772,0.2144,1.0,0.52504,1.0
+SYS004,Electric Grid and Critical Services,infrastructure,22,background climate stress,0.17058,0.2144,1.0,0.52588,1.0
+SYS004,Electric Grid and Critical Services,infrastructure,23,background climate stress,0.17432,0.2144,1.0,0.52679,1.0
+SYS004,Electric Grid and Critical Services,infrastructure,24,background climate stress,0.17507,0.2144,1.0,0.52772,1.0
+SYS004,Electric Grid and Critical Services,infrastructure,25,background climate stress,0.17314,0.2144,1.0,0.52861,1.0
+SYS004,Electric Grid and Critical Services,infrastructure,26,background climate stress,0.17731,0.2144,1.0,0.52958,1.0
+SYS004,Electric Grid and Critical Services,infrastructure,27,background climate stress,0.17624,0.2144,1.0,0.53053,1.0
+SYS004,Electric Grid and Critical Services,infrastructure,28,Coastal storm surge after wetland loss,0.68697,0.2144,0.84382,0.5417,0.75167
+SYS004,Electric Grid and Critical Services,infrastructure,29,background climate stress,0.18154,0.2144,0.86869,0.54276,0.90031
+SYS004,Electric Grid and Critical Services,infrastructure,30,background climate stress,0.1772,0.2144,0.89505,0.54373,0.92763
+SYS004,Electric Grid and Critical Services,infrastructure,31,background climate stress,0.17913,0.2144,0.92063,0.54474,0.95414
+SYS004,Electric Grid and Critical Services,infrastructure,32,background climate stress,0.18188,0.2144,0.94515,0.5458,0.97955
+SYS004,Electric Grid and Critical Services,infrastructure,33,background climate stress,0.18603,0.2144,0.96808,0.54695,1.0
+SYS004,Electric Grid and Critical Services,infrastructure,34,background climate stress,0.18395,0.2144,0.99167,0.54806,1.0
+SYS004,Electric Grid and Critical Services,infrastructure,35,background climate stress,0.18352,0.2144,1.0,0.54915,1.0
+SYS004,Electric Grid and Critical Services,infrastructure,36,background climate stress,0.18237,0.2144,1.0,0.55023,1.0
+SYS004,Electric Grid and Critical Services,infrastructure,37,background climate stress,0.1835,0.2144,1.0,0.55133,1.0
+SYS004,Electric Grid and Critical Services,infrastructure,38,background climate stress,0.18377,0.2144,1.0,0.55243,1.0
+SYS004,Electric Grid and Critical Services,infrastructure,39,background climate stress,0.19157,0.2144,1.0,0.55369,1.0
+SYS004,Electric Grid and Critical Services,infrastructure,40,background climate stress,0.19156,0.2144,1.0,0.55495,1.0
+SYS004,Electric Grid and Critical Services,infrastructure,41,background climate stress,0.19251,0.2144,1.0,0.55622,1.0
+SYS004,Electric Grid and Critical Services,infrastructure,42,background climate stress,0.19011,0.2144,1.0,0.55745,1.0
+SYS004,Electric Grid and Critical Services,infrastructure,43,Drought with food and water stress,0.72047,0.2144,0.8296,0.56929,0.72972
+SYS004,Electric Grid and Critical Services,infrastructure,44,background climate stress,0.19486,0.2144,0.84748,0.57061,0.87833
+SYS004,Electric Grid and Critical Services,infrastructure,45,background climate stress,0.19205,0.2144,0.86626,0.57188,0.89779
+SYS004,Electric Grid and Critical Services,infrastructure,46,background climate stress,0.1946,0.2144,0.88402,0.5732,0.9162
+SYS004,Electric Grid and Critical Services,infrastructure,47,background climate stress,0.19247,0.2144,0.90244,0.57448,0.93529
+SYS004,Electric Grid and Critical Services,infrastructure,48,background climate stress,0.19582,0.2144,0.91956,0.57582,0.95303
+SYS004,Electric Grid and Critical Services,infrastructure,49,background climate stress,0.19521,0.2144,0.93678,0.57715,0.97088
+SYS004,Electric Grid and Critical Services,infrastructure,50,background climate stress,0.19473,0.2144,0.95408,0.57847,0.98881
+SYS004,Electric Grid and Critical Services,infrastructure,51,background climate stress,0.203,0.2144,0.96829,0.57996,1.0
+SYS004,Electric Grid and Critical Services,infrastructure,52,background climate stress,0.19651,0.2144,0.98472,0.58132,1.0
+SYS004,Electric Grid and Critical Services,infrastructure,53,background climate stress,0.20385,0.2144,0.99839,0.58282,1.0
+SYS004,Electric Grid and Critical Services,infrastructure,54,background climate stress,0.20374,0.2144,1.0,0.58433,1.0
+SYS004,Electric Grid and Critical Services,infrastructure,55,background climate stress,0.19917,0.2144,1.0,0.58574,1.0
+SYS004,Electric Grid and Critical Services,infrastructure,56,background climate stress,0.20363,0.2144,1.0,0.58724,1.0
+SYS004,Electric Grid and Critical Services,infrastructure,57,background climate stress,0.20914,0.2144,1.0,0.58885,1.0
+SYS004,Electric Grid and Critical Services,infrastructure,58,background climate stress,0.20999,0.2144,1.0,0.59047,1.0
+SYS004,Electric Grid and Critical Services,infrastructure,59,Wildfire smoke and evacuation pressure,0.73016,0.2144,0.82347,0.6025,0.73816
+SYS004,Electric Grid and Critical Services,infrastructure,60,background climate stress,0.2094,0.2144,0.83346,0.60412,0.8638
+SYS004,Electric Grid and Critical Services,infrastructure,61,background climate stress,0.2122,0.2144,0.8423,0.60579,0.87296
+SYS004,Electric Grid and Critical Services,infrastructure,62,background climate stress,0.21257,0.2144,0.85088,0.60747,0.88185
+SYS004,Electric Grid and Critical Services,infrastructure,63,background climate stress,0.20976,0.2144,0.86034,0.60909,0.89166
+SYS004,Electric Grid and Critical Services,infrastructure,64,background climate stress,0.21301,0.2144,0.8685,0.61078,0.90011
+SYS004,Electric Grid and Critical Services,infrastructure,65,background climate stress,0.21437,0.2144,0.87603,0.61249,0.90792
+SYS004,Electric Grid and Critical Services,infrastructure,66,background climate stress,0.21349,0.2144,0.88374,0.61419,0.91591
+SYS004,Electric Grid and Critical Services,infrastructure,67,background climate stress,0.21826,0.2144,0.8896,0.61598,0.92198
+SYS004,Electric Grid and Critical Services,infrastructure,68,background climate stress,0.21584,0.2144,0.89619,0.61773,0.92881
+SYS004,Electric Grid and Critical Services,infrastructure,69,background climate stress,0.21953,0.2144,0.90131,0.61954,0.93412
+SYS004,Electric Grid and Critical Services,infrastructure,70,Compound flood heat and public health disruption,0.78734,0.2144,0.70187,0.63272,0.60164
+SYS004,Electric Grid and Critical Services,infrastructure,71,background climate stress,0.21676,0.2144,0.70679,0.63448,0.73252
+SYS004,Electric Grid and Critical Services,infrastructure,72,background climate stress,0.22113,0.2144,0.70999,0.63633,0.73584
+SYS004,Electric Grid and Critical Services,infrastructure,73,background climate stress,0.21848,0.2144,0.714,0.63813,0.73999
+SYS004,Electric Grid and Critical Services,infrastructure,74,background climate stress,0.22486,0.2144,0.71557,0.64005,0.74162
+SYS004,Electric Grid and Critical Services,infrastructure,75,background climate stress,0.22786,0.2144,0.7159,0.64204,0.74196
+SYS004,Electric Grid and Critical Services,infrastructure,76,background climate stress,0.22588,0.2144,0.71679,0.64398,0.74289
+SYS004,Electric Grid and Critical Services,infrastructure,77,background climate stress,0.22705,0.2144,0.71711,0.64595,0.74321
+SYS004,Electric Grid and Critical Services,infrastructure,78,background climate stress,0.22854,0.2144,0.71673,0.64795,0.74282
+SYS004,Electric Grid and Critical Services,infrastructure,79,background climate stress,0.22597,0.2144,0.71711,0.64989,0.74321
+SYS005,Public Health Response Network,public health,0,background climate stress,0.15124,0.2114,0.86926,0.46049,0.92037
+SYS005,Public Health Response Network,public health,1,background climate stress,0.15123,0.2114,0.90849,0.46098,0.96191
+SYS005,Public Health Response Network,public health,2,background climate stress,0.15075,0.2114,0.94785,0.46145,1.0
+SYS005,Public Health Response Network,public health,3,background climate stress,0.147,0.2114,0.98852,0.46186,1.0
+SYS005,Public Health Response Network,public health,4,background climate stress,0.1487,0.2114,1.0,0.46229,1.0
+SYS005,Public Health Response Network,public health,5,background climate stress,0.15292,0.2114,1.0,0.46282,1.0
+SYS005,Public Health Response Network,public health,6,background climate stress,0.15455,0.2114,1.0,0.46337,1.0
+SYS005,Public Health Response Network,public health,7,background climate stress,0.14823,0.2114,1.0,0.4638,1.0
+SYS005,Public Health Response Network,public health,8,background climate stress,0.15035,0.2114,1.0,0.46427,1.0
+SYS005,Public Health Response Network,public health,9,background climate stress,0.15769,0.2114,1.0,0.46489,1.0
+SYS005,Public Health Response Network,public health,10,background climate stress,0.1515,0.2114,1.0,0.46538,1.0
+SYS005,Public Health Response Network,public health,11,background climate stress,0.15712,0.2114,1.0,0.46598,1.0
+SYS005,Public Health Response Network,public health,12,Extreme heat and grid stress,0.70918,0.2114,0.83793,0.47763,0.75112
+SYS005,Public Health Response Network,public health,13,background climate stress,0.15722,0.2114,0.87362,0.47824,0.92499
+SYS005,Public Health Response Network,public health,14,background climate stress,0.16086,0.2114,0.90796,0.47892,0.96135
+SYS005,Public Health Response Network,public health,15,background climate stress,0.16362,0.2114,0.94125,0.47965,0.9966
+SYS005,Public Health Response Network,public health,16,background climate stress,0.16191,0.2114,0.9751,0.48036,1.0
+SYS005,Public Health Response Network,public health,17,background climate stress,0.16101,0.2114,1.0,0.48104,1.0
+SYS005,Public Health Response Network,public health,18,background climate stress,0.1612,0.2114,1.0,0.48173,1.0
+SYS005,Public Health Response Network,public health,19,background climate stress,0.1647,0.2114,1.0,0.48248,1.0
+SYS005,Public Health Response Network,public health,20,background climate stress,0.16558,0.2114,1.0,0.48326,1.0
+SYS005,Public Health Response Network,public health,21,background climate stress,0.16443,0.2114,1.0,0.48401,1.0
+SYS005,Public Health Response Network,public health,22,background climate stress,0.16576,0.2114,1.0,0.48479,1.0
+SYS005,Public Health Response Network,public health,23,background climate stress,0.16721,0.2114,1.0,0.4856,1.0
+SYS005,Public Health Response Network,public health,24,background climate stress,0.16553,0.2114,1.0,0.48637,1.0
+SYS005,Public Health Response Network,public health,25,background climate stress,0.16565,0.2114,1.0,0.48715,1.0
+SYS005,Public Health Response Network,public health,26,background climate stress,0.16997,0.2114,1.0,0.48801,1.0
+SYS005,Public Health Response Network,public health,27,background climate stress,0.16658,0.2114,1.0,0.4888,1.0
+SYS005,Public Health Response Network,public health,28,Coastal storm surge after wetland loss,0.68154,0.2114,0.84605,0.4999,0.77261
+SYS005,Public Health Response Network,public health,29,background climate stress,0.17405,0.2114,0.87391,0.50084,0.92529
+SYS005,Public Health Response Network,public health,30,background climate stress,0.17673,0.2114,0.90073,0.50184,0.95369
+SYS005,Public Health Response Network,public health,31,background climate stress,0.17781,0.2114,0.92708,0.50286,0.98159
+SYS005,Public Health Response Network,public health,32,background climate stress,0.17348,0.2114,0.9549,0.50379,1.0
+SYS005,Public Health Response Network,public health,33,background climate stress,0.17579,0.2114,0.98182,0.50477,1.0
+SYS005,Public Health Response Network,public health,34,background climate stress,0.18121,0.2114,1.0,0.50586,1.0
+SYS005,Public Health Response Network,public health,35,background climate stress,0.17691,0.2114,1.0,0.50686,1.0
+SYS005,Public Health Response Network,public health,36,background climate stress,0.18354,0.2114,1.0,0.50799,1.0
+SYS005,Public Health Response Network,public health,37,background climate stress,0.17728,0.2114,1.0,0.509,1.0
+SYS005,Public Health Response Network,public health,38,background climate stress,0.1839,0.2114,1.0,0.51014,1.0
+SYS005,Public Health Response Network,public health,39,background climate stress,0.17757,0.2114,1.0,0.51116,1.0
+SYS005,Public Health Response Network,public health,40,background climate stress,0.18406,0.2114,1.0,0.5123,1.0
+SYS005,Public Health Response Network,public health,41,background climate stress,0.18617,0.2114,1.0,0.51349,1.0
+SYS005,Public Health Response Network,public health,42,background climate stress,0.18472,0.2114,1.0,0.51465,1.0
+SYS005,Public Health Response Network,public health,43,Drought with food and water stress,0.7149,0.2114,0.83197,0.52641,0.75044
+SYS005,Public Health Response Network,public health,44,background climate stress,0.18861,0.2114,0.85247,0.52764,0.90259
+SYS005,Public Health Response Network,public health,45,background climate stress,0.19202,0.2114,0.87164,0.52895,0.92289
+SYS005,Public Health Response Network,public health,46,background climate stress,0.19365,0.2114,0.89012,0.53028,0.94246
+SYS005,Public Health Response Network,public health,47,background climate stress,0.18719,0.2114,0.91081,0.53149,0.96437
+SYS005,Public Health Response Network,public health,48,background climate stress,0.19116,0.2114,0.92999,0.53278,0.98467
+SYS005,Public Health Response Network,public health,49,background climate stress,0.1877,0.2114,0.9503,0.53399,1.0
+SYS005,Public Health Response Network,public health,50,background climate stress,0.19163,0.2114,0.9691,0.53529,1.0
+SYS005,Public Health Response Network,public health,51,background climate stress,0.19041,0.2114,0.98824,0.53656,1.0
+SYS005,Public Health Response Network,public health,52,background climate stress,0.19144,0.2114,1.0,0.53785,1.0
+SYS005,Public Health Response Network,public health,53,background climate stress,0.1965,0.2114,1.0,0.53925,1.0
+SYS005,Public Health Response Network,public health,54,background climate stress,0.19254,0.2114,1.0,0.54056,1.0
+SYS005,Public Health Response Network,public health,55,background climate stress,0.19406,0.2114,1.0,0.5419,1.0
+SYS005,Public Health Response Network,public health,56,background climate stress,0.19366,0.2114,1.0,0.54324,1.0
+SYS005,Public Health Response Network,public health,57,background climate stress,0.20178,0.2114,1.0,0.54474,1.0
+SYS005,Public Health Response Network,public health,58,background climate stress,0.19757,0.2114,1.0,0.54615,1.0
+SYS005,Public Health Response Network,public health,59,Wildfire smoke and evacuation pressure,0.7244,0.2114,0.82603,0.5581,0.75896
+SYS005,Public Health Response Network,public health,60,background climate stress,0.1992,0.2114,0.84018,0.55955,0.88958
+SYS005,Public Health Response Network,public health,61,background climate stress,0.20505,0.2114,0.8521,0.56112,0.90221
+SYS005,Public Health Response Network,public health,62,background climate stress,0.20684,0.2114,0.86326,0.56272,0.91402
+SYS005,Public Health Response Network,public health,63,background climate stress,0.20699,0.2114,0.87423,0.56432,0.92564
+SYS005,Public Health Response Network,public health,64,background climate stress,0.20717,0.2114,0.88502,0.56593,0.93705
+SYS005,Public Health Response Network,public health,65,background climate stress,0.20798,0.2114,0.89538,0.56755,0.94802
+SYS005,Public Health Response Network,public health,66,background climate stress,0.21058,0.2114,0.90467,0.56922,0.95787
+SYS005,Public Health Response Network,public health,67,background climate stress,0.20783,0.2114,0.91482,0.57084,0.96861
+SYS005,Public Health Response Network,public health,68,background climate stress,0.21355,0.2114,0.92278,0.57258,0.97704
+SYS005,Public Health Response Network,public health,69,background climate stress,0.21316,0.2114,0.93075,0.5743,0.98548
+SYS005,Public Health Response Network,public health,70,Compound flood heat and public health disruption,0.78146,0.2114,0.73399,0.5874,0.64562
+SYS005,Public Health Response Network,public health,71,background climate stress,0.21801,0.2114,0.73902,0.58922,0.78248
+SYS005,Public Health Response Network,public health,72,background climate stress,0.21925,0.2114,0.74346,0.59107,0.78718
+SYS005,Public Health Response Network,public health,73,background climate stress,0.21976,0.2114,0.74757,0.59293,0.79153
+SYS005,Public Health Response Network,public health,74,background climate stress,0.21783,0.2114,0.75223,0.59475,0.79646
+SYS005,Public Health Response Network,public health,75,background climate stress,0.21882,0.2114,0.75638,0.59659,0.80085
+SYS005,Public Health Response Network,public health,76,background climate stress,0.22168,0.2114,0.75936,0.59848,0.80401
+SYS005,Public Health Response Network,public health,77,background climate stress,0.22125,0.2114,0.76233,0.60037,0.80716
+SYS005,Public Health Response Network,public health,78,background climate stress,0.21726,0.2114,0.7666,0.60218,0.81167
+SYS005,Public Health Response Network,public health,79,background climate stress,0.22622,0.2114,0.76749,0.60417,0.81262
+SYS006,Climate Governance System,governance,0,background climate stress,0.1479,0.2374,0.82298,0.44011,0.86446
+SYS006,Climate Governance System,governance,1,background climate stress,0.14388,0.2374,0.86741,0.44014,0.91112
+SYS006,Climate Governance System,governance,2,background climate stress,0.14857,0.2374,0.91014,0.44026,0.95601
+SYS006,Climate Governance System,governance,3,background climate stress,0.15076,0.2374,0.95207,0.44043,1.0
+SYS006,Climate Governance System,governance,4,background climate stress,0.14575,0.2374,0.9958,0.44049,1.0
+SYS006,Climate Governance System,governance,5,background climate stress,0.15058,0.2374,1.0,0.44066,1.0
+SYS006,Climate Governance System,governance,6,background climate stress,0.14742,0.2374,1.0,0.44076,1.0
+SYS006,Climate Governance System,governance,7,background climate stress,0.14661,0.2374,1.0,0.44084,1.0
+SYS006,Climate Governance System,governance,8,background climate stress,0.149,0.2374,1.0,0.44097,1.0
+SYS006,Climate Governance System,governance,9,background climate stress,0.15337,0.2374,1.0,0.44119,1.0
+SYS006,Climate Governance System,governance,10,background climate stress,0.14868,0.2374,1.0,0.44131,1.0
+SYS006,Climate Governance System,governance,11,background climate stress,0.15402,0.2374,1.0,0.44155,1.0
+SYS006,Climate Governance System,governance,12,Extreme heat and grid stress,0.706,0.2374,0.84194,0.45282,0.74765
+SYS006,Climate Governance System,governance,13,background climate stress,0.15419,0.2374,0.88164,0.45305,0.92607
+SYS006,Climate Governance System,governance,14,background climate stress,0.1533,0.2374,0.92164,0.45327,0.96809
+SYS006,Climate Governance System,governance,15,background climate stress,0.1564,0.2374,0.9605,0.45355,1.0
+SYS006,Climate Governance System,governance,16,background climate stress,0.15676,0.2374,0.99921,0.45383,1.0
+SYS006,Climate Governance System,governance,17,background climate stress,0.15818,0.2374,1.0,0.45415,1.0
+SYS006,Climate Governance System,governance,18,background climate stress,0.16273,0.2374,1.0,0.45455,1.0
+SYS006,Climate Governance System,governance,19,background climate stress,0.16386,0.2374,1.0,0.45498,1.0
+SYS006,Climate Governance System,governance,20,background climate stress,0.15839,0.2374,1.0,0.4553,1.0
+SYS006,Climate Governance System,governance,21,background climate stress,0.166,0.2374,1.0,0.45577,1.0
+SYS006,Climate Governance System,governance,22,background climate stress,0.1634,0.2374,1.0,0.45619,1.0
+SYS006,Climate Governance System,governance,23,background climate stress,0.1673,0.2374,1.0,0.45669,1.0
+SYS006,Climate Governance System,governance,24,background climate stress,0.1668,0.2374,1.0,0.45718,1.0
+SYS006,Climate Governance System,governance,25,background climate stress,0.16496,0.2374,1.0,0.45763,1.0
+SYS006,Climate Governance System,governance,26,background climate stress,0.16327,0.2374,1.0,0.45804,1.0
+SYS006,Climate Governance System,governance,27,background climate stress,0.17015,0.2374,1.0,0.4586,1.0
+SYS006,Climate Governance System,governance,28,Coastal storm surge after wetland loss,0.67762,0.2374,0.8508,0.4693,0.7698
+SYS006,Climate Governance System,governance,29,background climate stress,0.17368,0.2374,0.88216,0.46993,0.92662
+SYS006,Climate Governance System,governance,30,background climate stress,0.17111,0.2374,0.91439,0.4705,0.96047
+SYS006,Climate Governance System,governance,31,background climate stress,0.16733,0.2374,0.94794,0.471,0.99571
+SYS006,Climate Governance System,governance,32,background climate stress,0.17448,0.2374,0.97887,0.47164,1.0
+SYS006,Climate Governance System,governance,33,background climate stress,0.17476,0.2374,1.0,0.47229,1.0
+SYS006,Climate Governance System,governance,34,background climate stress,0.1766,0.2374,1.0,0.47297,1.0
+SYS006,Climate Governance System,governance,35,background climate stress,0.17827,0.2374,1.0,0.47368,1.0
+SYS006,Climate Governance System,governance,36,background climate stress,0.17908,0.2374,1.0,0.47442,1.0
+SYS006,Climate Governance System,governance,37,background climate stress,0.17774,0.2374,1.0,0.47512,1.0
+SYS006,Climate Governance System,governance,38,background climate stress,0.17546,0.2374,1.0,0.47578,1.0
+SYS006,Climate Governance System,governance,39,background climate stress,0.17752,0.2374,1.0,0.47649,1.0
+SYS006,Climate Governance System,governance,40,background climate stress,0.17809,0.2374,1.0,0.4772,1.0
+SYS006,Climate Governance System,governance,41,background climate stress,0.1812,0.2374,1.0,0.47797,1.0
+SYS006,Climate Governance System,governance,42,background climate stress,0.18081,0.2374,1.0,0.47874,1.0
+SYS006,Climate Governance System,governance,43,Drought with food and water stress,0.71024,0.2374,0.83744,0.4901,0.74834
+SYS006,Climate Governance System,governance,44,background climate stress,0.18563,0.2374,0.86284,0.49096,0.90632
+SYS006,Climate Governance System,governance,45,background climate stress,0.18366,0.2374,0.88887,0.49179,0.93367
+SYS006,Climate Governance System,governance,46,background climate stress,0.18516,0.2374,0.9143,0.49264,0.96038
+SYS006,Climate Governance System,governance,47,background climate stress,0.18935,0.2374,0.93815,0.49358,0.98543
+SYS006,Climate Governance System,governance,48,background climate stress,0.18865,0.2374,0.96217,0.4945,1.0
+SYS006,Climate Governance System,governance,49,background climate stress,0.19075,0.2374,0.98537,0.49547,1.0
+SYS006,Climate Governance System,governance,50,background climate stress,0.1895,0.2374,1.0,0.49641,1.0
+SYS006,Climate Governance System,governance,51,background climate stress,0.18517,0.2374,1.0,0.49726,1.0
+SYS006,Climate Governance System,governance,52,background climate stress,0.18865,0.2374,1.0,0.49819,1.0
+SYS006,Climate Governance System,governance,53,background climate stress,0.18834,0.2374,1.0,0.49911,1.0
+SYS006,Climate Governance System,governance,54,background climate stress,0.18893,0.2374,1.0,0.50004,1.0
+SYS006,Climate Governance System,governance,55,background climate stress,0.18855,0.2374,1.0,0.50096,1.0
+SYS006,Climate Governance System,governance,56,background climate stress,0.18924,0.2374,1.0,0.50189,1.0
+SYS006,Climate Governance System,governance,57,background climate stress,0.19342,0.2374,1.0,0.50291,1.0
+SYS006,Climate Governance System,governance,58,background climate stress,0.19698,0.2374,1.0,0.504,1.0
+SYS006,Climate Governance System,governance,59,Wildfire smoke and evacuation pressure,0.71892,0.2374,0.8323,0.51553,0.75772
+SYS006,Climate Governance System,governance,60,background climate stress,0.20083,0.2374,0.85018,0.5167,0.89303
+SYS006,Climate Governance System,governance,61,background climate stress,0.2026,0.2374,0.86734,0.51791,0.91105
+SYS006,Climate Governance System,governance,62,background climate stress,0.20001,0.2374,0.88533,0.51906,0.92995
+SYS006,Climate Governance System,governance,63,background climate stress,0.19577,0.2374,0.90476,0.52012,0.95036
+SYS006,Climate Governance System,governance,64,background climate stress,0.19822,0.2374,0.92322,0.52124,0.96975
+SYS006,Climate Governance System,governance,65,background climate stress,0.19788,0.2374,0.94171,0.52235,0.98918
+SYS006,Climate Governance System,governance,66,background climate stress,0.20604,0.2374,0.95718,0.52362,1.0
+SYS006,Climate Governance System,governance,67,background climate stress,0.20199,0.2374,0.974,0.52481,1.0
+SYS006,Climate Governance System,governance,68,background climate stress,0.2065,0.2374,0.98911,0.52609,1.0
+SYS006,Climate Governance System,governance,69,background climate stress,0.20493,0.2374,1.0,0.52734,1.0
+SYS006,Climate Governance System,governance,70,Compound flood heat and public health disruption,0.77535,0.2374,0.81011,0.54,0.70577
+SYS006,Climate Governance System,governance,71,background climate stress,0.20937,0.2374,0.82297,0.54134,0.86444
+SYS006,Climate Governance System,governance,72,background climate stress,0.21268,0.2374,0.83452,0.54274,0.87658
+SYS006,Climate Governance System,governance,73,background climate stress,0.21183,0.2374,0.84627,0.54413,0.88892
+SYS006,Climate Governance System,governance,74,background climate stress,0.20749,0.2374,0.85947,0.54543,0.90279
+SYS006,Climate Governance System,governance,75,background climate stress,0.21342,0.2374,0.87044,0.54685,0.91431
+SYS006,Climate Governance System,governance,76,background climate stress,0.21181,0.2374,0.88186,0.54824,0.92631
+SYS006,Climate Governance System,governance,77,background climate stress,0.2183,0.2374,0.89084,0.54976,0.93574
+SYS006,Climate Governance System,governance,78,background climate stress,0.21284,0.2374,0.90167,0.55116,0.94711
+SYS006,Climate Governance System,governance,79,background climate stress,0.21351,0.2374,0.91214,0.55259,0.95811

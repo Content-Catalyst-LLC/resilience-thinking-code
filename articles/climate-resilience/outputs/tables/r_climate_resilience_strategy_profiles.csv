@@ -1,0 +1,7 @@
+strategy_id,strategy,system_domain,exposure_reduction,vulnerability_reduction,adaptive_capacity,recovery_capacity,transformative_capacity,justice_protection,maladaptation_risk,critical_function,base_resilience_value,justice_weighted_value
+CR001,Heat-Resilient Urban Redesign,urban resilience,8.2,7.9,8,7.8,8.1,8,3.5,reduces heat exposure through shade cooling housing transit labor and public-health protections,7.0809999999999995,6.684463999999999
+CR002,Coastal Ecosystem-Based Adaptation Program,coastal social-ecological systems,8.5,8.3,7.9,7.6,8.4,7.8,3,protects coastlines through wetlands mangroves marshes sediment and community stewardship,7.203999999999999,6.760233599999999
+CR003,Climate-Resilient Water and Food Security Plan,food-water systems,8.1,8.4,8.5,8,8.3,8.2,3.6,strengthens water allocation soil health crop diversity storage and food access,7.305,6.936827999999999
+CR004,Integrated Climate Risk Governance Framework,governance,7.8,8.1,8.7,8.2,8.6,8.1,3.2,coordinates cross-sector planning thresholds finance monitoring and accountability,7.334,6.943831199999999
+CR005,Community-Led Floodplain Adaptation,community resilience,8.3,8.5,8.2,7.9,8.4,8.8,2.8,reduces flood risk through restoration housing repair local knowledge and anti-displacement safeguards,7.453,7.202579200000001
+CR006,Distributed Energy and Critical Service Microgrids,energy and infrastructure,7.9,7.8,8,8.7,7.8,7.6,3.8,supports power continuity for hospitals water communications cooling and emergency services,7.026999999999999,6.554785599999999

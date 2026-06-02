@@ -1,0 +1,49 @@
+scenario,strategy_id,strategy,system_domain,rank,resilience_value,maladaptation_risk,critical_function
+Balanced,CR005,Community-Led Floodplain Adaptation,community resilience,1,7.453,2.8,reduces flood risk through restoration housing repair local knowledge and anti-displacement safeguards
+Balanced,CR004,Integrated Climate Risk Governance Framework,governance,2,7.334,3.2,coordinates cross-sector planning thresholds finance monitoring and accountability
+Balanced,CR003,Climate-Resilient Water and Food Security Plan,food-water systems,3,7.305,3.6,strengthens water allocation soil health crop diversity storage and food access
+Balanced,CR002,Coastal Ecosystem-Based Adaptation Program,coastal social-ecological systems,4,7.204,3.0,protects coastlines through wetlands mangroves marshes sediment and community stewardship
+Balanced,CR001,Heat-Resilient Urban Redesign,urban resilience,5,7.081,3.5,reduces heat exposure through shade cooling housing transit labor and public-health protections
+Balanced,CR006,Distributed Energy and Critical Service Microgrids,energy and infrastructure,6,7.027,3.8,supports power continuity for hospitals water communications cooling and emergency services
+Exposure-first,CR005,Community-Led Floodplain Adaptation,community resilience,1,7.436,2.8,reduces flood risk through restoration housing repair local knowledge and anti-displacement safeguards
+Exposure-first,CR002,Coastal Ecosystem-Based Adaptation Program,coastal social-ecological systems,2,7.296,3.0,protects coastlines through wetlands mangroves marshes sediment and community stewardship
+Exposure-first,CR003,Climate-Resilient Water and Food Security Plan,food-water systems,3,7.266,3.6,strengthens water allocation soil health crop diversity storage and food access
+Exposure-first,CR004,Integrated Climate Risk Governance Framework,governance,4,7.222,3.2,coordinates cross-sector planning thresholds finance monitoring and accountability
+Exposure-first,CR001,Heat-Resilient Urban Redesign,urban resilience,5,7.126,3.5,reduces heat exposure through shade cooling housing transit labor and public-health protections
+Exposure-first,CR006,Distributed Energy and Critical Service Microgrids,energy and infrastructure,6,7.02,3.8,supports power continuity for hospitals water communications cooling and emergency services
+Vulnerability-first,CR005,Community-Led Floodplain Adaptation,community resilience,1,7.484,2.8,reduces flood risk through restoration housing repair local knowledge and anti-displacement safeguards
+Vulnerability-first,CR003,Climate-Resilient Water and Food Security Plan,food-water systems,2,7.338,3.6,strengthens water allocation soil health crop diversity storage and food access
+Vulnerability-first,CR004,Integrated Climate Risk Governance Framework,governance,3,7.294,3.2,coordinates cross-sector planning thresholds finance monitoring and accountability
+Vulnerability-first,CR002,Coastal Ecosystem-Based Adaptation Program,coastal social-ecological systems,4,7.248,3.0,protects coastlines through wetlands mangroves marshes sediment and community stewardship
+Vulnerability-first,CR001,Heat-Resilient Urban Redesign,urban resilience,5,7.054,3.5,reduces heat exposure through shade cooling housing transit labor and public-health protections
+Vulnerability-first,CR006,Distributed Energy and Critical Service Microgrids,energy and infrastructure,6,6.996,3.8,supports power continuity for hospitals water communications cooling and emergency services
+Adaptation-first,CR004,Integrated Climate Risk Governance Framework,governance,1,7.438,3.2,coordinates cross-sector planning thresholds finance monitoring and accountability
+Adaptation-first,CR005,Community-Led Floodplain Adaptation,community resilience,2,7.412,2.8,reduces flood risk through restoration housing repair local knowledge and anti-displacement safeguards
+Adaptation-first,CR003,Climate-Resilient Water and Food Security Plan,food-water systems,3,7.362,3.6,strengthens water allocation soil health crop diversity storage and food access
+Adaptation-first,CR002,Coastal Ecosystem-Based Adaptation Program,coastal social-ecological systems,4,7.152,3.0,protects coastlines through wetlands mangroves marshes sediment and community stewardship
+Adaptation-first,CR001,Heat-Resilient Urban Redesign,urban resilience,5,7.078,3.5,reduces heat exposure through shade cooling housing transit labor and public-health protections
+Adaptation-first,CR006,Distributed Energy and Critical Service Microgrids,energy and infrastructure,6,7.044,3.8,supports power continuity for hospitals water communications cooling and emergency services
+Recovery-first,CR005,Community-Led Floodplain Adaptation,community resilience,1,7.34,2.8,reduces flood risk through restoration housing repair local knowledge and anti-displacement safeguards
+Recovery-first,CR004,Integrated Climate Risk Governance Framework,governance,2,7.318,3.2,coordinates cross-sector planning thresholds finance monitoring and accountability
+Recovery-first,CR003,Climate-Resilient Water and Food Security Plan,food-water systems,3,7.242,3.6,strengthens water allocation soil health crop diversity storage and food access
+Recovery-first,CR006,Distributed Energy and Critical Service Microgrids,energy and infrastructure,4,7.212,3.8,supports power continuity for hospitals water communications cooling and emergency services
+Recovery-first,CR002,Coastal Ecosystem-Based Adaptation Program,coastal social-ecological systems,5,7.08,3.0,protects coastlines through wetlands mangroves marshes sediment and community stewardship
+Recovery-first,CR001,Heat-Resilient Urban Redesign,urban resilience,6,7.03,3.5,reduces heat exposure through shade cooling housing transit labor and public-health protections
+Transformation-first,CR005,Community-Led Floodplain Adaptation,community resilience,1,7.478,2.8,reduces flood risk through restoration housing repair local knowledge and anti-displacement safeguards
+Transformation-first,CR004,Integrated Climate Risk Governance Framework,governance,2,7.412,3.2,coordinates cross-sector planning thresholds finance monitoring and accountability
+Transformation-first,CR003,Climate-Resilient Water and Food Security Plan,food-water systems,3,7.318,3.6,strengthens water allocation soil health crop diversity storage and food access
+Transformation-first,CR002,Coastal Ecosystem-Based Adaptation Program,coastal social-ecological systems,4,7.276,3.0,protects coastlines through wetlands mangroves marshes sediment and community stewardship
+Transformation-first,CR001,Heat-Resilient Urban Redesign,urban resilience,5,7.106,3.5,reduces heat exposure through shade cooling housing transit labor and public-health protections
+Transformation-first,CR006,Distributed Energy and Critical Service Microgrids,energy and infrastructure,6,6.974,3.8,supports power continuity for hospitals water communications cooling and emergency services
+Justice-first,CR005,Community-Led Floodplain Adaptation,community resilience,1,7.571,2.8,reduces flood risk through restoration housing repair local knowledge and anti-displacement safeguards
+Justice-first,CR004,Integrated Climate Risk Governance Framework,governance,2,7.304,3.2,coordinates cross-sector planning thresholds finance monitoring and accountability
+Justice-first,CR003,Climate-Resilient Water and Food Security Plan,food-water systems,3,7.295,3.6,strengthens water allocation soil health crop diversity storage and food access
+Justice-first,CR002,Coastal Ecosystem-Based Adaptation Program,coastal social-ecological systems,4,7.122,3.0,protects coastlines through wetlands mangroves marshes sediment and community stewardship
+Justice-first,CR001,Heat-Resilient Urban Redesign,urban resilience,5,7.077,3.5,reduces heat exposure through shade cooling housing transit labor and public-health protections
+Justice-first,CR006,Distributed Energy and Critical Service Microgrids,energy and infrastructure,6,6.933,3.8,supports power continuity for hospitals water communications cooling and emergency services
+Maladaptation-sensitive,CR005,Community-Led Floodplain Adaptation,community resilience,1,5.451,2.8,reduces flood risk through restoration housing repair local knowledge and anti-displacement safeguards
+Maladaptation-sensitive,CR004,Integrated Climate Risk Governance Framework,governance,2,5.276,3.2,coordinates cross-sector planning thresholds finance monitoring and accountability
+Maladaptation-sensitive,CR002,Coastal Ecosystem-Based Adaptation Program,coastal social-ecological systems,3,5.202,3.0,protects coastlines through wetlands mangroves marshes sediment and community stewardship
+Maladaptation-sensitive,CR003,Climate-Resilient Water and Food Security Plan,food-water systems,4,5.173,3.6,strengthens water allocation soil health crop diversity storage and food access
+Maladaptation-sensitive,CR001,Heat-Resilient Urban Redesign,urban resilience,5,5.009,3.5,reduces heat exposure through shade cooling housing transit labor and public-health protections
+Maladaptation-sensitive,CR006,Distributed Energy and Critical Service Microgrids,energy and infrastructure,6,4.906,3.8,supports power continuity for hospitals water communications cooling and emergency services

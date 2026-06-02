@@ -1,0 +1,6 @@
+event_id,event_name,primary_hazard,shock_intensity,slow_stress,compound_risk,affected_systems,justice_burden
+EV001,Extreme heat and grid stress,heatwave,0.82,0.64,0.70,urban heat; electric grid; public health,0.78
+EV002,Coastal storm surge after wetland loss,flood and storm surge,0.80,0.58,0.66,coastal watershed; housing; transport; emergency services,0.72
+EV003,Drought with food and water stress,drought,0.76,0.72,0.74,food-water system; agriculture; households; ecosystems,0.76
+EV004,Wildfire smoke and evacuation pressure,wildfire,0.84,0.60,0.73,public health; housing; transport; energy; community networks,0.70
+EV005,Compound flood heat and public health disruption,compound,0.88,0.68,0.82,urban heat; water; hospitals; transport; governance,0.84

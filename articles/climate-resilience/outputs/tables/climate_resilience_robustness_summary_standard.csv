@@ -1,0 +1,7 @@
+strategy_id,strategy,mean_resilience_value,median_resilience_value,probability_ranked_first,probability_top_two,probability_bottom_two
+CR005,Community-Led Floodplain Adaptation,7.45449,7.45514,44.6,67.6,7.53
+CR004,Integrated Climate Risk Governance Framework,7.33294,7.33265,21.27,47.63,16.83
+CR003,Climate-Resilient Water and Food Security Plan,7.30868,7.30513,19.6,41.83,19.6
+CR002,Coastal Ecosystem-Based Adaptation Program,7.21227,7.21349,9.1,25.17,32.27
+CR001,Heat-Resilient Urban Redesign,7.07997,7.08291,3.23,10.73,56.67
+CR006,Distributed Energy and Critical Service Microgrids,7.02223,7.019,2.2,7.03,67.1

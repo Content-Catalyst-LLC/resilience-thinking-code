@@ -1,0 +1,7 @@
+system_id,system,system_domain,baseline_function,exposure,vulnerability,adaptive_capacity,recovery_capacity,justice_sensitivity,threshold_proximity,critical_function
+SYS001,Urban Heat System,urban public health,0.82,0.72,0.68,0.58,0.62,0.78,0.52,cooling housing tree canopy labor protections outreach and emergency care
+SYS002,Coastal Watershed,social-ecological systems,0.84,0.76,0.60,0.66,0.64,0.70,0.48,storm buffering wetland storage water quality habitat and coastal livelihoods
+SYS003,Regional Food and Water System,food-water systems,0.80,0.70,0.66,0.62,0.60,0.74,0.55,food production water allocation storage distribution and household access
+SYS004,Electric Grid and Critical Services,infrastructure,0.86,0.68,0.58,0.64,0.72,0.66,0.50,power continuity for water hospitals communications cooling and transport
+SYS005,Public Health Response Network,public health,0.83,0.64,0.70,0.68,0.70,0.82,0.46,health surveillance care capacity trust outreach and protection for vulnerable groups
+SYS006,Climate Governance System,governance,0.78,0.60,0.64,0.72,0.66,0.76,0.44,cross-sector planning public finance decision triggers monitoring and adaptation accountability

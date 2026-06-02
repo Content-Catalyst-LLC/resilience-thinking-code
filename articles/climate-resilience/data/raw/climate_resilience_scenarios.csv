@@ -1,0 +1,9 @@
+scenario,exposure_reduction_weight,vulnerability_reduction_weight,adaptive_capacity_weight,recovery_capacity_weight,transformative_capacity_weight,justice_protection_weight,maladaptation_risk_weight,description
+Balanced,0.16,0.16,0.16,0.15,0.15,0.14,0.08,Balanced climate resilience value across exposure vulnerability adaptation recovery transformation justice and maladaptation risk.
+Exposure-first,0.36,0.12,0.12,0.12,0.10,0.10,0.08,Prioritizes keeping people ecosystems infrastructure and assets out of harm's way.
+Vulnerability-first,0.12,0.36,0.12,0.12,0.10,0.10,0.08,Prioritizes reducing susceptibility to climate harm through housing health income water ecosystems and institutions.
+Adaptation-first,0.12,0.12,0.36,0.12,0.10,0.10,0.08,Prioritizes learning flexibility monitoring and adaptive capacity.
+Recovery-first,0.12,0.12,0.12,0.36,0.10,0.10,0.08,Prioritizes restoring essential functions after climate shocks.
+Transformation-first,0.12,0.12,0.12,0.10,0.34,0.12,0.08,Prioritizes deeper structural change where incremental adaptation is insufficient.
+Justice-first,0.10,0.12,0.12,0.11,0.11,0.36,0.08,Prioritizes protection for highly exposed communities and reduction of unequal climate burden.
+Maladaptation-sensitive,0.12,0.13,0.13,0.12,0.12,0.12,0.26,Prioritizes penalties for short-term adaptation that deepens long-term fragility or shifts risk.
