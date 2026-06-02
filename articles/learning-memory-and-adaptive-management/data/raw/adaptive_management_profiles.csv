@@ -1,0 +1,6 @@
+profile_id,profile,learning_rate,memory_retention,feedback_use,monitoring_quality,governance_capacity,forgetting_pressure,justice_sensitivity,description
+P001,High Learning and Strong Memory,0.18,0.88,0.84,0.82,0.82,0.20,0.70,strong feedback capture memory retention and governance capacity
+P002,Good Monitoring but Weak Governance,0.16,0.70,0.48,0.86,0.45,0.34,0.66,data are collected but weak authority limits adaptive action
+P003,Strong Community Memory,0.15,0.86,0.76,0.74,0.70,0.24,0.86,local knowledge and lived experience support adaptive response
+P004,High Forgetting and Low Feedback Use,0.08,0.52,0.42,0.55,0.48,0.52,0.74,turnover weak archives and low feedback use erode resilience
+P005,Balanced Adaptive Management,0.15,0.78,0.72,0.78,0.76,0.28,0.78,moderate-to-strong learning memory and governance capacity

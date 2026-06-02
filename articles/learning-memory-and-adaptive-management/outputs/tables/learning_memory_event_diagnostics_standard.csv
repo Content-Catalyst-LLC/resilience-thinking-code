@@ -1,0 +1,7 @@
+event_id,event_name,system_domain,disturbance_intensity,lesson_score,justice_weighted_learning,diagnostic
+LM001,Urban flood after-action review,infrastructure and governance,0.76,0.5998,0.51883,moderate to strong learning signal
+LM002,Wildfire landscape recovery review,ecological systems,0.84,0.636,0.55968,moderate to strong learning signal
+LM003,Hospital surge staffing review,public health,0.81,0.5826,0.51793,lesson capture may not become institutional change
+LM004,Community heat warning revision,community resilience,0.72,0.6858,0.64259,moderate to strong learning signal
+LM005,Digital outage incident review,digital infrastructure,0.69,0.5366,0.45289,community knowledge integration is weak
+LM006,Watershed drought adaptation review,social-ecological systems,0.79,0.6526,0.58995,moderate to strong learning signal

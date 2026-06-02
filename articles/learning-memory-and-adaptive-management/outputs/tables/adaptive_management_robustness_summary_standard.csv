@@ -1,0 +1,7 @@
+strategy_id,strategy,mean_adaptive_learning_value,median_adaptive_learning_value,probability_ranked_first,probability_top_two,probability_bottom_two
+AM005,Adaptive Governance Decision-Trigger Framework,7.44125,7.4425,42.17,68.5,7.07
+AM003,Community Knowledge and Early Warning Network,7.4049,7.41071,33.43,61.53,10.23
+AM002,Institutional After-Action Learning System,7.24626,7.24752,12.0,29.13,28.13
+AM001,Ecological Monitoring and Threshold Review,7.13999,7.14087,4.93,15.87,47.03
+AM006,Safe-to-Fail Climate Adaptation Pilots,7.10549,7.10356,3.83,12.23,54.7
+AM004,Infrastructure Memory and Maintenance Analytics,7.11165,7.11856,3.63,12.73,52.83

@@ -1,0 +1,7 @@
+strategy_id,strategy,system_domain,monitoring_quality,memory_retention,feedback_use,governance_flexibility,community_knowledge,justice_protection,implementation_reliability,forgetting_pressure,critical_function,base_adaptive_learning_value
+AM001,Ecological Monitoring and Threshold Review,ecological systems,8.6,8.2,8.1,7.5,7.4,7.5,7.8,3.2,detect ecological change and revise management before threshold crossing,7.137999999999999
+AM002,Institutional After-Action Learning System,institutions and governance,7.8,8.5,8.3,7.9,7.6,7.8,8.1,3,convert crisis experience into revised rules funding staffing and accountability,7.2509999999999994
+AM003,Community Knowledge and Early Warning Network,community resilience,7.9,8.3,8,7.7,9,8.8,7.6,2.8,integrate local knowledge lived experience and trusted warning systems,7.404000000000001
+AM004,Infrastructure Memory and Maintenance Analytics,infrastructure,8.4,8.8,8.2,7.4,6.8,7,8.4,3.4,preserve asset history failure logs maintenance records and dependency knowledge,7.114
+AM005,Adaptive Governance Decision-Trigger Framework,adaptive governance,8.1,7.9,8.8,8.7,7.9,8,8,3.1,link monitoring thresholds to accountable decision triggers and policy revision,7.444999999999999
+AM006,Safe-to-Fail Climate Adaptation Pilots,climate adaptation,7.7,7.5,7.9,8.2,8.4,8.3,7.3,3.5,test bounded adaptation options without exposing communities to uncontrolled harm,7.104

@@ -1,0 +1,401 @@
+profile_id,profile,time,disturbance,monitoring_signal,learning,memory,adaptive_capacity,function_level,justice_adjusted_function
+P001,High Learning and Strong Memory,0,0.04,0.03064,0.0038,0.7682,0.61318,1.0,0.925
+P001,High Learning and Strong Memory,1,0.04,0.03021,0.00375,0.66976,0.65318,1.0,0.925
+P001,High Learning and Strong Memory,2,0.04,0.03113,0.00386,0.58325,0.6756,1.0,0.925
+P001,High Learning and Strong Memory,3,0.04,0.04333,0.00537,0.50863,0.68503,1.0,0.925
+P001,High Learning and Strong Memory,4,0.04,0.03089,0.00383,0.44142,0.68469,1.0,0.925
+P001,High Learning and Strong Memory,5,0.04,0.01034,0.00128,0.37974,0.67702,1.0,0.925
+P001,High Learning and Strong Memory,6,0.04,0.03778,0.00468,0.32885,0.66462,1.0,0.925
+P001,High Learning and Strong Memory,7,0.04,0.02879,0.00357,0.28296,0.64894,1.0,0.925
+P001,High Learning and Strong Memory,8,0.04,0.02955,0.00366,0.24267,0.63125,1.0,0.925
+P001,High Learning and Strong Memory,9,0.04,0.03454,0.00428,0.20783,0.61257,1.0,0.925
+P001,High Learning and Strong Memory,10,0.04,0.03628,0.0045,0.17739,0.59359,1.0,0.925
+P001,High Learning and Strong Memory,11,0.04,0.05025,0.00623,0.15233,0.57502,1.0,0.925
+P001,High Learning and Strong Memory,12,0.04,0.04265,0.00529,0.12934,0.55704,1.0,0.925
+P001,High Learning and Strong Memory,13,0.04,0.03446,0.00427,0.10809,0.53974,1.0,0.925
+P001,High Learning and Strong Memory,14,0.04,0.02173,0.00269,0.08781,0.52313,1.0,0.925
+P001,High Learning and Strong Memory,15,0.35,0.27178,0.0337,0.10097,0.51108,0.97576,0.90258
+P001,High Learning and Strong Memory,16,0.04,0.0365,0.00452,0.08338,0.49909,1.0,0.925
+P001,High Learning and Strong Memory,17,0.04,0.05247,0.0065,0.06988,0.48764,1.0,0.925
+P001,High Learning and Strong Memory,18,0.04,0.03342,0.00414,0.05564,0.47654,1.0,0.925
+P001,High Learning and Strong Memory,19,0.04,0.03121,0.00387,0.04283,0.4659,1.0,0.925
+P001,High Learning and Strong Memory,20,0.04,0.04078,0.00506,0.03275,0.45597,1.0,0.925
+P001,High Learning and Strong Memory,21,0.04,0.011,0.00136,0.02018,0.44632,1.0,0.925
+P001,High Learning and Strong Memory,22,0.04,0.02812,0.00349,0.01125,0.43733,1.0,0.925
+P001,High Learning and Strong Memory,23,0.04,0.04016,0.00498,0.00487,0.4292,1.0,0.925
+P001,High Learning and Strong Memory,24,0.04,0.0459,0.00569,0.0,0.42194,1.0,0.925
+P001,High Learning and Strong Memory,25,0.04,0.02919,0.00362,0.0,0.41599,1.0,0.925
+P001,High Learning and Strong Memory,26,0.04,0.03845,0.00477,0.0,0.41111,1.0,0.925
+P001,High Learning and Strong Memory,27,0.04,0.03652,0.00453,0.0,0.40711,1.0,0.925
+P001,High Learning and Strong Memory,28,0.04,0.04453,0.00552,0.0,0.40383,1.0,0.925
+P001,High Learning and Strong Memory,29,0.04,0.0161,0.002,0.0,0.40114,1.0,0.925
+P001,High Learning and Strong Memory,30,0.04,0.04132,0.00512,0.0,0.39894,1.0,0.925
+P001,High Learning and Strong Memory,31,0.04,0.01008,0.00125,0.0,0.39713,1.0,0.925
+P001,High Learning and Strong Memory,32,0.22,0.1411,0.01749,0.00749,0.39654,0.99352,0.91901
+P001,High Learning and Strong Memory,33,0.04,0.0237,0.00294,0.0,0.39517,1.0,0.925
+P001,High Learning and Strong Memory,34,0.04,0.01906,0.00236,0.0,0.39404,1.0,0.925
+P001,High Learning and Strong Memory,35,0.04,0.04594,0.0057,0.0,0.39311,1.0,0.925
+P001,High Learning and Strong Memory,36,0.04,0.04276,0.0053,0.0,0.39235,1.0,0.925
+P001,High Learning and Strong Memory,37,0.04,0.01451,0.0018,0.0,0.39173,1.0,0.925
+P001,High Learning and Strong Memory,38,0.04,0.04551,0.00564,0.0,0.39122,1.0,0.925
+P001,High Learning and Strong Memory,39,0.04,0.01777,0.0022,0.0,0.3908,1.0,0.925
+P001,High Learning and Strong Memory,40,0.04,0.03151,0.00391,0.0,0.39045,1.0,0.925
+P001,High Learning and Strong Memory,41,0.04,0.02839,0.00352,0.0,0.39017,1.0,0.925
+P001,High Learning and Strong Memory,42,0.04,0.03452,0.00428,0.0,0.38994,1.0,0.925
+P001,High Learning and Strong Memory,43,0.04,0.04508,0.00559,0.0,0.38975,1.0,0.925
+P001,High Learning and Strong Memory,44,0.04,0.04238,0.00525,0.0,0.3896,1.0,0.925
+P001,High Learning and Strong Memory,45,0.04,0.03805,0.00472,0.0,0.38947,1.0,0.925
+P001,High Learning and Strong Memory,46,0.04,0.04255,0.00528,0.0,0.38936,1.0,0.925
+P001,High Learning and Strong Memory,47,0.04,0.03998,0.00496,0.0,0.38928,1.0,0.925
+P001,High Learning and Strong Memory,48,0.04,0.0234,0.0029,0.0,0.38921,1.0,0.925
+P001,High Learning and Strong Memory,49,0.04,0.02204,0.00273,0.0,0.38915,1.0,0.925
+P001,High Learning and Strong Memory,50,0.4,0.32095,0.03979,0.02979,0.39268,0.91922,0.85028
+P001,High Learning and Strong Memory,51,0.04,0.04029,0.005,0.02121,0.39454,0.98923,0.91504
+P001,High Learning and Strong Memory,52,0.04,0.02905,0.0036,0.01227,0.395,1.0,0.925
+P001,High Learning and Strong Memory,53,0.04,0.06784,0.00841,0.00921,0.395,1.0,0.925
+P001,High Learning and Strong Memory,54,0.04,0.02051,0.00254,0.00065,0.39398,1.0,0.925
+P001,High Learning and Strong Memory,55,0.04,0.01632,0.00202,0.0,0.39306,1.0,0.925
+P001,High Learning and Strong Memory,56,0.04,0.04433,0.0055,0.0,0.39231,1.0,0.925
+P001,High Learning and Strong Memory,57,0.04,0.05413,0.00671,0.0,0.3917,1.0,0.925
+P001,High Learning and Strong Memory,58,0.04,0.04039,0.00501,0.0,0.39119,1.0,0.925
+P001,High Learning and Strong Memory,59,0.04,0.04534,0.00562,0.0,0.39078,1.0,0.925
+P001,High Learning and Strong Memory,60,0.04,0.0542,0.00672,0.0,0.39044,1.0,0.925
+P001,High Learning and Strong Memory,61,0.04,0.03139,0.00389,0.0,0.39016,1.0,0.925
+P001,High Learning and Strong Memory,62,0.04,0.01146,0.00142,0.0,0.38993,1.0,0.925
+P001,High Learning and Strong Memory,63,0.04,0.02482,0.00308,0.0,0.38974,1.0,0.925
+P001,High Learning and Strong Memory,64,0.04,0.04709,0.00584,0.0,0.38959,1.0,0.925
+P001,High Learning and Strong Memory,65,0.04,0.01114,0.00138,0.0,0.38946,1.0,0.925
+P001,High Learning and Strong Memory,66,0.04,0.0333,0.00413,0.0,0.38936,1.0,0.925
+P001,High Learning and Strong Memory,67,0.28,0.2334,0.02894,0.01894,0.39155,0.96827,0.89565
+P001,High Learning and Strong Memory,68,0.04,0.02807,0.00348,0.01014,0.39229,1.0,0.925
+P001,High Learning and Strong Memory,69,0.04,0.04365,0.00541,0.00434,0.3922,1.0,0.925
+P001,High Learning and Strong Memory,70,0.04,0.04151,0.00515,0.0,0.3916,1.0,0.925
+P001,High Learning and Strong Memory,71,0.04,0.06762,0.00838,0.0,0.39111,1.0,0.925
+P001,High Learning and Strong Memory,72,0.04,0.0421,0.00522,0.0,0.39071,1.0,0.925
+P001,High Learning and Strong Memory,73,0.04,0.02366,0.00293,0.0,0.39038,1.0,0.925
+P001,High Learning and Strong Memory,74,0.04,0.02437,0.00302,0.0,0.39011,1.0,0.925
+P001,High Learning and Strong Memory,75,0.04,0.02033,0.00252,0.0,0.38989,1.0,0.925
+P001,High Learning and Strong Memory,76,0.04,0.04708,0.00584,0.0,0.38971,1.0,0.925
+P001,High Learning and Strong Memory,77,0.04,0.0243,0.00301,0.0,0.38956,1.0,0.925
+P001,High Learning and Strong Memory,78,0.04,0.03175,0.00394,0.0,0.38944,1.0,0.925
+P001,High Learning and Strong Memory,79,0.04,0.04404,0.00546,0.0,0.38934,1.0,0.925
+P002,Good Monitoring but Weak Governance,0,0.04,0.05688,0.00197,0.47497,0.5326,1.0,0.915
+P002,Good Monitoring but Weak Governance,1,0.04,0.03995,0.00138,0.31686,0.49935,1.0,0.915
+P002,Good Monitoring but Weak Governance,2,0.04,0.04473,0.00155,0.20635,0.45883,1.0,0.915
+P002,Good Monitoring but Weak Governance,3,0.04,0.04754,0.00164,0.12908,0.41633,1.0,0.915
+P002,Good Monitoring but Weak Governance,4,0.04,0.02182,0.00075,0.07411,0.37488,1.0,0.915
+P002,Good Monitoring but Weak Governance,5,0.04,0.01094,0.00038,0.03526,0.33624,1.0,0.915
+P002,Good Monitoring but Weak Governance,6,0.04,0.01754,0.00061,0.00829,0.30131,1.0,0.915
+P002,Good Monitoring but Weak Governance,7,0.04,0.03951,0.00137,0.0,0.27167,1.0,0.915
+P002,Good Monitoring but Weak Governance,8,0.04,0.05025,0.00174,0.0,0.24737,1.0,0.915
+P002,Good Monitoring but Weak Governance,9,0.04,0.03632,0.00126,0.0,0.22744,1.0,0.915
+P002,Good Monitoring but Weak Governance,10,0.04,0.014,0.00048,0.0,0.2111,1.0,0.915
+P002,Good Monitoring but Weak Governance,11,0.04,0.05548,0.00192,0.0,0.19771,1.0,0.915
+P002,Good Monitoring but Weak Governance,12,0.04,0.01032,0.00036,0.0,0.18672,1.0,0.915
+P002,Good Monitoring but Weak Governance,13,0.04,0.02708,0.00094,0.0,0.17771,1.0,0.915
+P002,Good Monitoring but Weak Governance,14,0.04,0.02585,0.00089,0.0,0.17032,1.0,0.915
+P002,Good Monitoring but Weak Governance,15,0.35,0.30476,0.01053,0.0,0.16426,0.87542,0.80101
+P002,Good Monitoring but Weak Governance,16,0.04,0.05086,0.00176,0.0,0.1593,0.87985,0.80507
+P002,Good Monitoring but Weak Governance,17,0.04,0.01201,0.00042,0.0,0.15522,0.88331,0.80823
+P002,Good Monitoring but Weak Governance,18,0.04,0.02962,0.00102,0.0,0.15188,0.88596,0.81065
+P002,Good Monitoring but Weak Governance,19,0.04,0.03913,0.00135,0.0,0.14914,0.88795,0.81248
+P002,Good Monitoring but Weak Governance,20,0.04,0.01689,0.00058,0.0,0.1469,0.88941,0.81381
+P002,Good Monitoring but Weak Governance,21,0.04,0.03303,0.00114,0.0,0.14506,0.89042,0.81474
+P002,Good Monitoring but Weak Governance,22,0.04,0.03723,0.00129,0.0,0.14355,0.89107,0.81533
+P002,Good Monitoring but Weak Governance,23,0.04,0.01437,0.0005,0.0,0.14231,0.89143,0.81566
+P002,Good Monitoring but Weak Governance,24,0.04,0.01479,0.00051,0.0,0.14129,0.89154,0.81576
+P002,Good Monitoring but Weak Governance,25,0.04,0.03358,0.00116,0.0,0.14046,0.89145,0.81568
+P002,Good Monitoring but Weak Governance,26,0.04,0.031,0.00107,0.0,0.13978,0.8912,0.81544
+P002,Good Monitoring but Weak Governance,27,0.04,0.03772,0.0013,0.0,0.13922,0.89081,0.81509
+P002,Good Monitoring but Weak Governance,28,0.04,0.06757,0.00234,0.0,0.13876,0.89031,0.81463
+P002,Good Monitoring but Weak Governance,29,0.04,0.04783,0.00165,0.0,0.13838,0.88972,0.81409
+P002,Good Monitoring but Weak Governance,30,0.04,0.04108,0.00142,0.0,0.13807,0.88906,0.81349
+P002,Good Monitoring but Weak Governance,31,0.04,0.02375,0.00082,0.0,0.13782,0.88834,0.81283
+P002,Good Monitoring but Weak Governance,32,0.22,0.20316,0.00702,0.0,0.13761,0.81196,0.74295
+P002,Good Monitoring but Weak Governance,33,0.04,0.02267,0.00078,0.0,0.13744,0.81115,0.7422
+P002,Good Monitoring but Weak Governance,34,0.04,0.05794,0.002,0.0,0.1373,0.8103,0.74143
+P002,Good Monitoring but Weak Governance,35,0.04,0.0522,0.0018,0.0,0.13719,0.80943,0.74062
+P002,Good Monitoring but Weak Governance,36,0.04,0.00433,0.00015,0.0,0.13709,0.80853,0.7398
+P002,Good Monitoring but Weak Governance,37,0.04,0.01677,0.00058,0.0,0.13702,0.80761,0.73897
+P002,Good Monitoring but Weak Governance,38,0.04,0.03153,0.00109,0.0,0.13695,0.80668,0.73811
+P002,Good Monitoring but Weak Governance,39,0.04,0.02838,0.00098,0.0,0.1369,0.80574,0.73725
+P002,Good Monitoring but Weak Governance,40,0.04,0.01549,0.00054,0.0,0.13686,0.80478,0.73638
+P002,Good Monitoring but Weak Governance,41,0.04,0.01602,0.00055,0.0,0.13683,0.80382,0.7355
+P002,Good Monitoring but Weak Governance,42,0.04,0.04523,0.00156,0.0,0.1368,0.80285,0.73461
+P002,Good Monitoring but Weak Governance,43,0.04,0.02642,0.00091,0.0,0.13677,0.80188,0.73372
+P002,Good Monitoring but Weak Governance,44,0.04,0.01147,0.0004,0.0,0.13675,0.8009,0.73282
+P002,Good Monitoring but Weak Governance,45,0.04,0.03019,0.00104,0.0,0.13674,0.79992,0.73192
+P002,Good Monitoring but Weak Governance,46,0.04,0.04894,0.00169,0.0,0.13673,0.79893,0.73102
+P002,Good Monitoring but Weak Governance,47,0.04,0.05964,0.00206,0.0,0.13671,0.79794,0.73012
+P002,Good Monitoring but Weak Governance,48,0.04,0.03533,0.00122,0.0,0.13671,0.79695,0.72921
+P002,Good Monitoring but Weak Governance,49,0.04,0.02968,0.00103,0.0,0.1367,0.79596,0.7283
+P002,Good Monitoring but Weak Governance,50,0.4,0.33193,0.01147,0.0,0.13669,0.64377,0.58905
+P002,Good Monitoring but Weak Governance,51,0.04,0.02659,0.00092,0.0,0.13669,0.64277,0.58814
+P002,Good Monitoring but Weak Governance,52,0.04,0.04239,0.00147,0.0,0.13668,0.64178,0.58723
+P002,Good Monitoring but Weak Governance,53,0.04,0.0532,0.00184,0.0,0.13668,0.64078,0.58631
+P002,Good Monitoring but Weak Governance,54,0.04,0.05305,0.00183,0.0,0.13668,0.63978,0.5854
+P002,Good Monitoring but Weak Governance,55,0.04,0.03074,0.00106,0.0,0.13668,0.63879,0.58449
+P002,Good Monitoring but Weak Governance,56,0.04,0.04767,0.00165,0.0,0.13667,0.63779,0.58358
+P002,Good Monitoring but Weak Governance,57,0.04,0.04585,0.00158,0.0,0.13667,0.63679,0.58266
+P002,Good Monitoring but Weak Governance,58,0.04,0.04121,0.00142,0.0,0.13667,0.63579,0.58175
+P002,Good Monitoring but Weak Governance,59,0.04,0.0,0.0,0.0,0.13667,0.63479,0.58083
+P002,Good Monitoring but Weak Governance,60,0.04,0.03345,0.00116,0.0,0.13667,0.63379,0.57992
+P002,Good Monitoring but Weak Governance,61,0.04,0.03015,0.00104,0.0,0.13667,0.63279,0.57901
+P002,Good Monitoring but Weak Governance,62,0.04,0.05431,0.00188,0.0,0.13667,0.63179,0.57809
+P002,Good Monitoring but Weak Governance,63,0.04,0.03015,0.00104,0.0,0.13667,0.63079,0.57718
+P002,Good Monitoring but Weak Governance,64,0.04,0.04117,0.00142,0.0,0.13667,0.62979,0.57626
+P002,Good Monitoring but Weak Governance,65,0.04,0.03832,0.00132,0.0,0.13667,0.62879,0.57535
+P002,Good Monitoring but Weak Governance,66,0.04,0.0534,0.00185,0.0,0.13667,0.62779,0.57443
+P002,Good Monitoring but Weak Governance,67,0.28,0.25224,0.00872,0.0,0.13667,0.526,0.48129
+P002,Good Monitoring but Weak Governance,68,0.04,0.04983,0.00172,0.0,0.13667,0.525,0.48037
+P002,Good Monitoring but Weak Governance,69,0.04,0.05683,0.00196,0.0,0.13667,0.524,0.47946
+P002,Good Monitoring but Weak Governance,70,0.04,0.04879,0.00169,0.0,0.13667,0.523,0.47854
+P002,Good Monitoring but Weak Governance,71,0.04,0.04614,0.00159,0.0,0.13667,0.522,0.47763
+P002,Good Monitoring but Weak Governance,72,0.04,0.03049,0.00105,0.0,0.13667,0.521,0.47671
+P002,Good Monitoring but Weak Governance,73,0.04,0.03586,0.00124,0.0,0.13667,0.52,0.4758
+P002,Good Monitoring but Weak Governance,74,0.04,0.06684,0.00231,0.0,0.13667,0.519,0.47488
+P002,Good Monitoring but Weak Governance,75,0.04,0.03491,0.00121,0.0,0.13667,0.518,0.47397
+P002,Good Monitoring but Weak Governance,76,0.04,0.04205,0.00145,0.0,0.13667,0.517,0.47305
+P002,Good Monitoring but Weak Governance,77,0.04,0.03327,0.00115,0.0,0.13667,0.516,0.47214
+P002,Good Monitoring but Weak Governance,78,0.04,0.03004,0.00104,0.0,0.13667,0.515,0.47122
+P002,Good Monitoring but Weak Governance,79,0.04,0.0,0.0,0.0,0.13667,0.514,0.47031
+P003,Strong Community Memory,0,0.04,0.01387,0.00111,0.72871,0.59404,1.0,0.965
+P003,Strong Community Memory,1,0.04,0.03979,0.00318,0.61786,0.61686,1.0,0.965
+P003,Strong Community Memory,2,0.04,0.03565,0.00285,0.52221,0.62409,1.0,0.965
+P003,Strong Community Memory,3,0.04,0.02247,0.00179,0.43889,0.62002,1.0,0.965
+P003,Strong Community Memory,4,0.04,0.03017,0.00241,0.36785,0.60816,1.0,0.965
+P003,Strong Community Memory,5,0.04,0.0332,0.00265,0.307,0.59113,1.0,0.965
+P003,Strong Community Memory,6,0.04,0.03108,0.00248,0.2545,0.57087,1.0,0.965
+P003,Strong Community Memory,7,0.04,0.03093,0.00247,0.20934,0.54883,1.0,0.965
+P003,Strong Community Memory,8,0.04,0.03957,0.00316,0.17119,0.52619,1.0,0.965
+P003,Strong Community Memory,9,0.04,0.0446,0.00356,0.13878,0.50373,1.0,0.965
+P003,Strong Community Memory,10,0.04,0.05262,0.0042,0.11155,0.48204,1.0,0.965
+P003,Strong Community Memory,11,0.04,0.02808,0.00224,0.08618,0.46122,1.0,0.965
+P003,Strong Community Memory,12,0.04,0.01856,0.00148,0.06359,0.44143,1.0,0.965
+P003,Strong Community Memory,13,0.04,0.04017,0.00321,0.0459,0.42308,1.0,0.965
+P003,Strong Community Memory,14,0.04,0.0248,0.00198,0.02945,0.40606,1.0,0.965
+P003,Strong Community Memory,15,0.35,0.24657,0.01968,0.033,0.39253,0.93851,0.90566
+P003,Strong Community Memory,16,0.04,0.05537,0.00442,0.0208,0.37997,1.0,0.965
+P003,Strong Community Memory,17,0.04,0.04244,0.00339,0.00928,0.36829,1.0,0.965
+P003,Strong Community Memory,18,0.04,0.02418,0.00193,0.0,0.3576,1.0,0.965
+P003,Strong Community Memory,19,0.04,0.02469,0.00197,0.0,0.34883,1.0,0.965
+P003,Strong Community Memory,20,0.04,0.03565,0.00284,0.0,0.34164,1.0,0.965
+P003,Strong Community Memory,21,0.04,0.03245,0.00259,0.0,0.33574,1.0,0.965
+P003,Strong Community Memory,22,0.04,0.03652,0.00291,0.0,0.33091,1.0,0.965
+P003,Strong Community Memory,23,0.04,0.02777,0.00222,0.0,0.32695,1.0,0.965
+P003,Strong Community Memory,24,0.04,0.00162,0.00013,0.0,0.3237,1.0,0.965
+P003,Strong Community Memory,25,0.04,0.00151,0.00012,0.0,0.32103,1.0,0.965
+P003,Strong Community Memory,26,0.04,0.04406,0.00352,0.0,0.31885,1.0,0.965
+P003,Strong Community Memory,27,0.04,0.03283,0.00262,0.0,0.31705,1.0,0.965
+P003,Strong Community Memory,28,0.04,0.0,0.0,0.0,0.31558,1.0,0.965
+P003,Strong Community Memory,29,0.04,0.03436,0.00274,0.0,0.31438,1.0,0.965
+P003,Strong Community Memory,30,0.04,0.03396,0.00271,0.0,0.31339,1.0,0.965
+P003,Strong Community Memory,31,0.04,0.04034,0.00322,0.0,0.31258,1.0,0.965
+P003,Strong Community Memory,32,0.22,0.16286,0.013,0.001,0.31204,0.97059,0.93662
+P003,Strong Community Memory,33,0.04,0.03436,0.00274,0.0,0.31147,1.0,0.965
+P003,Strong Community Memory,34,0.04,0.01686,0.00135,0.0,0.311,1.0,0.965
+P003,Strong Community Memory,35,0.04,0.00508,0.00041,0.0,0.31062,1.0,0.965
+P003,Strong Community Memory,36,0.04,0.02576,0.00206,0.0,0.31031,1.0,0.965
+P003,Strong Community Memory,37,0.04,0.03122,0.00249,0.0,0.31006,1.0,0.965
+P003,Strong Community Memory,38,0.04,0.02404,0.00192,0.0,0.30985,1.0,0.965
+P003,Strong Community Memory,39,0.04,0.00572,0.00046,0.0,0.30967,1.0,0.965
+P003,Strong Community Memory,40,0.04,0.02197,0.00175,0.0,0.30953,1.0,0.965
+P003,Strong Community Memory,41,0.04,0.0186,0.00148,0.0,0.30942,1.0,0.965
+P003,Strong Community Memory,42,0.04,0.03985,0.00318,0.0,0.30932,1.0,0.965
+P003,Strong Community Memory,43,0.04,0.01108,0.00088,0.0,0.30924,1.0,0.965
+P003,Strong Community Memory,44,0.04,0.0138,0.0011,0.0,0.30918,1.0,0.965
+P003,Strong Community Memory,45,0.04,0.01958,0.00156,0.0,0.30913,1.0,0.965
+P003,Strong Community Memory,46,0.04,0.03134,0.0025,0.0,0.30908,1.0,0.965
+P003,Strong Community Memory,47,0.04,0.04605,0.00367,0.0,0.30905,1.0,0.965
+P003,Strong Community Memory,48,0.04,0.03582,0.00286,0.0,0.30902,1.0,0.965
+P003,Strong Community Memory,49,0.04,0.00771,0.00061,0.0,0.309,1.0,0.965
+P003,Strong Community Memory,50,0.4,0.28027,0.02237,0.01037,0.31022,0.89549,0.86415
+P003,Strong Community Memory,51,0.04,0.05247,0.00419,0.0011,0.31011,0.94123,0.90828
+P003,Strong Community Memory,52,0.04,0.03199,0.00255,0.0,0.30989,0.9868,0.95226
+P003,Strong Community Memory,53,0.04,0.02581,0.00206,0.0,0.30971,1.0,0.965
+P003,Strong Community Memory,54,0.04,0.03547,0.00283,0.0,0.30956,1.0,0.965
+P003,Strong Community Memory,55,0.04,0.0385,0.00307,0.0,0.30944,1.0,0.965
+P003,Strong Community Memory,56,0.04,0.0546,0.00436,0.0,0.30934,1.0,0.965
+P003,Strong Community Memory,57,0.04,0.0319,0.00255,0.0,0.30926,1.0,0.965
+P003,Strong Community Memory,58,0.04,0.01826,0.00146,0.0,0.30919,1.0,0.965
+P003,Strong Community Memory,59,0.04,0.01463,0.00117,0.0,0.30914,1.0,0.965
+P003,Strong Community Memory,60,0.04,0.04368,0.00349,0.0,0.30909,1.0,0.965
+P003,Strong Community Memory,61,0.04,0.02913,0.00232,0.0,0.30906,1.0,0.965
+P003,Strong Community Memory,62,0.04,0.0319,0.00255,0.0,0.30903,1.0,0.965
+P003,Strong Community Memory,63,0.04,0.03652,0.00291,0.0,0.309,1.0,0.965
+P003,Strong Community Memory,64,0.04,0.01424,0.00114,0.0,0.30898,1.0,0.965
+P003,Strong Community Memory,65,0.04,0.05375,0.00429,0.0,0.30896,1.0,0.965
+P003,Strong Community Memory,66,0.04,0.02549,0.00203,0.0,0.30895,1.0,0.965
+P003,Strong Community Memory,67,0.28,0.20394,0.01627,0.00427,0.30945,0.9451,0.91202
+P003,Strong Community Memory,68,0.04,0.0253,0.00202,0.0,0.30935,0.99054,0.95587
+P003,Strong Community Memory,69,0.04,0.03152,0.00251,0.0,0.30927,1.0,0.965
+P003,Strong Community Memory,70,0.04,0.02411,0.00192,0.0,0.3092,1.0,0.965
+P003,Strong Community Memory,71,0.04,0.02424,0.00193,0.0,0.30914,1.0,0.965
+P003,Strong Community Memory,72,0.04,0.03883,0.0031,0.0,0.3091,1.0,0.965
+P003,Strong Community Memory,73,0.04,0.04903,0.00391,0.0,0.30906,1.0,0.965
+P003,Strong Community Memory,74,0.04,0.04028,0.00321,0.0,0.30903,1.0,0.965
+P003,Strong Community Memory,75,0.04,0.01169,0.00093,0.0,0.309,1.0,0.965
+P003,Strong Community Memory,76,0.04,0.02374,0.00189,0.0,0.30898,1.0,0.965
+P003,Strong Community Memory,77,0.04,0.05039,0.00402,0.0,0.30897,1.0,0.965
+P003,Strong Community Memory,78,0.04,0.02936,0.00234,0.0,0.30895,1.0,0.965
+P003,Strong Community Memory,79,0.04,0.03133,0.0025,0.0,0.30894,1.0,0.965
+P004,High Forgetting and Low Feedback Use,0,0.04,0.01962,0.00032,0.24472,0.49717,0.98099,0.91723
+P004,High Forgetting and Low Feedback Use,1,0.04,0.03919,0.00063,0.10188,0.4367,1.0,0.935
+P004,High Forgetting and Low Feedback Use,2,0.04,0.03388,0.00055,0.02753,0.3782,1.0,0.935
+P004,High Forgetting and Low Feedback Use,3,0.04,0.02871,0.00046,0.0,0.32692,1.0,0.935
+P004,High Forgetting and Low Feedback Use,4,0.04,0.02401,0.00039,0.0,0.28488,1.0,0.935
+P004,High Forgetting and Low Feedback Use,5,0.04,0.02298,0.00037,0.0,0.2504,1.0,0.935
+P004,High Forgetting and Low Feedback Use,6,0.04,0.02042,0.00033,0.0,0.22213,1.0,0.935
+P004,High Forgetting and Low Feedback Use,7,0.04,0.02934,0.00047,0.0,0.19894,1.0,0.935
+P004,High Forgetting and Low Feedback Use,8,0.04,0.01274,0.00021,0.0,0.17993,1.0,0.935
+P004,High Forgetting and Low Feedback Use,9,0.04,0.04495,0.00072,0.0,0.16435,0.99664,0.93186
+P004,High Forgetting and Low Feedback Use,10,0.04,0.04248,0.00069,0.0,0.15156,0.99022,0.92585
+P004,High Forgetting and Low Feedback Use,11,0.04,0.02668,0.00043,0.0,0.14108,0.98128,0.9175
+P004,High Forgetting and Low Feedback Use,12,0.04,0.03966,0.00064,0.0,0.13249,0.97028,0.90721
+P004,High Forgetting and Low Feedback Use,13,0.04,0.04203,0.00068,0.0,0.12544,0.95758,0.89534
+P004,High Forgetting and Low Feedback Use,14,0.04,0.02116,0.00034,0.0,0.11966,0.9435,0.88217
+P004,High Forgetting and Low Feedback Use,15,0.35,0.18221,0.00294,0.0,0.11492,0.79808,0.74621
+P004,High Forgetting and Low Feedback Use,16,0.04,0.03578,0.00058,0.0,0.11104,0.78193,0.7311
+P004,High Forgetting and Low Feedback Use,17,0.04,0.00254,4e-05,0.0,0.10785,0.76501,0.71529
+P004,High Forgetting and Low Feedback Use,18,0.04,0.03569,0.00058,0.0,0.10524,0.74747,0.69888
+P004,High Forgetting and Low Feedback Use,19,0.04,0.02897,0.00047,0.0,0.10309,0.72941,0.682
+P004,High Forgetting and Low Feedback Use,20,0.04,0.0116,0.00019,0.0,0.10134,0.71093,0.66472
+P004,High Forgetting and Low Feedback Use,21,0.04,0.0,0.0,0.0,0.0999,0.69211,0.64712
+P004,High Forgetting and Low Feedback Use,22,0.04,0.02737,0.00044,0.0,0.09872,0.673,0.62925
+P004,High Forgetting and Low Feedback Use,23,0.04,0.03209,0.00052,0.0,0.09775,0.65366,0.61117
+P004,High Forgetting and Low Feedback Use,24,0.04,0.02804,0.00045,0.0,0.09695,0.63413,0.59291
+P004,High Forgetting and Low Feedback Use,25,0.04,0.0,0.0,0.0,0.0963,0.61444,0.5745
+P004,High Forgetting and Low Feedback Use,26,0.04,0.02741,0.00044,0.0,0.09577,0.59462,0.55597
+P004,High Forgetting and Low Feedback Use,27,0.04,0.02562,0.00041,0.0,0.09533,0.5747,0.53735
+P004,High Forgetting and Low Feedback Use,28,0.04,0.0221,0.00036,0.0,0.09497,0.5547,0.51864
+P004,High Forgetting and Low Feedback Use,29,0.04,0.0089,0.00014,0.0,0.09467,0.53462,0.49987
+P004,High Forgetting and Low Feedback Use,30,0.04,0.0,0.0,0.0,0.09443,0.51448,0.48104
+P004,High Forgetting and Low Feedback Use,31,0.04,0.04202,0.00068,0.0,0.09424,0.4943,0.46217
+P004,High Forgetting and Low Feedback Use,32,0.22,0.12042,0.00194,0.0,0.09407,0.39848,0.37257
+P004,High Forgetting and Low Feedback Use,33,0.04,0.0,0.0,0.0,0.09394,0.37822,0.35364
+P004,High Forgetting and Low Feedback Use,34,0.04,0.0384,0.00062,0.0,0.09383,0.35794,0.33467
+P004,High Forgetting and Low Feedback Use,35,0.04,0.00401,6e-05,0.0,0.09374,0.33764,0.31569
+P004,High Forgetting and Low Feedback Use,36,0.04,0.02996,0.00048,0.0,0.09367,0.31732,0.29669
+P004,High Forgetting and Low Feedback Use,37,0.04,0.00199,3e-05,0.0,0.09361,0.29698,0.27768
+P004,High Forgetting and Low Feedback Use,38,0.04,0.01761,0.00028,0.0,0.09356,0.27664,0.25866
+P004,High Forgetting and Low Feedback Use,39,0.04,0.01909,0.00031,0.0,0.09352,0.25628,0.23962
+P004,High Forgetting and Low Feedback Use,40,0.04,0.04986,0.0008,0.0,0.09348,0.23592,0.22058
+P004,High Forgetting and Low Feedback Use,41,0.04,0.00422,7e-05,0.0,0.09346,0.21555,0.20154
+P004,High Forgetting and Low Feedback Use,42,0.04,0.00949,0.00015,0.0,0.09344,0.19517,0.18249
+P004,High Forgetting and Low Feedback Use,43,0.04,0.03892,0.00063,0.0,0.09342,0.17479,0.16343
+P004,High Forgetting and Low Feedback Use,44,0.04,0.03956,0.00064,0.0,0.0934,0.15441,0.14437
+P004,High Forgetting and Low Feedback Use,45,0.04,0.02387,0.00039,0.0,0.09339,0.13402,0.12531
+P004,High Forgetting and Low Feedback Use,46,0.04,0.01306,0.00021,0.0,0.09338,0.11363,0.10625
+P004,High Forgetting and Low Feedback Use,47,0.04,0.01324,0.00021,0.0,0.09337,0.09324,0.08718
+P004,High Forgetting and Low Feedback Use,48,0.04,0.0,0.0,0.0,0.09336,0.07285,0.06811
+P004,High Forgetting and Low Feedback Use,49,0.04,0.03658,0.00059,0.0,0.09336,0.05246,0.04905
+P004,High Forgetting and Low Feedback Use,50,0.4,0.23026,0.00371,0.0,0.09335,0.0,0.0
+P004,High Forgetting and Low Feedback Use,51,0.04,0.03497,0.00056,0.0,0.09335,0.0,0.0
+P004,High Forgetting and Low Feedback Use,52,0.04,0.03465,0.00056,0.0,0.09335,0.0,0.0
+P004,High Forgetting and Low Feedback Use,53,0.04,0.02963,0.00048,0.0,0.09334,0.0,0.0
+P004,High Forgetting and Low Feedback Use,54,0.04,0.03728,0.0006,0.0,0.09334,0.0,0.0
+P004,High Forgetting and Low Feedback Use,55,0.04,0.0081,0.00013,0.0,0.09334,0.0,0.0
+P004,High Forgetting and Low Feedback Use,56,0.04,0.05118,0.00083,0.0,0.09334,0.0,0.0
+P004,High Forgetting and Low Feedback Use,57,0.04,0.02738,0.00044,0.0,0.09334,0.0,0.0
+P004,High Forgetting and Low Feedback Use,58,0.04,0.01209,0.0002,0.0,0.09334,0.0,0.0
+P004,High Forgetting and Low Feedback Use,59,0.04,0.00675,0.00011,0.0,0.09334,0.0,0.0
+P004,High Forgetting and Low Feedback Use,60,0.04,0.01896,0.00031,0.0,0.09334,0.0,0.0
+P004,High Forgetting and Low Feedback Use,61,0.04,0.03432,0.00055,0.0,0.09334,0.0,0.0
+P004,High Forgetting and Low Feedback Use,62,0.04,0.03057,0.00049,0.0,0.09334,0.0,0.0
+P004,High Forgetting and Low Feedback Use,63,0.04,0.04109,0.00066,0.0,0.09333,0.0,0.0
+P004,High Forgetting and Low Feedback Use,64,0.04,0.05636,0.00091,0.0,0.09333,0.0,0.0
+P004,High Forgetting and Low Feedback Use,65,0.04,0.03311,0.00053,0.0,0.09333,0.0,0.0
+P004,High Forgetting and Low Feedback Use,66,0.04,0.03876,0.00063,0.0,0.09333,0.0,0.0
+P004,High Forgetting and Low Feedback Use,67,0.28,0.16662,0.00269,0.0,0.09333,0.0,0.0
+P004,High Forgetting and Low Feedback Use,68,0.04,0.00936,0.00015,0.0,0.09333,0.0,0.0
+P004,High Forgetting and Low Feedback Use,69,0.04,0.01547,0.00025,0.0,0.09333,0.0,0.0
+P004,High Forgetting and Low Feedback Use,70,0.04,0.01914,0.00031,0.0,0.09333,0.0,0.0
+P004,High Forgetting and Low Feedback Use,71,0.04,0.03788,0.00061,0.0,0.09333,0.0,0.0
+P004,High Forgetting and Low Feedback Use,72,0.04,0.00286,5e-05,0.0,0.09333,0.0,0.0
+P004,High Forgetting and Low Feedback Use,73,0.04,0.05716,0.00092,0.0,0.09333,0.0,0.0
+P004,High Forgetting and Low Feedback Use,74,0.04,0.01088,0.00018,0.0,0.09333,0.0,0.0
+P004,High Forgetting and Low Feedback Use,75,0.04,0.00767,0.00012,0.0,0.09333,0.0,0.0
+P004,High Forgetting and Low Feedback Use,76,0.04,0.01293,0.00021,0.0,0.09333,0.0,0.0
+P004,High Forgetting and Low Feedback Use,77,0.04,0.00703,0.00011,0.0,0.09333,0.0,0.0
+P004,High Forgetting and Low Feedback Use,78,0.04,0.02391,0.00039,0.0,0.09333,0.0,0.0
+P004,High Forgetting and Low Feedback Use,79,0.04,0.02458,0.0004,0.0,0.09333,0.0,0.0
+P005,Balanced Adaptive Management,0,0.04,0.04278,0.00351,0.59791,0.58195,1.0,0.945
+P005,Balanced Adaptive Management,1,0.04,0.02141,0.00176,0.45413,0.59089,1.0,0.945
+P005,Balanced Adaptive Management,2,0.04,0.00596,0.00049,0.34071,0.58462,1.0,0.945
+P005,Balanced Adaptive Management,3,0.04,0.01549,0.00127,0.25302,0.56895,1.0,0.945
+P005,Balanced Adaptive Management,4,0.04,0.03363,0.00276,0.18612,0.54807,1.0,0.945
+P005,Balanced Adaptive Management,5,0.04,0.0491,0.00403,0.1352,0.52484,1.0,0.945
+P005,Balanced Adaptive Management,6,0.04,0.0,0.0,0.09146,0.50055,1.0,0.945
+P005,Balanced Adaptive Management,7,0.04,0.01293,0.00106,0.0584,0.47666,1.0,0.945
+P005,Balanced Adaptive Management,8,0.04,0.03675,0.00302,0.03457,0.45421,1.0,0.945
+P005,Balanced Adaptive Management,9,0.04,0.03234,0.00265,0.01562,0.43352,1.0,0.945
+P005,Balanced Adaptive Management,10,0.04,0.01926,0.00158,0.0,0.41469,1.0,0.945
+P005,Balanced Adaptive Management,11,0.04,0.05654,0.00464,0.0,0.39925,1.0,0.945
+P005,Balanced Adaptive Management,12,0.04,0.03567,0.00293,0.0,0.38658,1.0,0.945
+P005,Balanced Adaptive Management,13,0.04,0.02446,0.00201,0.0,0.3762,1.0,0.945
+P005,Balanced Adaptive Management,14,0.04,0.04728,0.00388,0.0,0.36768,1.0,0.945
+P005,Balanced Adaptive Management,15,0.35,0.2641,0.02168,0.00768,0.36162,0.92656,0.8756
+P005,Balanced Adaptive Management,16,0.04,0.06551,0.00538,0.0,0.35573,0.98113,0.92717
+P005,Balanced Adaptive Management,17,0.04,0.02418,0.00198,0.0,0.3509,1.0,0.945
+P005,Balanced Adaptive Management,18,0.04,0.06508,0.00534,0.0,0.34694,1.0,0.945
+P005,Balanced Adaptive Management,19,0.04,0.05358,0.0044,0.0,0.34369,1.0,0.945
+P005,Balanced Adaptive Management,20,0.04,0.02254,0.00185,0.0,0.34102,1.0,0.945
+P005,Balanced Adaptive Management,21,0.04,0.03236,0.00266,0.0,0.33884,1.0,0.945
+P005,Balanced Adaptive Management,22,0.04,0.02544,0.00209,0.0,0.33705,1.0,0.945
+P005,Balanced Adaptive Management,23,0.04,0.03246,0.00266,0.0,0.33558,1.0,0.945
+P005,Balanced Adaptive Management,24,0.04,0.03107,0.00255,0.0,0.33438,1.0,0.945
+P005,Balanced Adaptive Management,25,0.04,0.01239,0.00102,0.0,0.33339,1.0,0.945
+P005,Balanced Adaptive Management,26,0.04,0.03951,0.00324,0.0,0.33258,1.0,0.945
+P005,Balanced Adaptive Management,27,0.04,0.03802,0.00312,0.0,0.33191,1.0,0.945
+P005,Balanced Adaptive Management,28,0.04,0.00518,0.00043,0.0,0.33137,1.0,0.945
+P005,Balanced Adaptive Management,29,0.04,0.03012,0.00247,0.0,0.33092,1.0,0.945
+P005,Balanced Adaptive Management,30,0.04,0.03008,0.00247,0.0,0.33056,1.0,0.945
+P005,Balanced Adaptive Management,31,0.04,0.03824,0.00314,0.0,0.33026,1.0,0.945
+P005,Balanced Adaptive Management,32,0.22,0.16813,0.0138,0.0,0.33001,0.9728,0.9193
+P005,Balanced Adaptive Management,33,0.04,0.03569,0.00293,0.0,0.32981,1.0,0.945
+P005,Balanced Adaptive Management,34,0.04,0.01563,0.00128,0.0,0.32964,1.0,0.945
+P005,Balanced Adaptive Management,35,0.04,0.05731,0.0047,0.0,0.32951,1.0,0.945
+P005,Balanced Adaptive Management,36,0.04,0.03634,0.00298,0.0,0.3294,1.0,0.945
+P005,Balanced Adaptive Management,37,0.04,0.04283,0.00352,0.0,0.3293,1.0,0.945
+P005,Balanced Adaptive Management,38,0.04,0.03267,0.00268,0.0,0.32923,1.0,0.945
+P005,Balanced Adaptive Management,39,0.04,0.02118,0.00174,0.0,0.32917,1.0,0.945
+P005,Balanced Adaptive Management,40,0.04,0.03971,0.00326,0.0,0.32912,1.0,0.945
+P005,Balanced Adaptive Management,41,0.04,0.03868,0.00318,0.0,0.32908,1.0,0.945
+P005,Balanced Adaptive Management,42,0.04,0.013,0.00107,0.0,0.32904,1.0,0.945
+P005,Balanced Adaptive Management,43,0.04,0.01609,0.00132,0.0,0.32902,1.0,0.945
+P005,Balanced Adaptive Management,44,0.04,0.02876,0.00236,0.0,0.32899,1.0,0.945
+P005,Balanced Adaptive Management,45,0.04,0.02629,0.00216,0.0,0.32897,1.0,0.945
+P005,Balanced Adaptive Management,46,0.04,0.02963,0.00243,0.0,0.32896,1.0,0.945
+P005,Balanced Adaptive Management,47,0.04,0.03847,0.00316,0.0,0.32895,1.0,0.945
+P005,Balanced Adaptive Management,48,0.04,0.01789,0.00147,0.0,0.32894,1.0,0.945
+P005,Balanced Adaptive Management,49,0.04,0.02592,0.00213,0.0,0.32893,1.0,0.945
+P005,Balanced Adaptive Management,50,0.4,0.31215,0.02562,0.01162,0.33031,0.89844,0.84902
+P005,Balanced Adaptive Management,51,0.04,0.01175,0.00096,0.0,0.33006,0.94685,0.89477
+P005,Balanced Adaptive Management,52,0.04,0.0232,0.0019,0.0,0.32985,0.99522,0.94048
+P005,Balanced Adaptive Management,53,0.04,0.02665,0.00219,0.0,0.32968,1.0,0.945
+P005,Balanced Adaptive Management,54,0.04,0.02586,0.00212,0.0,0.32953,1.0,0.945
+P005,Balanced Adaptive Management,55,0.04,0.02974,0.00244,0.0,0.32942,1.0,0.945
+P005,Balanced Adaptive Management,56,0.04,0.05511,0.00452,0.0,0.32932,1.0,0.945
+P005,Balanced Adaptive Management,57,0.04,0.04873,0.004,0.0,0.32924,1.0,0.945
+P005,Balanced Adaptive Management,58,0.04,0.03151,0.00259,0.0,0.32918,1.0,0.945
+P005,Balanced Adaptive Management,59,0.04,0.0318,0.00261,0.0,0.32913,1.0,0.945
+P005,Balanced Adaptive Management,60,0.04,0.02915,0.00239,0.0,0.32908,1.0,0.945
+P005,Balanced Adaptive Management,61,0.04,0.02181,0.00179,0.0,0.32905,1.0,0.945
+P005,Balanced Adaptive Management,62,0.04,0.02504,0.00206,0.0,0.32902,1.0,0.945
+P005,Balanced Adaptive Management,63,0.04,0.04982,0.00409,0.0,0.329,1.0,0.945
+P005,Balanced Adaptive Management,64,0.04,0.03422,0.00281,0.0,0.32898,1.0,0.945
+P005,Balanced Adaptive Management,65,0.04,0.03,0.00246,0.0,0.32896,1.0,0.945
+P005,Balanced Adaptive Management,66,0.04,0.02883,0.00237,0.0,0.32895,1.0,0.945
+P005,Balanced Adaptive Management,67,0.28,0.21517,0.01766,0.00366,0.32938,0.94782,0.89569
+P005,Balanced Adaptive Management,68,0.04,0.03343,0.00274,0.0,0.32929,0.99605,0.94126
+P005,Balanced Adaptive Management,69,0.04,0.01706,0.0014,0.0,0.32922,1.0,0.945
+P005,Balanced Adaptive Management,70,0.04,0.04404,0.00361,0.0,0.32916,1.0,0.945
+P005,Balanced Adaptive Management,71,0.04,0.03888,0.00319,0.0,0.32911,1.0,0.945
+P005,Balanced Adaptive Management,72,0.04,0.02646,0.00217,0.0,0.32907,1.0,0.945
+P005,Balanced Adaptive Management,73,0.04,0.02463,0.00202,0.0,0.32904,1.0,0.945
+P005,Balanced Adaptive Management,74,0.04,0.01204,0.00099,0.0,0.32901,1.0,0.945
+P005,Balanced Adaptive Management,75,0.04,0.04895,0.00402,0.0,0.32899,1.0,0.945
+P005,Balanced Adaptive Management,76,0.04,0.04148,0.0034,0.0,0.32897,1.0,0.945
+P005,Balanced Adaptive Management,77,0.04,0.00929,0.00076,0.0,0.32896,1.0,0.945
+P005,Balanced Adaptive Management,78,0.04,0.00815,0.00067,0.0,0.32894,1.0,0.945
+P005,Balanced Adaptive Management,79,0.04,0.03545,0.00291,0.0,0.32893,1.0,0.945
