@@ -1,0 +1,9 @@
+system_id,system_type,learning,flexibility,diversity,governance_capacity,slack,trust_legitimacy,rigidity,exposure,critical_function,adaptive_capacity,adaptive_vulnerability,response_space_baseline,diagnostic
+AC001,Ecological System,0.74,0.7,0.84,0.56,0.62,0.58,0.34,0.62,biodiversity recovery ecological function and disturbance response,0.6360000000000001,0.46480000000000005,0.17120000000000007,Stronger adaptive-capacity profile
+AC002,Community Network,0.7,0.68,0.72,0.66,0.56,0.7,0.4,0.66,mutual aid local coordination health safety and recovery,0.6254,0.4736000000000001,0.15179999999999988,Stronger adaptive-capacity profile
+AC003,Institutional System,0.62,0.56,0.58,0.76,0.46,0.6,0.58,0.58,rule revision public legitimacy and policy learning,0.531,0.5076,0.023399999999999976,Mixed adaptive-capacity profile requiring monitoring
+AC004,Infrastructure System,0.55,0.5,0.48,0.7,0.4,0.55,0.66,0.72,service continuity repair redundancy and critical operations,0.45439999999999997,0.5982000000000001,-0.1438000000000001,Rigidity and lock-in concern
+AC005,Urban Climate System,0.58,0.54,0.55,0.62,0.44,0.52,0.62,0.78,cooling stormwater public health and housing safety,0.4709,0.6164000000000001,-0.14550000000000007,Rigidity and lock-in concern
+AC006,Regional Food System,0.6,0.57,0.64,0.58,0.5,0.57,0.55,0.7,food supply livelihood diversity distribution and soil capacity,0.5132000000000001,0.5606,-0.04739999999999989,Mixed adaptive-capacity profile requiring monitoring
+AC007,Watershed Governance System,0.66,0.61,0.6,0.72,0.52,0.64,0.5,0.68,water allocation drought response quality and ecosystem flow,0.5682,0.512,0.05620000000000003,Mixed adaptive-capacity profile requiring monitoring
+AC008,Public Health System,0.68,0.59,0.56,0.74,0.48,0.58,0.6,0.76,surveillance surge capacity communication and equitable care,0.5376000000000001,0.5756,-0.03799999999999992,Mixed adaptive-capacity profile requiring monitoring

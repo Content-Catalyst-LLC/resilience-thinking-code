@@ -1,0 +1,9 @@
+system_id,system_type,minimum_viability,final_viability,average_response_space,threshold_risk_steps
+AC001,Ecological System,0.0,1.2,0.5761,135
+AC002,Community Network,0.0,1.2,0.5104,146
+AC003,Institutional System,0.0,1.2,0.186,213
+AC004,Infrastructure System,0.0,1.1934,-0.0164,268
+AC005,Urban Climate System,0.0,1.1959,0.0365,264
+AC006,Regional Food System,0.0,1.2,0.191,222
+AC007,Watershed Governance System,0.0,1.2,0.3242,156
+AC008,Public Health System,0.0,1.2,0.1534,237

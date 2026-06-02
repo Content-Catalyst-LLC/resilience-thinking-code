@@ -1,0 +1,5 @@
+scenario_id,scenario_name,disturbance_load,shock_intensity,shock_frequency,learning_gain,rigidity_growth,governance_response,description
+AD001,Moderate recurring disturbance,0.16,0.14,12,0.012,0.006,0.60,Repeated disturbances with moderate learning and manageable rigidity growth.
+AD002,Climate-amplified disturbance,0.26,0.22,10,0.010,0.010,0.50,Climate stress increases exposure and tests response space.
+AD003,Compound institutional stress,0.34,0.30,8,0.006,0.018,0.42,Multiple interacting disturbances increase rigidity and reduce adaptive room.
+AD004,Learning-oriented adaptation,0.22,0.18,10,0.020,0.004,0.68,Strong monitoring feedback and governance response expand adaptive capacity over time.

@@ -1,0 +1,9 @@
+system_id,system_type,critical_function,adaptive_capacity,adaptive_vulnerability,response_space_baseline,rigidity,exposure,diagnostic
+AC001,Ecological System,biodiversity recovery ecological function and disturbance response,0.636,0.4648,0.1712,0.34,0.62,stronger adaptive-capacity profile
+AC002,Community Network,mutual aid local coordination health safety and recovery,0.6254,0.4736,0.1518,0.40,0.66,stronger adaptive-capacity profile
+AC003,Institutional System,rule revision public legitimacy and policy learning,0.531,0.5076,0.0234,0.58,0.58,mixed adaptive-capacity profile requiring monitoring
+AC004,Infrastructure System,service continuity repair redundancy and critical operations,0.4544,0.5982,-0.1438,0.66,0.72,rigidity and lock-in concern
+AC005,Urban Climate System,cooling stormwater public health and housing safety,0.4709,0.6164,-0.1455,0.62,0.78,rigidity and lock-in concern
+AC006,Regional Food System,food supply livelihood diversity distribution and soil capacity,0.5132,0.5606,-0.0474,0.55,0.70,mixed adaptive-capacity profile requiring monitoring
+AC007,Watershed Governance System,water allocation drought response quality and ecosystem flow,0.5682,0.512,0.0562,0.50,0.68,mixed adaptive-capacity profile requiring monitoring
+AC008,Public Health System,surveillance surge capacity communication and equitable care,0.5376,0.5756,-0.038,0.60,0.76,mixed adaptive-capacity profile requiring monitoring

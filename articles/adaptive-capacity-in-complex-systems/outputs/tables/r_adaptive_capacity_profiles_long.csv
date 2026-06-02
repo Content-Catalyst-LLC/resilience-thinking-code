@@ -1,0 +1,89 @@
+system_type,dimension,value
+Ecological System,learning,0.74
+Ecological System,flexibility,0.7
+Ecological System,diversity,0.84
+Ecological System,governance_capacity,0.56
+Ecological System,slack,0.62
+Ecological System,trust_legitimacy,0.58
+Ecological System,rigidity,0.34
+Ecological System,exposure,0.62
+Ecological System,adaptive_capacity,0.6360000000000001
+Ecological System,adaptive_vulnerability,0.46480000000000005
+Ecological System,response_space_baseline,0.17120000000000007
+Community Network,learning,0.7
+Community Network,flexibility,0.68
+Community Network,diversity,0.72
+Community Network,governance_capacity,0.66
+Community Network,slack,0.56
+Community Network,trust_legitimacy,0.7
+Community Network,rigidity,0.4
+Community Network,exposure,0.66
+Community Network,adaptive_capacity,0.6254
+Community Network,adaptive_vulnerability,0.4736000000000001
+Community Network,response_space_baseline,0.15179999999999988
+Institutional System,learning,0.62
+Institutional System,flexibility,0.56
+Institutional System,diversity,0.58
+Institutional System,governance_capacity,0.76
+Institutional System,slack,0.46
+Institutional System,trust_legitimacy,0.6
+Institutional System,rigidity,0.58
+Institutional System,exposure,0.58
+Institutional System,adaptive_capacity,0.531
+Institutional System,adaptive_vulnerability,0.5076
+Institutional System,response_space_baseline,0.023399999999999976
+Infrastructure System,learning,0.55
+Infrastructure System,flexibility,0.5
+Infrastructure System,diversity,0.48
+Infrastructure System,governance_capacity,0.7
+Infrastructure System,slack,0.4
+Infrastructure System,trust_legitimacy,0.55
+Infrastructure System,rigidity,0.66
+Infrastructure System,exposure,0.72
+Infrastructure System,adaptive_capacity,0.45439999999999997
+Infrastructure System,adaptive_vulnerability,0.5982000000000001
+Infrastructure System,response_space_baseline,-0.1438000000000001
+Urban Climate System,learning,0.58
+Urban Climate System,flexibility,0.54
+Urban Climate System,diversity,0.55
+Urban Climate System,governance_capacity,0.62
+Urban Climate System,slack,0.44
+Urban Climate System,trust_legitimacy,0.52
+Urban Climate System,rigidity,0.62
+Urban Climate System,exposure,0.78
+Urban Climate System,adaptive_capacity,0.4709
+Urban Climate System,adaptive_vulnerability,0.6164000000000001
+Urban Climate System,response_space_baseline,-0.14550000000000007
+Regional Food System,learning,0.6
+Regional Food System,flexibility,0.57
+Regional Food System,diversity,0.64
+Regional Food System,governance_capacity,0.58
+Regional Food System,slack,0.5
+Regional Food System,trust_legitimacy,0.57
+Regional Food System,rigidity,0.55
+Regional Food System,exposure,0.7
+Regional Food System,adaptive_capacity,0.5132000000000001
+Regional Food System,adaptive_vulnerability,0.5606
+Regional Food System,response_space_baseline,-0.04739999999999989
+Watershed Governance System,learning,0.66
+Watershed Governance System,flexibility,0.61
+Watershed Governance System,diversity,0.6
+Watershed Governance System,governance_capacity,0.72
+Watershed Governance System,slack,0.52
+Watershed Governance System,trust_legitimacy,0.64
+Watershed Governance System,rigidity,0.5
+Watershed Governance System,exposure,0.68
+Watershed Governance System,adaptive_capacity,0.5682
+Watershed Governance System,adaptive_vulnerability,0.512
+Watershed Governance System,response_space_baseline,0.05620000000000003
+Public Health System,learning,0.68
+Public Health System,flexibility,0.59
+Public Health System,diversity,0.56
+Public Health System,governance_capacity,0.74
+Public Health System,slack,0.48
+Public Health System,trust_legitimacy,0.58
+Public Health System,rigidity,0.6
+Public Health System,exposure,0.76
+Public Health System,adaptive_capacity,0.5376000000000001
+Public Health System,adaptive_vulnerability,0.5756
+Public Health System,response_space_baseline,-0.03799999999999992

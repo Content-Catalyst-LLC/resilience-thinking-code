@@ -1,0 +1,9 @@
+system_id,system_type,learning,flexibility,diversity,governance_capacity,slack,trust_legitimacy,rigidity,exposure,critical_function
+AC001,Ecological System,0.74,0.70,0.84,0.56,0.62,0.58,0.34,0.62,biodiversity recovery ecological function and disturbance response
+AC002,Community Network,0.70,0.68,0.72,0.66,0.56,0.70,0.40,0.66,mutual aid local coordination health safety and recovery
+AC003,Institutional System,0.62,0.56,0.58,0.76,0.46,0.60,0.58,0.58,rule revision public legitimacy and policy learning
+AC004,Infrastructure System,0.55,0.50,0.48,0.70,0.40,0.55,0.66,0.72,service continuity repair redundancy and critical operations
+AC005,Urban Climate System,0.58,0.54,0.55,0.62,0.44,0.52,0.62,0.78,cooling stormwater public health and housing safety
+AC006,Regional Food System,0.60,0.57,0.64,0.58,0.50,0.57,0.55,0.70,food supply livelihood diversity distribution and soil capacity
+AC007,Watershed Governance System,0.66,0.61,0.60,0.72,0.52,0.64,0.50,0.68,water allocation drought response quality and ecosystem flow
+AC008,Public Health System,0.68,0.59,0.56,0.74,0.48,0.58,0.60,0.76,surveillance surge capacity communication and equitable care
