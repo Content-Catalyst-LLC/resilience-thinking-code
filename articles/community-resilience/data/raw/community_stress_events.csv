@@ -1,0 +1,6 @@
+event_id,event_name,primary_stress,hazard_intensity,service_disruption,institutional_pressure,communication_stress,economic_shock,care_burden,equity_burden,dependency_amplification,affected_functions
+EV001,Extreme heatwave with power and cooling stress,heat and energy outage,0.86,0.78,0.66,0.58,0.62,0.74,0.90,0.78,cooling medical devices utility bills outreach shelters transport public health and neighbor check-ins
+EV002,Flooding with housing displacement and water disruption,flood and displacement,0.84,0.82,0.72,0.64,0.78,0.70,0.92,0.82,housing water sanitation transport schools small businesses shelters insurance and recovery aid
+EV003,Public health emergency with misinformation surge,pandemic and misinformation,0.80,0.70,0.76,0.86,0.68,0.84,0.88,0.76,care networks vaccination trusted communication schools work food access and public health outreach
+EV004,Economic shock with utility debt and small business closures,economic disruption,0.72,0.62,0.66,0.58,0.88,0.66,0.86,0.70,jobs household income utilities rent food access local businesses debt and mental health
+EV005,Compound heat flood outage misinformation and displacement crisis,compound,0.92,0.90,0.88,0.86,0.84,0.88,0.94,0.92,energy water health transport housing food communication care networks governance and community trust

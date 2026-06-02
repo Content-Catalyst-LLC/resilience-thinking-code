@@ -1,0 +1,7 @@
+strategy_id,strategy,mean_resilience_value,median_resilience_value,probability_ranked_first,probability_top_two,probability_bottom_two
+CR004,Inclusive Community Governance and Adaptation Forum,7.94764,7.95111,44.07,70.3,5.43
+CR005,Community Health and Care Continuity Network,7.88978,7.89144,31.5,60.47,8.6
+CR006,Ecological Stewardship and Flood-Heat Buffer Program,7.73479,7.73432,11.57,30.53,25.83
+CR001,Neighborhood Mutual Aid and Preparedness Network,7.69852,7.69828,8.97,24.23,30.0
+CR003,Local Risk Communication and Early Warning Platform,7.5597,7.56522,2.47,9.63,56.83
+CR002,Community Infrastructure Access and Backup Systems,7.46673,7.4642,1.43,4.83,73.3

@@ -1,0 +1,9 @@
+scenario,social_capital_weight,institutional_capacity_weight,infrastructure_access_weight,economic_security_weight,information_quality_weight,adaptive_capacity_weight,equity_protection_weight,implementation_burden_weight,description
+Balanced,0.14,0.14,0.14,0.13,0.13,0.15,0.15,0.02,Balanced community resilience across social capital institutions access economics information adaptation equity and implementation burden.
+Social-capital-first,0.38,0.10,0.10,0.09,0.10,0.11,0.11,0.01,Prioritizes trust relationships mutual aid bonding bridging and linking social capital.
+Capacity-first,0.10,0.38,0.10,0.09,0.10,0.11,0.11,0.01,Prioritizes institutional capacity coordination local governance public finance and organizational competence.
+Access-first,0.10,0.10,0.38,0.10,0.10,0.11,0.10,0.01,Prioritizes access to energy water health food transport shelters communications and services.
+Information-first,0.10,0.10,0.10,0.09,0.38,0.11,0.11,0.01,Prioritizes trusted warnings communication risk literacy accessibility and misinformation resilience.
+Adaptation-first,0.10,0.10,0.10,0.09,0.10,0.38,0.11,0.01,Prioritizes learning adaptation transformation local knowledge and future viability.
+Equity-first,0.10,0.10,0.10,0.09,0.10,0.11,0.39,0.01,Prioritizes vulnerable residents anti-displacement access justice and community voice.
+Implementation-aware,0.13,0.13,0.13,0.12,0.12,0.13,0.13,0.11,Penalizes strategies with higher implementation burden when administrative funding or civic capacity is constrained.
