@@ -1,0 +1,5 @@
+scenario_id,scenario_name,maintenance_growth,trust_decline,memory_decline,climate_growth,adaptive_investment,monitoring_improvement,justice_improvement,shock_time_1,shock_time_2,shock_magnitude,description
+SL001,Deferred maintenance and slow trust erosion,0.0060,0.0035,0.0025,0.0045,0.00,0.0000,0.0000,72,96,0.32,Slow variables erode while visible function remains temporarily stable.
+SL002,Moderate adaptive investment,0.0050,0.0025,0.0018,0.0045,0.45,0.0030,0.0020,72,96,0.30,Moderate investment slows backlog growth and supports trust and memory.
+SL003,High prevention and memory protection,0.0040,0.0015,0.0010,0.0045,0.80,0.0050,0.0040,72,96,0.26,Prevention protects response space and improves monitoring.
+SL004,Unequal exposure and ignored warning,0.0065,0.0040,0.0030,0.0050,0.10,0.0010,-0.0010,68,94,0.36,Hidden harm accumulates where justice visibility and monitoring remain weak.

@@ -1,0 +1,5 @@
+scenario_id,scenario_name,final_system_function,minimum_threshold_distance,maximum_hidden_risk,final_adaptive_capacity,shock_count
+SL001,Deferred maintenance and slow trust erosion,0.0,0.22066,0.75,0.3446,2
+SL002,Moderate adaptive investment,1.0,0.53367,0.43042,0.67992,2
+SL003,High prevention and memory protection,1.0,0.73597,0.28935,0.86588,2
+SL004,Unequal exposure and ignored warning,0.0,0.21376,0.75252,0.35236,2
