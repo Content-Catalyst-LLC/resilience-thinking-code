@@ -1,0 +1,361 @@
+pathway_id,pathway,time,shock,climate_pressure,infrastructure_pressure,exposure,recovery_capacity,trust,support_strength,abandonment_risk,justice_adjusted_resilience
+AP001,Preparedness without material support,0,0.04077,0.19019,0.20815,0.68465,0.41956,0.49015,0.39631,0.64953,0.26329
+AP001,Preparedness without material support,1,0.05392,0.20148,0.21678,0.65002,0.45847,0.48133,0.40459,0.6099,0.28499
+AP001,Preparedness without material support,2,0.04288,0.20672,0.22058,0.6157,0.49792,0.47453,0.41325,0.56418,0.30848
+AP001,Preparedness without material support,3,0.04925,0.21631,0.22785,0.58199,0.53706,0.46905,0.42198,0.52332,0.33111
+AP001,Preparedness without material support,4,0.05343,0.22536,0.23469,0.54884,0.57599,0.46495,0.43083,0.48237,0.35394
+AP001,Preparedness without material support,5,0.05586,0.23396,0.24117,0.51624,0.61479,0.46231,0.43983,0.44138,0.37699
+AP001,Preparedness without material support,6,0.04906,0.24027,0.24581,0.48402,0.65394,0.4615,0.44913,0.39816,0.40094
+AP001,Preparedness without material support,7,0.04997,0.24849,0.25199,0.45232,0.69304,0.46223,0.4586,0.35722,0.4247
+AP001,Preparedness without material support,8,0.04038,0.2541,0.25608,0.42097,0.73262,0.46491,0.46842,0.31364,0.44951
+AP001,Preparedness without material support,9,0.04865,0.26416,0.26373,0.39025,0.77179,0.46884,0.47829,0.27512,0.47339
+AP001,Preparedness without material support,10,0.32,0.34,0.324,0.36437,0.79739,0.46294,0.48373,0.31164,0.47549
+AP001,Preparedness without material support,11,0.05705,0.28226,0.27741,0.33478,0.83614,0.4691,0.49377,0.20628,0.51296
+AP001,Preparedness without material support,12,0.05094,0.28873,0.28219,0.30559,0.87519,0.47707,0.50409,0.16524,0.53801
+AP001,Preparedness without material support,13,0.05511,0.29778,0.28902,0.27698,0.91404,0.48643,0.51454,0.12721,0.56262
+AP001,Preparedness without material support,14,0.04868,0.30417,0.29374,0.24876,0.9532,0.49761,0.52528,0.08664,0.58818
+AP001,Preparedness without material support,15,0.04352,0.31088,0.2987,0.22095,0.99263,0.51057,0.5363,0.04653,0.61408
+AP001,Preparedness without material support,16,0.05702,0.32225,0.3074,0.19386,1.0,0.52329,0.53959,0.01952,0.62769
+AP001,Preparedness without material support,17,0.0564,0.3301,0.31328,0.16727,1.0,0.53604,0.54112,0.0,0.63757
+AP001,Preparedness without material support,18,0.04752,0.33588,0.3175,0.14103,1.0,0.54913,0.5427,0.0,0.64358
+AP001,Preparedness without material support,19,0.04191,0.34248,0.32238,0.1152,1.0,0.56246,0.54429,0.0,0.64959
+AP001,Preparedness without material support,20,0.05025,0.35256,0.33005,0.09,1.0,0.57545,0.54585,0.0,0.65545
+AP001,Preparedness without material support,21,0.04992,0.36048,0.33598,0.0653,1.0,0.58845,0.54741,0.0,0.66126
+AP001,Preparedness without material support,22,0.36,0.446,0.404,0.04606,1.0,0.58905,0.54749,0.0,0.6637
+AP001,Preparedness without material support,23,0.05194,0.37699,0.34839,0.02239,1.0,0.60197,0.54904,0.0,0.66936
+AP001,Preparedness without material support,24,0.05013,0.38453,0.35403,0.0,1.0,0.61497,0.5506,0.0,0.67489
+AP001,Preparedness without material support,25,0.0515,0.39288,0.3603,0.0,1.0,0.62791,0.55215,0.0,0.67771
+AP001,Preparedness without material support,26,0.04754,0.39988,0.36551,0.0,1.0,0.64101,0.55372,0.0,0.68057
+AP001,Preparedness without material support,27,0.04098,0.40624,0.3702,0.0,1.0,0.65437,0.55532,0.0,0.68349
+AP001,Preparedness without material support,28,0.04122,0.41431,0.37624,0.0,1.0,0.66772,0.55693,0.0,0.68641
+AP001,Preparedness without material support,29,0.05884,0.42671,0.38577,0.0,1.0,0.68036,0.55844,0.0,0.68917
+AP001,Preparedness without material support,30,0.05678,0.4342,0.39136,0.0,1.0,0.69309,0.55997,0.0,0.69195
+AP001,Preparedness without material support,31,0.04592,0.43948,0.39518,0.0,1.0,0.70626,0.56155,0.0,0.69482
+AP001,Preparedness without material support,32,0.05778,0.45044,0.40356,0.0,1.0,0.71895,0.56307,0.0,0.69759
+AP001,Preparedness without material support,33,0.05045,0.45661,0.40809,0.0,1.0,0.73193,0.56463,0.0,0.70043
+AP001,Preparedness without material support,34,0.04206,0.46252,0.41241,0.0,1.0,0.74525,0.56623,0.0,0.70334
+AP001,Preparedness without material support,35,0.05711,0.47428,0.42142,0.0,1.0,0.75796,0.56776,0.0,0.70611
+AP001,Preparedness without material support,36,0.38,0.563,0.492,0.0,1.0,0.75776,0.56773,0.0,0.70607
+AP001,Preparedness without material support,37,0.05866,0.49066,0.43373,0.0,1.0,0.77041,0.56925,0.0,0.70883
+AP001,Preparedness without material support,38,0.05359,0.4974,0.43872,0.0,1.0,0.78327,0.57079,0.0,0.71164
+AP001,Preparedness without material support,39,0.04188,0.50247,0.44238,0.0,1.0,0.7966,0.57239,0.0,0.71455
+AP001,Preparedness without material support,40,0.05245,0.51311,0.45049,0.0,1.0,0.8095,0.57394,0.0,0.71737
+AP001,Preparedness without material support,41,0.05574,0.52193,0.45715,0.0,1.0,0.82227,0.57547,0.0,0.72016
+AP001,Preparedness without material support,42,0.05798,0.53049,0.4636,0.0,1.0,0.83495,0.57699,0.0,0.72293
+AP001,Preparedness without material support,43,0.04663,0.53566,0.46733,0.0,1.0,0.84808,0.57857,0.0,0.7258
+AP001,Preparedness without material support,44,0.05058,0.54464,0.47412,0.0,1.0,0.86106,0.58013,0.0,0.72863
+AP001,Preparedness without material support,45,0.05402,0.55351,0.4808,0.0,1.0,0.8739,0.58167,0.0,0.73144
+AP001,Preparedness without material support,46,0.04334,0.55883,0.48467,0.0,1.0,0.88717,0.58326,0.0,0.73433
+AP001,Preparedness without material support,47,0.05697,0.57024,0.49339,0.0,1.0,0.89989,0.58479,0.0,0.73711
+AP001,Preparedness without material support,48,0.05562,0.5779,0.49912,0.0,1.0,0.91266,0.58632,0.0,0.7399
+AP001,Preparedness without material support,49,0.041,0.58225,0.5022,0.0,1.0,0.92602,0.58792,0.0,0.74282
+AP001,Preparedness without material support,50,0.4,0.68,0.58,0.0,1.0,0.92502,0.5878,0.0,0.7426
+AP001,Preparedness without material support,51,0.04736,0.59984,0.51547,0.0,1.0,0.93813,0.58938,0.0,0.74546
+AP001,Preparedness without material support,52,0.04372,0.60693,0.52074,0.0,1.0,0.95138,0.59097,0.0,0.74836
+AP001,Preparedness without material support,53,0.05209,0.61702,0.52842,0.0,1.0,0.9643,0.59252,0.0,0.75118
+AP001,Preparedness without material support,54,0.05938,0.62685,0.53588,0.0,1.0,0.97692,0.59403,0.0,0.75394
+AP001,Preparedness without material support,55,0.05104,0.63276,0.54021,0.0,1.0,0.98988,0.59559,0.0,0.75677
+AP001,Preparedness without material support,56,0.04227,0.63857,0.54445,0.0,1.0,1.0,0.5968,0.0,0.75898
+AP001,Preparedness without material support,57,0.0499,0.64847,0.55198,0.0,1.0,1.0,0.5968,0.0,0.75898
+AP001,Preparedness without material support,58,0.05558,0.6579,0.55912,0.0,1.0,1.0,0.5968,0.0,0.75898
+AP001,Preparedness without material support,59,0.0591,0.66678,0.56582,0.0,1.0,1.0,0.5968,0.0,0.75898
+AP002,Public repair and social protection,0,0.04817,0.19204,0.20963,0.56557,0.90799,0.57999,0.81392,0.0,0.73514
+AP002,Public repair and social protection,1,0.05084,0.20071,0.21617,0.47168,0.99585,0.66339,0.84501,0.0,0.7907
+AP002,Public repair and social protection,2,0.05724,0.21031,0.22345,0.3784,1.0,0.7467,0.856,0.0,0.82132
+AP002,Public repair and social protection,3,0.04353,0.21488,0.22671,0.2854,1.0,0.83056,0.86607,0.0,0.8508
+AP002,Public repair and social protection,4,0.0445,0.22313,0.2329,0.19291,1.0,0.91438,0.87613,0.0,0.8802
+AP002,Public repair and social protection,5,0.04058,0.23015,0.23812,0.10086,1.0,0.99836,0.8862,0.0,0.90959
+AP002,Public repair and social protection,6,0.04233,0.23858,0.24447,0.00934,1.0,1.0,0.8864,0.0,0.92093
+AP002,Public repair and social protection,7,0.04018,0.24604,0.25004,0.0,1.0,1.0,0.8864,0.0,0.92205
+AP002,Public repair and social protection,8,0.04313,0.25478,0.25663,0.0,1.0,1.0,0.8864,0.0,0.92205
+AP002,Public repair and social protection,9,0.05027,0.26457,0.26405,0.0,1.0,1.0,0.8864,0.0,0.92205
+AP002,Public repair and social protection,10,0.32,0.34,0.324,0.0,1.0,1.0,0.8864,0.0,0.92205
+AP002,Public repair and social protection,11,0.05387,0.28147,0.27677,0.0,1.0,1.0,0.8864,0.0,0.92205
+AP002,Public repair and social protection,12,0.04757,0.28789,0.28151,0.0,1.0,1.0,0.8864,0.0,0.92205
+AP002,Public repair and social protection,13,0.0481,0.29603,0.28762,0.0,1.0,1.0,0.8864,0.0,0.92205
+AP002,Public repair and social protection,14,0.05383,0.30546,0.29477,0.0,1.0,1.0,0.8864,0.0,0.92205
+AP002,Public repair and social protection,15,0.04652,0.31163,0.2993,0.0,1.0,1.0,0.8864,0.0,0.92205
+AP002,Public repair and social protection,16,0.04147,0.31837,0.30429,0.0,1.0,1.0,0.8864,0.0,0.92205
+AP002,Public repair and social protection,17,0.05683,0.33021,0.31337,0.0,1.0,1.0,0.8864,0.0,0.92205
+AP002,Public repair and social protection,18,0.05234,0.33709,0.31847,0.0,1.0,1.0,0.8864,0.0,0.92205
+AP002,Public repair and social protection,19,0.04224,0.34256,0.32245,0.0,1.0,1.0,0.8864,0.0,0.92205
+AP002,Public repair and social protection,20,0.0414,0.35035,0.32828,0.0,1.0,1.0,0.8864,0.0,0.92205
+AP002,Public repair and social protection,21,0.04189,0.35847,0.33438,0.0,1.0,1.0,0.8864,0.0,0.92205
+AP002,Public repair and social protection,22,0.36,0.446,0.404,0.0,1.0,1.0,0.8864,0.0,0.92205
+AP002,Public repair and social protection,23,0.04215,0.37454,0.34643,0.0,1.0,1.0,0.8864,0.0,0.92205
+AP002,Public repair and social protection,24,0.05251,0.38513,0.3545,0.0,1.0,1.0,0.8864,0.0,0.92205
+AP002,Public repair and social protection,25,0.05939,0.39485,0.36188,0.0,1.0,1.0,0.8864,0.0,0.92205
+AP002,Public repair and social protection,26,0.0407,0.39818,0.36414,0.0,1.0,1.0,0.8864,0.0,0.92205
+AP002,Public repair and social protection,27,0.04772,0.40793,0.37154,0.0,1.0,1.0,0.8864,0.0,0.92205
+AP002,Public repair and social protection,28,0.04955,0.41639,0.37791,0.0,1.0,1.0,0.8864,0.0,0.92205
+AP002,Public repair and social protection,29,0.05834,0.42658,0.38567,0.0,1.0,1.0,0.8864,0.0,0.92205
+AP002,Public repair and social protection,30,0.04377,0.43094,0.38875,0.0,1.0,1.0,0.8864,0.0,0.92205
+AP002,Public repair and social protection,31,0.04517,0.43929,0.39503,0.0,1.0,1.0,0.8864,0.0,0.92205
+AP002,Public repair and social protection,32,0.04496,0.44724,0.40099,0.0,1.0,1.0,0.8864,0.0,0.92205
+AP002,Public repair and social protection,33,0.04098,0.45425,0.4062,0.0,1.0,1.0,0.8864,0.0,0.92205
+AP002,Public repair and social protection,34,0.05347,0.46537,0.41469,0.0,1.0,1.0,0.8864,0.0,0.92205
+AP002,Public repair and social protection,35,0.05633,0.47408,0.42127,0.0,1.0,1.0,0.8864,0.0,0.92205
+AP002,Public repair and social protection,36,0.38,0.563,0.492,0.0,1.0,1.0,0.8864,0.0,0.92205
+AP002,Public repair and social protection,37,0.04076,0.48619,0.43015,0.0,1.0,1.0,0.8864,0.0,0.92205
+AP002,Public repair and social protection,38,0.05427,0.49757,0.43885,0.0,1.0,1.0,0.8864,0.0,0.92205
+AP002,Public repair and social protection,39,0.05474,0.50569,0.44495,0.0,1.0,1.0,0.8864,0.0,0.92205
+AP002,Public repair and social protection,40,0.05307,0.51327,0.45061,0.0,1.0,1.0,0.8864,0.0,0.92205
+AP002,Public repair and social protection,41,0.04657,0.51964,0.45531,0.0,1.0,1.0,0.8864,0.0,0.92205
+AP002,Public repair and social protection,42,0.05661,0.53015,0.46332,0.0,1.0,1.0,0.8864,0.0,0.92205
+AP002,Public repair and social protection,43,0.05261,0.53715,0.46852,0.0,1.0,1.0,0.8864,0.0,0.92205
+AP002,Public repair and social protection,44,0.0518,0.54495,0.47436,0.0,1.0,1.0,0.8864,0.0,0.92205
+AP002,Public repair and social protection,45,0.05081,0.5527,0.48016,0.0,1.0,1.0,0.8864,0.0,0.92205
+AP002,Public repair and social protection,46,0.04467,0.55917,0.48493,0.0,1.0,1.0,0.8864,0.0,0.92205
+AP002,Public repair and social protection,47,0.04911,0.56828,0.49182,0.0,1.0,1.0,0.8864,0.0,0.92205
+AP002,Public repair and social protection,48,0.05588,0.57797,0.49918,0.0,1.0,1.0,0.8864,0.0,0.92205
+AP002,Public repair and social protection,49,0.05368,0.58542,0.50474,0.0,1.0,1.0,0.8864,0.0,0.92205
+AP002,Public repair and social protection,50,0.4,0.68,0.58,0.0,1.0,1.0,0.8864,0.0,0.92205
+AP002,Public repair and social protection,51,0.05639,0.6021,0.51728,0.0,1.0,1.0,0.8864,0.0,0.92205
+AP002,Public repair and social protection,52,0.05679,0.6102,0.52336,0.0,1.0,1.0,0.8864,0.0,0.92205
+AP002,Public repair and social protection,53,0.04087,0.61422,0.52617,0.0,1.0,1.0,0.8864,0.0,0.92205
+AP002,Public repair and social protection,54,0.04315,0.62279,0.53263,0.0,1.0,1.0,0.8864,0.0,0.92205
+AP002,Public repair and social protection,55,0.04446,0.63112,0.53889,0.0,1.0,1.0,0.8864,0.0,0.92205
+AP002,Public repair and social protection,56,0.04029,0.63807,0.54406,0.0,1.0,1.0,0.8864,0.0,0.92205
+AP002,Public repair and social protection,57,0.05507,0.64977,0.55301,0.0,1.0,1.0,0.8864,0.0,0.92205
+AP002,Public repair and social protection,58,0.05294,0.65723,0.55859,0.0,1.0,1.0,0.8864,0.0,0.92205
+AP002,Public repair and social protection,59,0.05086,0.66472,0.56417,0.0,1.0,1.0,0.8864,0.0,0.92205
+AP003,Community-led resilience with public backing,0,0.04544,0.19136,0.20909,0.59113,0.86633,0.57824,0.79491,0.0,0.71011
+AP003,Community-led resilience with public backing,1,0.04976,0.20044,0.21595,0.50282,0.95244,0.65974,0.82535,0.0,0.76407
+AP003,Community-led resilience with public backing,2,0.04164,0.20641,0.22033,0.41489,1.0,0.74348,0.84682,0.0,0.80702
+AP003,Community-led resilience with public backing,3,0.04677,0.21569,0.22735,0.32754,1.0,0.82701,0.85684,0.0,0.83575
+AP003,Community-led resilience with public backing,4,0.04145,0.22236,0.23229,0.2406,1.0,0.91075,0.86689,0.0,0.86447
+AP003,Community-led resilience with public backing,5,0.04022,0.23006,0.23804,0.15414,1.0,0.99454,0.87694,0.0,0.89314
+AP003,Community-led resilience with public backing,6,0.04568,0.23942,0.24514,0.06828,1.0,1.0,0.8776,0.0,0.90464
+AP003,Community-led resilience with public backing,7,0.04235,0.24659,0.25047,0.0,1.0,1.0,0.8776,0.0,0.91283
+AP003,Community-led resilience with public backing,8,0.04622,0.25556,0.25724,0.0,1.0,1.0,0.8776,0.0,0.91283
+AP003,Community-led resilience with public backing,9,0.05487,0.26572,0.26497,0.0,1.0,1.0,0.8776,0.0,0.91283
+AP003,Community-led resilience with public backing,10,0.32,0.34,0.324,0.0,1.0,1.0,0.8776,0.0,0.91283
+AP003,Community-led resilience with public backing,11,0.0525,0.28112,0.2765,0.0,1.0,1.0,0.8776,0.0,0.91283
+AP003,Community-led resilience with public backing,12,0.0427,0.28668,0.28054,0.0,1.0,1.0,0.8776,0.0,0.91283
+AP003,Community-led resilience with public backing,13,0.0559,0.29798,0.28918,0.0,1.0,1.0,0.8776,0.0,0.91283
+AP003,Community-led resilience with public backing,14,0.05474,0.30568,0.29495,0.0,1.0,1.0,0.8776,0.0,0.91283
+AP003,Community-led resilience with public backing,15,0.04422,0.31106,0.29884,0.0,1.0,1.0,0.8776,0.0,0.91283
+AP003,Community-led resilience with public backing,16,0.05696,0.32224,0.30739,0.0,1.0,1.0,0.8776,0.0,0.91283
+AP003,Community-led resilience with public backing,17,0.05435,0.32959,0.31287,0.0,1.0,1.0,0.8776,0.0,0.91283
+AP003,Community-led resilience with public backing,18,0.0415,0.33437,0.3163,0.0,1.0,1.0,0.8776,0.0,0.91283
+AP003,Community-led resilience with public backing,19,0.04816,0.34404,0.32363,0.0,1.0,1.0,0.8776,0.0,0.91283
+AP003,Community-led resilience with public backing,20,0.05401,0.3535,0.3308,0.0,1.0,1.0,0.8776,0.0,0.91283
+AP003,Community-led resilience with public backing,21,0.05846,0.36261,0.33769,0.0,1.0,1.0,0.8776,0.0,0.91283
+AP003,Community-led resilience with public backing,22,0.36,0.446,0.404,0.0,1.0,1.0,0.8776,0.0,0.91283
+AP003,Community-led resilience with public backing,23,0.04504,0.37526,0.34701,0.0,1.0,1.0,0.8776,0.0,0.91283
+AP003,Community-led resilience with public backing,24,0.0555,0.38588,0.3551,0.0,1.0,1.0,0.8776,0.0,0.91283
+AP003,Community-led resilience with public backing,25,0.05925,0.39481,0.36185,0.0,1.0,1.0,0.8776,0.0,0.91283
+AP003,Community-led resilience with public backing,26,0.04188,0.39847,0.36438,0.0,1.0,1.0,0.8776,0.0,0.91283
+AP003,Community-led resilience with public backing,27,0.0418,0.40645,0.37036,0.0,1.0,1.0,0.8776,0.0,0.91283
+AP003,Community-led resilience with public backing,28,0.05502,0.41776,0.379,0.0,1.0,1.0,0.8776,0.0,0.91283
+AP003,Community-led resilience with public backing,29,0.04634,0.42358,0.38327,0.0,1.0,1.0,0.8776,0.0,0.91283
+AP003,Community-led resilience with public backing,30,0.04774,0.43193,0.38955,0.0,1.0,1.0,0.8776,0.0,0.91283
+AP003,Community-led resilience with public backing,31,0.05753,0.44238,0.39751,0.0,1.0,1.0,0.8776,0.0,0.91283
+AP003,Community-led resilience with public backing,32,0.05492,0.44973,0.40298,0.0,1.0,1.0,0.8776,0.0,0.91283
+AP003,Community-led resilience with public backing,33,0.05321,0.4573,0.40864,0.0,1.0,1.0,0.8776,0.0,0.91283
+AP003,Community-led resilience with public backing,34,0.05735,0.46634,0.41547,0.0,1.0,1.0,0.8776,0.0,0.91283
+AP003,Community-led resilience with public backing,35,0.05464,0.47366,0.42093,0.0,1.0,1.0,0.8776,0.0,0.91283
+AP003,Community-led resilience with public backing,36,0.38,0.563,0.492,0.0,1.0,1.0,0.8776,0.0,0.91283
+AP003,Community-led resilience with public backing,37,0.05287,0.48922,0.43257,0.0,1.0,1.0,0.8776,0.0,0.91283
+AP003,Community-led resilience with public backing,38,0.05186,0.49697,0.43837,0.0,1.0,1.0,0.8776,0.0,0.91283
+AP003,Community-led resilience with public backing,39,0.0412,0.5023,0.44224,0.0,1.0,1.0,0.8776,0.0,0.91283
+AP003,Community-led resilience with public backing,40,0.05819,0.51455,0.45164,0.0,1.0,1.0,0.8776,0.0,0.91283
+AP003,Community-led resilience with public backing,41,0.05824,0.52256,0.45765,0.0,1.0,1.0,0.8776,0.0,0.91283
+AP003,Community-led resilience with public backing,42,0.04703,0.52776,0.46141,0.0,1.0,1.0,0.8776,0.0,0.91283
+AP003,Community-led resilience with public backing,43,0.05253,0.53713,0.46851,0.0,1.0,1.0,0.8776,0.0,0.91283
+AP003,Community-led resilience with public backing,44,0.04034,0.54208,0.47207,0.0,1.0,1.0,0.8776,0.0,0.91283
+AP003,Community-led resilience with public backing,45,0.05,0.5525,0.48,0.0,1.0,1.0,0.8776,0.0,0.91283
+AP003,Community-led resilience with public backing,46,0.05247,0.56112,0.48649,0.0,1.0,1.0,0.8776,0.0,0.91283
+AP003,Community-led resilience with public backing,47,0.04588,0.56747,0.49118,0.0,1.0,1.0,0.8776,0.0,0.91283
+AP003,Community-led resilience with public backing,48,0.04829,0.57607,0.49766,0.0,1.0,1.0,0.8776,0.0,0.91283
+AP003,Community-led resilience with public backing,49,0.05671,0.58618,0.50534,0.0,1.0,1.0,0.8776,0.0,0.91283
+AP003,Community-led resilience with public backing,50,0.4,0.68,0.58,0.0,1.0,1.0,0.8776,0.0,0.91283
+AP003,Community-led resilience with public backing,51,0.04911,0.60028,0.51582,0.0,1.0,1.0,0.8776,0.0,0.91283
+AP003,Community-led resilience with public backing,52,0.04173,0.60643,0.52035,0.0,1.0,1.0,0.8776,0.0,0.91283
+AP003,Community-led resilience with public backing,53,0.04769,0.61592,0.52754,0.0,1.0,1.0,0.8776,0.0,0.91283
+AP003,Community-led resilience with public backing,54,0.05765,0.62641,0.53553,0.0,1.0,1.0,0.8776,0.0,0.91283
+AP003,Community-led resilience with public backing,55,0.05225,0.63306,0.54045,0.0,1.0,1.0,0.8776,0.0,0.91283
+AP003,Community-led resilience with public backing,56,0.04058,0.63815,0.54412,0.0,1.0,1.0,0.8776,0.0,0.91283
+AP003,Community-led resilience with public backing,57,0.05717,0.65029,0.55343,0.0,1.0,1.0,0.8776,0.0,0.91283
+AP003,Community-led resilience with public backing,58,0.05317,0.65729,0.55863,0.0,1.0,1.0,0.8776,0.0,0.91283
+AP003,Community-led resilience with public backing,59,0.05041,0.6646,0.56408,0.0,1.0,1.0,0.8776,0.0,0.91283
+AP004,Asset protection with weak inclusion,0,0.05777,0.19444,0.21155,0.65052,0.50891,0.50445,0.48107,0.49889,0.36606
+AP004,Asset protection with weak inclusion,1,0.048,0.2,0.2156,0.60139,0.55831,0.51126,0.49375,0.43465,0.40096
+AP004,Asset protection with weak inclusion,2,0.05177,0.20894,0.22235,0.55282,0.60752,0.51989,0.50659,0.37417,0.43537
+AP004,Asset protection with weak inclusion,3,0.0572,0.2183,0.22944,0.50484,0.65646,0.53026,0.51958,0.31455,0.46984
+AP004,Asset protection with weak inclusion,4,0.04457,0.22314,0.23291,0.45715,0.70603,0.54312,0.53302,0.25027,0.50594
+AP004,Asset protection with weak inclusion,5,0.05031,0.23258,0.24006,0.41005,0.75532,0.55772,0.5466,0.19103,0.54126
+AP004,Asset protection with weak inclusion,6,0.05167,0.24092,0.24633,0.36348,0.80454,0.57423,0.5604,0.131,0.57707
+AP004,Asset protection with weak inclusion,7,0.05894,0.25074,0.25379,0.31752,0.85339,0.59241,0.5743,0.07296,0.61266
+AP004,Asset protection with weak inclusion,8,0.04064,0.25416,0.25613,0.27177,0.90316,0.61331,0.58875,0.00818,0.65044
+AP004,Asset protection with weak inclusion,9,0.04138,0.26234,0.26228,0.22654,0.95289,0.63617,0.60343,0.0,0.67726
+AP004,Asset protection with weak inclusion,10,0.32,0.34,0.324,0.18626,0.98869,0.64932,0.6136,0.0,0.69559
+AP004,Asset protection with weak inclusion,11,0.0565,0.28213,0.2773,0.14226,1.0,0.67346,0.61921,0.0,0.7095
+AP004,Asset protection with weak inclusion,12,0.05686,0.29022,0.28337,0.09877,1.0,0.69758,0.62211,0.0,0.71999
+AP004,Asset protection with weak inclusion,13,0.04271,0.29468,0.28654,0.05555,1.0,0.72228,0.62507,0.0,0.73057
+AP004,Asset protection with weak inclusion,14,0.05839,0.3066,0.29568,0.01309,1.0,0.74634,0.62796,0.0,0.74092
+AP004,Asset protection with weak inclusion,15,0.05056,0.31264,0.30011,0.0,1.0,0.77072,0.63089,0.0,0.74781
+AP004,Asset protection with weak inclusion,16,0.05936,0.32284,0.30787,0.0,1.0,0.79474,0.63377,0.0,0.75306
+AP004,Asset protection with weak inclusion,17,0.05869,0.33067,0.31374,0.0,1.0,0.8188,0.63666,0.0,0.75831
+AP004,Asset protection with weak inclusion,18,0.04186,0.33446,0.31637,0.0,1.0,0.84352,0.63962,0.0,0.76371
+AP004,Asset protection with weak inclusion,19,0.05949,0.34687,0.3259,0.0,1.0,0.86754,0.64251,0.0,0.76896
+AP004,Asset protection with weak inclusion,20,0.04957,0.35239,0.32991,0.0,1.0,0.89196,0.64544,0.0,0.77429
+AP004,Asset protection with weak inclusion,21,0.04312,0.35878,0.33462,0.0,1.0,0.91663,0.6484,0.0,0.77968
+AP004,Asset protection with weak inclusion,22,0.36,0.446,0.404,0.0,1.0,0.92863,0.64984,0.0,0.7823
+AP004,Asset protection with weak inclusion,23,0.04149,0.37437,0.3463,0.0,1.0,0.95337,0.6528,0.0,0.7877
+AP004,Asset protection with weak inclusion,24,0.05498,0.38574,0.355,0.0,1.0,0.97758,0.65571,0.0,0.79299
+AP004,Asset protection with weak inclusion,25,0.05089,0.39272,0.36018,0.0,1.0,1.0,0.6584,0.0,0.79789
+AP004,Asset protection with weak inclusion,26,0.04219,0.39855,0.36444,0.0,1.0,1.0,0.6584,0.0,0.79789
+AP004,Asset protection with weak inclusion,27,0.04453,0.40713,0.37091,0.0,1.0,1.0,0.6584,0.0,0.79789
+AP004,Asset protection with weak inclusion,28,0.05013,0.41653,0.37803,0.0,1.0,1.0,0.6584,0.0,0.79789
+AP004,Asset protection with weak inclusion,29,0.05557,0.42589,0.38511,0.0,1.0,1.0,0.6584,0.0,0.79789
+AP004,Asset protection with weak inclusion,30,0.0455,0.43138,0.3891,0.0,1.0,1.0,0.6584,0.0,0.79789
+AP004,Asset protection with weak inclusion,31,0.04213,0.43853,0.39443,0.0,1.0,1.0,0.6584,0.0,0.79789
+AP004,Asset protection with weak inclusion,32,0.04709,0.44777,0.40142,0.0,1.0,1.0,0.6584,0.0,0.79789
+AP004,Asset protection with weak inclusion,33,0.04138,0.45435,0.40628,0.0,1.0,1.0,0.6584,0.0,0.79789
+AP004,Asset protection with weak inclusion,34,0.04671,0.46368,0.41334,0.0,1.0,1.0,0.6584,0.0,0.79789
+AP004,Asset protection with weak inclusion,35,0.05744,0.47436,0.42149,0.0,1.0,1.0,0.6584,0.0,0.79789
+AP004,Asset protection with weak inclusion,36,0.38,0.563,0.492,0.0,1.0,1.0,0.6584,0.0,0.79789
+AP004,Asset protection with weak inclusion,37,0.04603,0.48751,0.43121,0.0,1.0,1.0,0.6584,0.0,0.79789
+AP004,Asset protection with weak inclusion,38,0.05546,0.49787,0.43909,0.0,1.0,1.0,0.6584,0.0,0.79789
+AP004,Asset protection with weak inclusion,39,0.04407,0.50302,0.44281,0.0,1.0,1.0,0.6584,0.0,0.79789
+AP004,Asset protection with weak inclusion,40,0.0423,0.51057,0.44846,0.0,1.0,1.0,0.6584,0.0,0.79789
+AP004,Asset protection with weak inclusion,41,0.04496,0.51924,0.45499,0.0,1.0,1.0,0.6584,0.0,0.79789
+AP004,Asset protection with weak inclusion,42,0.05221,0.52905,0.46244,0.0,1.0,1.0,0.6584,0.0,0.79789
+AP004,Asset protection with weak inclusion,43,0.05423,0.53756,0.46885,0.0,1.0,1.0,0.6584,0.0,0.79789
+AP004,Asset protection with weak inclusion,44,0.05353,0.54538,0.47471,0.0,1.0,1.0,0.6584,0.0,0.79789
+AP004,Asset protection with weak inclusion,45,0.04129,0.55032,0.47826,0.0,1.0,1.0,0.6584,0.0,0.79789
+AP004,Asset protection with weak inclusion,46,0.04568,0.55942,0.48514,0.0,1.0,1.0,0.6584,0.0,0.79789
+AP004,Asset protection with weak inclusion,47,0.04232,0.56658,0.49046,0.0,1.0,1.0,0.6584,0.0,0.79789
+AP004,Asset protection with weak inclusion,48,0.0512,0.5768,0.49824,0.0,1.0,1.0,0.6584,0.0,0.79789
+AP004,Asset protection with weak inclusion,49,0.04732,0.58383,0.50346,0.0,1.0,1.0,0.6584,0.0,0.79789
+AP004,Asset protection with weak inclusion,50,0.4,0.68,0.58,0.0,1.0,1.0,0.6584,0.0,0.79789
+AP004,Asset protection with weak inclusion,51,0.05137,0.60084,0.51627,0.0,1.0,1.0,0.6584,0.0,0.79789
+AP004,Asset protection with weak inclusion,52,0.05165,0.60891,0.52233,0.0,1.0,1.0,0.6584,0.0,0.79789
+AP004,Asset protection with weak inclusion,53,0.04343,0.61486,0.52669,0.0,1.0,1.0,0.6584,0.0,0.79789
+AP004,Asset protection with weak inclusion,54,0.05085,0.62471,0.53417,0.0,1.0,1.0,0.6584,0.0,0.79789
+AP004,Asset protection with weak inclusion,55,0.04132,0.63033,0.53826,0.0,1.0,1.0,0.6584,0.0,0.79789
+AP004,Asset protection with weak inclusion,56,0.04201,0.6385,0.5444,0.0,1.0,1.0,0.6584,0.0,0.79789
+AP004,Asset protection with weak inclusion,57,0.05717,0.65029,0.55343,0.0,1.0,1.0,0.6584,0.0,0.79789
+AP004,Asset protection with weak inclusion,58,0.04348,0.65487,0.5567,0.0,1.0,1.0,0.6584,0.0,0.79789
+AP004,Asset protection with weak inclusion,59,0.04002,0.66201,0.562,0.0,1.0,1.0,0.6584,0.0,0.79789
+AP005,Just retreat and long-term support,0,0.04704,0.19176,0.20941,0.63715,0.96925,0.58369,0.83946,0.0,0.76807
+AP005,Just retreat and long-term support,1,0.0486,0.20015,0.21572,0.53483,1.0,0.66854,0.85703,0.0,0.80801
+AP005,Just retreat and long-term support,2,0.04907,0.20827,0.22181,0.43302,1.0,0.75338,0.86721,0.0,0.83875
+AP005,Just retreat and long-term support,3,0.04687,0.21572,0.22737,0.33167,1.0,0.83831,0.8774,0.0,0.86946
+AP005,Just retreat and long-term support,4,0.05025,0.22456,0.23405,0.23087,1.0,0.9231,0.88757,0.0,0.90008
+AP005,Just retreat and long-term support,5,0.04785,0.23196,0.23957,0.13053,1.0,1.0,0.8968,0.0,0.92891
+AP005,Just retreat and long-term support,6,0.04082,0.2382,0.24416,0.03059,1.0,1.0,0.8968,0.0,0.94091
+AP005,Just retreat and long-term support,7,0.04837,0.24809,0.25167,0.0,1.0,1.0,0.8968,0.0,0.94458
+AP005,Just retreat and long-term support,8,0.04047,0.25412,0.25609,0.0,1.0,1.0,0.8968,0.0,0.94458
+AP005,Just retreat and long-term support,9,0.04205,0.26251,0.26241,0.0,1.0,1.0,0.8968,0.0,0.94458
+AP005,Just retreat and long-term support,10,0.32,0.34,0.324,0.0,1.0,1.0,0.8968,0.0,0.94458
+AP005,Just retreat and long-term support,11,0.05931,0.28283,0.27786,0.0,1.0,1.0,0.8968,0.0,0.94458
+AP005,Just retreat and long-term support,12,0.04963,0.28841,0.28193,0.0,1.0,1.0,0.8968,0.0,0.94458
+AP005,Just retreat and long-term support,13,0.05093,0.29673,0.28819,0.0,1.0,1.0,0.8968,0.0,0.94458
+AP005,Just retreat and long-term support,14,0.05835,0.30659,0.29567,0.0,1.0,1.0,0.8968,0.0,0.94458
+AP005,Just retreat and long-term support,15,0.05797,0.31449,0.30159,0.0,1.0,1.0,0.8968,0.0,0.94458
+AP005,Just retreat and long-term support,16,0.05135,0.32084,0.30627,0.0,1.0,1.0,0.8968,0.0,0.94458
+AP005,Just retreat and long-term support,17,0.0446,0.32715,0.31092,0.0,1.0,1.0,0.8968,0.0,0.94458
+AP005,Just retreat and long-term support,18,0.05047,0.33662,0.31809,0.0,1.0,1.0,0.8968,0.0,0.94458
+AP005,Just retreat and long-term support,19,0.04718,0.3438,0.32344,0.0,1.0,1.0,0.8968,0.0,0.94458
+AP005,Just retreat and long-term support,20,0.05916,0.35479,0.33183,0.0,1.0,1.0,0.8968,0.0,0.94458
+AP005,Just retreat and long-term support,21,0.04067,0.35817,0.33413,0.0,1.0,1.0,0.8968,0.0,0.94458
+AP005,Just retreat and long-term support,22,0.36,0.446,0.404,0.0,1.0,1.0,0.8968,0.0,0.94458
+AP005,Just retreat and long-term support,23,0.05375,0.37744,0.34875,0.0,1.0,1.0,0.8968,0.0,0.94458
+AP005,Just retreat and long-term support,24,0.05202,0.385,0.3544,0.0,1.0,1.0,0.8968,0.0,0.94458
+AP005,Just retreat and long-term support,25,0.05116,0.39279,0.36023,0.0,1.0,1.0,0.8968,0.0,0.94458
+AP005,Just retreat and long-term support,26,0.05524,0.40181,0.36705,0.0,1.0,1.0,0.8968,0.0,0.94458
+AP005,Just retreat and long-term support,27,0.04477,0.40719,0.37095,0.0,1.0,1.0,0.8968,0.0,0.94458
+AP005,Just retreat and long-term support,28,0.05681,0.4182,0.37936,0.0,1.0,1.0,0.8968,0.0,0.94458
+AP005,Just retreat and long-term support,29,0.0583,0.42657,0.38566,0.0,1.0,1.0,0.8968,0.0,0.94458
+AP005,Just retreat and long-term support,30,0.04071,0.43018,0.38814,0.0,1.0,1.0,0.8968,0.0,0.94458
+AP005,Just retreat and long-term support,31,0.04668,0.43967,0.39534,0.0,1.0,1.0,0.8968,0.0,0.94458
+AP005,Just retreat and long-term support,32,0.04726,0.44781,0.40145,0.0,1.0,1.0,0.8968,0.0,0.94458
+AP005,Just retreat and long-term support,33,0.04767,0.45592,0.40753,0.0,1.0,1.0,0.8968,0.0,0.94458
+AP005,Just retreat and long-term support,34,0.0508,0.4647,0.41416,0.0,1.0,1.0,0.8968,0.0,0.94458
+AP005,Just retreat and long-term support,35,0.04506,0.47126,0.41901,0.0,1.0,1.0,0.8968,0.0,0.94458
+AP005,Just retreat and long-term support,36,0.38,0.563,0.492,0.0,1.0,1.0,0.8968,0.0,0.94458
+AP005,Just retreat and long-term support,37,0.05762,0.49041,0.43352,0.0,1.0,1.0,0.8968,0.0,0.94458
+AP005,Just retreat and long-term support,38,0.05854,0.49864,0.43971,0.0,1.0,1.0,0.8968,0.0,0.94458
+AP005,Just retreat and long-term support,39,0.05691,0.50623,0.44538,0.0,1.0,1.0,0.8968,0.0,0.94458
+AP005,Just retreat and long-term support,40,0.04437,0.51109,0.44887,0.0,1.0,1.0,0.8968,0.0,0.94458
+AP005,Just retreat and long-term support,41,0.05488,0.52172,0.45698,0.0,1.0,1.0,0.8968,0.0,0.94458
+AP005,Just retreat and long-term support,42,0.05546,0.52987,0.46309,0.0,1.0,1.0,0.8968,0.0,0.94458
+AP005,Just retreat and long-term support,43,0.05209,0.53702,0.46842,0.0,1.0,1.0,0.8968,0.0,0.94458
+AP005,Just retreat and long-term support,44,0.0535,0.54537,0.4747,0.0,1.0,1.0,0.8968,0.0,0.94458
+AP005,Just retreat and long-term support,45,0.04573,0.55143,0.47915,0.0,1.0,1.0,0.8968,0.0,0.94458
+AP005,Just retreat and long-term support,46,0.05546,0.56186,0.48709,0.0,1.0,1.0,0.8968,0.0,0.94458
+AP005,Just retreat and long-term support,47,0.04478,0.56719,0.49096,0.0,1.0,1.0,0.8968,0.0,0.94458
+AP005,Just retreat and long-term support,48,0.05111,0.57678,0.49822,0.0,1.0,1.0,0.8968,0.0,0.94458
+AP005,Just retreat and long-term support,49,0.04523,0.58331,0.50305,0.0,1.0,1.0,0.8968,0.0,0.94458
+AP005,Just retreat and long-term support,50,0.4,0.68,0.58,0.0,1.0,1.0,0.8968,0.0,0.94458
+AP005,Just retreat and long-term support,51,0.0408,0.5982,0.51416,0.0,1.0,1.0,0.8968,0.0,0.94458
+AP005,Just retreat and long-term support,52,0.04624,0.60756,0.52125,0.0,1.0,1.0,0.8968,0.0,0.94458
+AP005,Just retreat and long-term support,53,0.05559,0.6179,0.52912,0.0,1.0,1.0,0.8968,0.0,0.94458
+AP005,Just retreat and long-term support,54,0.0452,0.6233,0.53304,0.0,1.0,1.0,0.8968,0.0,0.94458
+AP005,Just retreat and long-term support,55,0.0546,0.63365,0.54092,0.0,1.0,1.0,0.8968,0.0,0.94458
+AP005,Just retreat and long-term support,56,0.05599,0.642,0.5472,0.0,1.0,1.0,0.8968,0.0,0.94458
+AP005,Just retreat and long-term support,57,0.05213,0.64903,0.55243,0.0,1.0,1.0,0.8968,0.0,0.94458
+AP005,Just retreat and long-term support,58,0.05255,0.65714,0.55851,0.0,1.0,1.0,0.8968,0.0,0.94458
+AP005,Just retreat and long-term support,59,0.04414,0.66304,0.56283,0.0,1.0,1.0,0.8968,0.0,0.94458
+AP006,Dashboard monitoring without repair,0,0.05096,0.19274,0.21019,0.65762,0.38105,0.4938,0.39631,0.59805,0.27861
+AP006,Dashboard monitoring without repair,1,0.04264,0.19866,0.21453,0.6156,0.42252,0.4896,0.40576,0.5445,0.30575
+AP006,Dashboard monitoring without repair,2,0.05423,0.20956,0.22285,0.57427,0.46341,0.48657,0.41521,0.49662,0.33176
+AP006,Dashboard monitoring without repair,3,0.04605,0.21551,0.22721,0.5333,0.50471,0.48551,0.42499,0.44382,0.35926
+AP006,Dashboard monitoring without repair,4,0.05877,0.22669,0.23575,0.49304,0.54537,0.48558,0.43476,0.39698,0.38555
+AP006,Dashboard monitoring without repair,5,0.04385,0.23096,0.23877,0.45304,0.58678,0.48789,0.44497,0.34303,0.41393
+AP006,Dashboard monitoring without repair,6,0.05524,0.24181,0.24705,0.41373,0.62761,0.49139,0.45519,0.29634,0.44087
+AP006,Dashboard monitoring without repair,7,0.04331,0.24683,0.25066,0.37472,0.66905,0.49702,0.46581,0.24374,0.4696
+AP006,Dashboard monitoring without repair,8,0.05932,0.25883,0.25986,0.33647,0.70968,0.50363,0.47636,0.19894,0.49665
+AP006,Dashboard monitoring without repair,9,0.05747,0.26637,0.26549,0.29869,0.75041,0.51195,0.48713,0.14993,0.52489
+AP006,Dashboard monitoring without repair,10,0.32,0.34,0.324,0.26561,0.77801,0.51087,0.49363,0.17598,0.53161
+AP006,Dashboard monitoring without repair,11,0.05299,0.28125,0.2766,0.22876,0.81896,0.52211,0.5048,0.0612,0.5736
+AP006,Dashboard monitoring without repair,12,0.04436,0.28709,0.28087,0.19227,0.86034,0.53535,0.51632,0.01103,0.60318
+AP006,Dashboard monitoring without repair,13,0.05023,0.29656,0.28805,0.15637,0.90143,0.55,0.52794,0.0,0.62509
+AP006,Dashboard monitoring without repair,14,0.05701,0.30625,0.2954,0.12108,0.94218,0.566,0.53964,0.0,0.64492
+AP006,Dashboard monitoring without repair,15,0.0431,0.31077,0.29862,0.08607,0.98362,0.58422,0.55178,0.0,0.6654
+AP006,Dashboard monitoring without repair,16,0.04434,0.31909,0.30487,0.05158,1.0,0.60305,0.55797,0.0,0.67851
+AP006,Dashboard monitoring without repair,17,0.04147,0.32637,0.31029,0.01755,1.0,0.62199,0.56024,0.0,0.68673
+AP006,Dashboard monitoring without repair,18,0.04127,0.33432,0.31625,0.0,1.0,0.64094,0.56251,0.0,0.69297
+AP006,Dashboard monitoring without repair,19,0.04998,0.34449,0.324,0.0,1.0,0.65954,0.56474,0.0,0.69704
+AP006,Dashboard monitoring without repair,20,0.04326,0.35082,0.32865,0.0,1.0,0.67841,0.56701,0.0,0.70116
+AP006,Dashboard monitoring without repair,21,0.04258,0.35864,0.33452,0.0,1.0,0.69731,0.56928,0.0,0.70528
+AP006,Dashboard monitoring without repair,22,0.36,0.446,0.404,0.0,1.0,0.70351,0.57002,0.0,0.70664
+AP006,Dashboard monitoring without repair,23,0.04584,0.37546,0.34717,0.0,1.0,0.72227,0.57227,0.0,0.71074
+AP006,Dashboard monitoring without repair,24,0.04678,0.3837,0.35336,0.0,1.0,0.741,0.57452,0.0,0.71483
+AP006,Dashboard monitoring without repair,25,0.04676,0.39169,0.35935,0.0,1.0,0.75973,0.57677,0.0,0.71892
+AP006,Dashboard monitoring without repair,26,0.05683,0.40221,0.36737,0.0,1.0,0.77806,0.57897,0.0,0.72292
+AP006,Dashboard monitoring without repair,27,0.04544,0.40736,0.37109,0.0,1.0,0.79684,0.58122,0.0,0.72702
+AP006,Dashboard monitoring without repair,28,0.05296,0.41724,0.37859,0.0,1.0,0.81532,0.58344,0.0,0.73106
+AP006,Dashboard monitoring without repair,29,0.05872,0.42668,0.38574,0.0,1.0,0.83358,0.58563,0.0,0.73504
+AP006,Dashboard monitoring without repair,30,0.05142,0.43286,0.39028,0.0,1.0,0.85212,0.58785,0.0,0.73909
+AP006,Dashboard monitoring without repair,31,0.04566,0.43941,0.39513,0.0,1.0,0.87089,0.59011,0.0,0.74319
+AP006,Dashboard monitoring without repair,32,0.04276,0.44669,0.40055,0.0,1.0,0.88978,0.59237,0.0,0.74732
+AP006,Dashboard monitoring without repair,33,0.05306,0.45726,0.40861,0.0,1.0,0.90826,0.59459,0.0,0.75136
+AP006,Dashboard monitoring without repair,34,0.04351,0.46288,0.4127,0.0,1.0,0.92712,0.59685,0.0,0.75547
+AP006,Dashboard monitoring without repair,35,0.04804,0.47201,0.41961,0.0,1.0,0.9458,0.5991,0.0,0.75955
+AP006,Dashboard monitoring without repair,36,0.38,0.563,0.492,0.0,1.0,0.9512,0.59974,0.0,0.76073
+AP006,Dashboard monitoring without repair,37,0.05565,0.48991,0.43313,0.0,1.0,0.96957,0.60195,0.0,0.76475
+AP006,Dashboard monitoring without repair,38,0.04555,0.49539,0.43711,0.0,1.0,0.98835,0.6042,0.0,0.76885
+AP006,Dashboard monitoring without repair,39,0.04733,0.50383,0.44347,0.0,1.0,1.0,0.6056,0.0,0.77139
+AP006,Dashboard monitoring without repair,40,0.04578,0.51145,0.44916,0.0,1.0,1.0,0.6056,0.0,0.77139
+AP006,Dashboard monitoring without repair,41,0.04583,0.51946,0.45517,0.0,1.0,1.0,0.6056,0.0,0.77139
+AP006,Dashboard monitoring without repair,42,0.04994,0.52848,0.46199,0.0,1.0,1.0,0.6056,0.0,0.77139
+AP006,Dashboard monitoring without repair,43,0.04233,0.53458,0.46647,0.0,1.0,1.0,0.6056,0.0,0.77139
+AP006,Dashboard monitoring without repair,44,0.0423,0.54258,0.47246,0.0,1.0,1.0,0.6056,0.0,0.77139
+AP006,Dashboard monitoring without repair,45,0.04294,0.55073,0.47859,0.0,1.0,1.0,0.6056,0.0,0.77139
+AP006,Dashboard monitoring without repair,46,0.0466,0.55965,0.48532,0.0,1.0,1.0,0.6056,0.0,0.77139
+AP006,Dashboard monitoring without repair,47,0.0507,0.56867,0.49214,0.0,1.0,1.0,0.6056,0.0,0.77139
+AP006,Dashboard monitoring without repair,48,0.04639,0.5756,0.49728,0.0,1.0,1.0,0.6056,0.0,0.77139
+AP006,Dashboard monitoring without repair,49,0.04861,0.58415,0.50372,0.0,1.0,1.0,0.6056,0.0,0.77139
+AP006,Dashboard monitoring without repair,50,0.4,0.68,0.58,0.0,1.0,1.0,0.6056,0.0,0.77139
+AP006,Dashboard monitoring without repair,51,0.05563,0.60191,0.51713,0.0,1.0,1.0,0.6056,0.0,0.77139
+AP006,Dashboard monitoring without repair,52,0.04845,0.60811,0.52169,0.0,1.0,1.0,0.6056,0.0,0.77139
+AP006,Dashboard monitoring without repair,53,0.05773,0.61843,0.52955,0.0,1.0,1.0,0.6056,0.0,0.77139
+AP006,Dashboard monitoring without repair,54,0.04002,0.622,0.532,0.0,1.0,1.0,0.6056,0.0,0.77139
+AP006,Dashboard monitoring without repair,55,0.05165,0.63291,0.54033,0.0,1.0,1.0,0.6056,0.0,0.77139
+AP006,Dashboard monitoring without repair,56,0.05367,0.64142,0.54673,0.0,1.0,1.0,0.6056,0.0,0.77139
+AP006,Dashboard monitoring without repair,57,0.04811,0.64803,0.55162,0.0,1.0,1.0,0.6056,0.0,0.77139
+AP006,Dashboard monitoring without repair,58,0.04856,0.65614,0.55771,0.0,1.0,1.0,0.6056,0.0,0.77139
+AP006,Dashboard monitoring without repair,59,0.04518,0.66329,0.56304,0.0,1.0,1.0,0.6056,0.0,0.77139

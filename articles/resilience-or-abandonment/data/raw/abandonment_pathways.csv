@@ -1,0 +1,7 @@
+pathway_id,pathway,initial_exposure,material_support,accessible_recovery,governance_inclusion,public_capacity,burden_shift,transformation,description
+AP001,Preparedness without material support,0.72,0.32,0.38,0.40,0.42,0.78,0.30,people are advised to prepare while public capacity support and exposure reduction remain weak
+AP002,Public repair and social protection,0.66,0.84,0.82,0.80,0.82,0.28,0.74,public investment repair accessible aid and social protection reduce abandonment risk
+AP003,Community-led resilience with public backing,0.68,0.76,0.78,0.90,0.78,0.32,0.70,community capacity is supported by funding logistics governance inclusion and public services
+AP004,Asset protection with weak inclusion,0.70,0.48,0.46,0.42,0.50,0.70,0.42,hardening protects assets while vulnerable groups face weak support and little authority
+AP005,Just retreat and long-term support,0.74,0.86,0.88,0.84,0.80,0.30,0.86,exposure is reduced through participatory relocation compensation housing and long-term community support
+AP006,Dashboard monitoring without repair,0.70,0.30,0.34,0.44,0.46,0.72,0.36,risks are mapped but repair aid and governance authority are not adequately funded

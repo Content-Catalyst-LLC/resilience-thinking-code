@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+rust/target/
+outputs/rust-target/
+outputs/*.o
+outputs/*.exe
+outputs/*_c
+outputs/*_cpp
+outputs/*_fortran

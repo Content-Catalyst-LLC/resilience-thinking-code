@@ -1,0 +1,9 @@
+scenario,protective_effectiveness_weight,material_support_weight,accessible_recovery_weight,governance_inclusion_weight,transformation_potential_weight,exposure_reduction_weight,burden_shift_weight,implementation_burden_weight,description
+Balanced,0.18,0.18,0.16,0.14,0.13,0.16,0.04,0.01,Balanced support-oriented scoring across protection support recovery governance transformation exposure reduction burden shifting and implementation burden.
+Protection-first,0.38,0.12,0.12,0.10,0.10,0.14,0.03,0.01,Prioritizes protective effectiveness while still penalizing burden shifting.
+Support-first,0.12,0.36,0.16,0.12,0.10,0.12,0.03,0.01,Prioritizes material support and the resources needed to adapt or recover.
+Recovery-first,0.12,0.16,0.36,0.12,0.10,0.12,0.03,0.01,Prioritizes accessible recovery systems for households communities and small organizations.
+Governance-first,0.12,0.14,0.14,0.34,0.10,0.12,0.03,0.01,Prioritizes participation co-determination legitimacy and community authority.
+Transformation-first,0.12,0.14,0.14,0.12,0.34,0.12,0.03,0.01,Prioritizes structural change and repair of systems that repeatedly produce vulnerability.
+Exposure-reduction,0.12,0.14,0.14,0.12,0.10,0.36,0.03,0.01,Prioritizes reducing repeated exposure rather than normalizing endurance.
+Burden-sensitive,0.16,0.16,0.14,0.12,0.12,0.14,0.14,0.02,Strongly penalizes strategies that shift cost risk labor debt displacement or surveillance onto exposed groups.

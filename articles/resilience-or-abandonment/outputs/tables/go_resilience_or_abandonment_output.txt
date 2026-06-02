@@ -1,0 +1,1 @@
+support_resilience_value=7.88000

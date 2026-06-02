@@ -1,0 +1,9 @@
+strategy_id,strategy,mean_adjusted_value,median_adjusted_value,mean_abandonment_risk,probability_ranked_first,probability_top_two,probability_bottom_two
+ROA006,Drainage Repair and Social Protection Package,7.57558,7.59825,0.42242,38.92,68.64,0.0
+ROA005,Managed Retreat with Long-Term Support,7.57736,7.5903,0.44373,38.0,69.88,0.0
+ROA002,Public Housing Climate Retrofit,7.41699,7.42802,0.45692,17.88,43.8,0.0
+ROA008,Mutual Aid Network with Public Capacity Agreement,7.16045,7.1866,0.50704,5.04,16.84,0.0
+ROA003,Community-Led Cooling and Care Network,6.6416,6.64597,0.69952,0.16,0.84,0.0
+ROA001,Household Preparedness Campaign,-0.78166,-0.77209,4.52732,0.0,0.0,100.0
+ROA004,Flood Defense for High-Value Assets,2.62383,2.62995,3.04658,0.0,0.0,0.0
+ROA007,Risk Mapping Dashboard Without Funding,-1.38636,-1.39058,4.95634,0.0,0.0,100.0
