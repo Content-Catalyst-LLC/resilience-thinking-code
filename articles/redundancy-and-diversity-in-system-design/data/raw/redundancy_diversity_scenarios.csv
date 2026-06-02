@@ -1,0 +1,8 @@
+scenario,redundancy_weight,diversity_weight,response_diversity_weight,coordination_capacity_weight,justice_contribution_weight,maintenance_reliability_weight,common_mode_risk_weight,description
+Balanced,0.22,0.18,0.22,0.13,0.10,0.07,0.08,Balanced resilience design across overlap variation coordination justice maintenance and common-mode risk.
+Redundancy-first,0.40,0.13,0.16,0.10,0.08,0.07,0.06,Prioritizes backup capacity and functional overlap.
+Diversity-first,0.13,0.40,0.16,0.10,0.08,0.07,0.06,Prioritizes meaningful variation and multiple pathways.
+Response-diversity-first,0.15,0.15,0.40,0.10,0.08,0.06,0.06,Prioritizes overlapping functions that respond differently to stress.
+Coordination-first,0.17,0.14,0.17,0.32,0.08,0.06,0.06,Prioritizes interoperability governance and coordination capacity.
+Justice-first,0.15,0.14,0.16,0.10,0.34,0.07,0.04,Prioritizes protection for vulnerable groups and equitable access to backup capacity.
+Common-mode-sensitive,0.17,0.14,0.16,0.10,0.08,0.06,0.29,Prioritizes penalties for shared failure modes and false redundancy.

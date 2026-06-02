@@ -1,0 +1,7 @@
+strategy_id,strategy,system_domain,critical_function,base_resilience_value,redundancy,diversity,response_diversity,coordination_capacity,justice_contribution,maintenance_reliability,common_mode_risk,diagnostic
+RD001,Distributed Backup Infrastructure Network,infrastructure,power water communication and mobility continuity during disruption,6.913,8.8,7.4,7.8,7.6,7.2,7.5,3.8,justice contribution needs stronger design
+RD002,Multi-Supplier and Multi-Technology System Design,supply chains and technology,critical goods technology services and supply continuity,7.145,7.9,8.9,8.6,7.3,7.4,7.2,3.5,coordination and interoperability constraint
+RD003,Cross-Trained Organizational Response Model,organizations and governance,operational continuity institutional memory and crisis coordination,7.189,8.2,8.1,8.4,8.2,7.8,7.9,4.0,common-mode failure review needed
+RD004,Ecological Restoration for Functional Overlap,ecological systems,pollination seed dispersal nutrient cycling water retention and habitat function,7.061,7.6,8.5,8.8,7.4,7.6,7.1,3.7,coordination and interoperability constraint
+RD005,Public Health Community Surge Network,public health and community resilience,surge care trusted communication prevention and equitable access,7.203,8.4,8.0,8.2,7.9,8.4,7.6,3.6,promising but requires stress testing and validation
+RD006,Regional Food System Resilience Portfolio,food systems,food availability regional processing storage distribution and household access,7.17,8.0,8.7,8.5,7.5,8.0,7.3,3.9,maintenance reliability needs stronger evidence

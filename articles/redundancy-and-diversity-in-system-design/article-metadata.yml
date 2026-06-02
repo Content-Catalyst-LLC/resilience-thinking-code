@@ -1,0 +1,20 @@
+title: "Redundancy and Diversity in System Design"
+slug: "redundancy-and-diversity-in-system-design"
+article_url: "https://sustainablecatalyst.com/redundancy-and-diversity-in-system-design/"
+github_url: "https://github.com/Content-Catalyst-LLC/resilience-thinking-code/tree/main/articles/redundancy-and-diversity-in-system-design"
+series: "Resilience Thinking"
+series_url: "https://sustainablecatalyst.com/resilience-thinking/"
+description: "Companion redundancy-and-diversity modeling scaffold for functional redundancy, response diversity, common-mode failure diagnostics, coordination capacity, justice contribution, strategy ranking, and Monte Carlo uncertainty analysis."
+keywords:
+  - redundancy
+  - diversity
+  - response diversity
+  - common-mode failure
+  - resilience thinking
+  - resilient system design
+  - functional redundancy
+  - adaptive capacity
+  - coordination capacity
+  - justice contribution
+  - Monte Carlo uncertainty
+  - social-ecological systems

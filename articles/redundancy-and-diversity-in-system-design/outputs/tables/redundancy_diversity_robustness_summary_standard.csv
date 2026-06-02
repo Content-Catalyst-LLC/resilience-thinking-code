@@ -1,0 +1,7 @@
+strategy_id,strategy,mean_resilience_value,median_resilience_value,probability_ranked_first,probability_top_two,probability_bottom_two
+RD005,Public Health Community Surge Network,7.20354,7.20786,25.57,46.3,19.87
+RD003,Cross-Trained Organizational Response Model,7.19308,7.19161,24.13,45.0,22.2
+RD006,Regional Food System Resilience Portfolio,7.16362,7.16484,19.47,39.03,24.97
+RD002,Multi-Supplier and Multi-Technology System Design,7.15018,7.15245,17.9,36.9,26.0
+RD004,Ecological Restoration for Functional Overlap,7.05732,7.05906,9.53,23.7,40.43
+RD001,Distributed Backup Infrastructure Network,6.90764,6.90813,3.4,9.07,66.53

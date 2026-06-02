@@ -1,0 +1,43 @@
+scenario,strategy_id,strategy,system_domain,rank,resilience_value,common_mode_risk,critical_function
+Balanced,RD005,Public Health Community Surge Network,public health and community resilience,1,7.203,3.6,surge care trusted communication prevention and equitable access
+Balanced,RD003,Cross-Trained Organizational Response Model,organizations and governance,2,7.189,4.0,operational continuity institutional memory and crisis coordination
+Balanced,RD006,Regional Food System Resilience Portfolio,food systems,3,7.17,3.9,food availability regional processing storage distribution and household access
+Balanced,RD002,Multi-Supplier and Multi-Technology System Design,supply chains and technology,4,7.145,3.5,critical goods technology services and supply continuity
+Balanced,RD004,Ecological Restoration for Functional Overlap,ecological systems,5,7.061,3.7,pollination seed dispersal nutrient cycling water retention and habitat function
+Balanced,RD001,Distributed Backup Infrastructure Network,infrastructure,6,6.913,3.8,power water communication and mobility continuity during disruption
+Redundancy-first,RD005,Public Health Community Surge Network,public health and community resilience,1,7.49,3.6,surge care trusted communication prevention and equitable access
+Redundancy-first,RD003,Cross-Trained Organizational Response Model,organizations and governance,2,7.434,4.0,operational continuity institutional memory and crisis coordination
+Redundancy-first,RD001,Distributed Backup Infrastructure Network,infrastructure,3,7.363,3.8,power water communication and mobility continuity during disruption
+Redundancy-first,RD006,Regional Food System Resilience Portfolio,food systems,4,7.358,3.9,food availability regional processing storage distribution and household access
+Redundancy-first,RD002,Multi-Supplier and Multi-Technology System Design,supply chains and technology,5,7.309,3.5,critical goods technology services and supply continuity
+Redundancy-first,RD004,Ecological Restoration for Functional Overlap,ecological systems,6,7.176,3.7,pollination seed dispersal nutrient cycling water retention and habitat function
+Diversity-first,RD002,Multi-Supplier and Multi-Technology System Design,supply chains and technology,1,7.579,3.5,critical goods technology services and supply continuity
+Diversity-first,RD006,Regional Food System Resilience Portfolio,food systems,2,7.547,3.9,food availability regional processing storage distribution and household access
+Diversity-first,RD004,Ecological Restoration for Functional Overlap,ecological systems,3,7.419,3.7,pollination seed dispersal nutrient cycling water retention and habitat function
+Diversity-first,RD003,Cross-Trained Organizational Response Model,organizations and governance,4,7.407,4.0,operational continuity institutional memory and crisis coordination
+Diversity-first,RD005,Public Health Community Surge Network,public health and community resilience,5,7.382,3.6,surge care trusted communication prevention and equitable access
+Diversity-first,RD001,Distributed Backup Infrastructure Network,infrastructure,6,6.985,3.8,power water communication and mobility continuity during disruption
+Response-diversity-first,RD002,Multi-Supplier and Multi-Technology System Design,supply chains and technology,1,7.504,3.5,critical goods technology services and supply continuity
+Response-diversity-first,RD006,Regional Food System Resilience Portfolio,food systems,2,7.499,3.9,food availability regional processing storage distribution and household access
+Response-diversity-first,RD004,Ecological Restoration for Functional Overlap,ecological systems,3,7.487,3.7,pollination seed dispersal nutrient cycling water retention and habitat function
+Response-diversity-first,RD003,Cross-Trained Organizational Response Model,organizations and governance,4,7.483,4.0,operational continuity institutional memory and crisis coordination
+Response-diversity-first,RD005,Public Health Community Surge Network,public health and community resilience,5,7.442,3.6,surge care trusted communication prevention and equitable access
+Response-diversity-first,RD001,Distributed Backup Infrastructure Network,infrastructure,6,7.108,3.8,power water communication and mobility continuity during disruption
+Coordination-first,RD003,Cross-Trained Organizational Response Model,organizations and governance,1,7.438,4.0,operational continuity institutional memory and crisis coordination
+Coordination-first,RD005,Public Health Community Surge Network,public health and community resilience,2,7.382,3.6,surge care trusted communication prevention and equitable access
+Coordination-first,RD006,Regional Food System Resilience Portfolio,food systems,3,7.267,3.9,food availability regional processing storage distribution and household access
+Coordination-first,RD002,Multi-Supplier and Multi-Technology System Design,supply chains and technology,4,7.201,3.5,critical goods technology services and supply continuity
+Coordination-first,RD004,Ecological Restoration for Functional Overlap,ecological systems,5,7.158,3.7,pollination seed dispersal nutrient cycling water retention and habitat function
+Coordination-first,RD001,Distributed Backup Infrastructure Network,infrastructure,6,7.088,3.8,power water communication and mobility continuity during disruption
+Justice-first,RD005,Public Health Community Surge Network,public health and community resilience,1,7.726,3.6,surge care trusted communication prevention and equitable access
+Justice-first,RD006,Regional Food System Resilience Portfolio,food systems,2,7.603,3.9,food availability regional processing storage distribution and household access
+Justice-first,RD003,Cross-Trained Organizational Response Model,organizations and governance,3,7.573,4.0,operational continuity institutional memory and crisis coordination
+Justice-first,RD002,Multi-Supplier and Multi-Technology System Design,supply chains and technology,4,7.417,3.5,critical goods technology services and supply continuity
+Justice-first,RD004,Ecological Restoration for Functional Overlap,ecological systems,5,7.411,3.7,pollination seed dispersal nutrient cycling water retention and habitat function
+Justice-first,RD001,Distributed Backup Infrastructure Network,infrastructure,6,7.185,3.8,power water communication and mobility continuity during disruption
+Common-mode-sensitive,RD005,Public Health Community Surge Network,public health and community resilience,1,4.734,3.6,surge care trusted communication prevention and equitable access
+Common-mode-sensitive,RD002,Multi-Supplier and Multi-Technology System Design,supply chains and technology,2,4.704,3.5,critical goods technology services and supply continuity
+Common-mode-sensitive,RD006,Regional Food System Resilience Portfolio,food systems,3,4.635,3.9,food availability regional processing storage distribution and household access
+Common-mode-sensitive,RD003,Cross-Trained Organizational Response Model,organizations and governance,4,4.63,4.0,operational continuity institutional memory and crisis coordination
+Common-mode-sensitive,RD004,Ecological Restoration for Functional Overlap,ecological systems,5,4.591,3.7,pollination seed dispersal nutrient cycling water retention and habitat function
+Common-mode-sensitive,RD001,Distributed Backup Infrastructure Network,infrastructure,6,4.464,3.8,power water communication and mobility continuity during disruption
