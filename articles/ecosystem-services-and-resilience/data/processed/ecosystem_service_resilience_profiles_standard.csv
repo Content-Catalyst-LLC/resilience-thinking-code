@@ -1,0 +1,9 @@
+service_id,service,service_category,ecosystem_type,critical_benefit,current_service_flow,service_resilience_profile,service_resilience_gap,threshold_distance,access_equity,diagnostic
+ES001,Pollination,Regulating,Agricultural Mosaic,crop pollination food security and agroecosystem stability,0.72,0.4762,-0.2438,0.48,0.52,high current flow but weak resilience profile
+ES002,Flood Regulation,Regulating,Wetland-Floodplain,flood buffering property protection and public safety,0.68,0.5749,-0.1051,0.57,0.58,mixed service-resilience profile requiring monitoring
+ES003,Water Purification,Regulating,Watershed,clean water nutrient processing and public health,0.74,0.6151,-0.1249,0.62,0.61,stronger service-resilience profile
+ES004,Carbon Storage,Regulating,Forest-Peatland,carbon storage climate regulation and habitat support,0.77,0.5399,-0.2301,0.54,0.49,high current flow but weak resilience profile
+ES005,Food Provision,Provisioning,Agroecosystem,food supply livelihood continuity and nutrition,0.82,0.4429,-0.3771,0.42,0.46,high current flow but weak resilience profile
+ES006,Urban Cooling,Regulating,Urban Forest,heat-risk reduction public health and neighborhood livability,0.64,0.4776,-0.1624,0.49,0.42,equity and access concern
+ES007,Coastal Protection,Regulating,Mangrove-Reef-Marsh System,storm buffering erosion reduction and coastal safety,0.70,0.5556,-0.1444,0.56,0.50,mixed service-resilience profile requiring monitoring
+ES008,Cultural Recreation,Cultural,River-Park Landscape,recreation cultural meaning learning and mental health,0.67,0.5244,-0.1456,0.53,0.48,equity and access concern

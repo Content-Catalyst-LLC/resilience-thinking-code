@@ -1,0 +1,5 @@
+scenario_id,scenario_name,disturbance_load,shock_intensity,shock_frequency,governance_response,description
+SD001,Moderate recurring disturbance,0.24,0.22,8,0.60,Recurring disturbance within a manageable range when ecological capacity and governance are strong.
+SD002,Climate-amplified disturbance,0.42,0.36,7,0.48,Repeated climate stress that increases disturbance pressure on ecosystem-service flows.
+SD003,Compound service stress,0.58,0.52,6,0.38,Compound disturbance combining climate land-use pollution and ecological simplification.
+SD004,Slow threshold erosion,0.36,0.28,12,0.42,Gradual decline in service resilience through slow variables and hidden ecological pressure.

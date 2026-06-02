@@ -1,0 +1,4 @@
+service,current_service_flow,service_resilience_profile,diagnostic
+Pollination,0.7200,0.4900,high current flow but weak resilience profile
+Water Purification,0.7400,0.6200,stronger service-resilience profile
+Urban Cooling,0.6400,0.4800,equity and access concern
