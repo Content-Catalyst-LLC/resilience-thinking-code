@@ -1,0 +1,9 @@
+system_id,system_type,feedback_visibility,boundary_clarity,leverage_capacity,delay_management,adaptive_capacity,redundancy,threshold_distance,buffer_capacity,vulnerability_pressure,disturbance_exposure,reinforcing_vulnerability,balancing_repair,feedback_delay,critical_function
+S001,Watershed Governance,0.72,0.68,0.64,0.58,0.70,0.66,0.74,0.68,0.52,0.55,0.16,0.30,2,water quality and flood regulation
+S002,Urban Infrastructure,0.58,0.62,0.55,0.52,0.60,0.64,0.56,0.54,0.68,0.70,0.21,0.22,4,critical service continuity
+S003,Public Health System,0.66,0.56,0.60,0.57,0.68,0.58,0.60,0.60,0.63,0.66,0.19,0.25,3,care access and surge response
+S004,Supply Chain Network,0.46,0.50,0.42,0.40,0.44,0.38,0.42,0.40,0.78,0.76,0.28,0.14,5,critical goods flow
+S005,Community Adaptation System,0.78,0.70,0.76,0.72,0.82,0.70,0.76,0.72,0.55,0.58,0.12,0.28,2,mutual aid and local adaptation
+S006,Institutional Governance,0.52,0.48,0.50,0.46,0.54,0.50,0.48,0.50,0.66,0.62,0.24,0.20,6,legitimacy and coordination
+S007,Food-Water-Energy System,0.60,0.58,0.62,0.50,0.64,0.62,0.57,0.56,0.72,0.74,0.23,0.21,5,cross-sector resource continuity
+S008,Ecological Restoration Network,0.74,0.66,0.68,0.60,0.78,0.72,0.82,0.76,0.50,0.56,0.15,0.27,3,ecosystem function and renewal

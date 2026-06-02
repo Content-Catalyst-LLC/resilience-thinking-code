@@ -1,0 +1,7 @@
+leverage_id,leverage_level,relative_depth,systems_thinking_description,resilience_contribution
+L001,Parameters,0.20,Adjust numbers such as budgets rates thresholds or capacities,Can improve performance but may not change vulnerability structure
+L002,Buffers,0.35,Increase stock sizes such as reserves backups savings or ecological capacity,Improves disturbance absorption and buys adaptation time
+L003,Information Flows,0.55,Change who receives what feedback and when,Improves early warning accountability learning and response
+L004,Rules,0.70,Change incentives constraints rights and governance procedures,Alters recurring behaviors that produce risk or adaptation
+L005,Goals,0.85,Change what the system optimizes for,Shifts from efficiency or growth toward viability justice and ecological limits
+L006,Paradigms,0.95,Change the underlying worldview mental model or purpose,Redefines what counts as resilience and what must transform

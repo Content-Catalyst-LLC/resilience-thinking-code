@@ -1,0 +1,9 @@
+system_id,system_type,critical_function,systems_thinking_score,resilience_thinking_score,combined_system_resilience,diagnostic
+S001,Watershed Governance,water quality and flood regulation,0.6576,0.4996,0.5786,structure is visible but resilience capacity needs strengthening
+S002,Urban Infrastructure,critical service continuity,0.568,0.382,0.475,structure is visible but resilience capacity needs strengthening
+S003,Public Health System,care access and surge response,0.6,0.416,0.508,structure is visible but resilience capacity needs strengthening
+S004,Supply Chain Network,critical goods flow,0.4456,0.2228,0.3342,weak structure visibility and weak resilience capacity
+S005,Community Adaptation System,mutual aid and local adaptation,0.7416,0.5432,0.6424,structure is visible but resilience capacity needs strengthening
+S006,Institutional Governance,legitimacy and coordination,0.4912,0.3228,0.407,weak structure visibility and weak resilience capacity
+S007,Food-Water-Energy System,cross-sector resource continuity,0.576,0.387,0.4815,structure is visible but resilience capacity needs strengthening
+S008,Ecological Restoration Network,ecosystem function and renewal,0.6728,0.5636,0.6182,structure is visible but resilience capacity needs strengthening

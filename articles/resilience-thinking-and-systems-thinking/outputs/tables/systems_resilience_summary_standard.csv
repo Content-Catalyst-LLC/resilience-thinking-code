@@ -1,0 +1,9 @@
+system_id,system_type,minimum_margin,average_margin,maximum_vulnerability_stock,threshold_risk_steps
+S001,Watershed Governance,-0.485,-0.2219,2.0,300
+S002,Urban Infrastructure,-0.833,-0.6081,2.0,315
+S003,Public Health System,-0.669,-0.4342,2.0,309
+S004,Supply Chain Network,-1.217,-1.0078,2.0,320
+S005,Community Adaptation System,-0.313,-0.0411,2.0,295
+S006,Institutional Governance,-0.981,-0.7595,2.0,317
+S007,Food-Water-Energy System,-0.767,-0.5481,2.0,316
+S008,Ecological Restoration Network,-0.277,-0.0132,2.0,297

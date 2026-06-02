@@ -1,0 +1,25 @@
+system_type,index,score
+Watershed Governance,systems_thinking_score,0.6576
+Watershed Governance,resilience_thinking_score,0.4996
+Watershed Governance,combined_system_resilience,0.5786
+Urban Infrastructure,systems_thinking_score,0.5680000000000001
+Urban Infrastructure,resilience_thinking_score,0.38200000000000006
+Urban Infrastructure,combined_system_resilience,0.4750000000000001
+Public Health System,systems_thinking_score,0.6000000000000001
+Public Health System,resilience_thinking_score,0.416
+Public Health System,combined_system_resilience,0.508
+Supply Chain Network,systems_thinking_score,0.4456
+Supply Chain Network,resilience_thinking_score,0.22280000000000003
+Supply Chain Network,combined_system_resilience,0.3342
+Community Adaptation System,systems_thinking_score,0.7415999999999999
+Community Adaptation System,resilience_thinking_score,0.5431999999999999
+Community Adaptation System,combined_system_resilience,0.6423999999999999
+Institutional Governance,systems_thinking_score,0.4912
+Institutional Governance,resilience_thinking_score,0.32280000000000003
+Institutional Governance,combined_system_resilience,0.40700000000000003
+Food-Water-Energy System,systems_thinking_score,0.5760000000000001
+Food-Water-Energy System,resilience_thinking_score,0.3869999999999999
+Food-Water-Energy System,combined_system_resilience,0.4815
+Ecological Restoration Network,systems_thinking_score,0.6728000000000001
+Ecological Restoration Network,resilience_thinking_score,0.5635999999999999
+Ecological Restoration Network,combined_system_resilience,0.6182

@@ -1,0 +1,5 @@
+scenario_id,scenario_name,disturbance_load,shock_intensity,shock_frequency,delay_penalty,description
+D001,Short operational shock,0.22,0.30,2,0.15,Brief disturbance where response and repair matter.
+D002,Repeated stress with delay,0.48,0.54,6,0.45,Recurring disturbance that exposes delay and feedback weakness.
+D003,Compound cascading disruption,0.72,0.76,9,0.68,High compound risk across connected systems.
+D004,Slow threshold erosion,0.42,0.38,12,0.72,Gradual vulnerability accumulation with late visible response.
