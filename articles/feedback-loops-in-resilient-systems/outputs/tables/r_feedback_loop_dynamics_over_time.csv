@@ -1,0 +1,321 @@
+time,value,system_type
+1,10,Reinforcing
+2,10.65,Reinforcing
+3,11.34225,Reinforcing
+4,12.07949625,Reinforcing
+5,12.86466350625,Reinforcing
+6,13.70086663415625,Reinforcing
+7,14.591422965376406,Reinforcing
+8,15.539865458125872,Reinforcing
+9,16.549956712904056,Reinforcing
+10,17.62570389924282,Reinforcing
+11,18.771374652693602,Reinforcing
+12,19.991514005118685,Reinforcing
+13,21.2909624154514,Reinforcing
+14,22.67487497245574,Reinforcing
+15,24.148741845665363,Reinforcing
+16,25.718410065633613,Reinforcing
+17,27.390106719899798,Reinforcing
+18,29.170463656693286,Reinforcing
+19,31.06654379437835,Reinforcing
+20,33.08586914101294,Reinforcing
+21,35.236450635178784,Reinforcing
+22,37.52681992646541,Reinforcing
+23,39.96606322168566,Reinforcing
+24,42.56385733109523,Reinforcing
+25,45.33050805761642,Reinforcing
+26,48.27699108136149,Reinforcing
+27,51.41499550164998,Reinforcing
+28,54.75697020925723,Reinforcing
+29,58.316173272858954,Reinforcing
+30,62.106724535594786,Reinforcing
+31,66.14366163040845,Reinforcing
+32,70.442999636385,Reinforcing
+33,75.02179461275003,Reinforcing
+34,79.89821126257878,Reinforcing
+35,85.0915949946464,Reinforcing
+36,90.62254866929841,Reinforcing
+37,96.51301433280281,Reinforcing
+38,102.78636026443499,Reinforcing
+39,109.46747368162326,Reinforcing
+40,116.58285947092877,Reinforcing
+41,124.16074533653914,Reinforcing
+42,132.23119378341417,Reinforcing
+43,140.8262213793361,Reinforcing
+44,149.97992576899293,Reinforcing
+45,159.72862094397746,Reinforcing
+46,170.110981305336,Reinforcing
+47,181.16819509018285,Reinforcing
+48,192.94412777104475,Reinforcing
+49,205.48549607616266,Reinforcing
+50,218.84205332111324,Reinforcing
+51,233.0667867869856,Reinforcing
+52,248.21612792813966,Reinforcing
+53,264.35017624346875,Reinforcing
+54,281.5329376992942,Reinforcing
+55,299.83257864974837,Reinforcing
+56,319.321696261982,Reinforcing
+57,340.0776065190109,Reinforcing
+58,362.1826509427466,Reinforcing
+59,385.72452325402514,Reinforcing
+60,410.7966172655368,Reinforcing
+61,437.4983973877967,Reinforcing
+62,465.9357932180035,Reinforcing
+63,496.2216197771737,Reinforcing
+64,528.47602506269,Reinforcing
+65,562.8269666917649,Reinforcing
+66,599.4107195267296,Reinforcing
+67,638.372416295967,Reinforcing
+68,679.8666233552049,Reinforcing
+69,724.0579538732932,Reinforcing
+70,771.1217208750572,Reinforcing
+71,821.244632731936,Reinforcing
+72,874.6255338595118,Reinforcing
+73,931.4761935603801,Reinforcing
+74,992.0221461418048,Reinforcing
+75,1056.503585641022,Reinforcing
+76,1125.1763187076886,Reinforcing
+77,1198.3127794236884,Reinforcing
+78,1276.2031100862282,Reinforcing
+79,1359.1563122418331,Reinforcing
+80,1447.5014725375522,Reinforcing
+1,10,Balancing
+2,26.2,Balancing
+3,39.483999999999995,Balancing
+4,50.37687999999999,Balancing
+5,59.30904159999999,Balancing
+6,66.633414112,Balancing
+7,72.63939957184,Balancing
+8,77.5643076489088,Balancing
+9,81.60273227210521,Balancing
+10,84.91424046312628,Balancing
+11,87.62967717976355,Balancing
+12,89.85633528740611,Balancing
+13,91.68219493567301,Balancing
+14,93.17939984725187,Balancing
+15,94.40710787474653,Balancing
+16,95.41382845729215,Balancing
+17,96.23933933497956,Balancing
+18,96.91625825468324,Balancing
+19,97.47133176884026,Balancing
+20,97.92649205044901,Balancing
+21,98.29972348136819,Balancing
+22,98.60577325472191,Balancing
+23,98.85673406887197,Balancing
+24,99.06252193647502,Balancing
+25,99.23126798790952,Balancing
+26,99.36963975008581,Balancing
+27,99.48310459507036,Balancing
+28,99.5761457679577,Balancing
+29,99.65243952972531,Balancing
+30,99.71500041437476,Balancing
+31,99.7663003397873,Balancing
+32,99.8083662786256,Balancing
+33,99.842860348473,Balancing
+34,99.87114548574786,Balancing
+35,99.89433929831324,Balancing
+36,99.91335822461686,Balancing
+37,99.92895374418582,Balancing
+38,99.94174207023237,Balancing
+39,99.95222849759054,Balancing
+40,99.96082736802424,Balancing
+41,99.96787844177987,Balancing
+42,99.97366032225949,Balancing
+43,99.97840146425278,Balancing
+44,99.98228920068728,Balancing
+45,99.98547714456356,Balancing
+46,99.98809125854211,Balancing
+47,99.99023483200453,Balancing
+48,99.99199256224372,Balancing
+49,99.99343390103985,Balancing
+50,99.99461579885268,Balancing
+51,99.9955849550592,Balancing
+52,99.99637966314855,Balancing
+53,99.99703132378181,Balancing
+54,99.99756568550109,Balancing
+55,99.99800386211089,Balancing
+56,99.99836316693093,Balancing
+57,99.99865779688336,Balancing
+58,99.99889939344436,Balancing
+59,99.99909750262438,Balancing
+60,99.99925995215199,Balancing
+61,99.99939316076463,Balancing
+62,99.999502391827,Balancing
+63,99.99959196129814,Balancing
+64,99.99966540826448,Balancing
+65,99.99972563477687,Balancing
+66,99.99977502051703,Balancing
+67,99.99981551682397,Balancing
+68,99.99984872379565,Balancing
+69,99.99987595351243,Balancing
+70,99.99989828188019,Balancing
+71,99.99991659114175,Balancing
+72,99.99993160473623,Balancing
+73,99.9999439158837,Balancing
+74,99.99995401102464,Balancing
+75,99.99996228904021,Balancing
+76,99.99996907701298,Balancing
+77,99.99997464315064,Balancing
+78,99.99997920738352,Balancing
+79,99.99998295005449,Balancing
+80,99.99998601904468,Balancing
+1,20,Combined Reinforcing and Balancing
+2,27.299999999999997,Combined Reinforcing and Balancing
+3,33.9795,Combined Reinforcing and Balancing
+4,40.0912425,Combined Reinforcing and Balancing
+5,45.683486887499996,Combined Reinforcing and Balancing
+6,50.8003905020625,Combined Reinforcing and Balancing
+7,55.48235730938719,Combined Reinforcing and Balancing
+8,59.76635693808928,Combined Reinforcing and Balancing
+9,63.68621659835169,Combined Reinforcing and Balancing
+10,67.2728881874918,Combined Reinforcing and Balancing
+11,70.55469269155499,Combined Reinforcing and Balancing
+12,73.55754381277282,Combined Reinforcing and Balancing
+13,76.30515258868712,Combined Reinforcing and Balancing
+14,78.81921461864872,Combined Reinforcing and Balancing
+15,81.11958137606358,Combined Reinforcing and Balancing
+16,83.22441695909818,Combined Reinforcing and Balancing
+17,85.15034151757483,Combined Reinforcing and Balancing
+18,86.91256248858097,Combined Reinforcing and Balancing
+19,88.5249946770516,Combined Reinforcing and Balancing
+20,90.00037012950222,Combined Reinforcing and Balancing
+21,91.35033866849452,Combined Reinforcing and Balancing
+22,92.58555988167248,Combined Reinforcing and Balancing
+23,93.71578729173032,Combined Reinforcing and Balancing
+24,94.74994537193325,Combined Reinforcing and Balancing
+25,95.69620001531892,Combined Reinforcing and Balancing
+26,96.56202301401682,Combined Reinforcing and Balancing
+27,97.3542510578254,Combined Reinforcing and Balancing
+28,98.07913971791024,Combined Reinforcing and Balancing
+29,98.74241284188787,Combined Reinforcing and Balancing
+30,99.3493077503274,Combined Reinforcing and Balancing
+31,99.90461659154957,Combined Reinforcing and Balancing
+32,100.41272418126786,Combined Reinforcing and Balancing
+33,100.87764262586009,Combined Reinforcing and Balancing
+34,101.303043002662,Combined Reinforcing and Balancing
+35,101.69228434743573,Combined Reinforcing and Balancing
+36,102.0484401779037,Combined Reinforcing and Balancing
+37,102.37432276278189,Combined Reinforcing and Balancing
+38,102.67250532794543,Combined Reinforcing and Balancing
+39,102.94534237507007,Combined Reinforcing and Balancing
+40,103.19498827318911,Combined Reinforcing and Balancing
+41,103.42341426996803,Combined Reinforcing and Balancing
+42,103.63242405702076,Combined Reinforcing and Balancing
+43,103.823668012174,Combined Reinforcing and Balancing
+44,103.99865623113921,Combined Reinforcing and Balancing
+45,104.15877045149237,Combined Reinforcing and Balancing
+46,104.30527496311552,Combined Reinforcing and Balancing
+47,104.4393265912507,Combined Reinforcing and Balancing
+48,104.5619838309944,Combined Reinforcing and Balancing
+49,104.67421520535987,Combined Reinforcing and Balancing
+50,104.77690691290428,Combined Reinforcing and Balancing
+51,104.87086982530742,Combined Reinforcing and Balancing
+52,104.9568458901563,Combined Reinforcing and Balancing
+53,105.03551398949301,Combined Reinforcing and Balancing
+54,105.1074953003861,Combined Reinforcing and Balancing
+55,105.17335819985328,Combined Reinforcing and Balancing
+56,105.23362275286576,Combined Reinforcing and Balancing
+57,105.28876481887217,Combined Reinforcing and Balancing
+58,105.33921980926804,Combined Reinforcing and Balancing
+59,105.38538612548027,Combined Reinforcing and Balancing
+60,105.42762830481445,Combined Reinforcing and Balancing
+61,105.46627989890523,Combined Reinforcing and Balancing
+62,105.50164610749829,Combined Reinforcing and Balancing
+63,105.53400618836093,Combined Reinforcing and Balancing
+64,105.56361566235024,Combined Reinforcing and Balancing
+65,105.59070833105048,Combined Reinforcing and Balancing
+66,105.61549812291119,Combined Reinforcing and Balancing
+67,105.63818078246373,Combined Reinforcing and Balancing
+68,105.65893541595432,Combined Reinforcing and Balancing
+69,105.6779259055982,Combined Reinforcing and Balancing
+70,105.69530220362236,Combined Reinforcing and Balancing
+71,105.71120151631446,Combined Reinforcing and Balancing
+72,105.72574938742774,Combined Reinforcing and Balancing
+73,105.73906068949638,Combined Reinforcing and Balancing
+74,105.75124053088919,Combined Reinforcing and Balancing
+75,105.76238508576361,Combined Reinforcing and Balancing
+76,105.77258235347371,Combined Reinforcing and Balancing
+77,105.78191285342844,Combined Reinforcing and Balancing
+78,105.79045026088703,Combined Reinforcing and Balancing
+79,105.79826198871163,Combined Reinforcing and Balancing
+80,105.80540971967113,Combined Reinforcing and Balancing
+1,20,Delayed Balancing
+2,20,Delayed Balancing
+3,20,Delayed Balancing
+4,20,Delayed Balancing
+5,20,Delayed Balancing
+6,20,Delayed Balancing
+7,28.300000000000004,Delayed Balancing
+8,36.849000000000004,Delayed Balancing
+9,45.65447,Delayed Balancing
+10,54.724104100000005,Delayed Balancing
+11,64.065827223,Delayed Balancing
+12,72.52580203968999,Delayed Balancing
+13,80.04271610088068,Delayed Balancing
+14,86.5523717839071,Delayed Balancing
+15,91.98756836342432,Delayed Balancing
+16,96.27797960310706,Delayed Balancing
+17,99.51270670564367,Delayed Balancing
+18,101.79210765268968,Delayed Balancing
+19,103.22853883252338,Delayed Balancing
+20,103.94713542661968,Delayed Balancing
+21,104.08663234498329,Delayed Balancing
+22,103.77745237654267,Delayed Balancing
+23,103.13988087646239,Delayed Balancing
+24,102.28208186620299,Delayed Balancing
+25,101.29794536246233,Delayed Balancing
+26,100.26475519503855,Delayed Balancing
+27,99.24385451817372,Delayed Balancing
+28,98.2815868310142,Delayed Balancing
+29,97.4105429746762,Delayed Balancing
+30,96.65114691317176,Delayed Balancing
+31,96.0136155932615,Delayed Balancing
+32,95.49988442851503,Delayed Balancing
+33,95.1054588050285,Delayed Balancing
+34,94.82114655272468,Delayed Balancing
+35,94.63462038146238,Delayed Balancing
+36,94.53175280984964,Delayed Balancing
+37,94.49772157415302,Delayed Balancing
+38,94.51788898867362,Delayed Balancing
+39,94.57846514095237,Delayed Balancing
+40,94.66697224177622,Delayed Balancing
+41,94.77253601565056,Delayed Balancing
+42,94.88603107573866,Delayed Balancing
+43,95.0001075495965,Delayed Balancing
+44,95.10912565635107,Delayed Balancing
+45,95.20902331219293,Delayed Balancing
+46,95.29713896936764,Delayed Balancing
+47,95.37200878784526,Delayed Balancing
+48,95.43315399453711,Delayed Balancing
+49,95.48087102248407,Delayed Balancing
+50,95.51603388945158,Delayed Balancing
+51,95.53991545042365,Delayed Balancing
+52,95.55403168363802,Delayed Balancing
+53,95.56001107491197,Delayed Balancing
+54,95.55948946401156,Delayed Balancing
+55,95.55402940340869,Delayed Balancing
+56,95.54506212245165,Delayed Balancing
+57,95.53384955041588,Delayed Balancing
+58,95.52146348644068,Delayed Balancing
+59,95.50877886607229,Delayed Balancing
+60,95.49647811557725,Delayed Balancing
+61,95.48506376190133,Delayed Balancing
+62,95.47487673770014,Delayed Balancing
+63,95.46611815172946,Delayed Balancing
+64,95.45887265503123,Delayed Balancing
+65,95.45313189850135,Delayed Balancing
+66,95.44881692879021,Delayed Balancing
+67,95.44579869337589,Delayed Balancing
+68,95.44391611293506,Delayed Balancing
+69,95.44299142461873,Delayed Balancing
+70,95.44284270156709,Delayed Balancing
+71,95.44329361258347,Delayed Balancing
+72,95.44418060388836,Delayed Balancing
+73,95.44535776619409,Delayed Balancing
+74,95.4466996997333,Delayed Balancing
+75,95.44810271250591,Delayed Balancing
+76,95.44948468811941,Delayed Balancing
+77,95.45078394421863,Delayed Balancing
+78,95.45195737527801,Delayed Balancing
+79,95.4529781385737,Delayed Balancing
+80,95.45383310298007,Delayed Balancing

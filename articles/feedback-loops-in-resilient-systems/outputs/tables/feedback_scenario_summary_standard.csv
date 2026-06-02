@@ -1,0 +1,5 @@
+scenario_id,scenario_name,final_value,maximum_value,maximum_overshoot,average_effective_balancing
+FL001,Balanced adaptive response,96.9083,104.9913,29.9913,0.169
+FL002,Delayed correction and overshoot,138.6557,200.847,125.847,0.123
+FL003,Harmful reinforcing escalation,1573.7912,1573.7912,1498.7912,0.072
+FL004,Learning loop improvement,101.1944,119.6061,44.6061,0.1625

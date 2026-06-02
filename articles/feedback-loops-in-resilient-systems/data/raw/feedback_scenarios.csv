@@ -1,0 +1,5 @@
+scenario_id,scenario_name,reinforcing_gain,balancing_strength,delay_steps,target,disturbance_shock,adaptive_response,description
+FL001,Balanced adaptive response,0.040,0.160,3,75,8,0.018,Balancing feedback and adaptive response are strong enough to reduce overshoot.
+FL002,Delayed correction and overshoot,0.055,0.120,8,75,12,0.006,Corrective feedback arrives late and allows overshoot.
+FL003,Harmful reinforcing escalation,0.085,0.070,6,75,14,0.004,Reinforcing dynamics dominate stabilizing feedback.
+FL004,Learning loop improvement,0.045,0.150,4,75,10,0.025,Adaptive response improves feedback quality over time.

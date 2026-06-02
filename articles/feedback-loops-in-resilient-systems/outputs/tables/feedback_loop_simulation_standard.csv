@@ -1,0 +1,317 @@
+scenario_id,scenario_name,time_step,value,target,reinforcing_gain,effective_balancing,delay_steps,disturbance,overshoot
+FL001,Balanced adaptive response,1,29.61238,75.0,0.04,0.16023,3,0.0,0.0
+FL001,Balanced adaptive response,2,39.62162,75.0,0.04,0.16045,3,0.0,0.0
+FL001,Balanced adaptive response,3,50.04361,75.0,0.04,0.16068,3,0.0,0.0
+FL001,Balanced adaptive response,4,59.34822,75.0,0.04,0.1609,3,0.0,0.0
+FL001,Balanced adaptive response,5,67.42249,75.0,0.04,0.16112,3,0.0,0.0
+FL001,Balanced adaptive response,6,74.14611,75.0,0.04,0.16135,3,0.0,0.0
+FL001,Balanced adaptive response,7,79.64089,75.0,0.04,0.16157,3,0.0,4.64089
+FL001,Balanced adaptive response,8,84.05256,75.0,0.04,0.1618,3,0.0,9.05256
+FL001,Balanced adaptive response,9,87.55302,75.0,0.04,0.16203,3,0.0,12.55302
+FL001,Balanced adaptive response,10,90.30215,75.0,0.04,0.16225,3,0.0,15.30215
+FL001,Balanced adaptive response,11,92.44343,75.0,0.04,0.16248,3,0.0,17.44343
+FL001,Balanced adaptive response,12,102.09879,75.0,0.04,0.1627,3,8.0,27.09879
+FL001,Balanced adaptive response,13,103.68963,75.0,0.04,0.16293,3,0.0,28.68963
+FL001,Balanced adaptive response,14,104.99132,75.0,0.04,0.16315,3,0.0,29.99132
+FL001,Balanced adaptive response,15,104.76371,75.0,0.04,0.16337,3,0.0,29.76371
+FL001,Balanced adaptive response,16,104.26064,75.0,0.04,0.1636,3,0.0,29.26064
+FL001,Balanced adaptive response,17,103.51773,75.0,0.04,0.16382,3,0.0,28.51773
+FL001,Balanced adaptive response,18,102.77571,75.0,0.04,0.16405,3,0.0,27.77571
+FL001,Balanced adaptive response,19,102.07994,75.0,0.04,0.16428,3,0.0,27.07994
+FL001,Balanced adaptive response,20,101.47197,75.0,0.04,0.1645,3,0.0,26.47197
+FL001,Balanced adaptive response,21,100.9555,75.0,0.04,0.16473,3,0.0,25.9555
+FL001,Balanced adaptive response,22,100.52688,75.0,0.04,0.16495,3,0.0,25.52688
+FL001,Balanced adaptive response,23,100.17545,75.0,0.04,0.16518,3,0.0,25.17545
+FL001,Balanced adaptive response,24,99.88943,75.0,0.04,0.1654,3,0.0,24.88943
+FL001,Balanced adaptive response,25,99.65712,75.0,0.04,0.16562,3,0.0,24.65712
+FL001,Balanced adaptive response,26,99.46805,75.0,0.04,0.16585,3,0.0,24.46805
+FL001,Balanced adaptive response,27,99.31326,75.0,0.04,0.16608,3,0.0,24.31326
+FL001,Balanced adaptive response,28,99.18531,75.0,0.04,0.1663,3,0.0,24.18531
+FL001,Balanced adaptive response,29,99.07818,75.0,0.04,0.16653,3,0.0,24.07818
+FL001,Balanced adaptive response,30,98.98708,75.0,0.04,0.16675,3,0.0,23.98708
+FL001,Balanced adaptive response,31,98.90822,75.0,0.04,0.16698,3,0.0,23.90822
+FL001,Balanced adaptive response,32,98.83867,75.0,0.04,0.1672,3,0.0,23.83867
+FL001,Balanced adaptive response,33,98.77618,75.0,0.04,0.16742,3,0.0,23.77618
+FL001,Balanced adaptive response,34,98.71902,75.0,0.04,0.16765,3,0.0,23.71902
+FL001,Balanced adaptive response,35,98.66586,75.0,0.04,0.16787,3,0.0,23.66586
+FL001,Balanced adaptive response,36,98.61572,75.0,0.04,0.1681,3,0.0,23.61572
+FL001,Balanced adaptive response,37,98.56784,75.0,0.04,0.16833,3,0.0,23.56784
+FL001,Balanced adaptive response,38,98.52168,75.0,0.04,0.16855,3,0.0,23.52168
+FL001,Balanced adaptive response,39,98.4768,75.0,0.04,0.16878,3,0.0,23.4768
+FL001,Balanced adaptive response,40,98.43291,75.0,0.04,0.169,3,0.0,23.43291
+FL001,Balanced adaptive response,41,98.38977,75.0,0.04,0.16923,3,0.0,23.38977
+FL001,Balanced adaptive response,42,98.34721,75.0,0.04,0.16945,3,0.0,23.34721
+FL001,Balanced adaptive response,43,98.30512,75.0,0.04,0.16967,3,0.0,23.30512
+FL001,Balanced adaptive response,44,98.26341,75.0,0.04,0.1699,3,0.0,23.26341
+FL001,Balanced adaptive response,45,98.222,75.0,0.04,0.17012,3,0.0,23.222
+FL001,Balanced adaptive response,46,98.18085,75.0,0.04,0.17035,3,0.0,23.18085
+FL001,Balanced adaptive response,47,98.13993,75.0,0.04,0.17058,3,0.0,23.13993
+FL001,Balanced adaptive response,48,98.09921,75.0,0.04,0.1708,3,0.0,23.09921
+FL001,Balanced adaptive response,49,98.05867,75.0,0.04,0.17103,3,0.0,23.05867
+FL001,Balanced adaptive response,50,98.01831,75.0,0.04,0.17125,3,0.0,23.01831
+FL001,Balanced adaptive response,51,97.9781,75.0,0.04,0.17147,3,0.0,22.9781
+FL001,Balanced adaptive response,52,97.93805,75.0,0.04,0.1717,3,0.0,22.93805
+FL001,Balanced adaptive response,53,97.89815,75.0,0.04,0.17192,3,0.0,22.89815
+FL001,Balanced adaptive response,54,97.8584,75.0,0.04,0.17215,3,0.0,22.8584
+FL001,Balanced adaptive response,55,97.81879,75.0,0.04,0.17238,3,0.0,22.81879
+FL001,Balanced adaptive response,56,97.77932,75.0,0.04,0.1726,3,0.0,22.77932
+FL001,Balanced adaptive response,57,97.73999,75.0,0.04,0.17283,3,0.0,22.73999
+FL001,Balanced adaptive response,58,97.7008,75.0,0.04,0.17305,3,0.0,22.7008
+FL001,Balanced adaptive response,59,97.66174,75.0,0.04,0.17328,3,0.0,22.66174
+FL001,Balanced adaptive response,60,97.62282,75.0,0.04,0.1735,3,0.0,22.62282
+FL001,Balanced adaptive response,61,97.58404,75.0,0.04,0.17372,3,0.0,22.58404
+FL001,Balanced adaptive response,62,97.54539,75.0,0.04,0.17395,3,0.0,22.54539
+FL001,Balanced adaptive response,63,97.50688,75.0,0.04,0.17417,3,0.0,22.50688
+FL001,Balanced adaptive response,64,97.4685,75.0,0.04,0.1744,3,0.0,22.4685
+FL001,Balanced adaptive response,65,97.43025,75.0,0.04,0.17463,3,0.0,22.43025
+FL001,Balanced adaptive response,66,97.39213,75.0,0.04,0.17485,3,0.0,22.39213
+FL001,Balanced adaptive response,67,97.35414,75.0,0.04,0.17508,3,0.0,22.35414
+FL001,Balanced adaptive response,68,97.31629,75.0,0.04,0.1753,3,0.0,22.31629
+FL001,Balanced adaptive response,69,97.27856,75.0,0.04,0.17553,3,0.0,22.27856
+FL001,Balanced adaptive response,70,97.24096,75.0,0.04,0.17575,3,0.0,22.24096
+FL001,Balanced adaptive response,71,97.20349,75.0,0.04,0.17597,3,0.0,22.20349
+FL001,Balanced adaptive response,72,97.16615,75.0,0.04,0.1762,3,0.0,22.16615
+FL001,Balanced adaptive response,73,97.12893,75.0,0.04,0.17642,3,0.0,22.12893
+FL001,Balanced adaptive response,74,97.09184,75.0,0.04,0.17665,3,0.0,22.09184
+FL001,Balanced adaptive response,75,97.05488,75.0,0.04,0.17688,3,0.0,22.05488
+FL001,Balanced adaptive response,76,97.01804,75.0,0.04,0.1771,3,0.0,22.01804
+FL001,Balanced adaptive response,77,96.98133,75.0,0.04,0.17733,3,0.0,21.98133
+FL001,Balanced adaptive response,78,96.94474,75.0,0.04,0.17755,3,0.0,21.94474
+FL001,Balanced adaptive response,79,96.90827,75.0,0.04,0.17778,3,0.0,21.90827
+FL002,Delayed correction and overshoot,1,27.70413,75.0,0.055,0.12008,8,0.0,0.0
+FL002,Delayed correction and overshoot,2,35.8361,75.0,0.055,0.12015,8,0.0,0.0
+FL002,Delayed correction and overshoot,3,44.41946,75.0,0.055,0.12022,8,0.0,0.0
+FL002,Delayed correction and overshoot,4,53.47903,75.0,0.055,0.1203,8,0.0,0.0
+FL002,Delayed correction and overshoot,5,63.041,75.0,0.055,0.12037,8,0.0,0.0
+FL002,Delayed correction and overshoot,6,73.13301,75.0,0.055,0.12045,8,0.0,0.0
+FL002,Delayed correction and overshoot,7,83.7842,75.0,0.055,0.12052,8,0.0,8.7842
+FL002,Delayed correction and overshoot,8,95.02533,75.0,0.055,0.1206,8,0.0,20.02533
+FL002,Delayed correction and overshoot,9,105.95915,75.0,0.055,0.12067,8,0.0,30.95915
+FL002,Delayed correction and overshoot,10,116.51595,75.0,0.055,0.12075,8,0.0,41.51595
+FL002,Delayed correction and overshoot,11,126.61922,75.0,0.055,0.12083,8,0.0,51.61922
+FL002,Delayed correction and overshoot,12,148.18516,75.0,0.055,0.1209,8,12.0,73.18516
+FL002,Delayed correction and overshoot,13,157.78208,75.0,0.055,0.12097,8,0.0,82.78208
+FL002,Delayed correction and overshoot,14,166.6861,75.0,0.055,0.12105,8,0.0,91.6861
+FL002,Delayed correction and overshoot,15,174.78985,75.0,0.055,0.12112,8,0.0,99.78985
+FL002,Delayed correction and overshoot,16,181.97622,75.0,0.055,0.1212,8,0.0,106.97622
+FL002,Delayed correction and overshoot,17,188.23034,75.0,0.055,0.12127,8,0.0,113.23034
+FL002,Delayed correction and overshoot,18,193.54505,75.0,0.055,0.12135,8,0.0,118.54505
+FL002,Delayed correction and overshoot,19,197.92216,75.0,0.055,0.12142,8,0.0,122.92216
+FL002,Delayed correction and overshoot,20,199.91588,75.0,0.055,0.1215,8,0.0,124.91588
+FL002,Delayed correction and overshoot,21,200.84703,75.0,0.055,0.12157,8,0.0,125.84703
+FL002,Delayed correction and overshoot,22,200.74,75.0,0.055,0.12165,8,0.0,125.74
+FL002,Delayed correction and overshoot,23,199.63378,75.0,0.055,0.12172,8,0.0,124.63378
+FL002,Delayed correction and overshoot,24,197.58393,75.0,0.055,0.1218,8,0.0,122.58393
+FL002,Delayed correction and overshoot,25,194.6511,75.0,0.055,0.12187,8,0.0,119.6511
+FL002,Delayed correction and overshoot,26,190.90034,75.0,0.055,0.12195,8,0.0,115.90034
+FL002,Delayed correction and overshoot,27,186.40029,75.0,0.055,0.12202,8,0.0,111.40029
+FL002,Delayed correction and overshoot,28,181.40007,75.0,0.055,0.1221,8,0.0,106.40007
+FL002,Delayed correction and overshoot,29,176.00172,75.0,0.055,0.12217,8,0.0,101.00172
+FL002,Delayed correction and overshoot,30,170.3101,75.0,0.055,0.12225,8,0.0,95.3101
+FL002,Delayed correction and overshoot,31,164.43132,75.0,0.055,0.12232,8,0.0,89.43132
+FL002,Delayed correction and overshoot,32,158.47077,75.0,0.055,0.1224,8,0.0,83.47077
+FL002,Delayed correction and overshoot,33,152.5324,75.0,0.055,0.12248,8,0.0,77.5324
+FL002,Delayed correction and overshoot,34,146.71809,75.0,0.055,0.12255,8,0.0,71.71809
+FL002,Delayed correction and overshoot,35,141.12713,75.0,0.055,0.12262,8,0.0,66.12713
+FL002,Delayed correction and overshoot,36,135.83383,75.0,0.055,0.1227,8,0.0,60.83383
+FL002,Delayed correction and overshoot,37,130.9042,75.0,0.055,0.12277,8,0.0,55.9042
+FL002,Delayed correction and overshoot,38,126.39509,75.0,0.055,0.12285,8,0.0,51.39509
+FL002,Delayed correction and overshoot,39,122.35348,75.0,0.055,0.12292,8,0.0,47.35348
+FL002,Delayed correction and overshoot,40,118.81601,75.0,0.055,0.123,8,0.0,43.81601
+FL002,Delayed correction and overshoot,41,115.80859,75.0,0.055,0.12307,8,0.0,40.80859
+FL002,Delayed correction and overshoot,42,113.34598,75.0,0.055,0.12315,8,0.0,38.34598
+FL002,Delayed correction and overshoot,43,111.4315,75.0,0.055,0.12323,8,0.0,36.4315
+FL002,Delayed correction and overshoot,44,110.05942,75.0,0.055,0.1233,8,0.0,35.05942
+FL002,Delayed correction and overshoot,45,109.2155,75.0,0.055,0.12337,8,0.0,34.2155
+FL002,Delayed correction and overshoot,46,108.87763,75.0,0.055,0.12345,8,0.0,33.87763
+FL002,Delayed correction and overshoot,47,109.01656,75.0,0.055,0.12352,8,0.0,34.01656
+FL002,Delayed correction and overshoot,48,109.59682,75.0,0.055,0.1236,8,0.0,34.59682
+FL002,Delayed correction and overshoot,49,110.57764,75.0,0.055,0.12367,8,0.0,35.57764
+FL002,Delayed correction and overshoot,50,111.91409,75.0,0.055,0.12375,8,0.0,36.91409
+FL002,Delayed correction and overshoot,51,113.55824,75.0,0.055,0.12382,8,0.0,38.55824
+FL002,Delayed correction and overshoot,52,115.46008,75.0,0.055,0.1239,8,0.0,40.46008
+FL002,Delayed correction and overshoot,53,117.56852,75.0,0.055,0.12398,8,0.0,42.56852
+FL002,Delayed correction and overshoot,54,119.83227,75.0,0.055,0.12405,8,0.0,44.83227
+FL002,Delayed correction and overshoot,55,122.20073,75.0,0.055,0.12412,8,0.0,47.20073
+FL002,Delayed correction and overshoot,56,124.62485,75.0,0.055,0.1242,8,0.0,49.62485
+FL002,Delayed correction and overshoot,57,127.05781,75.0,0.055,0.12427,8,0.0,52.05781
+FL002,Delayed correction and overshoot,58,129.45572,75.0,0.055,0.12435,8,0.0,54.45572
+FL002,Delayed correction and overshoot,59,131.77817,75.0,0.055,0.12442,8,0.0,56.77817
+FL002,Delayed correction and overshoot,60,133.98869,75.0,0.055,0.1245,8,0.0,58.98869
+FL002,Delayed correction and overshoot,61,136.0551,75.0,0.055,0.12457,8,0.0,61.0551
+FL002,Delayed correction and overshoot,62,137.94979,75.0,0.055,0.12465,8,0.0,62.94979
+FL002,Delayed correction and overshoot,63,139.64991,75.0,0.055,0.12473,8,0.0,64.64991
+FL002,Delayed correction and overshoot,64,141.13748,75.0,0.055,0.1248,8,0.0,66.13748
+FL002,Delayed correction and overshoot,65,142.39932,75.0,0.055,0.12487,8,0.0,67.39932
+FL002,Delayed correction and overshoot,66,143.42704,75.0,0.055,0.12495,8,0.0,68.42704
+FL002,Delayed correction and overshoot,67,144.21684,75.0,0.055,0.12502,8,0.0,69.21684
+FL002,Delayed correction and overshoot,68,144.76928,75.0,0.055,0.1251,8,0.0,69.76928
+FL002,Delayed correction and overshoot,69,145.08902,75.0,0.055,0.12518,8,0.0,70.08902
+FL002,Delayed correction and overshoot,70,145.18445,75.0,0.055,0.12525,8,0.0,70.18445
+FL002,Delayed correction and overshoot,71,145.06734,75.0,0.055,0.12532,8,0.0,70.06734
+FL002,Delayed correction and overshoot,72,144.75241,75.0,0.055,0.1254,8,0.0,69.75241
+FL002,Delayed correction and overshoot,73,144.25686,75.0,0.055,0.12548,8,0.0,69.25686
+FL002,Delayed correction and overshoot,74,143.59997,75.0,0.055,0.12555,8,0.0,68.59997
+FL002,Delayed correction and overshoot,75,142.80261,75.0,0.055,0.12562,8,0.0,67.80261
+FL002,Delayed correction and overshoot,76,141.88675,75.0,0.055,0.1257,8,0.0,66.88675
+FL002,Delayed correction and overshoot,77,140.87508,75.0,0.055,0.12577,8,0.0,65.87508
+FL002,Delayed correction and overshoot,78,139.7905,75.0,0.055,0.12585,8,0.0,64.7905
+FL002,Delayed correction and overshoot,79,138.65574,75.0,0.055,0.12593,8,0.0,63.65574
+FL003,Harmful reinforcing escalation,1,25.55275,75.0,0.085,0.07005,6,0.0,0.0
+FL003,Harmful reinforcing escalation,2,31.58023,75.0,0.085,0.0701,6,0.0,0.0
+FL003,Harmful reinforcing escalation,3,38.1228,75.0,0.085,0.07015,6,0.0,0.0
+FL003,Harmful reinforcing escalation,4,45.22424,75.0,0.085,0.0702,6,0.0,0.0
+FL003,Harmful reinforcing escalation,5,52.93205,75.0,0.085,0.07025,6,0.0,0.0
+FL003,Harmful reinforcing escalation,6,61.29778,75.0,0.085,0.0703,6,0.0,0.0
+FL003,Harmful reinforcing escalation,7,69.9867,75.0,0.085,0.07035,6,0.0,0.0
+FL003,Harmful reinforcing escalation,8,78.99232,75.0,0.085,0.0704,6,0.0,3.99232
+FL003,Harmful reinforcing escalation,9,88.30467,75.0,0.085,0.07045,6,0.0,13.30467
+FL003,Harmful reinforcing escalation,10,97.90976,75.0,0.085,0.0705,6,0.0,22.90976
+FL003,Harmful reinforcing escalation,11,107.78898,75.0,0.085,0.07055,6,0.0,32.78898
+FL003,Harmful reinforcing escalation,12,131.91842,75.0,0.085,0.0706,6,14.0,56.91842
+FL003,Harmful reinforcing escalation,13,143.48568,75.0,0.085,0.07065,6,0.0,68.48568
+FL003,Harmful reinforcing escalation,14,155.3997,75.0,0.085,0.0707,6,0.0,80.3997
+FL003,Harmful reinforcing escalation,15,167.66737,75.0,0.085,0.07075,6,0.0,92.66737
+FL003,Harmful reinforcing escalation,16,180.29709,75.0,0.085,0.0708,6,0.0,105.29709
+FL003,Harmful reinforcing escalation,17,193.29924,75.0,0.085,0.07085,6,0.0,118.29924
+FL003,Harmful reinforcing escalation,18,205.69416,75.0,0.085,0.0709,6,0.0,130.69416
+FL003,Harmful reinforcing escalation,19,218.3191,75.0,0.085,0.07095,6,0.0,143.3191
+FL003,Harmful reinforcing escalation,20,231.16785,75.0,0.085,0.071,6,0.0,156.16785
+FL003,Harmful reinforcing escalation,21,244.2331,75.0,0.085,0.07105,6,0.0,169.2331
+FL003,Harmful reinforcing escalation,22,257.50629,75.0,0.085,0.0711,6,0.0,182.50629
+FL003,Harmful reinforcing escalation,23,270.97733,75.0,0.085,0.07115,6,0.0,195.97733
+FL003,Harmful reinforcing escalation,24,284.70498,75.0,0.085,0.0712,6,0.0,209.70498
+FL003,Harmful reinforcing escalation,25,298.69342,75.0,0.085,0.07125,6,0.0,223.69342
+FL003,Harmful reinforcing escalation,26,312.94759,75.0,0.085,0.0713,6,0.0,237.94759
+FL003,Harmful reinforcing escalation,27,327.47336,75.0,0.085,0.07135,6,0.0,252.47336
+FL003,Harmful reinforcing escalation,28,342.27764,75.0,0.085,0.0714,6,0.0,267.27764
+FL003,Harmful reinforcing escalation,29,357.36866,75.0,0.085,0.07145,6,0.0,282.36866
+FL003,Harmful reinforcing escalation,30,372.75109,75.0,0.085,0.0715,6,0.0,297.75109
+FL003,Harmful reinforcing escalation,31,388.42967,75.0,0.085,0.07155,6,0.0,313.42967
+FL003,Harmful reinforcing escalation,32,404.40914,75.0,0.085,0.0716,6,0.0,329.40914
+FL003,Harmful reinforcing escalation,33,420.69421,75.0,0.085,0.07165,6,0.0,345.69421
+FL003,Harmful reinforcing escalation,34,437.28941,75.0,0.085,0.0717,6,0.0,362.28941
+FL003,Harmful reinforcing escalation,35,454.19905,75.0,0.085,0.07175,6,0.0,379.19905
+FL003,Harmful reinforcing escalation,36,471.42745,75.0,0.085,0.0718,6,0.0,396.42745
+FL003,Harmful reinforcing escalation,37,488.97886,75.0,0.085,0.07185,6,0.0,413.97886
+FL003,Harmful reinforcing escalation,38,506.85754,75.0,0.085,0.0719,6,0.0,431.85754
+FL003,Harmful reinforcing escalation,39,525.06773,75.0,0.085,0.07195,6,0.0,450.06773
+FL003,Harmful reinforcing escalation,40,543.61365,75.0,0.085,0.072,6,0.0,468.61365
+FL003,Harmful reinforcing escalation,41,562.49952,75.0,0.085,0.07205,6,0.0,487.49952
+FL003,Harmful reinforcing escalation,42,581.72956,75.0,0.085,0.0721,6,0.0,506.72956
+FL003,Harmful reinforcing escalation,43,601.308,75.0,0.085,0.07215,6,0.0,526.308
+FL003,Harmful reinforcing escalation,44,621.23907,75.0,0.085,0.0722,6,0.0,546.23907
+FL003,Harmful reinforcing escalation,45,641.527,75.0,0.085,0.07225,6,0.0,566.527
+FL003,Harmful reinforcing escalation,46,662.17602,75.0,0.085,0.0723,6,0.0,587.17602
+FL003,Harmful reinforcing escalation,47,683.19039,75.0,0.085,0.07235,6,0.0,608.19039
+FL003,Harmful reinforcing escalation,48,704.57436,75.0,0.085,0.0724,6,0.0,629.57436
+FL003,Harmful reinforcing escalation,49,726.33216,75.0,0.085,0.07245,6,0.0,651.33216
+FL003,Harmful reinforcing escalation,50,748.46806,75.0,0.085,0.0725,6,0.0,673.46806
+FL003,Harmful reinforcing escalation,51,770.98632,75.0,0.085,0.07255,6,0.0,695.98632
+FL003,Harmful reinforcing escalation,52,793.89117,75.0,0.085,0.0726,6,0.0,718.89117
+FL003,Harmful reinforcing escalation,53,817.18689,75.0,0.085,0.07265,6,0.0,742.18689
+FL003,Harmful reinforcing escalation,54,840.87772,75.0,0.085,0.0727,6,0.0,765.87772
+FL003,Harmful reinforcing escalation,55,864.96791,75.0,0.085,0.07275,6,0.0,789.96791
+FL003,Harmful reinforcing escalation,56,889.46171,75.0,0.085,0.0728,6,0.0,814.46171
+FL003,Harmful reinforcing escalation,57,914.36335,75.0,0.085,0.07285,6,0.0,839.36335
+FL003,Harmful reinforcing escalation,58,939.67707,75.0,0.085,0.0729,6,0.0,864.67707
+FL003,Harmful reinforcing escalation,59,965.40709,75.0,0.085,0.07295,6,0.0,890.40709
+FL003,Harmful reinforcing escalation,60,991.55762,75.0,0.085,0.073,6,0.0,916.55762
+FL003,Harmful reinforcing escalation,61,1018.13286,75.0,0.085,0.07305,6,0.0,943.13286
+FL003,Harmful reinforcing escalation,62,1045.137,75.0,0.085,0.0731,6,0.0,970.137
+FL003,Harmful reinforcing escalation,63,1072.57422,75.0,0.085,0.07315,6,0.0,997.57422
+FL003,Harmful reinforcing escalation,64,1100.44866,75.0,0.085,0.0732,6,0.0,1025.44866
+FL003,Harmful reinforcing escalation,65,1128.76448,75.0,0.085,0.07325,6,0.0,1053.76448
+FL003,Harmful reinforcing escalation,66,1157.52579,75.0,0.085,0.0733,6,0.0,1082.52579
+FL003,Harmful reinforcing escalation,67,1186.73668,75.0,0.085,0.07335,6,0.0,1111.73668
+FL003,Harmful reinforcing escalation,68,1216.40125,75.0,0.085,0.0734,6,0.0,1141.40125
+FL003,Harmful reinforcing escalation,69,1246.52353,75.0,0.085,0.07345,6,0.0,1171.52353
+FL003,Harmful reinforcing escalation,70,1277.10755,75.0,0.085,0.0735,6,0.0,1202.10755
+FL003,Harmful reinforcing escalation,71,1308.15731,75.0,0.085,0.07355,6,0.0,1233.15731
+FL003,Harmful reinforcing escalation,72,1339.67679,75.0,0.085,0.0736,6,0.0,1264.67679
+FL003,Harmful reinforcing escalation,73,1371.66991,75.0,0.085,0.07365,6,0.0,1296.66991
+FL003,Harmful reinforcing escalation,74,1404.14058,75.0,0.085,0.0737,6,0.0,1329.14058
+FL003,Harmful reinforcing escalation,75,1437.09267,75.0,0.085,0.07375,6,0.0,1362.09267
+FL003,Harmful reinforcing escalation,76,1470.53001,75.0,0.085,0.0738,6,0.0,1395.53001
+FL003,Harmful reinforcing escalation,77,1504.45639,75.0,0.085,0.07385,6,0.0,1429.45639
+FL003,Harmful reinforcing escalation,78,1538.87557,75.0,0.085,0.0739,6,0.0,1463.87557
+FL003,Harmful reinforcing escalation,79,1573.79125,75.0,0.085,0.07395,6,0.0,1498.79125
+FL004,Learning loop improvement,1,29.16719,75.0,0.045,0.15031,4,0.0,0.0
+FL004,Learning loop improvement,2,38.76409,75.0,0.045,0.15062,4,0.0,0.0
+FL004,Learning loop improvement,3,48.81003,75.0,0.045,0.15094,4,0.0,0.0
+FL004,Learning loop improvement,4,59.32523,75.0,0.045,0.15125,4,0.0,0.0
+FL004,Learning loop improvement,5,68.9414,75.0,0.045,0.15156,4,0.0,0.0
+FL004,Learning loop improvement,6,77.5471,75.0,0.045,0.15187,4,0.0,2.5471
+FL004,Learning loop improvement,7,85.0225,75.0,0.045,0.15219,4,0.0,10.0225
+FL004,Learning loop improvement,8,91.23892,75.0,0.045,0.1525,4,0.0,16.23892
+FL004,Learning loop improvement,9,96.2705,75.0,0.045,0.15281,4,0.0,21.2705
+FL004,Learning loop improvement,10,100.21265,75.0,0.045,0.15312,4,0.0,25.21265
+FL004,Learning loop improvement,11,103.18439,75.0,0.045,0.15344,4,0.0,28.18439
+FL004,Learning loop improvement,12,115.33095,75.0,0.045,0.15375,4,10.0,40.33095
+FL004,Learning loop improvement,13,117.24386,75.0,0.045,0.15406,4,0.0,42.24386
+FL004,Learning loop improvement,14,118.62763,75.0,0.045,0.15437,4,0.0,43.62763
+FL004,Learning loop improvement,15,119.6061,75.0,0.045,0.15469,4,0.0,44.6061
+FL004,Learning loop improvement,16,118.73708,75.0,0.045,0.155,4,0.0,43.73708
+FL004,Learning loop improvement,17,117.51925,75.0,0.045,0.15531,4,0.0,42.51925
+FL004,Learning loop improvement,18,116.01806,75.0,0.045,0.15562,4,0.0,41.01806
+FL004,Learning loop improvement,19,114.28311,75.0,0.045,0.15594,4,0.0,39.28311
+FL004,Learning loop improvement,20,112.59193,75.0,0.045,0.15625,4,0.0,37.59193
+FL004,Learning loop improvement,21,111.00165,75.0,0.045,0.15656,4,0.0,36.00165
+FL004,Learning loop improvement,22,109.56202,75.0,0.045,0.15687,4,0.0,34.56202
+FL004,Learning loop improvement,23,108.31749,75.0,0.045,0.15719,4,0.0,33.31749
+FL004,Learning loop improvement,24,107.27105,75.0,0.045,0.1575,4,0.0,32.27105
+FL004,Learning loop improvement,25,106.41674,75.0,0.045,0.15781,4,0.0,31.41674
+FL004,Learning loop improvement,26,105.74037,75.0,0.045,0.15812,4,0.0,30.74037
+FL004,Learning loop improvement,27,105.21995,75.0,0.045,0.15844,4,0.0,30.21995
+FL004,Learning loop improvement,28,104.83182,75.0,0.045,0.15875,4,0.0,29.83182
+FL004,Learning loop improvement,29,104.55202,75.0,0.045,0.15906,4,0.0,29.55202
+FL004,Learning loop improvement,30,104.35762,75.0,0.045,0.15937,4,0.0,29.35762
+FL004,Learning loop improvement,31,104.22796,75.0,0.045,0.15969,4,0.0,29.22796
+FL004,Learning loop improvement,32,104.14513,75.0,0.045,0.16,4,0.0,29.14513
+FL004,Learning loop improvement,33,104.0941,75.0,0.045,0.16031,4,0.0,29.0941
+FL004,Learning loop improvement,34,104.06277,75.0,0.045,0.16062,4,0.0,29.06277
+FL004,Learning loop improvement,35,104.04172,75.0,0.045,0.16094,4,0.0,29.04172
+FL004,Learning loop improvement,36,104.02394,75.0,0.045,0.16125,4,0.0,29.02394
+FL004,Learning loop improvement,37,104.00451,75.0,0.045,0.16156,4,0.0,29.00451
+FL004,Learning loop improvement,38,103.98017,75.0,0.045,0.16187,4,0.0,28.98017
+FL004,Learning loop improvement,39,103.94908,75.0,0.045,0.16219,4,0.0,28.94908
+FL004,Learning loop improvement,40,103.91039,75.0,0.045,0.1625,4,0.0,28.91039
+FL004,Learning loop improvement,41,103.86407,75.0,0.045,0.16281,4,0.0,28.86407
+FL004,Learning loop improvement,42,103.81056,75.0,0.045,0.16312,4,0.0,28.81056
+FL004,Learning loop improvement,43,103.75067,75.0,0.045,0.16344,4,0.0,28.75067
+FL004,Learning loop improvement,44,103.68537,75.0,0.045,0.16375,4,0.0,28.68537
+FL004,Learning loop improvement,45,103.6157,75.0,0.045,0.16406,4,0.0,28.6157
+FL004,Learning loop improvement,46,103.54267,75.0,0.045,0.16437,4,0.0,28.54267
+FL004,Learning loop improvement,47,103.46722,75.0,0.045,0.16469,4,0.0,28.46722
+FL004,Learning loop improvement,48,103.39016,75.0,0.045,0.165,4,0.0,28.39016
+FL004,Learning loop improvement,49,103.31218,75.0,0.045,0.16531,4,0.0,28.31218
+FL004,Learning loop improvement,50,103.23385,75.0,0.045,0.16562,4,0.0,28.23385
+FL004,Learning loop improvement,51,103.15559,75.0,0.045,0.16594,4,0.0,28.15559
+FL004,Learning loop improvement,52,103.07773,75.0,0.045,0.16625,4,0.0,28.07773
+FL004,Learning loop improvement,53,103.00048,75.0,0.045,0.16656,4,0.0,28.00048
+FL004,Learning loop improvement,54,102.92398,75.0,0.045,0.16687,4,0.0,27.92398
+FL004,Learning loop improvement,55,102.84829,75.0,0.045,0.16719,4,0.0,27.84829
+FL004,Learning loop improvement,56,102.77345,75.0,0.045,0.1675,4,0.0,27.77345
+FL004,Learning loop improvement,57,102.69942,75.0,0.045,0.16781,4,0.0,27.69942
+FL004,Learning loop improvement,58,102.62618,75.0,0.045,0.16812,4,0.0,27.62618
+FL004,Learning loop improvement,59,102.55366,75.0,0.045,0.16844,4,0.0,27.55366
+FL004,Learning loop improvement,60,102.4818,75.0,0.045,0.16875,4,0.0,27.4818
+FL004,Learning loop improvement,61,102.41055,75.0,0.045,0.16906,4,0.0,27.41055
+FL004,Learning loop improvement,62,102.33984,75.0,0.045,0.16937,4,0.0,27.33984
+FL004,Learning loop improvement,63,102.26962,75.0,0.045,0.16969,4,0.0,27.26962
+FL004,Learning loop improvement,64,102.19985,75.0,0.045,0.17,4,0.0,27.19985
+FL004,Learning loop improvement,65,102.13048,75.0,0.045,0.17031,4,0.0,27.13048
+FL004,Learning loop improvement,66,102.0615,75.0,0.045,0.17062,4,0.0,27.0615
+FL004,Learning loop improvement,67,101.99286,75.0,0.045,0.17094,4,0.0,26.99286
+FL004,Learning loop improvement,68,101.92457,75.0,0.045,0.17125,4,0.0,26.92457
+FL004,Learning loop improvement,69,101.8566,75.0,0.045,0.17156,4,0.0,26.8566
+FL004,Learning loop improvement,70,101.78895,75.0,0.045,0.17188,4,0.0,26.78895
+FL004,Learning loop improvement,71,101.72162,75.0,0.045,0.17219,4,0.0,26.72162
+FL004,Learning loop improvement,72,101.6546,75.0,0.045,0.1725,4,0.0,26.6546
+FL004,Learning loop improvement,73,101.58791,75.0,0.045,0.17281,4,0.0,26.58791
+FL004,Learning loop improvement,74,101.52152,75.0,0.045,0.17313,4,0.0,26.52152
+FL004,Learning loop improvement,75,101.45546,75.0,0.045,0.17344,4,0.0,26.45546
+FL004,Learning loop improvement,76,101.38972,75.0,0.045,0.17375,4,0.0,26.38972
+FL004,Learning loop improvement,77,101.3243,75.0,0.045,0.17406,4,0.0,26.3243
+FL004,Learning loop improvement,78,101.2592,75.0,0.045,0.17438,4,0.0,26.2592
+FL004,Learning loop improvement,79,101.19443,75.0,0.045,0.17469,4,0.0,26.19443

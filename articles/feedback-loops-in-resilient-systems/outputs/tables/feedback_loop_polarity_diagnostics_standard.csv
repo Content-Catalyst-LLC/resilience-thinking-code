@@ -1,0 +1,5 @@
+loop_id,loop_name,link_count,negative_link_count,loop_type
+L001,Vegetation Soil Water,3,0,reinforcing
+L002,Institutional Trust Performance,3,0,reinforcing
+L003,Stormwater Capacity,5,1,balancing
+L004,Fire Suppression Fuel,4,0,reinforcing

@@ -1,0 +1,9 @@
+system_id,system_name,system_type,critical_function,feedback_risk_score,reinforcing_gain,balancing_strength,delay_steps,disturbance_load,adaptive_capacity,signal_quality,system_memory,justice_visibility,diagnostic
+FB001,Vegetation Soil Water Loop,ecological,soil retention vegetation cover infiltration and ecological recovery,-0.0012,0.070,0.170,3,0.48,0.62,0.66,0.70,0.58,mixed feedback profile requiring monitoring
+FB002,Institutional Trust Performance Loop,institutional,public trust service performance compliance and legitimacy,0.11628,0.082,0.120,6,0.56,0.48,0.46,0.52,0.42,feedback blindness or signal-quality concern
+FB003,Urban Stormwater Feedback Loop,infrastructure,flood control drainage mobility and public health,0.1106,0.060,0.135,5,0.70,0.50,0.54,0.48,0.50,mixed feedback profile requiring monitoring
+FB004,Climate Ice Albedo Loop,climate,temperature regulation cryosphere stability and regional climate function,0.2214,0.095,0.070,8,0.76,0.36,0.42,0.44,0.38,high feedback-risk concern
+FB005,Supply Chain Bullwhip Loop,economic,inventory stability production continuity and household supply security,0.15752,0.088,0.110,7,0.62,0.46,0.44,0.40,0.36,high feedback-risk concern
+FB006,Community Mutual Aid Loop,community,local response coordination communication and recovery support,-0.05192,0.052,0.160,2,0.42,0.74,0.72,0.68,0.70,mixed feedback profile requiring monitoring
+FB007,Public Health Learning Loop,institutional,surveillance surge capacity communication and equitable care,0.05672,0.058,0.155,4,0.64,0.58,0.62,0.66,0.56,mixed feedback profile requiring monitoring
+FB008,Fire Suppression Fuel Loop,social-ecological,fire regime management forest regeneration and community safety,0.2132,0.090,0.090,9,0.72,0.44,0.46,0.50,0.44,high feedback-risk concern

@@ -1,0 +1,16 @@
+loop_id,loop_name,from_variable,to_variable,polarity,delay_note
+L001,Vegetation Soil Water,vegetation_cover,soil_stability,+,same season to multi-year
+L001,Vegetation Soil Water,soil_stability,water_retention,+,seasonal to annual
+L001,Vegetation Soil Water,water_retention,vegetation_cover,+,seasonal to annual
+L002,Institutional Trust Performance,service_performance,public_trust,+,months to years
+L002,Institutional Trust Performance,public_trust,cooperation,+,weeks to months
+L002,Institutional Trust Performance,cooperation,service_performance,+,months
+L003,Stormwater Capacity,impervious_surface,runoff_volume,+,immediate to seasonal
+L003,Stormwater Capacity,runoff_volume,flood_damage,+,storm event
+L003,Stormwater Capacity,flood_damage,public_investment_pressure,+,months to years
+L003,Stormwater Capacity,public_investment_pressure,green_infrastructure,+,years
+L003,Stormwater Capacity,green_infrastructure,runoff_volume,-,years
+L004,Fire Suppression Fuel,fire_suppression,fuel_accumulation,+,years
+L004,Fire Suppression Fuel,fuel_accumulation,fire_severity,+,years to decades
+L004,Fire Suppression Fuel,fire_severity,suppression_pressure,+,immediate to political cycle
+L004,Fire Suppression Fuel,suppression_pressure,fire_suppression,+,political cycle
