@@ -1,0 +1,7 @@
+system,mean_financial_function,minimum_financial_function,final_financial_function,mean_inclusion_adjusted_function,maximum_liquidity_fragility,final_liquidity_fragility,maximum_household_financial_fragility,final_household_financial_fragility
+Payment and clearing infrastructure hub,0.98301,0.76464,1.0,0.97712,0.67789,0.6289,0.67406,0.66852
+Regional bank-centered credit system,0.97915,0.75064,1.0,0.97422,0.75808,0.72793,0.83098,0.82755
+Household and small-firm financial access system,0.977,0.73886,1.0,0.97397,0.69815,0.67482,0.95711,0.95444
+Wholesale funding dependent banking network,0.97249,0.72304,1.0,0.96747,0.89836,0.89572,0.79534,0.79534
+Climate-exposed mortgage and insurance system,0.96648,0.70805,1.0,0.96534,0.77763,0.77739,0.97701,0.97701
+Non-bank market-based finance system,0.96517,0.71097,1.0,0.96112,0.85177,0.85177,0.79139,0.79139

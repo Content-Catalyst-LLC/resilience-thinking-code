@@ -1,0 +1,7 @@
+strategy_id,strategy,mean_financial_resilience_value,median_financial_resilience_value,probability_ranked_first,probability_top_two,probability_bottom_two
+FR001,Higher Capital and Liquidity Buffers,5.82814,5.82501,35.4,59.33,11.1
+FR004,Payment and Clearing Infrastructure Hardening,5.77167,5.77018,25.57,49.47,15.23
+FR002,Expanded Systemwide Stress Testing,5.72417,5.72305,18.93,39.9,20.47
+FR003,Resolution Planning and Bail-In Readiness,5.65494,5.6571,12.27,29.2,31.73
+FR006,Inclusive Finance and Household Balance Sheet Resilience,5.56455,5.56515,6.07,16.47,48.1
+FR005,Non-Bank Financial Intermediation Oversight,5.41824,5.41738,1.77,5.63,73.37

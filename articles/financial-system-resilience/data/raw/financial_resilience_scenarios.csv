@@ -1,0 +1,9 @@
+scenario,capital_strength_weight,liquidity_resilience_weight,infrastructure_robustness_weight,governance_capacity_weight,inclusive_resilience_weight,systemic_exposure_weight,implementation_burden_weight,description
+Balanced,0.16,0.16,0.16,0.16,0.16,0.12,0.08,Balanced financial resilience across solvency liquidity infrastructure governance inclusion exposure and implementation burden.
+Capital-first,0.38,0.15,0.13,0.13,0.10,0.08,0.03,Prioritizes capital adequacy loss absorption leverage constraint and solvency protection.
+Liquidity-first,0.15,0.38,0.13,0.13,0.10,0.08,0.03,Prioritizes liquidity buffers stable funding market liquidity and lender-of-last-resort readiness.
+Infrastructure-first,0.13,0.13,0.38,0.15,0.10,0.08,0.03,Prioritizes payments clearing settlement cyber operational continuity and market infrastructure robustness.
+Governance-first,0.13,0.13,0.15,0.38,0.10,0.08,0.03,Prioritizes supervision macroprudential governance stress testing crisis protocols and resolution readiness.
+Inclusion-first,0.12,0.12,0.12,0.14,0.38,0.08,0.04,Prioritizes household financial resilience fair credit payment access insurance savings and small-firm recovery finance.
+Exposure-sensitive,0.14,0.14,0.14,0.14,0.14,0.24,0.06,Penalizes systemic exposure including leverage contagion non-bank risk climate risk common exposures and operational concentration.
+Implementation-aware,0.15,0.15,0.15,0.15,0.15,0.10,0.15,Penalizes implementation burden when regulatory legal political fiscal or operational capacity is constrained.
