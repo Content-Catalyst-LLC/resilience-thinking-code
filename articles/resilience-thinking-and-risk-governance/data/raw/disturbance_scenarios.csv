@@ -1,0 +1,5 @@
+scenario_id,scenario_name,disturbance_load,shock_intensity,shock_frequency,governance_stress,description
+D001,Moderate forecastable risk,0.28,0.30,3,0.20,Known risk with enough warning for ordinary governance processes.
+D002,Repeated stress with institutional delay,0.46,0.50,5,0.48,Recurring stress where weak coordination and low trust erode response capacity.
+D003,Compound cascading risk,0.70,0.76,8,0.72,Compound disturbance across infrastructure ecological social and institutional systems.
+D004,Slow vulnerability accumulation,0.42,0.38,12,0.65,Gradual erosion of resilience through vulnerability exposure and weak learning.

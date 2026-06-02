@@ -1,0 +1,4 @@
+system_type,risk_pressure,governance_capacity,resilience_margin,diagnostic
+Coastal City,0.2524,0.4591,0.6667,high governance-resilience concern
+Watershed Governance,0.1910,0.6776,1.3666,moderate governance-resilience concern
+Community Adaptation Network,0.1372,0.7790,1.7318,stronger governance-resilience position

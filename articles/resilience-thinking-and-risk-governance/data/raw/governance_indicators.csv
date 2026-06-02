@@ -1,0 +1,7 @@
+indicator_id,indicator_name,indicator_family,description
+G001,trust,legitimacy,Public confidence that institutions are honest competent and acting in the public interest.
+G002,participation_quality,participation,Quality of affected-public stakeholder and community participation in risk framing and decisions.
+G003,knowledge_integration,knowledge,Ability to combine technical expertise local knowledge Indigenous knowledge and frontline experience.
+G004,coordination_quality,coordination,Ability of agencies sectors jurisdictions and communities to coordinate before during and after disturbance.
+G005,transparency,accountability,Clarity about evidence uncertainty tradeoffs decision authority and responsibility.
+G006,accountability,accountability,Ability to assign responsibility review outcomes and correct failures.

@@ -1,0 +1,9 @@
+system_id,system_type,hazard_intensity,exposure,vulnerability,buffer_capacity,adaptive_capacity,learning_capacity,trust,participation_quality,knowledge_integration,coordination_quality,transparency,accountability,critical_function
+S001,Coastal City,0.74,0.78,0.64,0.55,0.58,0.52,0.46,0.42,0.50,0.48,0.44,0.46,coastal safety housing and infrastructure continuity
+S002,Public Health System,0.62,0.66,0.58,0.60,0.66,0.64,0.58,0.55,0.62,0.60,0.57,0.59,care access surveillance and surge response
+S003,Critical Infrastructure Network,0.68,0.72,0.60,0.62,0.60,0.56,0.52,0.48,0.56,0.54,0.50,0.52,critical service continuity
+S004,Watershed Governance,0.58,0.60,0.52,0.68,0.70,0.72,0.64,0.70,0.74,0.68,0.66,0.64,water quality flood absorption and watershed coordination
+S005,Supply Chain System,0.70,0.76,0.70,0.44,0.46,0.42,0.40,0.36,0.46,0.42,0.38,0.40,critical goods flow and dependency management
+S006,Community Adaptation Network,0.55,0.57,0.48,0.70,0.78,0.80,0.76,0.82,0.78,0.74,0.70,0.76,mutual aid local adaptation and community continuity
+S007,Food-Water-Energy Nexus,0.72,0.74,0.66,0.54,0.56,0.52,0.48,0.44,0.52,0.50,0.46,0.48,cross-sector resource continuity
+S008,Urban Heat Governance,0.76,0.70,0.68,0.50,0.54,0.48,0.44,0.50,0.52,0.46,0.42,0.44,heat safety public health and infrastructure adaptation

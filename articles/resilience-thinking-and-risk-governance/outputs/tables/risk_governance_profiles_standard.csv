@@ -1,0 +1,9 @@
+system_id,system_type,critical_function,risk_pressure,governance_capacity,resilience_capacity,resilience_margin,diagnostic
+S001,Coastal City,coastal safety housing and infrastructure continuity,0.2516,0.4606,0.5303,1.219,moderate governance-resilience concern
+S002,Public Health System,care access surveillance and surge response,0.1512,0.5853,0.6221,1.7541,stronger governance-resilience position
+S003,Critical Infrastructure Network,critical service continuity,0.1968,0.5206,0.5773,1.5038,stronger governance-resilience position
+S004,Watershed Governance,water quality flood absorption and watershed coordination,0.1113,0.6774,0.6938,2.1461,stronger governance-resilience position
+S005,Supply Chain System,critical goods flow and dependency management,0.2782,0.404,0.4326,0.7458,high governance-resilience concern
+S006,Community Adaptation Network,mutual aid local adaptation and community continuity,0.0859,0.761,0.759,2.4751,stronger governance-resilience position
+S007,Food-Water-Energy Nexus,cross-sector resource continuity,0.2433,0.4806,0.5269,1.1973,moderate governance-resilience concern
+S008,Urban Heat Governance,heat safety public health and infrastructure adaptation,0.2543,0.4644,0.4983,1.0501,moderate governance-resilience concern

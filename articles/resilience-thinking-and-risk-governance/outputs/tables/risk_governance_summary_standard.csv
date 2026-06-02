@@ -1,0 +1,9 @@
+system_id,system_type,minimum_margin,average_margin,threshold_risk_steps
+S001,Coastal City,-2.0,-1.87,333
+S002,Public Health System,-2.0,-1.7991,327
+S003,Critical Infrastructure Network,-2.0,-1.836,330
+S004,Watershed Governance,-2.0,-1.7378,321
+S005,Supply Chain System,-2.0,-1.9063,336
+S006,Community Adaptation Network,-2.0,-1.6837,318
+S007,Food-Water-Energy Nexus,-2.0,-1.8677,333
+S008,Urban Heat Governance,-2.0,-1.8766,335

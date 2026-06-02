@@ -1,0 +1,33 @@
+system_type,indicator,value
+Coastal City,risk_pressure,0.251566848
+Coastal City,governance_capacity,0.4606
+Coastal City,resilience_capacity,0.530344
+Coastal City,resilience_margin,1.2190331519999997
+Public Health System,risk_pressure,0.151183032
+Public Health System,governance_capacity,0.5853
+Public Health System,resilience_capacity,0.6220720000000001
+Public Health System,resilience_margin,1.754116968
+Critical Infrastructure Network,risk_pressure,0.1968192
+Critical Infrastructure Network,governance_capacity,0.5206000000000001
+Critical Infrastructure Network,resilience_capacity,0.5773440000000001
+Critical Infrastructure Network,resilience_margin,1.5037808
+Watershed Governance,risk_pressure,0.11129039999999998
+Watershed Governance,governance_capacity,0.6774
+Watershed Governance,resilience_capacity,0.693776
+Watershed Governance,resilience_margin,2.1461095999999995
+Supply Chain System,risk_pressure,0.2781827999999999
+Supply Chain System,governance_capacity,0.40399999999999997
+Supply Chain System,resilience_capacity,0.43256
+Supply Chain System,resilience_margin,0.7458172000000001
+Community Adaptation Network,risk_pressure,0.08592408
+Community Adaptation Network,governance_capacity,0.761
+Community Adaptation Network,resilience_capacity,0.75904
+Community Adaptation Network,resilience_margin,2.4750759200000005
+Food-Water-Energy Nexus,risk_pressure,0.24334041599999995
+Food-Water-Energy Nexus,governance_capacity,0.4806
+Food-Water-Energy Nexus,resilience_capacity,0.5269440000000001
+Food-Water-Energy Nexus,resilience_margin,1.1972595840000002
+Urban Heat Governance,risk_pressure,0.25431728
+Urban Heat Governance,governance_capacity,0.46440000000000003
+Urban Heat Governance,resilience_capacity,0.49825600000000003
+Urban Heat Governance,resilience_margin,1.0500827199999998
