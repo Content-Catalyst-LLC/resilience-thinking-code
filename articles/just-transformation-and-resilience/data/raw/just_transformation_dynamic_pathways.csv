@@ -1,0 +1,9 @@
+dynamic_id,pathway,initial_exposure,institutional_capacity,transformation_investment,social_protection,ecological_repair,governance_legitimacy,burden_shift,lock_in_risk,description
+JTD001,Technical decarbonization only,0.62,0.58,0.80,0.42,0.58,0.46,0.66,0.62,technical substitution reduces one risk but leaves justice and transition support gaps
+JTD002,Just energy transition,0.60,0.82,0.86,0.88,0.76,0.84,0.28,0.30,decarbonization is paired with worker support affordability regional investment and accountable governance
+JTD003,Retreat without support,0.70,0.52,0.72,0.36,0.56,0.40,0.74,0.58,relocation reduces exposure for some while creating displacement and cultural loss risks
+JTD004,Participatory retreat and restoration,0.72,0.84,0.88,0.86,0.90,0.88,0.30,0.28,participatory relocation compensation cultural continuity and wetland restoration reduce exposure and justice gaps
+JTD005,Green investment without housing protection,0.64,0.56,0.78,0.44,0.78,0.42,0.68,0.54,climate investment improves environmental indicators while risking displacement and exclusion
+JTD006,Climate retrofit with anti-displacement policy,0.66,0.80,0.84,0.90,0.80,0.86,0.26,0.30,retrofits cooling access tenant protection and public health reduce heat and housing vulnerability
+JTD007,Public capacity renewal and infrastructure repair,0.68,0.86,0.82,0.82,0.76,0.88,0.28,0.32,repair staffing maintenance and accountability reduce service failure and exposure over time
+JTD008,Community-led social-ecological transformation,0.70,0.82,0.84,0.84,0.88,0.90,0.27,0.29,local knowledge ecological repair public finance and community authority guide transformation pathways

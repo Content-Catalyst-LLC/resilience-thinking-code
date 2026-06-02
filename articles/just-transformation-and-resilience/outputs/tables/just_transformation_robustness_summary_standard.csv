@@ -1,0 +1,11 @@
+pathway_id,pathway,mean_adjusted_value,median_adjusted_value,mean_justice_gap,probability_ranked_first,probability_top_two,probability_bottom_two
+JTR004,Participatory Retreat and Wetland Restoration,7.34699,7.35573,1.0789,40.8,63.0,0.0
+JTR006,Climate Retrofit with Anti-Displacement Policy,7.12334,7.13301,1.08354,16.84,34.68,0.0
+JTR002,Just Energy Transition with Worker Support,7.13246,7.14812,1.06721,15.64,37.12,0.0
+JTR010,Infrastructure Repair and Public Capacity Renewal,7.10379,7.11667,1.06261,14.56,33.0,0.0
+JTR009,Ecosystem Restoration with Community Stewardship,6.99304,7.01071,1.21633,9.84,23.92,0.0
+JTR008,Public Digital Infrastructure with Community Oversight,6.79367,6.81105,1.11014,2.32,8.28,0.0
+JTR001,Technical Decarbonization Only,1.955,1.96496,4.12483,0.0,0.0,39.68
+JTR003,Coastal Retreat Without Long-Term Support,1.42158,1.41384,4.3859,0.0,0.0,86.32
+JTR005,Green Infrastructure Without Housing Protection,2.64837,2.63822,3.76727,0.0,0.0,4.12
+JTR007,Digital Modernization Without Access Safeguards,1.67954,1.68282,4.15658,0.0,0.0,69.88

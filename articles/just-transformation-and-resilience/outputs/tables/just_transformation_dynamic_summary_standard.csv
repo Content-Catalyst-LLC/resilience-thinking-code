@@ -1,0 +1,9 @@
+pathway,mean_justice_adjusted_resilience,final_justice_adjusted_resilience,mean_justice_gap,final_justice_gap,final_exposure,final_social_protection,final_ecological_repair,final_trust,final_lock_in_risk
+Participatory retreat and restoration,0.97871,0.98733,0.0,0.0,0.0,1.0,1.0,1.0,0.0
+Community-led social-ecological transformation,0.97697,0.9857,0.0,0.0,0.0,1.0,1.0,1.0,0.0
+Just energy transition,0.97526,0.98435,0.0,0.0,0.0,1.0,1.0,1.0,0.0
+Climate retrofit with anti-displacement policy,0.97506,0.98397,0.0,0.0,0.0,1.0,1.0,1.0,0.0
+Public capacity renewal and infrastructure repair,0.9733,0.98358,0.0,0.0,0.0,1.0,1.0,1.0,0.0
+Technical decarbonization only,0.89219,0.96419,0.02008,0.0,0.0,1.0,1.0,1.0,0.0
+Green investment without housing protection,0.88492,0.96122,0.02044,0.0,0.0,1.0,1.0,1.0,0.0
+Retreat without support,0.81688,0.95649,0.03973,0.0,0.0,1.0,1.0,0.99934,0.0
