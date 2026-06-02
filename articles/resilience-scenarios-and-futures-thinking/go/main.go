@@ -1,0 +1,8 @@
+package main
+
+import "fmt"
+
+func main() {
+	score := 0.10*8.2 + 0.10*8.4 + 0.11*8.5 + 0.12*9.4 + 0.11*8.3 + 0.10*8.5 + 0.12*8.9 + 0.12*8.5 + 0.12*8.7 - 0.04*2.7 - 0.04*3.7
+	fmt.Printf("scenario_resilience_value=%.5f\n", score)
+}

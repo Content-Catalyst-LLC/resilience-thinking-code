@@ -1,0 +1,1 @@
+scenario_resilience_value=8.36200

@@ -1,0 +1,7 @@
+scenario,mean_function,minimum_function,final_function,final_vulnerability,final_social_trust,final_equity_adjusted_resilience,final_robust_resilience_score
+Justice-centered transformation,0.99994,0.99617,1.0,0.0,1.0,1.0,0.94394
+Local mutual aid and institutional reform,0.99802,0.91645,1.0,0.0,1.0,1.0,0.88276
+Adaptive pathways with delayed transformation,0.99581,0.91505,1.0,0.0,1.0,0.984,0.86679
+Continuation with rising stress,0.80451,0.0,0.0,0.29531,1.0,0.04752,0.58091
+Maladaptive resilience and unequal recovery,0.35325,0.0,0.0,1.0,1.0,0.0,0.49969
+Compound disruption and weak coordination,0.1389,0.0,0.0,1.0,1.0,0.0,0.46609

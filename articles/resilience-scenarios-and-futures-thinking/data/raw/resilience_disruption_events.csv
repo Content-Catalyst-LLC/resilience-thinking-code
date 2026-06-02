@@ -1,0 +1,8 @@
+event_id,event_name,shock_intensity,climate_pressure,infrastructure_pressure,health_pressure,technology_pressure,economic_pressure,trust_pressure,equity_pressure,governance_pressure
+EV001,Extreme heat and grid strain,0.66,0.94,0.76,0.82,0.50,0.56,0.70,0.86,0.68
+EV002,Flooding housing and recovery crisis,0.74,0.92,0.82,0.64,0.52,0.76,0.78,0.90,0.74
+EV003,Cyberattack and health system surge,0.78,0.48,0.64,0.92,0.96,0.58,0.74,0.78,0.86
+EV004,Drought food and water price shock,0.70,0.88,0.62,0.58,0.54,0.88,0.66,0.84,0.72
+EV005,Communications outage during storm,0.68,0.82,0.84,0.56,0.90,0.62,0.82,0.78,0.80
+EV006,Slow variable threshold warning,0.54,0.72,0.66,0.58,0.46,0.58,0.64,0.76,0.92
+EV007,Compound regional disruption,0.90,0.94,0.90,0.86,0.82,0.88,0.92,0.96,0.90

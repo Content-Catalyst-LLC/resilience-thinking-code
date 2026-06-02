@@ -1,0 +1,7 @@
+pathway_id,scenario,climate_stress_growth,infrastructure_stress_growth,social_vulnerability_growth,governance_capacity,adaptive_capacity,participation,equity_focus,transformation_investment,redundancy_and_slack,initial_function,initial_vulnerability,initial_trust
+FP001,Continuation with rising stress,0.012,0.010,0.008,0.58,0.56,0.46,0.44,0.32,0.48,0.82,0.42,0.48
+FP002,Compound disruption and weak coordination,0.018,0.018,0.016,0.42,0.44,0.38,0.36,0.24,0.40,0.82,0.46,0.42
+FP003,Adaptive pathways with delayed transformation,0.014,0.012,0.006,0.68,0.74,0.66,0.68,0.62,0.68,0.82,0.40,0.54
+FP004,Justice-centered transformation,0.010,0.008,-0.004,0.86,0.88,0.90,0.92,0.88,0.82,0.82,0.38,0.58
+FP005,Maladaptive resilience and unequal recovery,0.016,0.015,0.014,0.52,0.58,0.42,0.32,0.38,0.46,0.82,0.50,0.38
+FP006,Local mutual aid and institutional reform,0.013,0.011,0.000,0.72,0.76,0.84,0.78,0.64,0.66,0.80,0.44,0.60
