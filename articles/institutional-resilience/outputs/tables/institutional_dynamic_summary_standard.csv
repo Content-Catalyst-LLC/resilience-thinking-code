@@ -1,0 +1,7 @@
+system,mean_institutional_function,minimum_institutional_function,final_institutional_function,mean_equity_adjusted_function,maximum_dependency_coupling,final_dependency_coupling
+Social Protection and Benefits Delivery System,1.0,1.0,1.0,0.9916,0.69864,0.66517
+Court Administrative Access and Rights Protection System,1.0,1.0,1.0,0.99146,0.65814,0.58286
+Local Planning Land Use and Climate Adaptation Institution,1.0,1.0,1.0,0.99132,0.75851,0.71018
+Public Health Administration and Data Governance System,1.0,1.0,1.0,0.99118,0.71797,0.63033
+Infrastructure Regulation and Utility Oversight System,1.0,1.0,1.0,0.99104,0.82725,0.82086
+Local Emergency Management and Interagency Coordination System,1.0,1.0,1.0,0.9909,0.77828,0.71832

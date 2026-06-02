@@ -1,0 +1,481 @@
+system_id,system,system_domain,time,event,stress_load,response_capacity,institutional_function,dependency_coupling,equity_adjusted_function
+SYS001,Local Emergency Management and Interagency Coordination System,emergency governance,0,background institutional stress,0.16224,0.4518,1.0,0.77828,1.0
+SYS001,Local Emergency Management and Interagency Coordination System,emergency governance,1,background institutional stress,0.16581,0.45197,1.0,0.77662,1.0
+SYS001,Local Emergency Management and Interagency Coordination System,emergency governance,2,background institutional stress,0.16434,0.45214,1.0,0.77493,1.0
+SYS001,Local Emergency Management and Interagency Coordination System,emergency governance,3,background institutional stress,0.16513,0.45231,1.0,0.77326,1.0
+SYS001,Local Emergency Management and Interagency Coordination System,emergency governance,4,background institutional stress,0.16219,0.45247,1.0,0.77153,1.0
+SYS001,Local Emergency Management and Interagency Coordination System,emergency governance,5,background institutional stress,0.16455,0.45265,1.0,0.76984,1.0
+SYS001,Local Emergency Management and Interagency Coordination System,emergency governance,6,background institutional stress,0.16479,0.45282,1.0,0.76815,1.0
+SYS001,Local Emergency Management and Interagency Coordination System,emergency governance,7,background institutional stress,0.16474,0.45298,1.0,0.76647,1.0
+SYS001,Local Emergency Management and Interagency Coordination System,emergency governance,8,background institutional stress,0.1614,0.45315,1.0,0.76471,1.0
+SYS001,Local Emergency Management and Interagency Coordination System,emergency governance,9,background institutional stress,0.16225,0.45333,1.0,0.76297,1.0
+SYS001,Local Emergency Management and Interagency Coordination System,emergency governance,10,background institutional stress,0.16701,0.4535,1.0,0.76132,1.0
+SYS001,Local Emergency Management and Interagency Coordination System,emergency governance,11,background institutional stress,0.16552,0.45367,1.0,0.75964,1.0
+SYS001,Local Emergency Management and Interagency Coordination System,emergency governance,12,Public trust shock during emergency response,0.83077,0.45384,1.0,0.77126,0.85664
+SYS001,Local Emergency Management and Interagency Coordination System,emergency governance,13,background institutional stress,0.16764,0.45267,1.0,0.76964,1.0
+SYS001,Local Emergency Management and Interagency Coordination System,emergency governance,14,background institutional stress,0.16485,0.45284,1.0,0.76795,1.0
+SYS001,Local Emergency Management and Interagency Coordination System,emergency governance,15,background institutional stress,0.1641,0.453,1.0,0.76625,1.0
+SYS001,Local Emergency Management and Interagency Coordination System,emergency governance,16,background institutional stress,0.16322,0.45317,1.0,0.76453,1.0
+SYS001,Local Emergency Management and Interagency Coordination System,emergency governance,17,background institutional stress,0.16689,0.45335,1.0,0.76288,1.0
+SYS001,Local Emergency Management and Interagency Coordination System,emergency governance,18,background institutional stress,0.16625,0.45351,1.0,0.76122,1.0
+SYS001,Local Emergency Management and Interagency Coordination System,emergency governance,19,background institutional stress,0.16582,0.45368,1.0,0.75954,1.0
+SYS001,Local Emergency Management and Interagency Coordination System,emergency governance,20,background institutional stress,0.16623,0.45385,1.0,0.75788,1.0
+SYS001,Local Emergency Management and Interagency Coordination System,emergency governance,21,background institutional stress,0.1653,0.45401,1.0,0.75619,1.0
+SYS001,Local Emergency Management and Interagency Coordination System,emergency governance,22,background institutional stress,0.16839,0.45418,1.0,0.75456,1.0
+SYS001,Local Emergency Management and Interagency Coordination System,emergency governance,23,background institutional stress,0.16736,0.45434,1.0,0.75291,1.0
+SYS001,Local Emergency Management and Interagency Coordination System,emergency governance,24,background institutional stress,0.16693,0.45451,1.0,0.75125,1.0
+SYS001,Local Emergency Management and Interagency Coordination System,emergency governance,25,background institutional stress,0.16565,0.45468,1.0,0.74956,1.0
+SYS001,Local Emergency Management and Interagency Coordination System,emergency governance,26,background institutional stress,0.1653,0.45484,1.0,0.74786,1.0
+SYS001,Local Emergency Management and Interagency Coordination System,emergency governance,27,Fiscal stress and staffing attrition,0.78383,0.45501,1.0,0.75853,0.87904
+SYS001,Local Emergency Management and Interagency Coordination System,emergency governance,28,background institutional stress,0.16765,0.45395,1.0,0.75689,1.0
+SYS001,Local Emergency Management and Interagency Coordination System,emergency governance,29,background institutional stress,0.1684,0.45411,1.0,0.75527,1.0
+SYS001,Local Emergency Management and Interagency Coordination System,emergency governance,30,background institutional stress,0.17029,0.45427,1.0,0.75367,1.0
+SYS001,Local Emergency Management and Interagency Coordination System,emergency governance,31,background institutional stress,0.16651,0.45443,1.0,0.75201,1.0
+SYS001,Local Emergency Management and Interagency Coordination System,emergency governance,32,background institutional stress,0.17061,0.4546,1.0,0.75042,1.0
+SYS001,Local Emergency Management and Interagency Coordination System,emergency governance,33,background institutional stress,0.16946,0.45476,1.0,0.7488,1.0
+SYS001,Local Emergency Management and Interagency Coordination System,emergency governance,34,background institutional stress,0.16739,0.45492,1.0,0.74715,1.0
+SYS001,Local Emergency Management and Interagency Coordination System,emergency governance,35,background institutional stress,0.16592,0.45509,1.0,0.74546,1.0
+SYS001,Local Emergency Management and Interagency Coordination System,emergency governance,36,background institutional stress,0.16994,0.45525,1.0,0.74385,1.0
+SYS001,Local Emergency Management and Interagency Coordination System,emergency governance,37,background institutional stress,0.16761,0.45541,1.0,0.74219,1.0
+SYS001,Local Emergency Management and Interagency Coordination System,emergency governance,38,background institutional stress,0.16637,0.45558,1.0,0.74051,1.0
+SYS001,Local Emergency Management and Interagency Coordination System,emergency governance,39,background institutional stress,0.16648,0.45575,1.0,0.73883,1.0
+SYS001,Local Emergency Management and Interagency Coordination System,emergency governance,40,background institutional stress,0.16568,0.45592,1.0,0.73712,1.0
+SYS001,Local Emergency Management and Interagency Coordination System,emergency governance,41,background institutional stress,0.16891,0.45609,1.0,0.73549,1.0
+SYS001,Local Emergency Management and Interagency Coordination System,emergency governance,42,Cyber and public data-system disruption,0.85324,0.45625,1.0,0.74753,0.86224
+SYS001,Local Emergency Management and Interagency Coordination System,emergency governance,43,background institutional stress,0.17014,0.45505,1.0,0.74593,1.0
+SYS001,Local Emergency Management and Interagency Coordination System,emergency governance,44,background institutional stress,0.16586,0.45521,1.0,0.74424,1.0
+SYS001,Local Emergency Management and Interagency Coordination System,emergency governance,45,background institutional stress,0.16603,0.45538,1.0,0.74255,1.0
+SYS001,Local Emergency Management and Interagency Coordination System,emergency governance,46,background institutional stress,0.17025,0.45554,1.0,0.74094,1.0
+SYS001,Local Emergency Management and Interagency Coordination System,emergency governance,47,background institutional stress,0.16748,0.45571,1.0,0.73928,1.0
+SYS001,Local Emergency Management and Interagency Coordination System,emergency governance,48,background institutional stress,0.1702,0.45587,1.0,0.73767,1.0
+SYS001,Local Emergency Management and Interagency Coordination System,emergency governance,49,background institutional stress,0.17056,0.45603,1.0,0.73607,1.0
+SYS001,Local Emergency Management and Interagency Coordination System,emergency governance,50,background institutional stress,0.16969,0.45619,1.0,0.73444,1.0
+SYS001,Local Emergency Management and Interagency Coordination System,emergency governance,51,background institutional stress,0.17047,0.45636,1.0,0.73283,1.0
+SYS001,Local Emergency Management and Interagency Coordination System,emergency governance,52,background institutional stress,0.16964,0.45652,1.0,0.7312,1.0
+SYS001,Local Emergency Management and Interagency Coordination System,emergency governance,53,background institutional stress,0.16842,0.45668,1.0,0.72955,1.0
+SYS001,Local Emergency Management and Interagency Coordination System,emergency governance,54,background institutional stress,0.16707,0.45685,1.0,0.72786,1.0
+SYS001,Local Emergency Management and Interagency Coordination System,emergency governance,55,background institutional stress,0.16618,0.45701,1.0,0.72616,1.0
+SYS001,Local Emergency Management and Interagency Coordination System,emergency governance,56,Multi-agency coordination failure during compound event,0.88869,0.45718,1.0,0.7389,0.84544
+SYS001,Local Emergency Management and Interagency Coordination System,emergency governance,57,background institutional stress,0.16931,0.45591,1.0,0.73728,1.0
+SYS001,Local Emergency Management and Interagency Coordination System,emergency governance,58,background institutional stress,0.17149,0.45607,1.0,0.73569,1.0
+SYS001,Local Emergency Management and Interagency Coordination System,emergency governance,59,background institutional stress,0.17068,0.45623,1.0,0.73408,1.0
+SYS001,Local Emergency Management and Interagency Coordination System,emergency governance,60,background institutional stress,0.16999,0.45639,1.0,0.73246,1.0
+SYS001,Local Emergency Management and Interagency Coordination System,emergency governance,61,background institutional stress,0.1692,0.45655,1.0,0.73082,1.0
+SYS001,Local Emergency Management and Interagency Coordination System,emergency governance,62,background institutional stress,0.16999,0.45672,1.0,0.7292,1.0
+SYS001,Local Emergency Management and Interagency Coordination System,emergency governance,63,background institutional stress,0.16826,0.45688,1.0,0.72754,1.0
+SYS001,Local Emergency Management and Interagency Coordination System,emergency governance,64,background institutional stress,0.17295,0.45705,1.0,0.72597,1.0
+SYS001,Local Emergency Management and Interagency Coordination System,emergency governance,65,background institutional stress,0.17393,0.4572,1.0,0.72442,1.0
+SYS001,Local Emergency Management and Interagency Coordination System,emergency governance,66,background institutional stress,0.1696,0.45736,1.0,0.72278,1.0
+SYS001,Local Emergency Management and Interagency Coordination System,emergency governance,67,background institutional stress,0.17041,0.45752,1.0,0.72116,1.0
+SYS001,Local Emergency Management and Interagency Coordination System,emergency governance,68,background institutional stress,0.17252,0.45768,1.0,0.71957,1.0
+SYS001,Local Emergency Management and Interagency Coordination System,emergency governance,69,background institutional stress,0.16935,0.45784,1.0,0.71792,1.0
+SYS001,Local Emergency Management and Interagency Coordination System,emergency governance,70,Compound legitimacy capacity cyber equity and legal crisis,0.97383,0.45801,1.0,0.73236,0.82864
+SYS001,Local Emergency Management and Interagency Coordination System,emergency governance,71,background institutional stress,0.17424,0.45656,1.0,0.73083,1.0
+SYS001,Local Emergency Management and Interagency Coordination System,emergency governance,72,background institutional stress,0.17485,0.45672,1.0,0.7293,1.0
+SYS001,Local Emergency Management and Interagency Coordination System,emergency governance,73,background institutional stress,0.16937,0.45687,1.0,0.72766,1.0
+SYS001,Local Emergency Management and Interagency Coordination System,emergency governance,74,background institutional stress,0.17034,0.45703,1.0,0.72604,1.0
+SYS001,Local Emergency Management and Interagency Coordination System,emergency governance,75,background institutional stress,0.17409,0.4572,1.0,0.72449,1.0
+SYS001,Local Emergency Management and Interagency Coordination System,emergency governance,76,background institutional stress,0.1759,0.45735,1.0,0.72298,1.0
+SYS001,Local Emergency Management and Interagency Coordination System,emergency governance,77,background institutional stress,0.1734,0.4575,1.0,0.72141,1.0
+SYS001,Local Emergency Management and Interagency Coordination System,emergency governance,78,background institutional stress,0.17407,0.45766,1.0,0.71986,1.0
+SYS001,Local Emergency Management and Interagency Coordination System,emergency governance,79,background institutional stress,0.17445,0.45781,1.0,0.71832,1.0
+SYS002,Public Health Administration and Data Governance System,public health institutions,0,background institutional stress,0.15769,0.4712,1.0,0.71797,1.0
+SYS002,Public Health Administration and Data Governance System,public health institutions,1,background institutional stress,0.1628,0.4714,1.0,0.71604,1.0
+SYS002,Public Health Administration and Data Governance System,public health institutions,2,background institutional stress,0.15971,0.4716,1.0,0.71405,1.0
+SYS002,Public Health Administration and Data Governance System,public health institutions,3,background institutional stress,0.15657,0.4718,1.0,0.71199,1.0
+SYS002,Public Health Administration and Data Governance System,public health institutions,4,background institutional stress,0.15925,0.472,1.0,0.70998,1.0
+SYS002,Public Health Administration and Data Governance System,public health institutions,5,background institutional stress,0.16042,0.4722,1.0,0.708,1.0
+SYS002,Public Health Administration and Data Governance System,public health institutions,6,background institutional stress,0.15596,0.4724,1.0,0.70592,1.0
+SYS002,Public Health Administration and Data Governance System,public health institutions,7,background institutional stress,0.15898,0.47261,1.0,0.7039,1.0
+SYS002,Public Health Administration and Data Governance System,public health institutions,8,background institutional stress,0.15848,0.47281,1.0,0.70187,1.0
+SYS002,Public Health Administration and Data Governance System,public health institutions,9,background institutional stress,0.15919,0.47301,1.0,0.69985,1.0
+SYS002,Public Health Administration and Data Governance System,public health institutions,10,background institutional stress,0.1573,0.47322,1.0,0.69779,1.0
+SYS002,Public Health Administration and Data Governance System,public health institutions,11,background institutional stress,0.1579,0.47342,1.0,0.69574,1.0
+SYS002,Public Health Administration and Data Governance System,public health institutions,12,Public trust shock during emergency response,0.82566,0.47363,1.0,0.70704,0.86112
+SYS002,Public Health Administration and Data Governance System,public health institutions,13,background institutional stress,0.1605,0.4725,1.0,0.70506,1.0
+SYS002,Public Health Administration and Data Governance System,public health institutions,14,background institutional stress,0.16176,0.47269,1.0,0.70309,1.0
+SYS002,Public Health Administration and Data Governance System,public health institutions,15,background institutional stress,0.16114,0.47289,1.0,0.70111,1.0
+SYS002,Public Health Administration and Data Governance System,public health institutions,16,background institutional stress,0.15949,0.47309,1.0,0.6991,1.0
+SYS002,Public Health Administration and Data Governance System,public health institutions,17,background institutional stress,0.16086,0.47329,1.0,0.69711,1.0
+SYS002,Public Health Administration and Data Governance System,public health institutions,18,background institutional stress,0.1584,0.47349,1.0,0.69507,1.0
+SYS002,Public Health Administration and Data Governance System,public health institutions,19,background institutional stress,0.15971,0.47369,1.0,0.69305,1.0
+SYS002,Public Health Administration and Data Governance System,public health institutions,20,background institutional stress,0.15972,0.47389,1.0,0.69103,1.0
+SYS002,Public Health Administration and Data Governance System,public health institutions,21,background institutional stress,0.15898,0.4741,1.0,0.689,1.0
+SYS002,Public Health Administration and Data Governance System,public health institutions,22,background institutional stress,0.15681,0.4743,1.0,0.68692,1.0
+SYS002,Public Health Administration and Data Governance System,public health institutions,23,background institutional stress,0.15708,0.47451,1.0,0.68484,1.0
+SYS002,Public Health Administration and Data Governance System,public health institutions,24,background institutional stress,0.16014,0.47472,1.0,0.68282,1.0
+SYS002,Public Health Administration and Data Governance System,public health institutions,25,background institutional stress,0.1606,0.47492,1.0,0.68081,1.0
+SYS002,Public Health Administration and Data Governance System,public health institutions,26,background institutional stress,0.16092,0.47512,1.0,0.6788,1.0
+SYS002,Public Health Administration and Data Governance System,public health institutions,27,Fiscal stress and staffing attrition,0.7783,0.47532,1.0,0.68914,0.88352
+SYS002,Public Health Administration and Data Governance System,public health institutions,28,background institutional stress,0.16343,0.47429,1.0,0.68719,1.0
+SYS002,Public Health Administration and Data Governance System,public health institutions,29,background institutional stress,0.16275,0.47448,1.0,0.68523,1.0
+SYS002,Public Health Administration and Data Governance System,public health institutions,30,background institutional stress,0.16319,0.47468,1.0,0.68327,1.0
+SYS002,Public Health Administration and Data Governance System,public health institutions,31,background institutional stress,0.15769,0.47487,1.0,0.6812,1.0
+SYS002,Public Health Administration and Data Governance System,public health institutions,32,background institutional stress,0.15913,0.47508,1.0,0.67916,1.0
+SYS002,Public Health Administration and Data Governance System,public health institutions,33,background institutional stress,0.16514,0.47528,1.0,0.67723,1.0
+SYS002,Public Health Administration and Data Governance System,public health institutions,34,background institutional stress,0.16092,0.47548,1.0,0.67522,1.0
+SYS002,Public Health Administration and Data Governance System,public health institutions,35,background institutional stress,0.16381,0.47568,1.0,0.67326,1.0
+SYS002,Public Health Administration and Data Governance System,public health institutions,36,background institutional stress,0.16429,0.47587,1.0,0.67131,1.0
+SYS002,Public Health Administration and Data Governance System,public health institutions,37,background institutional stress,0.15878,0.47607,1.0,0.66925,1.0
+SYS002,Public Health Administration and Data Governance System,public health institutions,38,background institutional stress,0.164,0.47627,1.0,0.66729,1.0
+SYS002,Public Health Administration and Data Governance System,public health institutions,39,background institutional stress,0.16289,0.47647,1.0,0.66531,1.0
+SYS002,Public Health Administration and Data Governance System,public health institutions,40,background institutional stress,0.16134,0.47667,1.0,0.66329,1.0
+SYS002,Public Health Administration and Data Governance System,public health institutions,41,background institutional stress,0.1654,0.47687,1.0,0.66136,1.0
+SYS002,Public Health Administration and Data Governance System,public health institutions,42,Cyber and public data-system disruption,0.84731,0.47706,1.0,0.67305,0.86672
+SYS002,Public Health Administration and Data Governance System,public health institutions,43,background institutional stress,0.16014,0.47589,1.0,0.67102,1.0
+SYS002,Public Health Administration and Data Governance System,public health institutions,44,background institutional stress,0.16409,0.4761,1.0,0.66907,1.0
+SYS002,Public Health Administration and Data Governance System,public health institutions,45,background institutional stress,0.16018,0.47629,1.0,0.66703,1.0
+SYS002,Public Health Administration and Data Governance System,public health institutions,46,background institutional stress,0.16385,0.4765,1.0,0.66507,1.0
+SYS002,Public Health Administration and Data Governance System,public health institutions,47,background institutional stress,0.16377,0.47669,1.0,0.6631,1.0
+SYS002,Public Health Administration and Data Governance System,public health institutions,48,background institutional stress,0.16063,0.47689,1.0,0.66107,1.0
+SYS002,Public Health Administration and Data Governance System,public health institutions,49,background institutional stress,0.16411,0.47709,1.0,0.6591,1.0
+SYS002,Public Health Administration and Data Governance System,public health institutions,50,background institutional stress,0.1636,0.47729,1.0,0.65712,1.0
+SYS002,Public Health Administration and Data Governance System,public health institutions,51,background institutional stress,0.16243,0.47749,1.0,0.65512,1.0
+SYS002,Public Health Administration and Data Governance System,public health institutions,52,background institutional stress,0.16203,0.47769,1.0,0.6531,1.0
+SYS002,Public Health Administration and Data Governance System,public health institutions,53,background institutional stress,0.16544,0.47789,1.0,0.65116,1.0
+SYS002,Public Health Administration and Data Governance System,public health institutions,54,background institutional stress,0.16337,0.47808,1.0,0.64916,1.0
+SYS002,Public Health Administration and Data Governance System,public health institutions,55,background institutional stress,0.16294,0.47828,1.0,0.64716,1.0
+SYS002,Public Health Administration and Data Governance System,public health institutions,56,Multi-agency coordination failure during compound event,0.88237,0.47848,1.0,0.65955,0.84992
+SYS002,Public Health Administration and Data Governance System,public health institutions,57,background institutional stress,0.16438,0.47725,1.0,0.65758,1.0
+SYS002,Public Health Administration and Data Governance System,public health institutions,58,background institutional stress,0.16477,0.47744,1.0,0.65563,1.0
+SYS002,Public Health Administration and Data Governance System,public health institutions,59,background institutional stress,0.16605,0.47764,1.0,0.65369,1.0
+SYS002,Public Health Administration and Data Governance System,public health institutions,60,background institutional stress,0.1646,0.47783,1.0,0.65173,1.0
+SYS002,Public Health Administration and Data Governance System,public health institutions,61,background institutional stress,0.16538,0.47803,1.0,0.64978,1.0
+SYS002,Public Health Administration and Data Governance System,public health institutions,62,background institutional stress,0.16146,0.47822,1.0,0.64775,1.0
+SYS002,Public Health Administration and Data Governance System,public health institutions,63,background institutional stress,0.16115,0.47843,1.0,0.64571,1.0
+SYS002,Public Health Administration and Data Governance System,public health institutions,64,background institutional stress,0.16236,0.47863,1.0,0.64369,1.0
+SYS002,Public Health Administration and Data Governance System,public health institutions,65,background institutional stress,0.16381,0.47883,1.0,0.6417,1.0
+SYS002,Public Health Administration and Data Governance System,public health institutions,66,background institutional stress,0.16606,0.47903,1.0,0.63975,1.0
+SYS002,Public Health Administration and Data Governance System,public health institutions,67,background institutional stress,0.16457,0.47922,1.0,0.63777,1.0
+SYS002,Public Health Administration and Data Governance System,public health institutions,68,background institutional stress,0.16545,0.47942,1.0,0.63581,1.0
+SYS002,Public Health Administration and Data Governance System,public health institutions,69,background institutional stress,0.16353,0.47962,1.0,0.6338,1.0
+SYS002,Public Health Administration and Data Governance System,public health institutions,70,Compound legitimacy capacity cyber equity and legal crisis,0.9671,0.47982,1.0,0.64787,0.83312
+SYS002,Public Health Administration and Data Governance System,public health institutions,71,background institutional stress,0.1662,0.47841,1.0,0.64593,1.0
+SYS002,Public Health Administration and Data Governance System,public health institutions,72,background institutional stress,0.16551,0.47861,1.0,0.64397,1.0
+SYS002,Public Health Administration and Data Governance System,public health institutions,73,background institutional stress,0.16554,0.4788,1.0,0.64202,1.0
+SYS002,Public Health Administration and Data Governance System,public health institutions,74,background institutional stress,0.16296,0.479,1.0,0.64001,1.0
+SYS002,Public Health Administration and Data Governance System,public health institutions,75,background institutional stress,0.16694,0.4792,1.0,0.63807,1.0
+SYS002,Public Health Administration and Data Governance System,public health institutions,76,background institutional stress,0.16663,0.47939,1.0,0.63613,1.0
+SYS002,Public Health Administration and Data Governance System,public health institutions,77,background institutional stress,0.16552,0.47959,1.0,0.63417,1.0
+SYS002,Public Health Administration and Data Governance System,public health institutions,78,background institutional stress,0.16918,0.47978,1.0,0.63227,1.0
+SYS002,Public Health Administration and Data Governance System,public health institutions,79,background institutional stress,0.16696,0.47997,1.0,0.63033,1.0
+SYS003,Infrastructure Regulation and Utility Oversight System,regulation and infrastructure governance,0,background institutional stress,0.16627,0.394,1.0,0.81899,1.0
+SYS003,Infrastructure Regulation and Utility Oversight System,regulation and infrastructure governance,1,background institutional stress,0.16694,0.3941,1.0,0.818,1.0
+SYS003,Infrastructure Regulation and Utility Oversight System,regulation and infrastructure governance,2,background institutional stress,0.16695,0.3942,1.0,0.817,1.0
+SYS003,Infrastructure Regulation and Utility Oversight System,regulation and infrastructure governance,3,background institutional stress,0.16801,0.3943,1.0,0.81602,1.0
+SYS003,Infrastructure Regulation and Utility Oversight System,regulation and infrastructure governance,4,background institutional stress,0.16586,0.3944,1.0,0.815,1.0
+SYS003,Infrastructure Regulation and Utility Oversight System,regulation and infrastructure governance,5,background institutional stress,0.16798,0.3945,1.0,0.81402,1.0
+SYS003,Infrastructure Regulation and Utility Oversight System,regulation and infrastructure governance,6,background institutional stress,0.17012,0.3946,1.0,0.81308,1.0
+SYS003,Infrastructure Regulation and Utility Oversight System,regulation and infrastructure governance,7,background institutional stress,0.16582,0.39469,1.0,0.81206,1.0
+SYS003,Infrastructure Regulation and Utility Oversight System,regulation and infrastructure governance,8,background institutional stress,0.168,0.39479,1.0,0.81107,1.0
+SYS003,Infrastructure Regulation and Utility Oversight System,regulation and infrastructure governance,9,background institutional stress,0.1691,0.39489,1.0,0.81011,1.0
+SYS003,Infrastructure Regulation and Utility Oversight System,regulation and infrastructure governance,10,background institutional stress,0.16775,0.39499,1.0,0.80912,1.0
+SYS003,Infrastructure Regulation and Utility Oversight System,regulation and infrastructure governance,11,background institutional stress,0.16721,0.39509,1.0,0.80812,1.0
+SYS003,Infrastructure Regulation and Utility Oversight System,regulation and infrastructure governance,12,Public trust shock during emergency response,0.83465,0.39519,1.0,0.82047,0.85888
+SYS003,Infrastructure Regulation and Utility Oversight System,regulation and infrastructure governance,13,background institutional stress,0.16867,0.39395,1.0,0.81951,1.0
+SYS003,Infrastructure Regulation and Utility Oversight System,regulation and infrastructure governance,14,background institutional stress,0.17077,0.39405,1.0,0.81859,1.0
+SYS003,Infrastructure Regulation and Utility Oversight System,regulation and infrastructure governance,15,background institutional stress,0.16654,0.39414,1.0,0.81758,1.0
+SYS003,Infrastructure Regulation and Utility Oversight System,regulation and infrastructure governance,16,background institutional stress,0.16999,0.39424,1.0,0.81665,1.0
+SYS003,Infrastructure Regulation and Utility Oversight System,regulation and infrastructure governance,17,background institutional stress,0.17104,0.39434,1.0,0.81573,1.0
+SYS003,Infrastructure Regulation and Utility Oversight System,regulation and infrastructure governance,18,background institutional stress,0.16908,0.39443,1.0,0.81477,1.0
+SYS003,Infrastructure Regulation and Utility Oversight System,regulation and infrastructure governance,19,background institutional stress,0.16972,0.39452,1.0,0.81383,1.0
+SYS003,Infrastructure Regulation and Utility Oversight System,regulation and infrastructure governance,20,background institutional stress,0.16946,0.39462,1.0,0.81287,1.0
+SYS003,Infrastructure Regulation and Utility Oversight System,regulation and infrastructure governance,21,background institutional stress,0.17029,0.39471,1.0,0.81194,1.0
+SYS003,Infrastructure Regulation and Utility Oversight System,regulation and infrastructure governance,22,background institutional stress,0.17017,0.39481,1.0,0.811,1.0
+SYS003,Infrastructure Regulation and Utility Oversight System,regulation and infrastructure governance,23,background institutional stress,0.17296,0.3949,1.0,0.81011,1.0
+SYS003,Infrastructure Regulation and Utility Oversight System,regulation and infrastructure governance,24,background institutional stress,0.17236,0.39499,1.0,0.80922,1.0
+SYS003,Infrastructure Regulation and Utility Oversight System,regulation and infrastructure governance,25,background institutional stress,0.17276,0.39508,1.0,0.80833,1.0
+SYS003,Infrastructure Regulation and Utility Oversight System,regulation and infrastructure governance,26,background institutional stress,0.17115,0.39517,1.0,0.8074,1.0
+SYS003,Infrastructure Regulation and Utility Oversight System,regulation and infrastructure governance,27,Fiscal stress and staffing attrition,0.78859,0.39526,1.0,0.81883,0.88128
+SYS003,Infrastructure Regulation and Utility Oversight System,regulation and infrastructure governance,28,background institutional stress,0.17416,0.39412,1.0,0.81797,1.0
+SYS003,Infrastructure Regulation and Utility Oversight System,regulation and infrastructure governance,29,background institutional stress,0.17285,0.3942,1.0,0.81709,1.0
+SYS003,Infrastructure Regulation and Utility Oversight System,regulation and infrastructure governance,30,background institutional stress,0.1746,0.39429,1.0,0.81625,1.0
+SYS003,Infrastructure Regulation and Utility Oversight System,regulation and infrastructure governance,31,background institutional stress,0.17284,0.39438,1.0,0.81537,1.0
+SYS003,Infrastructure Regulation and Utility Oversight System,regulation and infrastructure governance,32,background institutional stress,0.17419,0.39446,1.0,0.81451,1.0
+SYS003,Infrastructure Regulation and Utility Oversight System,regulation and infrastructure governance,33,background institutional stress,0.17432,0.39455,1.0,0.81366,1.0
+SYS003,Infrastructure Regulation and Utility Oversight System,regulation and infrastructure governance,34,background institutional stress,0.17249,0.39463,1.0,0.81277,1.0
+SYS003,Infrastructure Regulation and Utility Oversight System,regulation and infrastructure governance,35,background institutional stress,0.17296,0.39472,1.0,0.81189,1.0
+SYS003,Infrastructure Regulation and Utility Oversight System,regulation and infrastructure governance,36,background institutional stress,0.17357,0.39481,1.0,0.81101,1.0
+SYS003,Infrastructure Regulation and Utility Oversight System,regulation and infrastructure governance,37,background institutional stress,0.17295,0.3949,1.0,0.81013,1.0
+SYS003,Infrastructure Regulation and Utility Oversight System,regulation and infrastructure governance,38,background institutional stress,0.17312,0.39499,1.0,0.80925,1.0
+SYS003,Infrastructure Regulation and Utility Oversight System,regulation and infrastructure governance,39,background institutional stress,0.17375,0.39508,1.0,0.80838,1.0
+SYS003,Infrastructure Regulation and Utility Oversight System,regulation and infrastructure governance,40,background institutional stress,0.17178,0.39516,1.0,0.80746,1.0
+SYS003,Infrastructure Regulation and Utility Oversight System,regulation and infrastructure governance,41,background institutional stress,0.17194,0.39525,1.0,0.80656,1.0
+SYS003,Infrastructure Regulation and Utility Oversight System,regulation and infrastructure governance,42,Cyber and public data-system disruption,0.85892,0.39534,1.0,0.81939,0.86448
+SYS003,Infrastructure Regulation and Utility Oversight System,regulation and infrastructure governance,43,background institutional stress,0.17153,0.39406,1.0,0.81848,1.0
+SYS003,Infrastructure Regulation and Utility Oversight System,regulation and infrastructure governance,44,background institutional stress,0.17257,0.39415,1.0,0.8176,1.0
+SYS003,Infrastructure Regulation and Utility Oversight System,regulation and infrastructure governance,45,background institutional stress,0.1717,0.39424,1.0,0.81669,1.0
+SYS003,Infrastructure Regulation and Utility Oversight System,regulation and infrastructure governance,46,background institutional stress,0.17374,0.39433,1.0,0.81583,1.0
+SYS003,Infrastructure Regulation and Utility Oversight System,regulation and infrastructure governance,47,background institutional stress,0.17546,0.39442,1.0,0.815,1.0
+SYS003,Infrastructure Regulation and Utility Oversight System,regulation and infrastructure governance,48,background institutional stress,0.17267,0.3945,1.0,0.81412,1.0
+SYS003,Infrastructure Regulation and Utility Oversight System,regulation and infrastructure governance,49,background institutional stress,0.17581,0.39459,1.0,0.81329,1.0
+SYS003,Infrastructure Regulation and Utility Oversight System,regulation and infrastructure governance,50,background institutional stress,0.17416,0.39467,1.0,0.81243,1.0
+SYS003,Infrastructure Regulation and Utility Oversight System,regulation and infrastructure governance,51,background institutional stress,0.17831,0.39476,1.0,0.81166,1.0
+SYS003,Infrastructure Regulation and Utility Oversight System,regulation and infrastructure governance,52,background institutional stress,0.17725,0.39483,1.0,0.81086,1.0
+SYS003,Infrastructure Regulation and Utility Oversight System,regulation and infrastructure governance,53,background institutional stress,0.17488,0.39491,1.0,0.81001,1.0
+SYS003,Infrastructure Regulation and Utility Oversight System,regulation and infrastructure governance,54,background institutional stress,0.17272,0.395,1.0,0.80912,1.0
+SYS003,Infrastructure Regulation and Utility Oversight System,regulation and infrastructure governance,55,background institutional stress,0.17646,0.39509,1.0,0.80831,1.0
+SYS003,Infrastructure Regulation and Utility Oversight System,regulation and infrastructure governance,56,Multi-agency coordination failure during compound event,0.89526,0.39517,1.0,0.82186,0.84768
+SYS003,Infrastructure Regulation and Utility Oversight System,regulation and infrastructure governance,57,background institutional stress,0.18096,0.39381,1.0,0.82115,1.0
+SYS003,Infrastructure Regulation and Utility Oversight System,regulation and infrastructure governance,58,background institutional stress,0.17883,0.39388,1.0,0.8204,1.0
+SYS003,Infrastructure Regulation and Utility Oversight System,regulation and infrastructure governance,59,background institutional stress,0.17469,0.39396,1.0,0.81956,1.0
+SYS003,Infrastructure Regulation and Utility Oversight System,regulation and infrastructure governance,60,background institutional stress,0.17746,0.39404,1.0,0.81877,1.0
+SYS003,Infrastructure Regulation and Utility Oversight System,regulation and infrastructure governance,61,background institutional stress,0.18071,0.39412,1.0,0.81805,1.0
+SYS003,Infrastructure Regulation and Utility Oversight System,regulation and infrastructure governance,62,background institutional stress,0.18104,0.3942,1.0,0.81733,1.0
+SYS003,Infrastructure Regulation and Utility Oversight System,regulation and infrastructure governance,63,background institutional stress,0.17845,0.39427,1.0,0.81657,1.0
+SYS003,Infrastructure Regulation and Utility Oversight System,regulation and infrastructure governance,64,background institutional stress,0.17826,0.39434,1.0,0.81579,1.0
+SYS003,Infrastructure Regulation and Utility Oversight System,regulation and infrastructure governance,65,background institutional stress,0.18048,0.39442,1.0,0.81506,1.0
+SYS003,Infrastructure Regulation and Utility Oversight System,regulation and infrastructure governance,66,background institutional stress,0.17751,0.39449,1.0,0.81427,1.0
+SYS003,Infrastructure Regulation and Utility Oversight System,regulation and infrastructure governance,67,background institutional stress,0.17972,0.39457,1.0,0.81353,1.0
+SYS003,Infrastructure Regulation and Utility Oversight System,regulation and infrastructure governance,68,background institutional stress,0.17714,0.39465,1.0,0.81273,1.0
+SYS003,Infrastructure Regulation and Utility Oversight System,regulation and infrastructure governance,69,background institutional stress,0.17906,0.39473,1.0,0.81197,1.0
+SYS003,Infrastructure Regulation and Utility Oversight System,regulation and infrastructure governance,70,Compound legitimacy capacity cyber equity and legal crisis,0.98136,0.3948,1.0,0.82725,0.83088
+SYS003,Infrastructure Regulation and Utility Oversight System,regulation and infrastructure governance,71,background institutional stress,0.184,0.39327,1.0,0.82661,1.0
+SYS003,Infrastructure Regulation and Utility Oversight System,regulation and infrastructure governance,72,background institutional stress,0.178,0.39334,1.0,0.82584,1.0
+SYS003,Infrastructure Regulation and Utility Oversight System,regulation and infrastructure governance,73,background institutional stress,0.18181,0.39342,1.0,0.82515,1.0
+SYS003,Infrastructure Regulation and Utility Oversight System,regulation and infrastructure governance,74,background institutional stress,0.17793,0.39349,1.0,0.82438,1.0
+SYS003,Infrastructure Regulation and Utility Oversight System,regulation and infrastructure governance,75,background institutional stress,0.17945,0.39356,1.0,0.82364,1.0
+SYS003,Infrastructure Regulation and Utility Oversight System,regulation and infrastructure governance,76,background institutional stress,0.18042,0.39364,1.0,0.82292,1.0
+SYS003,Infrastructure Regulation and Utility Oversight System,regulation and infrastructure governance,77,background institutional stress,0.18249,0.39371,1.0,0.82224,1.0
+SYS003,Infrastructure Regulation and Utility Oversight System,regulation and infrastructure governance,78,background institutional stress,0.18059,0.39378,1.0,0.82152,1.0
+SYS003,Infrastructure Regulation and Utility Oversight System,regulation and infrastructure governance,79,background institutional stress,0.18352,0.39385,1.0,0.82086,1.0
+SYS004,Social Protection and Benefits Delivery System,social protection and access,0,background institutional stress,0.15885,0.4128,1.0,0.69864,1.0
+SYS004,Social Protection and Benefits Delivery System,social protection and access,1,background institutional stress,0.15941,0.41294,1.0,0.69728,1.0
+SYS004,Social Protection and Benefits Delivery System,social protection and access,2,background institutional stress,0.15431,0.41307,1.0,0.69582,1.0
+SYS004,Social Protection and Benefits Delivery System,social protection and access,3,background institutional stress,0.156,0.41322,1.0,0.6944,1.0
+SYS004,Social Protection and Benefits Delivery System,social protection and access,4,background institutional stress,0.15919,0.41336,1.0,0.69304,1.0
+SYS004,Social Protection and Benefits Delivery System,social protection and access,5,background institutional stress,0.15709,0.4135,1.0,0.69163,1.0
+SYS004,Social Protection and Benefits Delivery System,social protection and access,6,background institutional stress,0.15484,0.41364,1.0,0.69018,1.0
+SYS004,Social Protection and Benefits Delivery System,social protection and access,7,background institutional stress,0.15658,0.41378,1.0,0.68876,1.0
+SYS004,Social Protection and Benefits Delivery System,social protection and access,8,background institutional stress,0.1549,0.41392,1.0,0.6873,1.0
+SYS004,Social Protection and Benefits Delivery System,social protection and access,9,background institutional stress,0.15673,0.41407,1.0,0.68588,1.0
+SYS004,Social Protection and Benefits Delivery System,social protection and access,10,background institutional stress,0.15642,0.41421,1.0,0.68445,1.0
+SYS004,Social Protection and Benefits Delivery System,social protection and access,11,background institutional stress,0.16006,0.41435,1.0,0.6831,1.0
+SYS004,Social Protection and Benefits Delivery System,social protection and access,12,Public trust shock during emergency response,0.82465,0.41449,1.0,0.69503,0.86784
+SYS004,Social Protection and Benefits Delivery System,social protection and access,13,background institutional stress,0.16045,0.4133,1.0,0.69369,1.0
+SYS004,Social Protection and Benefits Delivery System,social protection and access,14,background institutional stress,0.16129,0.41343,1.0,0.69237,1.0
+SYS004,Social Protection and Benefits Delivery System,social protection and access,15,background institutional stress,0.15787,0.41356,1.0,0.69098,1.0
+SYS004,Social Protection and Benefits Delivery System,social protection and access,16,background institutional stress,0.16207,0.4137,1.0,0.68967,1.0
+SYS004,Social Protection and Benefits Delivery System,social protection and access,17,background institutional stress,0.15988,0.41383,1.0,0.68831,1.0
+SYS004,Social Protection and Benefits Delivery System,social protection and access,18,background institutional stress,0.15764,0.41397,1.0,0.68691,1.0
+SYS004,Social Protection and Benefits Delivery System,social protection and access,19,background institutional stress,0.16118,0.41411,1.0,0.68558,1.0
+SYS004,Social Protection and Benefits Delivery System,social protection and access,20,background institutional stress,0.1632,0.41424,1.0,0.68429,1.0
+SYS004,Social Protection and Benefits Delivery System,social protection and access,21,background institutional stress,0.16104,0.41437,1.0,0.68295,1.0
+SYS004,Social Protection and Benefits Delivery System,social protection and access,22,background institutional stress,0.15912,0.4145,1.0,0.68158,1.0
+SYS004,Social Protection and Benefits Delivery System,social protection and access,23,background institutional stress,0.15833,0.41464,1.0,0.68018,1.0
+SYS004,Social Protection and Benefits Delivery System,social protection and access,24,background institutional stress,0.15715,0.41478,1.0,0.67876,1.0
+SYS004,Social Protection and Benefits Delivery System,social protection and access,25,background institutional stress,0.1596,0.41492,1.0,0.67739,1.0
+SYS004,Social Protection and Benefits Delivery System,social protection and access,26,background institutional stress,0.16237,0.41506,1.0,0.67607,1.0
+SYS004,Social Protection and Benefits Delivery System,social protection and access,27,Fiscal stress and staffing attrition,0.77809,0.41519,1.0,0.68707,0.89024
+SYS004,Social Protection and Benefits Delivery System,social protection and access,28,background institutional stress,0.1598,0.41409,1.0,0.68571,1.0
+SYS004,Social Protection and Benefits Delivery System,social protection and access,29,background institutional stress,0.16569,0.41423,1.0,0.68446,1.0
+SYS004,Social Protection and Benefits Delivery System,social protection and access,30,background institutional stress,0.16312,0.41435,1.0,0.68317,1.0
+SYS004,Social Protection and Benefits Delivery System,social protection and access,31,background institutional stress,0.16127,0.41448,1.0,0.68183,1.0
+SYS004,Social Protection and Benefits Delivery System,social protection and access,32,background institutional stress,0.16233,0.41462,1.0,0.68052,1.0
+SYS004,Social Protection and Benefits Delivery System,social protection and access,33,background institutional stress,0.16298,0.41475,1.0,0.67922,1.0
+SYS004,Social Protection and Benefits Delivery System,social protection and access,34,background institutional stress,0.16288,0.41488,1.0,0.67791,1.0
+SYS004,Social Protection and Benefits Delivery System,social protection and access,35,background institutional stress,0.16003,0.41501,1.0,0.67655,1.0
+SYS004,Social Protection and Benefits Delivery System,social protection and access,36,background institutional stress,0.16106,0.41515,1.0,0.6752,1.0
+SYS004,Social Protection and Benefits Delivery System,social protection and access,37,background institutional stress,0.16359,0.41528,1.0,0.67391,1.0
+SYS004,Social Protection and Benefits Delivery System,social protection and access,38,background institutional stress,0.16296,0.41541,1.0,0.6726,1.0
+SYS004,Social Protection and Benefits Delivery System,social protection and access,39,background institutional stress,0.16062,0.41554,1.0,0.67124,1.0
+SYS004,Social Protection and Benefits Delivery System,social protection and access,40,background institutional stress,0.16328,0.41568,1.0,0.66993,1.0
+SYS004,Social Protection and Benefits Delivery System,social protection and access,41,background institutional stress,0.16178,0.41581,1.0,0.66859,1.0
+SYS004,Social Protection and Benefits Delivery System,social protection and access,42,Cyber and public data-system disruption,0.84789,0.41594,1.0,0.68097,0.87344
+SYS004,Social Protection and Benefits Delivery System,social protection and access,43,background institutional stress,0.16324,0.4147,1.0,0.67968,1.0
+SYS004,Social Protection and Benefits Delivery System,social protection and access,44,background institutional stress,0.1634,0.41483,1.0,0.67838,1.0
+SYS004,Social Protection and Benefits Delivery System,social protection and access,45,background institutional stress,0.16617,0.41496,1.0,0.67714,1.0
+SYS004,Social Protection and Benefits Delivery System,social protection and access,46,background institutional stress,0.16638,0.41509,1.0,0.6759,1.0
+SYS004,Social Protection and Benefits Delivery System,social protection and access,47,background institutional stress,0.16534,0.41521,1.0,0.67464,1.0
+SYS004,Social Protection and Benefits Delivery System,social protection and access,48,background institutional stress,0.16212,0.41534,1.0,0.67332,1.0
+SYS004,Social Protection and Benefits Delivery System,social protection and access,49,background institutional stress,0.16279,0.41547,1.0,0.672,1.0
+SYS004,Social Protection and Benefits Delivery System,social protection and access,50,background institutional stress,0.16642,0.4156,1.0,0.67076,1.0
+SYS004,Social Protection and Benefits Delivery System,social protection and access,51,background institutional stress,0.16672,0.41572,1.0,0.66952,1.0
+SYS004,Social Protection and Benefits Delivery System,social protection and access,52,background institutional stress,0.16286,0.41585,1.0,0.6682,1.0
+SYS004,Social Protection and Benefits Delivery System,social protection and access,53,background institutional stress,0.16261,0.41598,1.0,0.66688,1.0
+SYS004,Social Protection and Benefits Delivery System,social protection and access,54,background institutional stress,0.16467,0.41611,1.0,0.66559,1.0
+SYS004,Social Protection and Benefits Delivery System,social protection and access,55,background institutional stress,0.16324,0.41624,1.0,0.66428,1.0
+SYS004,Social Protection and Benefits Delivery System,social protection and access,56,Multi-agency coordination failure during compound event,0.88374,0.41637,1.0,0.67738,0.85664
+SYS004,Social Protection and Benefits Delivery System,social protection and access,57,background institutional stress,0.16447,0.41506,1.0,0.6761,1.0
+SYS004,Social Protection and Benefits Delivery System,social protection and access,58,background institutional stress,0.16612,0.41519,1.0,0.67485,1.0
+SYS004,Social Protection and Benefits Delivery System,social protection and access,59,background institutional stress,0.16801,0.41531,1.0,0.67365,1.0
+SYS004,Social Protection and Benefits Delivery System,social protection and access,60,background institutional stress,0.16412,0.41544,1.0,0.67236,1.0
+SYS004,Social Protection and Benefits Delivery System,social protection and access,61,background institutional stress,0.16568,0.41556,1.0,0.6711,1.0
+SYS004,Social Protection and Benefits Delivery System,social protection and access,62,background institutional stress,0.16566,0.41569,1.0,0.66984,1.0
+SYS004,Social Protection and Benefits Delivery System,social protection and access,63,background institutional stress,0.16693,0.41582,1.0,0.66861,1.0
+SYS004,Social Protection and Benefits Delivery System,social protection and access,64,background institutional stress,0.16645,0.41594,1.0,0.66736,1.0
+SYS004,Social Protection and Benefits Delivery System,social protection and access,65,background institutional stress,0.16878,0.41606,1.0,0.66616,1.0
+SYS004,Social Protection and Benefits Delivery System,social protection and access,66,background institutional stress,0.16859,0.41618,1.0,0.66495,1.0
+SYS004,Social Protection and Benefits Delivery System,social protection and access,67,background institutional stress,0.16567,0.4163,1.0,0.66369,1.0
+SYS004,Social Protection and Benefits Delivery System,social protection and access,68,background institutional stress,0.16419,0.41643,1.0,0.66239,1.0
+SYS004,Social Protection and Benefits Delivery System,social protection and access,69,background institutional stress,0.16485,0.41656,1.0,0.6611,1.0
+SYS004,Social Protection and Benefits Delivery System,social protection and access,70,Compound legitimacy capacity cyber equity and legal crisis,0.96929,0.41669,1.0,0.67591,0.83984
+SYS004,Social Protection and Benefits Delivery System,social protection and access,71,background institutional stress,0.16897,0.41521,1.0,0.67472,1.0
+SYS004,Social Protection and Benefits Delivery System,social protection and access,72,background institutional stress,0.16837,0.41533,1.0,0.67352,1.0
+SYS004,Social Protection and Benefits Delivery System,social protection and access,73,background institutional stress,0.16916,0.41545,1.0,0.67233,1.0
+SYS004,Social Protection and Benefits Delivery System,social protection and access,74,background institutional stress,0.16973,0.41557,1.0,0.67115,1.0
+SYS004,Social Protection and Benefits Delivery System,social protection and access,75,background institutional stress,0.16486,0.41568,1.0,0.66988,1.0
+SYS004,Social Protection and Benefits Delivery System,social protection and access,76,background institutional stress,0.17033,0.41581,1.0,0.66871,1.0
+SYS004,Social Protection and Benefits Delivery System,social protection and access,77,background institutional stress,0.17145,0.41593,1.0,0.66757,1.0
+SYS004,Social Protection and Benefits Delivery System,social protection and access,78,background institutional stress,0.17126,0.41604,1.0,0.66641,1.0
+SYS004,Social Protection and Benefits Delivery System,social protection and access,79,background institutional stress,0.1667,0.41616,1.0,0.66517,1.0
+SYS005,Local Planning Land Use and Climate Adaptation Institution,planning and adaptation,0,background institutional stress,0.1657,0.4363,1.0,0.75851,1.0
+SYS005,Local Planning Land Use and Climate Adaptation Institution,planning and adaptation,1,background institutional stress,0.16166,0.43645,1.0,0.75695,1.0
+SYS005,Local Planning Land Use and Climate Adaptation Institution,planning and adaptation,2,background institutional stress,0.16275,0.43661,1.0,0.7554,1.0
+SYS005,Local Planning Land Use and Climate Adaptation Institution,planning and adaptation,3,background institutional stress,0.16096,0.43676,1.0,0.75381,1.0
+SYS005,Local Planning Land Use and Climate Adaptation Institution,planning and adaptation,4,background institutional stress,0.16319,0.43692,1.0,0.75227,1.0
+SYS005,Local Planning Land Use and Climate Adaptation Institution,planning and adaptation,5,background institutional stress,0.16185,0.43707,1.0,0.7507,1.0
+SYS005,Local Planning Land Use and Climate Adaptation Institution,planning and adaptation,6,background institutional stress,0.16262,0.43723,1.0,0.74914,1.0
+SYS005,Local Planning Land Use and Climate Adaptation Institution,planning and adaptation,7,background institutional stress,0.16426,0.43739,1.0,0.74762,1.0
+SYS005,Local Planning Land Use and Climate Adaptation Institution,planning and adaptation,8,background institutional stress,0.1613,0.43754,1.0,0.74603,1.0
+SYS005,Local Planning Land Use and Climate Adaptation Institution,planning and adaptation,9,background institutional stress,0.16374,0.4377,1.0,0.74449,1.0
+SYS005,Local Planning Land Use and Climate Adaptation Institution,planning and adaptation,10,background institutional stress,0.16221,0.43785,1.0,0.74292,1.0
+SYS005,Local Planning Land Use and Climate Adaptation Institution,planning and adaptation,11,background institutional stress,0.16166,0.43801,1.0,0.74133,1.0
+SYS005,Local Planning Land Use and Climate Adaptation Institution,planning and adaptation,12,Public trust shock during emergency response,0.82931,0.43817,1.0,0.7531,0.86336
+SYS005,Local Planning Land Use and Climate Adaptation Institution,planning and adaptation,13,background institutional stress,0.16313,0.43699,1.0,0.75156,1.0
+SYS005,Local Planning Land Use and Climate Adaptation Institution,planning and adaptation,14,background institutional stress,0.16305,0.43714,1.0,0.75001,1.0
+SYS005,Local Planning Land Use and Climate Adaptation Institution,planning and adaptation,15,background institutional stress,0.16681,0.4373,1.0,0.74853,1.0
+SYS005,Local Planning Land Use and Climate Adaptation Institution,planning and adaptation,16,background institutional stress,0.16279,0.43745,1.0,0.74698,1.0
+SYS005,Local Planning Land Use and Climate Adaptation Institution,planning and adaptation,17,background institutional stress,0.16493,0.4376,1.0,0.74546,1.0
+SYS005,Local Planning Land Use and Climate Adaptation Institution,planning and adaptation,18,background institutional stress,0.16447,0.43775,1.0,0.74394,1.0
+SYS005,Local Planning Land Use and Climate Adaptation Institution,planning and adaptation,19,background institutional stress,0.16317,0.43791,1.0,0.74238,1.0
+SYS005,Local Planning Land Use and Climate Adaptation Institution,planning and adaptation,20,background institutional stress,0.1665,0.43806,1.0,0.7409,1.0
+SYS005,Local Planning Land Use and Climate Adaptation Institution,planning and adaptation,21,background institutional stress,0.16525,0.43821,1.0,0.73938,1.0
+SYS005,Local Planning Land Use and Climate Adaptation Institution,planning and adaptation,22,background institutional stress,0.16848,0.43836,1.0,0.73793,1.0
+SYS005,Local Planning Land Use and Climate Adaptation Institution,planning and adaptation,23,background institutional stress,0.16349,0.43851,1.0,0.73637,1.0
+SYS005,Local Planning Land Use and Climate Adaptation Institution,planning and adaptation,24,background institutional stress,0.1623,0.43866,1.0,0.73479,1.0
+SYS005,Local Planning Land Use and Climate Adaptation Institution,planning and adaptation,25,background institutional stress,0.16162,0.43882,1.0,0.7332,1.0
+SYS005,Local Planning Land Use and Climate Adaptation Institution,planning and adaptation,26,background institutional stress,0.16302,0.43898,1.0,0.73163,1.0
+SYS005,Local Planning Land Use and Climate Adaptation Institution,planning and adaptation,27,Fiscal stress and staffing attrition,0.78253,0.43914,1.0,0.74245,0.88576
+SYS005,Local Planning Land Use and Climate Adaptation Institution,planning and adaptation,28,background institutional stress,0.16204,0.43805,1.0,0.74087,1.0
+SYS005,Local Planning Land Use and Climate Adaptation Institution,planning and adaptation,29,background institutional stress,0.16566,0.43821,1.0,0.73937,1.0
+SYS005,Local Planning Land Use and Climate Adaptation Institution,planning and adaptation,30,background institutional stress,0.16498,0.43836,1.0,0.73784,1.0
+SYS005,Local Planning Land Use and Climate Adaptation Institution,planning and adaptation,31,background institutional stress,0.16741,0.43852,1.0,0.73637,1.0
+SYS005,Local Planning Land Use and Climate Adaptation Institution,planning and adaptation,32,background institutional stress,0.16637,0.43866,1.0,0.73487,1.0
+SYS005,Local Planning Land Use and Climate Adaptation Institution,planning and adaptation,33,background institutional stress,0.1659,0.43881,1.0,0.73336,1.0
+SYS005,Local Planning Land Use and Climate Adaptation Institution,planning and adaptation,34,background institutional stress,0.16836,0.43896,1.0,0.7319,1.0
+SYS005,Local Planning Land Use and Climate Adaptation Institution,planning and adaptation,35,background institutional stress,0.16948,0.43911,1.0,0.73046,1.0
+SYS005,Local Planning Land Use and Climate Adaptation Institution,planning and adaptation,36,background institutional stress,0.16759,0.43925,1.0,0.72898,1.0
+SYS005,Local Planning Land Use and Climate Adaptation Institution,planning and adaptation,37,background institutional stress,0.1676,0.4394,1.0,0.7275,1.0
+SYS005,Local Planning Land Use and Climate Adaptation Institution,planning and adaptation,38,background institutional stress,0.16427,0.43955,1.0,0.72595,1.0
+SYS005,Local Planning Land Use and Climate Adaptation Institution,planning and adaptation,39,background institutional stress,0.16641,0.43971,1.0,0.72444,1.0
+SYS005,Local Planning Land Use and Climate Adaptation Institution,planning and adaptation,40,background institutional stress,0.16621,0.43986,1.0,0.72293,1.0
+SYS005,Local Planning Land Use and Climate Adaptation Institution,planning and adaptation,41,background institutional stress,0.1655,0.44001,1.0,0.7214,1.0
+SYS005,Local Planning Land Use and Climate Adaptation Institution,planning and adaptation,42,Cyber and public data-system disruption,0.85211,0.44016,1.0,0.7336,0.86896
+SYS005,Local Planning Land Use and Climate Adaptation Institution,planning and adaptation,43,background institutional stress,0.1697,0.43894,1.0,0.73216,1.0
+SYS005,Local Planning Land Use and Climate Adaptation Institution,planning and adaptation,44,background institutional stress,0.16726,0.43908,1.0,0.73068,1.0
+SYS005,Local Planning Land Use and Climate Adaptation Institution,planning and adaptation,45,background institutional stress,0.17048,0.43923,1.0,0.72926,1.0
+SYS005,Local Planning Land Use and Climate Adaptation Institution,planning and adaptation,46,background institutional stress,0.17022,0.43937,1.0,0.72783,1.0
+SYS005,Local Planning Land Use and Climate Adaptation Institution,planning and adaptation,47,background institutional stress,0.16724,0.43952,1.0,0.72634,1.0
+SYS005,Local Planning Land Use and Climate Adaptation Institution,planning and adaptation,48,background institutional stress,0.16534,0.43967,1.0,0.72481,1.0
+SYS005,Local Planning Land Use and Climate Adaptation Institution,planning and adaptation,49,background institutional stress,0.1659,0.43982,1.0,0.72329,1.0
+SYS005,Local Planning Land Use and Climate Adaptation Institution,planning and adaptation,50,background institutional stress,0.16525,0.43997,1.0,0.72175,1.0
+SYS005,Local Planning Land Use and Climate Adaptation Institution,planning and adaptation,51,background institutional stress,0.16602,0.44012,1.0,0.72023,1.0
+SYS005,Local Planning Land Use and Climate Adaptation Institution,planning and adaptation,52,background institutional stress,0.16728,0.44028,1.0,0.71873,1.0
+SYS005,Local Planning Land Use and Climate Adaptation Institution,planning and adaptation,53,background institutional stress,0.16504,0.44043,1.0,0.71719,1.0
+SYS005,Local Planning Land Use and Climate Adaptation Institution,planning and adaptation,54,background institutional stress,0.16709,0.44058,1.0,0.71569,1.0
+SYS005,Local Planning Land Use and Climate Adaptation Institution,planning and adaptation,55,background institutional stress,0.16728,0.44073,1.0,0.71418,1.0
+SYS005,Local Planning Land Use and Climate Adaptation Institution,planning and adaptation,56,Multi-agency coordination failure during compound event,0.88773,0.44088,1.0,0.72709,0.85216
+SYS005,Local Planning Land Use and Climate Adaptation Institution,planning and adaptation,57,background institutional stress,0.16862,0.43959,1.0,0.72562,1.0
+SYS005,Local Planning Land Use and Climate Adaptation Institution,planning and adaptation,58,background institutional stress,0.17026,0.43974,1.0,0.72419,1.0
+SYS005,Local Planning Land Use and Climate Adaptation Institution,planning and adaptation,59,background institutional stress,0.1696,0.43988,1.0,0.72275,1.0
+SYS005,Local Planning Land Use and Climate Adaptation Institution,planning and adaptation,60,background institutional stress,0.17243,0.44003,1.0,0.72135,1.0
+SYS005,Local Planning Land Use and Climate Adaptation Institution,planning and adaptation,61,background institutional stress,0.16948,0.44016,1.0,0.7199,1.0
+SYS005,Local Planning Land Use and Climate Adaptation Institution,planning and adaptation,62,background institutional stress,0.16847,0.44031,1.0,0.71843,1.0
+SYS005,Local Planning Land Use and Climate Adaptation Institution,planning and adaptation,63,background institutional stress,0.17173,0.44046,1.0,0.71702,1.0
+SYS005,Local Planning Land Use and Climate Adaptation Institution,planning and adaptation,64,background institutional stress,0.17146,0.4406,1.0,0.7156,1.0
+SYS005,Local Planning Land Use and Climate Adaptation Institution,planning and adaptation,65,background institutional stress,0.16824,0.44074,1.0,0.71412,1.0
+SYS005,Local Planning Land Use and Climate Adaptation Institution,planning and adaptation,66,background institutional stress,0.17347,0.44089,1.0,0.71274,1.0
+SYS005,Local Planning Land Use and Climate Adaptation Institution,planning and adaptation,67,background institutional stress,0.16779,0.44103,1.0,0.71124,1.0
+SYS005,Local Planning Land Use and Climate Adaptation Institution,planning and adaptation,68,background institutional stress,0.17034,0.44118,1.0,0.70979,1.0
+SYS005,Local Planning Land Use and Climate Adaptation Institution,planning and adaptation,69,background institutional stress,0.16809,0.44132,1.0,0.7083,1.0
+SYS005,Local Planning Land Use and Climate Adaptation Institution,planning and adaptation,70,Compound legitimacy capacity cyber equity and legal crisis,0.97306,0.44147,1.0,0.72291,0.83536
+SYS005,Local Planning Land Use and Climate Adaptation Institution,planning and adaptation,71,background institutional stress,0.17098,0.44001,1.0,0.72149,1.0
+SYS005,Local Planning Land Use and Climate Adaptation Institution,planning and adaptation,72,background institutional stress,0.16917,0.44015,1.0,0.72003,1.0
+SYS005,Local Planning Land Use and Climate Adaptation Institution,planning and adaptation,73,background institutional stress,0.17218,0.4403,1.0,0.71863,1.0
+SYS005,Local Planning Land Use and Climate Adaptation Institution,planning and adaptation,74,background institutional stress,0.17372,0.44044,1.0,0.71726,1.0
+SYS005,Local Planning Land Use and Climate Adaptation Institution,planning and adaptation,75,background institutional stress,0.17016,0.44057,1.0,0.71582,1.0
+SYS005,Local Planning Land Use and Climate Adaptation Institution,planning and adaptation,76,background institutional stress,0.17245,0.44072,1.0,0.71442,1.0
+SYS005,Local Planning Land Use and Climate Adaptation Institution,planning and adaptation,77,background institutional stress,0.17165,0.44086,1.0,0.713,1.0
+SYS005,Local Planning Land Use and Climate Adaptation Institution,planning and adaptation,78,background institutional stress,0.1752,0.441,1.0,0.71165,1.0
+SYS005,Local Planning Land Use and Climate Adaptation Institution,planning and adaptation,79,background institutional stress,0.16888,0.44113,1.0,0.71018,1.0
+SYS006,Court Administrative Access and Rights Protection System,legal institutions and accountability,0,background institutional stress,0.15474,0.4504,1.0,0.65814,1.0
+SYS006,Court Administrative Access and Rights Protection System,legal institutions and accountability,1,background institutional stress,0.15753,0.45059,1.0,0.65633,1.0
+SYS006,Court Administrative Access and Rights Protection System,legal institutions and accountability,2,background institutional stress,0.15491,0.45077,1.0,0.65447,1.0
+SYS006,Court Administrative Access and Rights Protection System,legal institutions and accountability,3,background institutional stress,0.15194,0.45095,1.0,0.65255,1.0
+SYS006,Court Administrative Access and Rights Protection System,legal institutions and accountability,4,background institutional stress,0.15501,0.45114,1.0,0.65069,1.0
+SYS006,Court Administrative Access and Rights Protection System,legal institutions and accountability,5,background institutional stress,0.15385,0.45133,1.0,0.6488,1.0
+SYS006,Court Administrative Access and Rights Protection System,legal institutions and accountability,6,background institutional stress,0.15211,0.45152,1.0,0.64688,1.0
+SYS006,Court Administrative Access and Rights Protection System,legal institutions and accountability,7,background institutional stress,0.15353,0.45171,1.0,0.64498,1.0
+SYS006,Court Administrative Access and Rights Protection System,legal institutions and accountability,8,background institutional stress,0.15619,0.4519,1.0,0.64313,1.0
+SYS006,Court Administrative Access and Rights Protection System,legal institutions and accountability,9,background institutional stress,0.15454,0.45209,1.0,0.64125,1.0
+SYS006,Court Administrative Access and Rights Protection System,legal institutions and accountability,10,background institutional stress,0.15678,0.45227,1.0,0.63941,1.0
+SYS006,Court Administrative Access and Rights Protection System,legal institutions and accountability,11,background institutional stress,0.15775,0.45246,1.0,0.63759,1.0
+SYS006,Court Administrative Access and Rights Protection System,legal institutions and accountability,12,Public trust shock during emergency response,0.82101,0.45264,1.0,0.64903,0.8656
+SYS006,Court Administrative Access and Rights Protection System,legal institutions and accountability,13,background institutional stress,0.15443,0.4515,1.0,0.64715,1.0
+SYS006,Court Administrative Access and Rights Protection System,legal institutions and accountability,14,background institutional stress,0.15973,0.45168,1.0,0.64538,1.0
+SYS006,Court Administrative Access and Rights Protection System,legal institutions and accountability,15,background institutional stress,0.15417,0.45186,1.0,0.64349,1.0
+SYS006,Court Administrative Access and Rights Protection System,legal institutions and accountability,16,background institutional stress,0.15823,0.45205,1.0,0.64168,1.0
+SYS006,Court Administrative Access and Rights Protection System,legal institutions and accountability,17,background institutional stress,0.15954,0.45223,1.0,0.6399,1.0
+SYS006,Court Administrative Access and Rights Protection System,legal institutions and accountability,18,background institutional stress,0.1587,0.45241,1.0,0.6381,1.0
+SYS006,Court Administrative Access and Rights Protection System,legal institutions and accountability,19,background institutional stress,0.15559,0.45259,1.0,0.63623,1.0
+SYS006,Court Administrative Access and Rights Protection System,legal institutions and accountability,20,background institutional stress,0.15719,0.45278,1.0,0.63439,1.0
+SYS006,Court Administrative Access and Rights Protection System,legal institutions and accountability,21,background institutional stress,0.158,0.45296,1.0,0.63257,1.0
+SYS006,Court Administrative Access and Rights Protection System,legal institutions and accountability,22,background institutional stress,0.15643,0.45314,1.0,0.63072,1.0
+SYS006,Court Administrative Access and Rights Protection System,legal institutions and accountability,23,background institutional stress,0.1591,0.45333,1.0,0.62891,1.0
+SYS006,Court Administrative Access and Rights Protection System,legal institutions and accountability,24,background institutional stress,0.15855,0.45351,1.0,0.62709,1.0
+SYS006,Court Administrative Access and Rights Protection System,legal institutions and accountability,25,background institutional stress,0.15425,0.45369,1.0,0.62519,1.0
+SYS006,Court Administrative Access and Rights Protection System,legal institutions and accountability,26,background institutional stress,0.15408,0.45388,1.0,0.62328,1.0
+SYS006,Court Administrative Access and Rights Protection System,legal institutions and accountability,27,Fiscal stress and staffing attrition,0.77386,0.45407,1.0,0.63376,0.888
+SYS006,Court Administrative Access and Rights Protection System,legal institutions and accountability,28,background institutional stress,0.15376,0.45302,1.0,0.63185,1.0
+SYS006,Court Administrative Access and Rights Protection System,legal institutions and accountability,29,background institutional stress,0.15849,0.45321,1.0,0.63004,1.0
+SYS006,Court Administrative Access and Rights Protection System,legal institutions and accountability,30,background institutional stress,0.16086,0.4534,1.0,0.62827,1.0
+SYS006,Court Administrative Access and Rights Protection System,legal institutions and accountability,31,background institutional stress,0.15501,0.45357,1.0,0.62638,1.0
+SYS006,Court Administrative Access and Rights Protection System,legal institutions and accountability,32,background institutional stress,0.15385,0.45376,1.0,0.62446,1.0
+SYS006,Court Administrative Access and Rights Protection System,legal institutions and accountability,33,background institutional stress,0.15765,0.45395,1.0,0.62262,1.0
+SYS006,Court Administrative Access and Rights Protection System,legal institutions and accountability,34,background institutional stress,0.15784,0.45414,1.0,0.62078,1.0
+SYS006,Court Administrative Access and Rights Protection System,legal institutions and accountability,35,background institutional stress,0.15941,0.45432,1.0,0.61897,1.0
+SYS006,Court Administrative Access and Rights Protection System,legal institutions and accountability,36,background institutional stress,0.15575,0.4545,1.0,0.61709,1.0
+SYS006,Court Administrative Access and Rights Protection System,legal institutions and accountability,37,background institutional stress,0.15713,0.45469,1.0,0.61523,1.0
+SYS006,Court Administrative Access and Rights Protection System,legal institutions and accountability,38,background institutional stress,0.15794,0.45488,1.0,0.61338,1.0
+SYS006,Court Administrative Access and Rights Protection System,legal institutions and accountability,39,background institutional stress,0.15867,0.45506,1.0,0.61155,1.0
+SYS006,Court Administrative Access and Rights Protection System,legal institutions and accountability,40,background institutional stress,0.15504,0.45524,1.0,0.60965,1.0
+SYS006,Court Administrative Access and Rights Protection System,legal institutions and accountability,41,background institutional stress,0.16071,0.45544,1.0,0.60785,1.0
+SYS006,Court Administrative Access and Rights Protection System,legal institutions and accountability,42,Cyber and public data-system disruption,0.84303,0.45562,1.0,0.6197,0.8712
+SYS006,Court Administrative Access and Rights Protection System,legal institutions and accountability,43,background institutional stress,0.15694,0.45443,1.0,0.61784,1.0
+SYS006,Court Administrative Access and Rights Protection System,legal institutions and accountability,44,background institutional stress,0.1592,0.45462,1.0,0.61602,1.0
+SYS006,Court Administrative Access and Rights Protection System,legal institutions and accountability,45,background institutional stress,0.15549,0.4548,1.0,0.61413,1.0
+SYS006,Court Administrative Access and Rights Protection System,legal institutions and accountability,46,background institutional stress,0.15878,0.45499,1.0,0.6123,1.0
+SYS006,Court Administrative Access and Rights Protection System,legal institutions and accountability,47,background institutional stress,0.15673,0.45517,1.0,0.61043,1.0
+SYS006,Court Administrative Access and Rights Protection System,legal institutions and accountability,48,background institutional stress,0.16208,0.45536,1.0,0.60866,1.0
+SYS006,Court Administrative Access and Rights Protection System,legal institutions and accountability,49,background institutional stress,0.15842,0.45553,1.0,0.60682,1.0
+SYS006,Court Administrative Access and Rights Protection System,legal institutions and accountability,50,background institutional stress,0.15991,0.45572,1.0,0.605,1.0
+SYS006,Court Administrative Access and Rights Protection System,legal institutions and accountability,51,background institutional stress,0.15982,0.4559,1.0,0.60318,1.0
+SYS006,Court Administrative Access and Rights Protection System,legal institutions and accountability,52,background institutional stress,0.16036,0.45608,1.0,0.60137,1.0
+SYS006,Court Administrative Access and Rights Protection System,legal institutions and accountability,53,background institutional stress,0.15639,0.45626,1.0,0.59948,1.0
+SYS006,Court Administrative Access and Rights Protection System,legal institutions and accountability,54,background institutional stress,0.15881,0.45645,1.0,0.59764,1.0
+SYS006,Court Administrative Access and Rights Protection System,legal institutions and accountability,55,background institutional stress,0.1604,0.45664,1.0,0.59582,1.0
+SYS006,Court Administrative Access and Rights Protection System,legal institutions and accountability,56,Multi-agency coordination failure during compound event,0.87827,0.45682,1.0,0.60836,0.8544
+SYS006,Court Administrative Access and Rights Protection System,legal institutions and accountability,57,background institutional stress,0.15991,0.45556,1.0,0.60655,1.0
+SYS006,Court Administrative Access and Rights Protection System,legal institutions and accountability,58,background institutional stress,0.16339,0.45574,1.0,0.60481,1.0
+SYS006,Court Administrative Access and Rights Protection System,legal institutions and accountability,59,background institutional stress,0.16209,0.45592,1.0,0.60303,1.0
+SYS006,Court Administrative Access and Rights Protection System,legal institutions and accountability,60,background institutional stress,0.15915,0.4561,1.0,0.6012,1.0
+SYS006,Court Administrative Access and Rights Protection System,legal institutions and accountability,61,background institutional stress,0.16004,0.45628,1.0,0.59938,1.0
+SYS006,Court Administrative Access and Rights Protection System,legal institutions and accountability,62,background institutional stress,0.16146,0.45646,1.0,0.59759,1.0
+SYS006,Court Administrative Access and Rights Protection System,legal institutions and accountability,63,background institutional stress,0.15833,0.45664,1.0,0.59573,1.0
+SYS006,Court Administrative Access and Rights Protection System,legal institutions and accountability,64,background institutional stress,0.15792,0.45683,1.0,0.59386,1.0
+SYS006,Court Administrative Access and Rights Protection System,legal institutions and accountability,65,background institutional stress,0.16322,0.45701,1.0,0.5921,1.0
+SYS006,Court Administrative Access and Rights Protection System,legal institutions and accountability,66,background institutional stress,0.15973,0.45719,1.0,0.59027,1.0
+SYS006,Court Administrative Access and Rights Protection System,legal institutions and accountability,67,background institutional stress,0.16162,0.45737,1.0,0.58847,1.0
+SYS006,Court Administrative Access and Rights Protection System,legal institutions and accountability,68,background institutional stress,0.16237,0.45755,1.0,0.58668,1.0
+SYS006,Court Administrative Access and Rights Protection System,legal institutions and accountability,69,background institutional stress,0.16041,0.45773,1.0,0.58486,1.0
+SYS006,Court Administrative Access and Rights Protection System,legal institutions and accountability,70,Compound legitimacy capacity cyber equity and legal crisis,0.96319,0.45791,1.0,0.59908,0.8376
+SYS006,Court Administrative Access and Rights Protection System,legal institutions and accountability,71,background institutional stress,0.16295,0.45649,1.0,0.59732,1.0
+SYS006,Court Administrative Access and Rights Protection System,legal institutions and accountability,72,background institutional stress,0.16187,0.45667,1.0,0.59553,1.0
+SYS006,Court Administrative Access and Rights Protection System,legal institutions and accountability,73,background institutional stress,0.15962,0.45685,1.0,0.5937,1.0
+SYS006,Court Administrative Access and Rights Protection System,legal institutions and accountability,74,background institutional stress,0.16231,0.45703,1.0,0.59192,1.0
+SYS006,Court Administrative Access and Rights Protection System,legal institutions and accountability,75,background institutional stress,0.16037,0.45721,1.0,0.5901,1.0
+SYS006,Court Administrative Access and Rights Protection System,legal institutions and accountability,76,background institutional stress,0.16029,0.45739,1.0,0.58827,1.0
+SYS006,Court Administrative Access and Rights Protection System,legal institutions and accountability,77,background institutional stress,0.1591,0.45757,1.0,0.58642,1.0
+SYS006,Court Administrative Access and Rights Protection System,legal institutions and accountability,78,background institutional stress,0.1646,0.45776,1.0,0.58468,1.0
+SYS006,Court Administrative Access and Rights Protection System,legal institutions and accountability,79,background institutional stress,0.16106,0.45793,1.0,0.58286,1.0

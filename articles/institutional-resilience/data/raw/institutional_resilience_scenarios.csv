@@ -1,0 +1,9 @@
+scenario,legitimacy_weight,capacity_weight,flexibility_weight,coordination_weight,learning_weight,accountability_weight,equity_protection_weight,implementation_burden_weight,description
+Balanced,0.14,0.14,0.13,0.14,0.14,0.14,0.15,0.02,Balanced institutional resilience across legitimacy capacity flexibility coordination learning accountability equity and implementation burden.
+Legitimacy-first,0.38,0.10,0.09,0.10,0.10,0.11,0.11,0.01,Prioritizes trust fairness transparency public consent and perceived legitimacy.
+Capacity-first,0.10,0.38,0.09,0.10,0.10,0.11,0.11,0.01,Prioritizes administrative capacity staffing expertise finance data and implementation.
+Flexibility-first,0.10,0.10,0.38,0.10,0.10,0.11,0.10,0.01,Prioritizes adaptive rules discretion experimentation and policy revision under uncertainty.
+Coordination-first,0.10,0.10,0.09,0.38,0.10,0.11,0.11,0.01,Prioritizes interagency cross-sector and multi-level coordination.
+Learning-first,0.10,0.10,0.09,0.10,0.38,0.11,0.11,0.01,Prioritizes evaluation institutional memory after-action implementation and reform.
+Equity-first,0.10,0.10,0.09,0.10,0.10,0.11,0.39,0.01,Prioritizes rights protection access justice participation and unequal-burden reduction.
+Implementation-aware,0.13,0.13,0.12,0.13,0.13,0.13,0.13,0.10,Penalizes strategies with higher implementation burden when administrative fiscal or political capacity is constrained.

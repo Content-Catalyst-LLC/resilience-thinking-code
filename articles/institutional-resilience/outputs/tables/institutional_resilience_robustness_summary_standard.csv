@@ -1,0 +1,7 @@
+strategy_id,strategy,mean_resilience_value,median_resilience_value,probability_ranked_first,probability_top_two,probability_bottom_two
+IR006,Institutional Learning and After-Action Implementation System,8.03869,8.04069,50.13,75.23,2.93
+IR005,Equity and Access Accountability Review,7.94248,7.94656,29.07,61.53,6.3
+IR003,Decentralized Adaptive Governance Model,7.79342,7.79931,11.27,32.57,18.63
+IR001,Crisis Coordination Reform,7.73679,7.73599,7.6,22.17,27.0
+IR002,Public Trust and Transparency Initiative,7.55175,7.55003,1.67,6.33,64.1
+IR004,Administrative Capacity and Training Program,7.43986,7.4449,0.27,2.17,81.03

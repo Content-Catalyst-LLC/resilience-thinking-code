@@ -1,0 +1,6 @@
+event_id,event_name,primary_stress,shock_intensity,legitimacy_pressure,capacity_burden,coordination_stress,information_stress,legal_accountability_stress,equity_burden,dependency_amplification,affected_functions
+EV001,Public trust shock during emergency response,legitimacy crisis,0.82,0.90,0.66,0.70,0.78,0.62,0.84,0.76,public communication emergency orders cooperation compliance interagency legitimacy and community trust
+EV002,Fiscal stress and staffing attrition,capacity erosion,0.78,0.66,0.88,0.68,0.58,0.62,0.76,0.72,staffing procurement inspections service delivery benefits oversight and institutional memory
+EV003,Cyber and public data-system disruption,digital governance shock,0.80,0.70,0.76,0.78,0.90,0.70,0.82,0.84,data access service continuity privacy public dashboards internal coordination and benefits delivery
+EV004,Multi-agency coordination failure during compound event,coordination crisis,0.86,0.76,0.78,0.90,0.74,0.78,0.88,0.88,emergency management public health utilities transport shelters communications and recovery governance
+EV005,Compound legitimacy capacity cyber equity and legal crisis,compound governance stress,0.92,0.92,0.90,0.88,0.88,0.86,0.94,0.92,trust service delivery emergency decisions public rights accountability coordination and vulnerable-group protection
