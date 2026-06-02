@@ -1,0 +1,8 @@
+strategy_id,strategy,mean_technology_resilience_value,median_technology_resilience_value,probability_ranked_first,probability_top_two,probability_bottom_two
+TR003,Cyber Recovery and Tested Backup Program,7.81597,7.82025,23.27,41.7,16.93
+TR002,Graceful Degradation and Fallback Architecture,7.81342,7.81334,21.73,41.8,17.47
+TR006,Vendor Portability and Platform Contingency Planning,7.7648,7.76122,15.23,30.33,24.8
+TR004,Data Integrity and Lineage Governance,7.73891,7.74036,12.9,25.27,29.1
+TR001,Critical Function and Dependency Mapping,7.7167,7.71661,10.4,21.77,35.1
+TR005,Technical Debt and Maintainability Program,7.70452,7.7042,8.27,19.63,36.57
+TR007,Human-Centered Fallback and Accessibility Program,7.69802,7.69803,8.2,19.5,40.03

@@ -1,0 +1,10 @@
+scenario,architecture_weight,redundancy_weight,observability_weight,cybersecurity_weight,data_integrity_weight,maintainability_weight,governance_weight,human_safeguards_weight,vendor_contingency_weight,technical_debt_risk_weight,implementation_burden_weight,description
+Balanced,0.10,0.10,0.10,0.11,0.11,0.11,0.11,0.11,0.10,0.03,0.02,Balanced technology resilience across architecture redundancy observability cybersecurity data integrity maintainability governance human safeguards vendor contingency and burden.
+Cyber-first,0.08,0.11,0.12,0.28,0.10,0.09,0.10,0.08,0.08,0.03,0.03,Prioritizes cybersecurity detection containment identity protection backups incident response and cyber recovery.
+Data-first,0.08,0.08,0.12,0.10,0.30,0.10,0.10,0.08,0.08,0.03,0.03,Prioritizes data integrity validation lineage provenance privacy recoverability and trusted information.
+Architecture-first,0.28,0.18,0.10,0.09,0.08,0.10,0.08,0.07,0.07,0.03,0.02,Prioritizes modularity graceful degradation isolation loose coupling fallback modes and critical-function protection.
+Maintainability-first,0.09,0.08,0.10,0.09,0.09,0.30,0.12,0.08,0.07,0.06,0.02,Prioritizes technical-debt reduction documentation tests ownership maps dependency inventories patch governance and repairability.
+Governance-first,0.08,0.08,0.09,0.09,0.10,0.11,0.30,0.12,0.08,0.03,0.02,Prioritizes decision rights accountability auditability vendor review incident governance and public-interest oversight.
+Human-safeguards,0.08,0.08,0.09,0.09,0.10,0.10,0.13,0.30,0.07,0.03,0.03,Prioritizes accessibility user fallback manual procedures operator sustainability appeal paths and participatory review.
+Vendor-contingency,0.09,0.12,0.09,0.09,0.10,0.10,0.12,0.08,0.28,0.02,0.01,Prioritizes cloud provider fallback data portability API contingency contract review platform diversification and exit planning.
+Implementation-aware,0.10,0.10,0.10,0.11,0.11,0.11,0.11,0.11,0.10,0.02,0.10,Penalizes implementation burden when budget staffing legacy complexity procurement or governance capacity is constrained.
