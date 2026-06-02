@@ -1,0 +1,9 @@
+indicator_id,indicator,domain,definition,measurement_note
+RI001,exposure_reduction,exposure,Reduction in people assets ecosystems or functions exposed to disturbance,Must be disaggregated by place population and critical function
+RI002,recovery_capacity,recovery,Ability to restore essential function after disturbance,Should include recovery time completeness cost and post-recovery condition
+RI003,adaptive_capacity,adaptive capacity,Ability to learn revise rules mobilize resources and respond to change,Requires governance learning trust knowledge diversity and funding flexibility
+RI004,buffer_capacity,buffering,Slack redundancy storage ecological buffers backup capacity and reserve resources,Must test whether backups are maintained and independent
+RI005,justice_visibility,justice,Visibility of unequal exposure access repair recovery burden and participation,Requires disaggregated data and community-informed interpretation
+RI006,threshold_risk,thresholds,Proximity to tipping points capacity limits early warning signals or regime-shift risk,Higher values should trigger review rather than disappear in averages
+RI007,missingness,uncertainty,Missing delayed low-confidence or unrepresentative data,Absence of data should not be treated as absence of risk
+RI008,decision_trigger_clarity,governance,Clarity about what actions follow when indicators worsen,Dashboards should specify responsibility escalation and follow-through

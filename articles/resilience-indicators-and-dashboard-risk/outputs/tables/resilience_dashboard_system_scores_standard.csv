@@ -1,0 +1,7 @@
+system_id,system,system_domain,critical_function,naive_score,threshold_adjusted_score,uncertainty_adjusted_score,threshold_risk,missingness,justice_visibility,red_flag_count,red_flags
+SYS002,Wetland Floodplain System,social-ecological systems,flood buffering habitat connectivity water quality and ecological recovery,0.6164,0.5822,0.5752,0.38,0.14,0.58,0,none
+SYS003,Public Health Response Network,public health,surveillance prevention staffing surge capacity trusted communication and care access,0.5761,0.5383,0.5303,0.42,0.16,0.64,0,none
+SYS001,Urban Water Network,infrastructure,water treatment pumping distribution sanitation and emergency supply,0.524,0.4826,0.4736,0.46,0.18,0.50,2,low justice visibility; low adaptive capacity
+SYS004,Regional Food System,food systems,food distribution storage local supply diversity and household access,0.5257,0.4807,0.4707,0.50,0.20,0.60,1,threshold risk
+SYS005,Community Cooling Network,community resilience,heat protection cooling access outreach mobility and health safeguards,0.5087,0.4592,0.4462,0.55,0.26,0.72,3,threshold risk; high missingness; low buffer capacity
+SYS006,Institutional Service System,institutional resilience,public service continuity trust staffing records coordination and repair capacity,0.4794,0.4362,0.4252,0.48,0.22,0.48,3,low justice visibility; low buffer capacity; low adaptive capacity

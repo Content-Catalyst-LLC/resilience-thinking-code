@@ -1,0 +1,7 @@
+scenario,indicator_coverage_weight,threshold_sensitivity_weight,justice_visibility_weight,uncertainty_transparency_weight,decision_trigger_clarity_weight,learning_integration_weight,dashboard_risk_weight,description
+Balanced,0.15,0.17,0.16,0.14,0.16,0.14,0.08,Balanced dashboard value across indicator coverage threshold sensitivity justice uncertainty decision triggers learning and dashboard-risk penalty.
+Threshold-first,0.12,0.36,0.12,0.12,0.13,0.09,0.06,Prioritizes threshold sensitivity and early warning signals.
+Justice-first,0.11,0.13,0.36,0.12,0.12,0.10,0.06,Prioritizes distributional visibility and whose resilience is being measured.
+Uncertainty-first,0.11,0.13,0.12,0.36,0.12,0.10,0.06,Prioritizes missingness data quality confidence and uncertainty transparency.
+Decision-trigger-first,0.11,0.13,0.12,0.12,0.36,0.10,0.06,Prioritizes accountable action thresholds and decision responsibility.
+Dashboard-risk-aware,0.12,0.14,0.13,0.13,0.14,0.10,0.24,Prioritizes penalties for false precision metric fixation hidden inequality and dashboard complacency.

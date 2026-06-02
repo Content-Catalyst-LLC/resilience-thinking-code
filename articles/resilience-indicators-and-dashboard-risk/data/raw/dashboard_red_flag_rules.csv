@@ -1,0 +1,6 @@
+rule_id,rule_name,condition,meaning,recommended_response
+RF001,High threshold risk,threshold_risk >= 0.50,System may be near a capacity limit threshold or warning condition,Escalate review and examine threshold drivers
+RF002,Low justice visibility,justice_visibility <= 0.52,Dashboard may hide unequal exposure or recovery burden,Disaggregate data and include affected communities
+RF003,High missingness,missingness >= 0.24,Dashboard confidence is limited by incomplete or low-quality evidence,Label uncertainty and improve monitoring coverage
+RF004,Low buffer capacity,buffer_capacity <= 0.55,System may lack slack redundancy or reserves,Review backup capacity and common-mode failure
+RF005,Low adaptive capacity,adaptive_capacity <= 0.58,System may be unable to revise decisions under changing conditions,Review governance flexibility learning and implementation

@@ -1,0 +1,7 @@
+dashboard_id,dashboard,mean_dashboard_value,median_dashboard_value,probability_ranked_first,probability_top_two,probability_bottom_two
+DB005,Adaptive Learning and Decision-Trigger Dashboard,7.58815,7.5891,93.17,98.6,0.0
+DB003,Threshold-Sensitive Early Warning Dashboard,7.05549,7.05173,4.07,52.9,0.7
+DB006,Participatory Community Resilience Dashboard,6.9502,6.94856,1.7,31.27,1.8
+DB004,Justice-Centered Resilience Dashboard,6.85407,6.85525,1.07,17.17,3.63
+DB001,Simple Composite Resilience Score,4.68699,4.68975,0.0,0.0,100.0
+DB002,Indicator Domain Dashboard,6.28535,6.28468,0.0,0.07,93.87

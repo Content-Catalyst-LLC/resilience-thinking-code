@@ -1,0 +1,37 @@
+dashboard_id,dashboard,dashboard_type,indicator_coverage,threshold_sensitivity,justice_visibility,uncertainty_transparency,decision_trigger_clarity,learning_integration,dashboard_risk,critical_use,dashboard_value,scenario,rank
+DB005,Adaptive Learning and Decision-Trigger Dashboard,adaptive-learning,8.4,8.5,8.1,8.5,9,8.9,3.6,connecting indicators to decisions learning and accountable action,7.589,Balanced,1
+DB003,Threshold-Sensitive Early Warning Dashboard,early-warning,8,8.9,7.2,8,8.2,7.8,4.2,detecting threshold risk and warning signals before crisis,7.053000000000001,Balanced,2
+DB006,Participatory Community Resilience Dashboard,participatory,7.9,7.6,8.8,7.6,7.5,8.1,4.1,integrating local knowledge lived experience and community warning signals,6.955000000000001,Balanced,3
+DB004,Justice-Centered Resilience Dashboard,justice-centered,7.8,7.4,9,7.8,7.4,7.6,4.4,showing unequal exposure recovery burden and repair priorities,6.856,Balanced,4
+DB002,Indicator Domain Dashboard,domain-dashboard,8.3,7.2,7,7.4,6.8,7,5.2,monitoring resilience capacities across multiple domains,6.277000000000001,Balanced,5
+DB001,Simple Composite Resilience Score,composite-index,7.2,5.4,5.8,5.6,5.2,5.5,7.8,high-level communication but high false-precision risk,4.688,Balanced,6
+DB005,Adaptive Learning and Decision-Trigger Dashboard,adaptive-learning,8.4,8.5,8.1,8.5,9,8.9,3.6,connecting indicators to decisions learning and accountable action,5.642,Dashboard-risk-aware,1
+DB003,Threshold-Sensitive Early Warning Dashboard,early-warning,8,8.9,7.2,8,8.2,7.8,4.2,detecting threshold risk and warning signals before crisis,5.102,Dashboard-risk-aware,2
+DB006,Participatory Community Resilience Dashboard,participatory,7.9,7.6,8.8,7.6,7.5,8.1,4.1,integrating local knowledge lived experience and community warning signals,5.02,Dashboard-risk-aware,3
+DB004,Justice-Centered Resilience Dashboard,justice-centered,7.8,7.4,9,7.8,7.4,7.6,4.4,showing unequal exposure recovery burden and repair priorities,4.896000000000001,Dashboard-risk-aware,4
+DB002,Indicator Domain Dashboard,domain-dashboard,8.3,7.2,7,7.4,6.8,7,5.2,monitoring resilience capacities across multiple domains,4.280000000000001,Dashboard-risk-aware,5
+DB001,Simple Composite Resilience Score,composite-index,7.2,5.4,5.8,5.6,5.2,5.5,7.8,high-level communication but high false-precision risk,2.508000000000001,Dashboard-risk-aware,6
+DB005,Adaptive Learning and Decision-Trigger Dashboard,adaptive-learning,8.4,8.5,8.1,8.5,9,8.9,3.6,connecting indicators to decisions learning and accountable action,7.935,Decision-trigger-first,1
+DB003,Threshold-Sensitive Early Warning Dashboard,early-warning,8,8.9,7.2,8,8.2,7.8,4.2,detecting threshold risk and warning signals before crisis,7.340999999999999,Decision-trigger-first,2
+DB006,Participatory Community Resilience Dashboard,participatory,7.9,7.6,8.8,7.6,7.5,8.1,4.1,integrating local knowledge lived experience and community warning signals,7.089000000000001,Decision-trigger-first,3
+DB004,Justice-Centered Resilience Dashboard,justice-centered,7.8,7.4,9,7.8,7.4,7.6,4.4,showing unequal exposure recovery burden and repair priorities,6.9959999999999996,Decision-trigger-first,4
+DB002,Indicator Domain Dashboard,domain-dashboard,8.3,7.2,7,7.4,6.8,7,5.2,monitoring resilience capacities across multiple domains,6.413,Decision-trigger-first,5
+DB001,Simple Composite Resilience Score,composite-index,7.2,5.4,5.8,5.6,5.2,5.5,7.8,high-level communication but high false-precision risk,4.816,Decision-trigger-first,6
+DB005,Adaptive Learning and Decision-Trigger Dashboard,adaptive-learning,8.4,8.5,8.1,8.5,9,8.9,3.6,connecting indicators to decisions learning and accountable action,7.719,Justice-first,1
+DB006,Participatory Community Resilience Dashboard,participatory,7.9,7.6,8.8,7.6,7.5,8.1,4.1,integrating local knowledge lived experience and community warning signals,7.401000000000001,Justice-first,2
+DB004,Justice-Centered Resilience Dashboard,justice-centered,7.8,7.4,9,7.8,7.4,7.6,4.4,showing unequal exposure recovery burden and repair priorities,7.379999999999999,Justice-first,3
+DB003,Threshold-Sensitive Early Warning Dashboard,early-warning,8,8.9,7.2,8,8.2,7.8,4.2,detecting threshold risk and warning signals before crisis,7.101,Justice-first,4
+DB002,Indicator Domain Dashboard,domain-dashboard,8.3,7.2,7,7.4,6.8,7,5.2,monitoring resilience capacities across multiple domains,6.460999999999999,Justice-first,5
+DB001,Simple Composite Resilience Score,composite-index,7.2,5.4,5.8,5.6,5.2,5.5,7.8,high-level communication but high false-precision risk,4.96,Justice-first,6
+DB005,Adaptive Learning and Decision-Trigger Dashboard,adaptive-learning,8.4,8.5,8.1,8.5,9,8.9,3.6,connecting indicators to decisions learning and accountable action,7.814999999999999,Threshold-first,1
+DB003,Threshold-Sensitive Early Warning Dashboard,early-warning,8,8.9,7.2,8,8.2,7.8,4.2,detecting threshold risk and warning signals before crisis,7.504,Threshold-first,2
+DB006,Participatory Community Resilience Dashboard,participatory,7.9,7.6,8.8,7.6,7.5,8.1,4.1,integrating local knowledge lived experience and community warning signals,7.110000000000001,Threshold-first,3
+DB004,Justice-Centered Resilience Dashboard,justice-centered,7.8,7.4,9,7.8,7.4,7.6,4.4,showing unequal exposure recovery burden and repair priorities,6.997999999999999,Threshold-first,4
+DB002,Indicator Domain Dashboard,domain-dashboard,8.3,7.2,7,7.4,6.8,7,5.2,monitoring resilience capacities across multiple domains,6.518,Threshold-first,5
+DB001,Simple Composite Resilience Score,composite-index,7.2,5.4,5.8,5.6,5.2,5.5,7.8,high-level communication but high false-precision risk,4.879,Threshold-first,6
+DB005,Adaptive Learning and Decision-Trigger Dashboard,adaptive-learning,8.4,8.5,8.1,8.5,9,8.9,3.6,connecting indicators to decisions learning and accountable action,7.815,Uncertainty-first,1
+DB003,Threshold-Sensitive Early Warning Dashboard,early-warning,8,8.9,7.2,8,8.2,7.8,4.2,detecting threshold risk and warning signals before crisis,7.293,Uncertainty-first,2
+DB006,Participatory Community Resilience Dashboard,participatory,7.9,7.6,8.8,7.6,7.5,8.1,4.1,integrating local knowledge lived experience and community warning signals,7.113,Uncertainty-first,3
+DB004,Justice-Centered Resilience Dashboard,justice-centered,7.8,7.4,9,7.8,7.4,7.6,4.4,showing unequal exposure recovery burden and repair priorities,7.092,Uncertainty-first,4
+DB002,Indicator Domain Dashboard,domain-dashboard,8.3,7.2,7,7.4,6.8,7,5.2,monitoring resilience capacities across multiple domains,6.5569999999999995,Uncertainty-first,5
+DB001,Simple Composite Resilience Score,composite-index,7.2,5.4,5.8,5.6,5.2,5.5,7.8,high-level communication but high false-precision risk,4.912,Uncertainty-first,6

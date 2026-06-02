@@ -1,0 +1,7 @@
+system_id,system,system_domain,exposure_reduction,recovery_capacity,adaptive_capacity,buffer_capacity,justice_visibility,threshold_risk,missingness,critical_function
+SYS001,Urban Water Network,infrastructure,0.62,0.70,0.58,0.64,0.50,0.46,0.18,water treatment pumping distribution sanitation and emergency supply
+SYS002,Wetland Floodplain System,social-ecological systems,0.78,0.68,0.74,0.80,0.58,0.38,0.14,flood buffering habitat connectivity water quality and ecological recovery
+SYS003,Public Health Response Network,public health,0.66,0.72,0.69,0.63,0.64,0.42,0.16,surveillance prevention staffing surge capacity trusted communication and care access
+SYS004,Regional Food System,food systems,0.58,0.62,0.65,0.60,0.60,0.50,0.20,food distribution storage local supply diversity and household access
+SYS005,Community Cooling Network,community resilience,0.54,0.57,0.61,0.52,0.72,0.55,0.26,heat protection cooling access outreach mobility and health safeguards
+SYS006,Institutional Service System,institutional resilience,0.60,0.59,0.56,0.55,0.48,0.48,0.22,public service continuity trust staffing records coordination and repair capacity

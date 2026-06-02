@@ -1,0 +1,7 @@
+dashboard_id,dashboard,dashboard_type,critical_use,base_dashboard_value,indicator_coverage,threshold_sensitivity,justice_visibility,uncertainty_transparency,decision_trigger_clarity,learning_integration,dashboard_risk,diagnostic
+DB001,Simple Composite Resilience Score,composite-index,high-level communication but high false-precision risk,4.688,7.2,5.4,5.8,5.6,5.2,5.5,7.8,high false-precision and dashboard-risk exposure
+DB002,Indicator Domain Dashboard,domain-dashboard,monitoring resilience capacities across multiple domains,6.277,8.3,7.2,7.0,7.4,6.8,7.0,5.2,decision-trigger clarity constraint
+DB003,Threshold-Sensitive Early Warning Dashboard,early-warning,detecting threshold risk and warning signals before crisis,7.053,8.0,8.9,7.2,8.0,8.2,7.8,4.2,promising but requires governance and uncertainty validation
+DB004,Justice-Centered Resilience Dashboard,justice-centered,showing unequal exposure recovery burden and repair priorities,6.856,7.8,7.4,9.0,7.8,7.4,7.6,4.4,promising but requires governance and uncertainty validation
+DB005,Adaptive Learning and Decision-Trigger Dashboard,adaptive-learning,connecting indicators to decisions learning and accountable action,7.589,8.4,8.5,8.1,8.5,9.0,8.9,3.6,strong responsible-dashboard profile
+DB006,Participatory Community Resilience Dashboard,participatory,integrating local knowledge lived experience and community warning signals,6.955,7.9,7.6,8.8,7.6,7.5,8.1,4.1,strong responsible-dashboard profile
