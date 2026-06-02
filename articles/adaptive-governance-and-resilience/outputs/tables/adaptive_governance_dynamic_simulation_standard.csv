@@ -1,0 +1,481 @@
+system_id,system,system_domain,time,event,stress_load,response_capacity,governance_function,dependency_coupling,equity_adjusted_function
+SYS001,Regional Climate Adaptation Governance Network,climate adaptation and multi-level governance,0,background adaptive governance stress,0.15979,0.4552,1.0,0.75819,1.0
+SYS001,Regional Climate Adaptation Governance Network,climate adaptation and multi-level governance,1,background adaptive governance stress,0.1631,0.45538,1.0,0.75644,1.0
+SYS001,Regional Climate Adaptation Governance Network,climate adaptation and multi-level governance,2,background adaptive governance stress,0.16163,0.45556,1.0,0.75466,1.0
+SYS001,Regional Climate Adaptation Governance Network,climate adaptation and multi-level governance,3,background adaptive governance stress,0.16239,0.45573,1.0,0.7529,1.0
+SYS001,Regional Climate Adaptation Governance Network,climate adaptation and multi-level governance,4,background adaptive governance stress,0.15973,0.45591,1.0,0.75108,1.0
+SYS001,Regional Climate Adaptation Governance Network,climate adaptation and multi-level governance,5,background adaptive governance stress,0.1621,0.45609,1.0,0.7493,1.0
+SYS001,Regional Climate Adaptation Governance Network,climate adaptation and multi-level governance,6,background adaptive governance stress,0.16197,0.45627,1.0,0.74752,1.0
+SYS001,Regional Climate Adaptation Governance Network,climate adaptation and multi-level governance,7,background adaptive governance stress,0.16217,0.45645,1.0,0.74574,1.0
+SYS001,Regional Climate Adaptation Governance Network,climate adaptation and multi-level governance,8,background adaptive governance stress,0.15886,0.45663,1.0,0.7439,1.0
+SYS001,Regional Climate Adaptation Governance Network,climate adaptation and multi-level governance,9,background adaptive governance stress,0.15971,0.45681,1.0,0.74207,1.0
+SYS001,Regional Climate Adaptation Governance Network,climate adaptation and multi-level governance,10,background adaptive governance stress,0.16428,0.45699,1.0,0.74033,1.0
+SYS001,Regional Climate Adaptation Governance Network,climate adaptation and multi-level governance,11,background adaptive governance stress,0.16296,0.45717,1.0,0.73856,1.0
+SYS001,Regional Climate Adaptation Governance Network,climate adaptation and multi-level governance,12,Extreme climate uncertainty and conflicting projections,0.81888,0.45734,1.0,0.7499,0.86896
+SYS001,Regional Climate Adaptation Governance Network,climate adaptation and multi-level governance,13,background adaptive governance stress,0.16491,0.45621,1.0,0.74818,1.0
+SYS001,Regional Climate Adaptation Governance Network,climate adaptation and multi-level governance,14,background adaptive governance stress,0.16201,0.45638,1.0,0.7464,1.0
+SYS001,Regional Climate Adaptation Governance Network,climate adaptation and multi-level governance,15,background adaptive governance stress,0.16132,0.45656,1.0,0.74461,1.0
+SYS001,Regional Climate Adaptation Governance Network,climate adaptation and multi-level governance,16,background adaptive governance stress,0.16068,0.45674,1.0,0.7428,1.0
+SYS001,Regional Climate Adaptation Governance Network,climate adaptation and multi-level governance,17,background adaptive governance stress,0.16405,0.45692,1.0,0.74105,1.0
+SYS001,Regional Climate Adaptation Governance Network,climate adaptation and multi-level governance,18,background adaptive governance stress,0.16363,0.45709,1.0,0.7393,1.0
+SYS001,Regional Climate Adaptation Governance Network,climate adaptation and multi-level governance,19,background adaptive governance stress,0.1629,0.45727,1.0,0.73753,1.0
+SYS001,Regional Climate Adaptation Governance Network,climate adaptation and multi-level governance,20,background adaptive governance stress,0.16349,0.45745,1.0,0.73576,1.0
+SYS001,Regional Climate Adaptation Governance Network,climate adaptation and multi-level governance,21,background adaptive governance stress,0.16237,0.45762,1.0,0.73398,1.0
+SYS001,Regional Climate Adaptation Governance Network,climate adaptation and multi-level governance,22,background adaptive governance stress,0.16559,0.4578,1.0,0.73225,1.0
+SYS001,Regional Climate Adaptation Governance Network,climate adaptation and multi-level governance,23,background adaptive governance stress,0.16453,0.45797,1.0,0.73051,1.0
+SYS001,Regional Climate Adaptation Governance Network,climate adaptation and multi-level governance,24,background adaptive governance stress,0.16403,0.45815,1.0,0.72875,1.0
+SYS001,Regional Climate Adaptation Governance Network,climate adaptation and multi-level governance,25,background adaptive governance stress,0.16294,0.45833,1.0,0.72696,1.0
+SYS001,Regional Climate Adaptation Governance Network,climate adaptation and multi-level governance,26,background adaptive governance stress,0.16248,0.4585,1.0,0.72517,1.0
+SYS001,Regional Climate Adaptation Governance Network,climate adaptation and multi-level governance,27,Multi-agency coordination breakdown during compound event,0.86641,0.45868,1.0,0.73745,0.85216
+SYS001,Regional Climate Adaptation Governance Network,climate adaptation and multi-level governance,28,background adaptive governance stress,0.16482,0.45745,1.0,0.73572,1.0
+SYS001,Regional Climate Adaptation Governance Network,climate adaptation and multi-level governance,29,background adaptive governance stress,0.16571,0.45763,1.0,0.734,1.0
+SYS001,Regional Climate Adaptation Governance Network,climate adaptation and multi-level governance,30,background adaptive governance stress,0.16747,0.4578,1.0,0.73231,1.0
+SYS001,Regional Climate Adaptation Governance Network,climate adaptation and multi-level governance,31,background adaptive governance stress,0.16374,0.45797,1.0,0.73055,1.0
+SYS001,Regional Climate Adaptation Governance Network,climate adaptation and multi-level governance,32,background adaptive governance stress,0.16775,0.45815,1.0,0.72886,1.0
+SYS001,Regional Climate Adaptation Governance Network,climate adaptation and multi-level governance,33,background adaptive governance stress,0.16665,0.45831,1.0,0.72715,1.0
+SYS001,Regional Climate Adaptation Governance Network,climate adaptation and multi-level governance,34,background adaptive governance stress,0.16465,0.45848,1.0,0.7254,1.0
+SYS001,Regional Climate Adaptation Governance Network,climate adaptation and multi-level governance,35,background adaptive governance stress,0.16315,0.45866,1.0,0.72362,1.0
+SYS001,Regional Climate Adaptation Governance Network,climate adaptation and multi-level governance,36,background adaptive governance stress,0.16713,0.45884,1.0,0.72192,1.0
+SYS001,Regional Climate Adaptation Governance Network,climate adaptation and multi-level governance,37,background adaptive governance stress,0.16499,0.45901,1.0,0.72017,1.0
+SYS001,Regional Climate Adaptation Governance Network,climate adaptation and multi-level governance,38,background adaptive governance stress,0.16353,0.45918,1.0,0.71839,1.0
+SYS001,Regional Climate Adaptation Governance Network,climate adaptation and multi-level governance,39,background adaptive governance stress,0.16389,0.45936,1.0,0.71661,1.0
+SYS001,Regional Climate Adaptation Governance Network,climate adaptation and multi-level governance,40,background adaptive governance stress,0.16301,0.45954,1.0,0.71482,1.0
+SYS001,Regional Climate Adaptation Governance Network,climate adaptation and multi-level governance,41,background adaptive governance stress,0.16607,0.45972,1.0,0.71308,1.0
+SYS001,Regional Climate Adaptation Governance Network,climate adaptation and multi-level governance,42,Public trust shock after failed adaptation project,0.83505,0.45989,1.0,0.72472,0.84656
+SYS001,Regional Climate Adaptation Governance Network,climate adaptation and multi-level governance,43,background adaptive governance stress,0.16721,0.45873,1.0,0.72302,1.0
+SYS001,Regional Climate Adaptation Governance Network,climate adaptation and multi-level governance,44,background adaptive governance stress,0.16309,0.4589,1.0,0.72124,1.0
+SYS001,Regional Climate Adaptation Governance Network,climate adaptation and multi-level governance,45,background adaptive governance stress,0.16335,0.45908,1.0,0.71945,1.0
+SYS001,Regional Climate Adaptation Governance Network,climate adaptation and multi-level governance,46,background adaptive governance stress,0.16739,0.45925,1.0,0.71775,1.0
+SYS001,Regional Climate Adaptation Governance Network,climate adaptation and multi-level governance,47,background adaptive governance stress,0.16474,0.45943,1.0,0.71599,1.0
+SYS001,Regional Climate Adaptation Governance Network,climate adaptation and multi-level governance,48,background adaptive governance stress,0.16716,0.4596,1.0,0.71428,1.0
+SYS001,Regional Climate Adaptation Governance Network,climate adaptation and multi-level governance,49,background adaptive governance stress,0.1676,0.45977,1.0,0.71257,1.0
+SYS001,Regional Climate Adaptation Governance Network,climate adaptation and multi-level governance,50,background adaptive governance stress,0.16675,0.45994,1.0,0.71085,1.0
+SYS001,Regional Climate Adaptation Governance Network,climate adaptation and multi-level governance,51,background adaptive governance stress,0.16757,0.46012,1.0,0.70914,1.0
+SYS001,Regional Climate Adaptation Governance Network,climate adaptation and multi-level governance,52,background adaptive governance stress,0.16688,0.46029,1.0,0.70741,1.0
+SYS001,Regional Climate Adaptation Governance Network,climate adaptation and multi-level governance,53,background adaptive governance stress,0.16537,0.46046,1.0,0.70566,1.0
+SYS001,Regional Climate Adaptation Governance Network,climate adaptation and multi-level governance,54,background adaptive governance stress,0.16428,0.46063,1.0,0.70387,1.0
+SYS001,Regional Climate Adaptation Governance Network,climate adaptation and multi-level governance,55,background adaptive governance stress,0.16343,0.46081,1.0,0.70207,1.0
+SYS001,Regional Climate Adaptation Governance Network,climate adaptation and multi-level governance,56,Data-platform disruption and misinformation surge,0.85117,0.46099,1.0,0.71403,0.85776
+SYS001,Regional Climate Adaptation Governance Network,climate adaptation and multi-level governance,57,background adaptive governance stress,0.16626,0.4598,1.0,0.71229,1.0
+SYS001,Regional Climate Adaptation Governance Network,climate adaptation and multi-level governance,58,background adaptive governance stress,0.16866,0.45997,1.0,0.71061,1.0
+SYS001,Regional Climate Adaptation Governance Network,climate adaptation and multi-level governance,59,background adaptive governance stress,0.16771,0.46014,1.0,0.7089,1.0
+SYS001,Regional Climate Adaptation Governance Network,climate adaptation and multi-level governance,60,background adaptive governance stress,0.16698,0.46031,1.0,0.70718,1.0
+SYS001,Regional Climate Adaptation Governance Network,climate adaptation and multi-level governance,61,background adaptive governance stress,0.1662,0.46048,1.0,0.70543,1.0
+SYS001,Regional Climate Adaptation Governance Network,climate adaptation and multi-level governance,62,background adaptive governance stress,0.16693,0.46066,1.0,0.70371,1.0
+SYS001,Regional Climate Adaptation Governance Network,climate adaptation and multi-level governance,63,background adaptive governance stress,0.16537,0.46083,1.0,0.70194,1.0
+SYS001,Regional Climate Adaptation Governance Network,climate adaptation and multi-level governance,64,background adaptive governance stress,0.16994,0.46101,1.0,0.70027,1.0
+SYS001,Regional Climate Adaptation Governance Network,climate adaptation and multi-level governance,65,background adaptive governance stress,0.17084,0.46117,1.0,0.69862,1.0
+SYS001,Regional Climate Adaptation Governance Network,climate adaptation and multi-level governance,66,background adaptive governance stress,0.16658,0.46134,1.0,0.69687,1.0
+SYS001,Regional Climate Adaptation Governance Network,climate adaptation and multi-level governance,67,background adaptive governance stress,0.16726,0.46151,1.0,0.69514,1.0
+SYS001,Regional Climate Adaptation Governance Network,climate adaptation and multi-level governance,68,background adaptive governance stress,0.16924,0.46169,1.0,0.69345,1.0
+SYS001,Regional Climate Adaptation Governance Network,climate adaptation and multi-level governance,69,background adaptive governance stress,0.16635,0.46186,1.0,0.69169,1.0
+SYS001,Regional Climate Adaptation Governance Network,climate adaptation and multi-level governance,70,Compound governance crisis with equity and legal contestation,0.94954,0.46203,1.0,0.7056,0.83536
+SYS001,Regional Climate Adaptation Governance Network,climate adaptation and multi-level governance,71,background adaptive governance stress,0.17118,0.46064,1.0,0.70396,1.0
+SYS001,Regional Climate Adaptation Governance Network,climate adaptation and multi-level governance,72,background adaptive governance stress,0.1715,0.4608,1.0,0.70232,1.0
+SYS001,Regional Climate Adaptation Governance Network,climate adaptation and multi-level governance,73,background adaptive governance stress,0.16632,0.46097,1.0,0.70058,1.0
+SYS001,Regional Climate Adaptation Governance Network,climate adaptation and multi-level governance,74,background adaptive governance stress,0.16734,0.46114,1.0,0.69885,1.0
+SYS001,Regional Climate Adaptation Governance Network,climate adaptation and multi-level governance,75,background adaptive governance stress,0.17086,0.46132,1.0,0.69719,1.0
+SYS001,Regional Climate Adaptation Governance Network,climate adaptation and multi-level governance,76,background adaptive governance stress,0.17257,0.46148,1.0,0.69557,1.0
+SYS001,Regional Climate Adaptation Governance Network,climate adaptation and multi-level governance,77,background adaptive governance stress,0.17027,0.46164,1.0,0.69389,1.0
+SYS001,Regional Climate Adaptation Governance Network,climate adaptation and multi-level governance,78,background adaptive governance stress,0.17089,0.46181,1.0,0.69223,1.0
+SYS001,Regional Climate Adaptation Governance Network,climate adaptation and multi-level governance,79,background adaptive governance stress,0.17137,0.46198,1.0,0.69058,1.0
+SYS002,Watershed Social-Ecological Governance Council,watershed and ecosystem governance,0,background adaptive governance stress,0.15665,0.5176,1.0,0.71744,1.0
+SYS002,Watershed Social-Ecological Governance Council,watershed and ecosystem governance,1,background adaptive governance stress,0.16158,0.51786,1.0,0.71497,1.0
+SYS002,Watershed Social-Ecological Governance Council,watershed and ecosystem governance,2,background adaptive governance stress,0.15864,0.5181,1.0,0.71245,1.0
+SYS002,Watershed Social-Ecological Governance Council,watershed and ecosystem governance,3,background adaptive governance stress,0.15555,0.51836,1.0,0.70986,1.0
+SYS002,Watershed Social-Ecological Governance Council,watershed and ecosystem governance,4,background adaptive governance stress,0.15816,0.51861,1.0,0.70732,1.0
+SYS002,Watershed Social-Ecological Governance Council,watershed and ecosystem governance,5,background adaptive governance stress,0.15932,0.51887,1.0,0.70479,1.0
+SYS002,Watershed Social-Ecological Governance Council,watershed and ecosystem governance,6,background adaptive governance stress,0.15487,0.51912,1.0,0.70218,1.0
+SYS002,Watershed Social-Ecological Governance Council,watershed and ecosystem governance,7,background adaptive governance stress,0.15785,0.51938,1.0,0.69963,1.0
+SYS002,Watershed Social-Ecological Governance Council,watershed and ecosystem governance,8,background adaptive governance stress,0.15719,0.51964,1.0,0.69705,1.0
+SYS002,Watershed Social-Ecological Governance Council,watershed and ecosystem governance,9,background adaptive governance stress,0.15788,0.51989,1.0,0.69449,1.0
+SYS002,Watershed Social-Ecological Governance Council,watershed and ecosystem governance,10,background adaptive governance stress,0.15591,0.52015,1.0,0.69189,1.0
+SYS002,Watershed Social-Ecological Governance Council,watershed and ecosystem governance,11,background adaptive governance stress,0.15646,0.52041,1.0,0.68929,1.0
+SYS002,Watershed Social-Ecological Governance Council,watershed and ecosystem governance,12,Extreme climate uncertainty and conflicting projections,0.81494,0.52067,1.0,0.69986,0.86448
+SYS002,Watershed Social-Ecological Governance Council,watershed and ecosystem governance,13,background adaptive governance stress,0.15908,0.51961,1.0,0.69733,1.0
+SYS002,Watershed Social-Ecological Governance Council,watershed and ecosystem governance,14,background adaptive governance stress,0.16007,0.51987,1.0,0.69481,1.0
+SYS002,Watershed Social-Ecological Governance Council,watershed and ecosystem governance,15,background adaptive governance stress,0.15932,0.52012,1.0,0.69228,1.0
+SYS002,Watershed Social-Ecological Governance Council,watershed and ecosystem governance,16,background adaptive governance stress,0.15783,0.52037,1.0,0.68971,1.0
+SYS002,Watershed Social-Ecological Governance Council,watershed and ecosystem governance,17,background adaptive governance stress,0.15914,0.52063,1.0,0.68717,1.0
+SYS002,Watershed Social-Ecological Governance Council,watershed and ecosystem governance,18,background adaptive governance stress,0.1568,0.52088,1.0,0.68457,1.0
+SYS002,Watershed Social-Ecological Governance Council,watershed and ecosystem governance,19,background adaptive governance stress,0.15786,0.52114,1.0,0.682,1.0
+SYS002,Watershed Social-Ecological Governance Council,watershed and ecosystem governance,20,background adaptive governance stress,0.15802,0.5214,1.0,0.67942,1.0
+SYS002,Watershed Social-Ecological Governance Council,watershed and ecosystem governance,21,background adaptive governance stress,0.15724,0.52166,1.0,0.67683,1.0
+SYS002,Watershed Social-Ecological Governance Council,watershed and ecosystem governance,22,background adaptive governance stress,0.15497,0.52192,1.0,0.67419,1.0
+SYS002,Watershed Social-Ecological Governance Council,watershed and ecosystem governance,23,background adaptive governance stress,0.15519,0.52218,1.0,0.67155,1.0
+SYS002,Watershed Social-Ecological Governance Council,watershed and ecosystem governance,24,background adaptive governance stress,0.15822,0.52245,1.0,0.66897,1.0
+SYS002,Watershed Social-Ecological Governance Council,watershed and ecosystem governance,25,background adaptive governance stress,0.1584,0.5227,1.0,0.66638,1.0
+SYS002,Watershed Social-Ecological Governance Council,watershed and ecosystem governance,26,background adaptive governance stress,0.1587,0.52296,1.0,0.66381,1.0
+SYS002,Watershed Social-Ecological Governance Council,watershed and ecosystem governance,27,Multi-agency coordination breakdown during compound event,0.8615,0.52322,1.0,0.67528,0.84768
+SYS002,Watershed Social-Ecological Governance Council,watershed and ecosystem governance,28,background adaptive governance stress,0.16132,0.52207,1.0,0.67276,1.0
+SYS002,Watershed Social-Ecological Governance Council,watershed and ecosystem governance,29,background adaptive governance stress,0.16067,0.52232,1.0,0.67023,1.0
+SYS002,Watershed Social-Ecological Governance Council,watershed and ecosystem governance,30,background adaptive governance stress,0.16092,0.52258,1.0,0.6677,1.0
+SYS002,Watershed Social-Ecological Governance Council,watershed and ecosystem governance,31,background adaptive governance stress,0.15564,0.52283,1.0,0.66506,1.0
+SYS002,Watershed Social-Ecological Governance Council,watershed and ecosystem governance,32,background adaptive governance stress,0.15703,0.52309,1.0,0.66245,1.0
+SYS002,Watershed Social-Ecological Governance Council,watershed and ecosystem governance,33,background adaptive governance stress,0.16263,0.52336,1.0,0.65995,1.0
+SYS002,Watershed Social-Ecological Governance Council,watershed and ecosystem governance,34,background adaptive governance stress,0.15841,0.52361,1.0,0.65735,1.0
+SYS002,Watershed Social-Ecological Governance Council,watershed and ecosystem governance,35,background adaptive governance stress,0.1613,0.52386,1.0,0.65482,1.0
+SYS002,Watershed Social-Ecological Governance Council,watershed and ecosystem governance,36,background adaptive governance stress,0.1617,0.52412,1.0,0.65229,1.0
+SYS002,Watershed Social-Ecological Governance Council,watershed and ecosystem governance,37,background adaptive governance stress,0.1564,0.52437,1.0,0.64965,1.0
+SYS002,Watershed Social-Ecological Governance Council,watershed and ecosystem governance,38,background adaptive governance stress,0.16131,0.52464,1.0,0.6471,1.0
+SYS002,Watershed Social-Ecological Governance Council,watershed and ecosystem governance,39,background adaptive governance stress,0.16012,0.52489,1.0,0.64453,1.0
+SYS002,Watershed Social-Ecological Governance Council,watershed and ecosystem governance,40,background adaptive governance stress,0.15852,0.52515,1.0,0.64192,1.0
+SYS002,Watershed Social-Ecological Governance Council,watershed and ecosystem governance,41,background adaptive governance stress,0.16251,0.52541,1.0,0.63939,1.0
+SYS002,Watershed Social-Ecological Governance Council,watershed and ecosystem governance,42,Public trust shock after failed adaptation project,0.82915,0.52566,1.0,0.6502,0.84208
+SYS002,Watershed Social-Ecological Governance Council,watershed and ecosystem governance,43,background adaptive governance stress,0.15738,0.52458,1.0,0.64757,1.0
+SYS002,Watershed Social-Ecological Governance Council,watershed and ecosystem governance,44,background adaptive governance stress,0.1612,0.52484,1.0,0.64502,1.0
+SYS002,Watershed Social-Ecological Governance Council,watershed and ecosystem governance,45,background adaptive governance stress,0.15732,0.5251,1.0,0.64239,1.0
+SYS002,Watershed Social-Ecological Governance Council,watershed and ecosystem governance,46,background adaptive governance stress,0.16097,0.52536,1.0,0.63983,1.0
+SYS002,Watershed Social-Ecological Governance Council,watershed and ecosystem governance,47,background adaptive governance stress,0.16092,0.52562,1.0,0.63727,1.0
+SYS002,Watershed Social-Ecological Governance Council,watershed and ecosystem governance,48,background adaptive governance stress,0.15766,0.52587,1.0,0.63464,1.0
+SYS002,Watershed Social-Ecological Governance Council,watershed and ecosystem governance,49,background adaptive governance stress,0.16115,0.52614,1.0,0.63207,1.0
+SYS002,Watershed Social-Ecological Governance Council,watershed and ecosystem governance,50,background adaptive governance stress,0.16028,0.52639,1.0,0.62949,1.0
+SYS002,Watershed Social-Ecological Governance Council,watershed and ecosystem governance,51,background adaptive governance stress,0.15938,0.52665,1.0,0.62688,1.0
+SYS002,Watershed Social-Ecological Governance Council,watershed and ecosystem governance,52,background adaptive governance stress,0.15861,0.52691,1.0,0.62426,1.0
+SYS002,Watershed Social-Ecological Governance Council,watershed and ecosystem governance,53,background adaptive governance stress,0.16208,0.52717,1.0,0.6217,1.0
+SYS002,Watershed Social-Ecological Governance Council,watershed and ecosystem governance,54,background adaptive governance stress,0.16003,0.52743,1.0,0.6191,1.0
+SYS002,Watershed Social-Ecological Governance Council,watershed and ecosystem governance,55,background adaptive governance stress,0.15942,0.52769,1.0,0.61649,1.0
+SYS002,Watershed Social-Ecological Governance Council,watershed and ecosystem governance,56,Data-platform disruption and misinformation surge,0.84432,0.52795,1.0,0.62756,0.85328
+SYS002,Watershed Social-Ecological Governance Council,watershed and ecosystem governance,57,background adaptive governance stress,0.16091,0.52684,1.0,0.62499,1.0
+SYS002,Watershed Social-Ecological Governance Council,watershed and ecosystem governance,58,background adaptive governance stress,0.16114,0.5271,1.0,0.62241,1.0
+SYS002,Watershed Social-Ecological Governance Council,watershed and ecosystem governance,59,background adaptive governance stress,0.16246,0.52736,1.0,0.61986,1.0
+SYS002,Watershed Social-Ecological Governance Council,watershed and ecosystem governance,60,background adaptive governance stress,0.16097,0.52761,1.0,0.61728,1.0
+SYS002,Watershed Social-Ecological Governance Council,watershed and ecosystem governance,61,background adaptive governance stress,0.16147,0.52787,1.0,0.6147,1.0
+SYS002,Watershed Social-Ecological Governance Council,watershed and ecosystem governance,62,background adaptive governance stress,0.15783,0.52813,1.0,0.61205,1.0
+SYS002,Watershed Social-Ecological Governance Council,watershed and ecosystem governance,63,background adaptive governance stress,0.15747,0.5284,1.0,0.60938,1.0
+SYS002,Watershed Social-Ecological Governance Council,watershed and ecosystem governance,64,background adaptive governance stress,0.1586,0.52866,1.0,0.60674,1.0
+SYS002,Watershed Social-Ecological Governance Council,watershed and ecosystem governance,65,background adaptive governance stress,0.1599,0.52893,1.0,0.60412,1.0
+SYS002,Watershed Social-Ecological Governance Council,watershed and ecosystem governance,66,background adaptive governance stress,0.16199,0.52919,1.0,0.60154,1.0
+SYS002,Watershed Social-Ecological Governance Council,watershed and ecosystem governance,67,background adaptive governance stress,0.16044,0.52945,1.0,0.59892,1.0
+SYS002,Watershed Social-Ecological Governance Council,watershed and ecosystem governance,68,background adaptive governance stress,0.16128,0.52971,1.0,0.59632,1.0
+SYS002,Watershed Social-Ecological Governance Council,watershed and ecosystem governance,69,background adaptive governance stress,0.15952,0.52997,1.0,0.59368,1.0
+SYS002,Watershed Social-Ecological Governance Council,watershed and ecosystem governance,70,Compound governance crisis with equity and legal contestation,0.94169,0.53023,1.0,0.60668,0.83088
+SYS002,Watershed Social-Ecological Governance Council,watershed and ecosystem governance,71,background adaptive governance stress,0.16198,0.52893,1.0,0.60411,1.0
+SYS002,Watershed Social-Ecological Governance Council,watershed and ecosystem governance,72,background adaptive governance stress,0.16107,0.52919,1.0,0.60151,1.0
+SYS002,Watershed Social-Ecological Governance Council,watershed and ecosystem governance,73,background adaptive governance stress,0.16117,0.52945,1.0,0.59891,1.0
+SYS002,Watershed Social-Ecological Governance Council,watershed and ecosystem governance,74,background adaptive governance stress,0.15859,0.52971,1.0,0.59625,1.0
+SYS002,Watershed Social-Ecological Governance Council,watershed and ecosystem governance,75,background adaptive governance stress,0.16262,0.52997,1.0,0.59367,1.0
+SYS002,Watershed Social-Ecological Governance Council,watershed and ecosystem governance,76,background adaptive governance stress,0.16198,0.53023,1.0,0.59108,1.0
+SYS002,Watershed Social-Ecological Governance Council,watershed and ecosystem governance,77,background adaptive governance stress,0.16085,0.53049,1.0,0.58846,1.0
+SYS002,Watershed Social-Ecological Governance Council,watershed and ecosystem governance,78,background adaptive governance stress,0.16444,0.53075,1.0,0.58591,1.0
+SYS002,Watershed Social-Ecological Governance Council,watershed and ecosystem governance,79,background adaptive governance stress,0.16214,0.53101,1.0,0.58331,1.0
+SYS003,Urban Heat and Housing Resilience Governance System,urban climate justice and public health,0,background adaptive governance stress,0.16222,0.4418,1.0,0.77838,1.0
+SYS003,Urban Heat and Housing Resilience Governance System,urban climate justice and public health,1,background adaptive governance stress,0.16283,0.44196,1.0,0.77678,1.0
+SYS003,Urban Heat and Housing Resilience Governance System,urban climate justice and public health,2,background adaptive governance stress,0.16261,0.44212,1.0,0.77517,1.0
+SYS003,Urban Heat and Housing Resilience Governance System,urban climate justice and public health,3,background adaptive governance stress,0.16362,0.44228,1.0,0.77358,1.0
+SYS003,Urban Heat and Housing Resilience Governance System,urban climate justice and public health,4,background adaptive governance stress,0.16165,0.44244,1.0,0.77194,1.0
+SYS003,Urban Heat and Housing Resilience Governance System,urban climate justice and public health,5,background adaptive governance stress,0.16349,0.44261,1.0,0.77034,1.0
+SYS003,Urban Heat and Housing Resilience Governance System,urban climate justice and public health,6,background adaptive governance stress,0.16547,0.44277,1.0,0.76878,1.0
+SYS003,Urban Heat and Housing Resilience Governance System,urban climate justice and public health,7,background adaptive governance stress,0.16133,0.44292,1.0,0.76714,1.0
+SYS003,Urban Heat and Housing Resilience Governance System,urban climate justice and public health,8,background adaptive governance stress,0.16355,0.44309,1.0,0.76553,1.0
+SYS003,Urban Heat and Housing Resilience Governance System,urban climate justice and public health,9,background adaptive governance stress,0.16438,0.44325,1.0,0.76395,1.0
+SYS003,Urban Heat and Housing Resilience Governance System,urban climate justice and public health,10,background adaptive governance stress,0.16308,0.44341,1.0,0.76233,1.0
+SYS003,Urban Heat and Housing Resilience Governance System,urban climate justice and public health,11,background adaptive governance stress,0.16258,0.44357,1.0,0.7607,1.0
+SYS003,Urban Heat and Housing Resilience Governance System,urban climate justice and public health,12,Extreme climate uncertainty and conflicting projections,0.82066,0.44373,1.0,0.77223,0.87344
+SYS003,Urban Heat and Housing Resilience Governance System,urban climate justice and public health,13,background adaptive governance stress,0.16395,0.44258,1.0,0.77064,1.0
+SYS003,Urban Heat and Housing Resilience Governance System,urban climate justice and public health,14,background adaptive governance stress,0.16581,0.44274,1.0,0.76909,1.0
+SYS003,Urban Heat and Housing Resilience Governance System,urban climate justice and public health,15,background adaptive governance stress,0.16169,0.44289,1.0,0.76745,1.0
+SYS003,Urban Heat and Housing Resilience Governance System,urban climate justice and public health,16,background adaptive governance stress,0.16505,0.44305,1.0,0.76588,1.0
+SYS003,Urban Heat and Housing Resilience Governance System,urban climate justice and public health,17,background adaptive governance stress,0.16597,0.44321,1.0,0.76432,1.0
+SYS003,Urban Heat and Housing Resilience Governance System,urban climate justice and public health,18,background adaptive governance stress,0.164,0.44337,1.0,0.76273,1.0
+SYS003,Urban Heat and Housing Resilience Governance System,urban climate justice and public health,19,background adaptive governance stress,0.16439,0.44353,1.0,0.76114,1.0
+SYS003,Urban Heat and Housing Resilience Governance System,urban climate justice and public health,20,background adaptive governance stress,0.16436,0.44369,1.0,0.75954,1.0
+SYS003,Urban Heat and Housing Resilience Governance System,urban climate justice and public health,21,background adaptive governance stress,0.16497,0.44385,1.0,0.75796,1.0
+SYS003,Urban Heat and Housing Resilience Governance System,urban climate justice and public health,22,background adaptive governance stress,0.16483,0.444,1.0,0.75637,1.0
+SYS003,Urban Heat and Housing Resilience Governance System,urban climate justice and public health,23,background adaptive governance stress,0.16752,0.44416,1.0,0.75484,1.0
+SYS003,Urban Heat and Housing Resilience Governance System,urban climate justice and public health,24,background adaptive governance stress,0.16681,0.44432,1.0,0.75329,1.0
+SYS003,Urban Heat and Housing Resilience Governance System,urban climate justice and public health,25,background adaptive governance stress,0.1673,0.44447,1.0,0.75174,1.0
+SYS003,Urban Heat and Housing Resilience Governance System,urban climate justice and public health,26,background adaptive governance stress,0.16564,0.44463,1.0,0.75016,1.0
+SYS003,Urban Heat and Housing Resilience Governance System,urban climate justice and public health,27,Multi-agency coordination breakdown during compound event,0.86841,0.44478,1.0,0.76264,0.85664
+SYS003,Urban Heat and Housing Resilience Governance System,urban climate justice and public health,28,background adaptive governance stress,0.16852,0.44354,1.0,0.76113,1.0
+SYS003,Urban Heat and Housing Resilience Governance System,urban climate justice and public health,29,background adaptive governance stress,0.16735,0.44369,1.0,0.7596,1.0
+SYS003,Urban Heat and Housing Resilience Governance System,urban climate justice and public health,30,background adaptive governance stress,0.16896,0.44384,1.0,0.75809,1.0
+SYS003,Urban Heat and Housing Resilience Governance System,urban climate justice and public health,31,background adaptive governance stress,0.16714,0.44399,1.0,0.75655,1.0
+SYS003,Urban Heat and Housing Resilience Governance System,urban climate justice and public health,32,background adaptive governance stress,0.16829,0.44414,1.0,0.75503,1.0
+SYS003,Urban Heat and Housing Resilience Governance System,urban climate justice and public health,33,background adaptive governance stress,0.1686,0.4443,1.0,0.75352,1.0
+SYS003,Urban Heat and Housing Resilience Governance System,urban climate justice and public health,34,background adaptive governance stress,0.1665,0.44445,1.0,0.75196,1.0
+SYS003,Urban Heat and Housing Resilience Governance System,urban climate justice and public health,35,background adaptive governance stress,0.16726,0.4446,1.0,0.75041,1.0
+SYS003,Urban Heat and Housing Resilience Governance System,urban climate justice and public health,36,background adaptive governance stress,0.1675,0.44476,1.0,0.74887,1.0
+SYS003,Urban Heat and Housing Resilience Governance System,urban climate justice and public health,37,background adaptive governance stress,0.16708,0.44491,1.0,0.74732,1.0
+SYS003,Urban Heat and Housing Resilience Governance System,urban climate justice and public health,38,background adaptive governance stress,0.16692,0.44507,1.0,0.74576,1.0
+SYS003,Urban Heat and Housing Resilience Governance System,urban climate justice and public health,39,background adaptive governance stress,0.16769,0.44522,1.0,0.74422,1.0
+SYS003,Urban Heat and Housing Resilience Governance System,urban climate justice and public health,40,background adaptive governance stress,0.16576,0.44538,1.0,0.74263,1.0
+SYS003,Urban Heat and Housing Resilience Governance System,urban climate justice and public health,41,background adaptive governance stress,0.16589,0.44554,1.0,0.74105,1.0
+SYS003,Urban Heat and Housing Resilience Governance System,urban climate justice and public health,42,Public trust shock after failed adaptation project,0.83728,0.44569,1.0,0.75289,0.85104
+SYS003,Urban Heat and Housing Resilience Governance System,urban climate justice and public health,43,background adaptive governance stress,0.16532,0.44451,1.0,0.75131,1.0
+SYS003,Urban Heat and Housing Resilience Governance System,urban climate justice and public health,44,background adaptive governance stress,0.16624,0.44467,1.0,0.74974,1.0
+SYS003,Urban Heat and Housing Resilience Governance System,urban climate justice and public health,45,background adaptive governance stress,0.16543,0.44483,1.0,0.74816,1.0
+SYS003,Urban Heat and Housing Resilience Governance System,urban climate justice and public health,46,background adaptive governance stress,0.16729,0.44498,1.0,0.74661,1.0
+SYS003,Urban Heat and Housing Resilience Governance System,urban climate justice and public health,47,background adaptive governance stress,0.16883,0.44514,1.0,0.74509,1.0
+SYS003,Urban Heat and Housing Resilience Governance System,urban climate justice and public health,48,background adaptive governance stress,0.16618,0.44529,1.0,0.74352,1.0
+SYS003,Urban Heat and Housing Resilience Governance System,urban climate justice and public health,49,background adaptive governance stress,0.16924,0.44545,1.0,0.742,1.0
+SYS003,Urban Heat and Housing Resilience Governance System,urban climate justice and public health,50,background adaptive governance stress,0.16758,0.4456,1.0,0.74045,1.0
+SYS003,Urban Heat and Housing Resilience Governance System,urban climate justice and public health,51,background adaptive governance stress,0.17143,0.44575,1.0,0.73898,1.0
+SYS003,Urban Heat and Housing Resilience Governance System,urban climate justice and public health,52,background adaptive governance stress,0.17046,0.4459,1.0,0.73748,1.0
+SYS003,Urban Heat and Housing Resilience Governance System,urban climate justice and public health,53,background adaptive governance stress,0.16795,0.44605,1.0,0.73593,1.0
+SYS003,Urban Heat and Housing Resilience Governance System,urban climate justice and public health,54,background adaptive governance stress,0.16596,0.44621,1.0,0.73434,1.0
+SYS003,Urban Heat and Housing Resilience Governance System,urban climate justice and public health,55,background adaptive governance stress,0.16936,0.44637,1.0,0.73282,1.0
+SYS003,Urban Heat and Housing Resilience Governance System,urban climate justice and public health,56,Data-platform disruption and misinformation surge,0.85363,0.44652,1.0,0.74498,0.86224
+SYS003,Urban Heat and Housing Resilience Governance System,urban climate justice and public health,57,background adaptive governance stress,0.17367,0.4453,1.0,0.74356,1.0
+SYS003,Urban Heat and Housing Resilience Governance System,urban climate justice and public health,58,background adaptive governance stress,0.17146,0.44544,1.0,0.74209,1.0
+SYS003,Urban Heat and Housing Resilience Governance System,urban climate justice and public health,59,background adaptive governance stress,0.16762,0.44559,1.0,0.74054,1.0
+SYS003,Urban Heat and Housing Resilience Governance System,urban climate justice and public health,60,background adaptive governance stress,0.17025,0.44575,1.0,0.73904,1.0
+SYS003,Urban Heat and Housing Resilience Governance System,urban climate justice and public health,61,background adaptive governance stress,0.17325,0.4459,1.0,0.7376,1.0
+SYS003,Urban Heat and Housing Resilience Governance System,urban climate justice and public health,62,background adaptive governance stress,0.17352,0.44604,1.0,0.73616,1.0
+SYS003,Urban Heat and Housing Resilience Governance System,urban climate justice and public health,63,background adaptive governance stress,0.1709,0.44618,1.0,0.73467,1.0
+SYS003,Urban Heat and Housing Resilience Governance System,urban climate justice and public health,64,background adaptive governance stress,0.17057,0.44633,1.0,0.73318,1.0
+SYS003,Urban Heat and Housing Resilience Governance System,urban climate justice and public health,65,background adaptive governance stress,0.17276,0.44648,1.0,0.73172,1.0
+SYS003,Urban Heat and Housing Resilience Governance System,urban climate justice and public health,66,background adaptive governance stress,0.1697,0.44663,1.0,0.7302,1.0
+SYS003,Urban Heat and Housing Resilience Governance System,urban climate justice and public health,67,background adaptive governance stress,0.17212,0.44678,1.0,0.72873,1.0
+SYS003,Urban Heat and Housing Resilience Governance System,urban climate justice and public health,68,background adaptive governance stress,0.16949,0.44693,1.0,0.7272,1.0
+SYS003,Urban Heat and Housing Resilience Governance System,urban climate justice and public health,69,background adaptive governance stress,0.17118,0.44708,1.0,0.72571,1.0
+SYS003,Urban Heat and Housing Resilience Governance System,urban climate justice and public health,70,Compound governance crisis with equity and legal contestation,0.95226,0.44723,1.0,0.73983,0.83984
+SYS003,Urban Heat and Housing Resilience Governance System,urban climate justice and public health,71,background adaptive governance stress,0.17585,0.44582,1.0,0.73845,1.0
+SYS003,Urban Heat and Housing Resilience Governance System,urban climate justice and public health,72,background adaptive governance stress,0.17001,0.44596,1.0,0.73694,1.0
+SYS003,Urban Heat and Housing Resilience Governance System,urban climate justice and public health,73,background adaptive governance stress,0.17354,0.44611,1.0,0.7355,1.0
+SYS003,Urban Heat and Housing Resilience Governance System,urban climate justice and public health,74,background adaptive governance stress,0.16986,0.44625,1.0,0.73399,1.0
+SYS003,Urban Heat and Housing Resilience Governance System,urban climate justice and public health,75,background adaptive governance stress,0.17142,0.4464,1.0,0.73251,1.0
+SYS003,Urban Heat and Housing Resilience Governance System,urban climate justice and public health,76,background adaptive governance stress,0.17222,0.44655,1.0,0.73104,1.0
+SYS003,Urban Heat and Housing Resilience Governance System,urban climate justice and public health,77,background adaptive governance stress,0.17397,0.4467,1.0,0.72961,1.0
+SYS003,Urban Heat and Housing Resilience Governance System,urban climate justice and public health,78,background adaptive governance stress,0.172,0.44684,1.0,0.72813,1.0
+SYS003,Urban Heat and Housing Resilience Governance System,urban climate justice and public health,79,background adaptive governance stress,0.17495,0.44699,1.0,0.72672,1.0
+SYS004,Disaster Risk Governance and Recovery Institution,disaster risk reduction and recovery,0,background adaptive governance stress,0.16726,0.4662,1.0,0.81822,1.0
+SYS004,Disaster Risk Governance and Recovery Institution,disaster risk reduction and recovery,1,background adaptive governance stress,0.16789,0.46638,1.0,0.81644,1.0
+SYS004,Disaster Risk Governance and Recovery Institution,disaster risk reduction and recovery,2,background adaptive governance stress,0.16296,0.46656,1.0,0.81457,1.0
+SYS004,Disaster Risk Governance and Recovery Institution,disaster risk reduction and recovery,3,background adaptive governance stress,0.16446,0.46674,1.0,0.81273,1.0
+SYS004,Disaster Risk Governance and Recovery Institution,disaster risk reduction and recovery,4,background adaptive governance stress,0.1677,0.46693,1.0,0.81094,1.0
+SYS004,Disaster Risk Governance and Recovery Institution,disaster risk reduction and recovery,5,background adaptive governance stress,0.16537,0.46711,1.0,0.80911,1.0
+SYS004,Disaster Risk Governance and Recovery Institution,disaster risk reduction and recovery,6,background adaptive governance stress,0.16341,0.46729,1.0,0.80724,1.0
+SYS004,Disaster Risk Governance and Recovery Institution,disaster risk reduction and recovery,7,background adaptive governance stress,0.16482,0.46748,1.0,0.8054,1.0
+SYS004,Disaster Risk Governance and Recovery Institution,disaster risk reduction and recovery,8,background adaptive governance stress,0.16334,0.46766,1.0,0.80352,1.0
+SYS004,Disaster Risk Governance and Recovery Institution,disaster risk reduction and recovery,9,background adaptive governance stress,0.16518,0.46785,1.0,0.80168,1.0
+SYS004,Disaster Risk Governance and Recovery Institution,disaster risk reduction and recovery,10,background adaptive governance stress,0.16481,0.46803,1.0,0.79982,1.0
+SYS004,Disaster Risk Governance and Recovery Institution,disaster risk reduction and recovery,11,background adaptive governance stress,0.1682,0.46822,1.0,0.79804,1.0
+SYS004,Disaster Risk Governance and Recovery Institution,disaster risk reduction and recovery,12,Extreme climate uncertainty and conflicting projections,0.82364,0.4684,1.0,0.80936,0.8712
+SYS004,Disaster Risk Governance and Recovery Institution,disaster risk reduction and recovery,13,background adaptive governance stress,0.16863,0.46726,1.0,0.80759,1.0
+SYS004,Disaster Risk Governance and Recovery Institution,disaster risk reduction and recovery,14,background adaptive governance stress,0.16938,0.46744,1.0,0.80584,1.0
+SYS004,Disaster Risk Governance and Recovery Institution,disaster risk reduction and recovery,15,background adaptive governance stress,0.16605,0.46762,1.0,0.80401,1.0
+SYS004,Disaster Risk Governance and Recovery Institution,disaster risk reduction and recovery,16,background adaptive governance stress,0.17008,0.4678,1.0,0.80227,1.0
+SYS004,Disaster Risk Governance and Recovery Institution,disaster risk reduction and recovery,17,background adaptive governance stress,0.16784,0.46797,1.0,0.80048,1.0
+SYS004,Disaster Risk Governance and Recovery Institution,disaster risk reduction and recovery,18,background adaptive governance stress,0.16572,0.46815,1.0,0.79864,1.0
+SYS004,Disaster Risk Governance and Recovery Institution,disaster risk reduction and recovery,19,background adaptive governance stress,0.16923,0.46834,1.0,0.79688,1.0
+SYS004,Disaster Risk Governance and Recovery Institution,disaster risk reduction and recovery,20,background adaptive governance stress,0.17095,0.46851,1.0,0.79514,1.0
+SYS004,Disaster Risk Governance and Recovery Institution,disaster risk reduction and recovery,21,background adaptive governance stress,0.1689,0.46869,1.0,0.79336,1.0
+SYS004,Disaster Risk Governance and Recovery Institution,disaster risk reduction and recovery,22,background adaptive governance stress,0.16703,0.46886,1.0,0.79155,1.0
+SYS004,Disaster Risk Governance and Recovery Institution,disaster risk reduction and recovery,23,background adaptive governance stress,0.16627,0.46905,1.0,0.78971,1.0
+SYS004,Disaster Risk Governance and Recovery Institution,disaster risk reduction and recovery,24,background adaptive governance stress,0.16502,0.46923,1.0,0.78785,1.0
+SYS004,Disaster Risk Governance and Recovery Institution,disaster risk reduction and recovery,25,background adaptive governance stress,0.16716,0.46941,1.0,0.78603,1.0
+SYS004,Disaster Risk Governance and Recovery Institution,disaster risk reduction and recovery,26,background adaptive governance stress,0.16993,0.4696,1.0,0.78426,1.0
+SYS004,Disaster Risk Governance and Recovery Institution,disaster risk reduction and recovery,27,Multi-agency coordination breakdown during compound event,0.87114,0.46977,1.0,0.79652,0.8544
+SYS004,Disaster Risk Governance and Recovery Institution,disaster risk reduction and recovery,28,background adaptive governance stress,0.16772,0.46855,1.0,0.79472,1.0
+SYS004,Disaster Risk Governance and Recovery Institution,disaster risk reduction and recovery,29,background adaptive governance stress,0.17322,0.46873,1.0,0.79303,1.0
+SYS004,Disaster Risk Governance and Recovery Institution,disaster risk reduction and recovery,30,background adaptive governance stress,0.17078,0.4689,1.0,0.79129,1.0
+SYS004,Disaster Risk Governance and Recovery Institution,disaster risk reduction and recovery,31,background adaptive governance stress,0.16884,0.46907,1.0,0.7895,1.0
+SYS004,Disaster Risk Governance and Recovery Institution,disaster risk reduction and recovery,32,background adaptive governance stress,0.16992,0.46925,1.0,0.78774,1.0
+SYS004,Disaster Risk Governance and Recovery Institution,disaster risk reduction and recovery,33,background adaptive governance stress,0.1706,0.46943,1.0,0.78599,1.0
+SYS004,Disaster Risk Governance and Recovery Institution,disaster risk reduction and recovery,34,background adaptive governance stress,0.17044,0.4696,1.0,0.78423,1.0
+SYS004,Disaster Risk Governance and Recovery Institution,disaster risk reduction and recovery,35,background adaptive governance stress,0.16771,0.46978,1.0,0.78242,1.0
+SYS004,Disaster Risk Governance and Recovery Institution,disaster risk reduction and recovery,36,background adaptive governance stress,0.16871,0.46996,1.0,0.78062,1.0
+SYS004,Disaster Risk Governance and Recovery Institution,disaster risk reduction and recovery,37,background adaptive governance stress,0.17087,0.47014,1.0,0.77887,1.0
+SYS004,Disaster Risk Governance and Recovery Institution,disaster risk reduction and recovery,38,background adaptive governance stress,0.17033,0.47031,1.0,0.7771,1.0
+SYS004,Disaster Risk Governance and Recovery Institution,disaster risk reduction and recovery,39,background adaptive governance stress,0.16809,0.47049,1.0,0.77529,1.0
+SYS004,Disaster Risk Governance and Recovery Institution,disaster risk reduction and recovery,40,background adaptive governance stress,0.17057,0.47067,1.0,0.77352,1.0
+SYS004,Disaster Risk Governance and Recovery Institution,disaster risk reduction and recovery,41,background adaptive governance stress,0.16911,0.47085,1.0,0.77172,1.0
+SYS004,Disaster Risk Governance and Recovery Institution,disaster risk reduction and recovery,42,Public trust shock after failed adaptation project,0.83974,0.47103,1.0,0.78334,0.8488
+SYS004,Disaster Risk Governance and Recovery Institution,disaster risk reduction and recovery,43,background adaptive governance stress,0.17049,0.46987,1.0,0.78158,1.0
+SYS004,Disaster Risk Governance and Recovery Institution,disaster risk reduction and recovery,44,background adaptive governance stress,0.17048,0.47004,1.0,0.77982,1.0
+SYS004,Disaster Risk Governance and Recovery Institution,disaster risk reduction and recovery,45,background adaptive governance stress,0.17321,0.47022,1.0,0.77811,1.0
+SYS004,Disaster Risk Governance and Recovery Institution,disaster risk reduction and recovery,46,background adaptive governance stress,0.17345,0.47039,1.0,0.77641,1.0
+SYS004,Disaster Risk Governance and Recovery Institution,disaster risk reduction and recovery,47,background adaptive governance stress,0.17245,0.47056,1.0,0.77468,1.0
+SYS004,Disaster Risk Governance and Recovery Institution,disaster risk reduction and recovery,48,background adaptive governance stress,0.16925,0.47073,1.0,0.77289,1.0
+SYS004,Disaster Risk Governance and Recovery Institution,disaster risk reduction and recovery,49,background adaptive governance stress,0.16963,0.47091,1.0,0.7711,1.0
+SYS004,Disaster Risk Governance and Recovery Institution,disaster risk reduction and recovery,50,background adaptive governance stress,0.1733,0.47109,1.0,0.76938,1.0
+SYS004,Disaster Risk Governance and Recovery Institution,disaster risk reduction and recovery,51,background adaptive governance stress,0.17343,0.47126,1.0,0.76767,1.0
+SYS004,Disaster Risk Governance and Recovery Institution,disaster risk reduction and recovery,52,background adaptive governance stress,0.16977,0.47143,1.0,0.76588,1.0
+SYS004,Disaster Risk Governance and Recovery Institution,disaster risk reduction and recovery,53,background adaptive governance stress,0.16937,0.47161,1.0,0.76408,1.0
+SYS004,Disaster Risk Governance and Recovery Institution,disaster risk reduction and recovery,54,background adaptive governance stress,0.17163,0.47179,1.0,0.76232,1.0
+SYS004,Disaster Risk Governance and Recovery Institution,disaster risk reduction and recovery,55,background adaptive governance stress,0.16992,0.47197,1.0,0.76053,1.0
+SYS004,Disaster Risk Governance and Recovery Institution,disaster risk reduction and recovery,56,Data-platform disruption and misinformation surge,0.85584,0.47215,1.0,0.77245,0.86
+SYS004,Disaster Risk Governance and Recovery Institution,disaster risk reduction and recovery,57,background adaptive governance stress,0.1711,0.47096,1.0,0.77069,1.0
+SYS004,Disaster Risk Governance and Recovery Institution,disaster risk reduction and recovery,58,background adaptive governance stress,0.17254,0.47113,1.0,0.76896,1.0
+SYS004,Disaster Risk Governance and Recovery Institution,disaster risk reduction and recovery,59,background adaptive governance stress,0.17445,0.4713,1.0,0.76726,1.0
+SYS004,Disaster Risk Governance and Recovery Institution,disaster risk reduction and recovery,60,background adaptive governance stress,0.17069,0.47147,1.0,0.76549,1.0
+SYS004,Disaster Risk Governance and Recovery Institution,disaster risk reduction and recovery,61,background adaptive governance stress,0.17213,0.47165,1.0,0.76375,1.0
+SYS004,Disaster Risk Governance and Recovery Institution,disaster risk reduction and recovery,62,background adaptive governance stress,0.17203,0.47183,1.0,0.762,1.0
+SYS004,Disaster Risk Governance and Recovery Institution,disaster risk reduction and recovery,63,background adaptive governance stress,0.17319,0.472,1.0,0.76027,1.0
+SYS004,Disaster Risk Governance and Recovery Institution,disaster risk reduction and recovery,64,background adaptive governance stress,0.17293,0.47217,1.0,0.75853,1.0
+SYS004,Disaster Risk Governance and Recovery Institution,disaster risk reduction and recovery,65,background adaptive governance stress,0.17492,0.47235,1.0,0.75683,1.0
+SYS004,Disaster Risk Governance and Recovery Institution,disaster risk reduction and recovery,66,background adaptive governance stress,0.17482,0.47252,1.0,0.75513,1.0
+SYS004,Disaster Risk Governance and Recovery Institution,disaster risk reduction and recovery,67,background adaptive governance stress,0.17171,0.47269,1.0,0.75337,1.0
+SYS004,Disaster Risk Governance and Recovery Institution,disaster risk reduction and recovery,68,background adaptive governance stress,0.17037,0.47286,1.0,0.75157,1.0
+SYS004,Disaster Risk Governance and Recovery Institution,disaster risk reduction and recovery,69,background adaptive governance stress,0.17105,0.47304,1.0,0.74979,1.0
+SYS004,Disaster Risk Governance and Recovery Institution,disaster risk reduction and recovery,70,Compound governance crisis with equity and legal contestation,0.95418,0.47322,1.0,0.76367,0.8376
+SYS004,Disaster Risk Governance and Recovery Institution,disaster risk reduction and recovery,71,background adaptive governance stress,0.175,0.47183,1.0,0.76198,1.0
+SYS004,Disaster Risk Governance and Recovery Institution,disaster risk reduction and recovery,72,background adaptive governance stress,0.1742,0.472,1.0,0.76027,1.0
+SYS004,Disaster Risk Governance and Recovery Institution,disaster risk reduction and recovery,73,background adaptive governance stress,0.17529,0.47217,1.0,0.75858,1.0
+SYS004,Disaster Risk Governance and Recovery Institution,disaster risk reduction and recovery,74,background adaptive governance stress,0.17552,0.47234,1.0,0.7569,1.0
+SYS004,Disaster Risk Governance and Recovery Institution,disaster risk reduction and recovery,75,background adaptive governance stress,0.17088,0.47251,1.0,0.75512,1.0
+SYS004,Disaster Risk Governance and Recovery Institution,disaster risk reduction and recovery,76,background adaptive governance stress,0.17598,0.47269,1.0,0.75344,1.0
+SYS004,Disaster Risk Governance and Recovery Institution,disaster risk reduction and recovery,77,background adaptive governance stress,0.17708,0.47286,1.0,0.75178,1.0
+SYS004,Disaster Risk Governance and Recovery Institution,disaster risk reduction and recovery,78,background adaptive governance stress,0.17689,0.47302,1.0,0.75011,1.0
+SYS004,Disaster Risk Governance and Recovery Institution,disaster risk reduction and recovery,79,background adaptive governance stress,0.1725,0.47319,1.0,0.74836,1.0
+SYS005,Community Knowledge and Participatory Planning Platform,community governance and co-production,0,background adaptive governance stress,0.15492,0.548,1.0,0.63707,1.0
+SYS005,Community Knowledge and Participatory Planning Platform,community governance and co-production,1,background adaptive governance stress,0.15085,0.54829,1.0,0.63406,1.0
+SYS005,Community Knowledge and Participatory Planning Platform,community governance and co-production,2,background adaptive governance stress,0.15198,0.54859,1.0,0.63106,1.0
+SYS005,Community Knowledge and Participatory Planning Platform,community governance and co-production,3,background adaptive governance stress,0.14989,0.54889,1.0,0.62802,1.0
+SYS005,Community Knowledge and Participatory Planning Platform,community governance and co-production,4,background adaptive governance stress,0.15226,0.5492,1.0,0.62503,1.0
+SYS005,Community Knowledge and Participatory Planning Platform,community governance and co-production,5,background adaptive governance stress,0.15082,0.5495,1.0,0.622,1.0
+SYS005,Community Knowledge and Participatory Planning Platform,community governance and co-production,6,background adaptive governance stress,0.15139,0.5498,1.0,0.61898,1.0
+SYS005,Community Knowledge and Participatory Planning Platform,community governance and co-production,7,background adaptive governance stress,0.1527,0.5501,1.0,0.61598,1.0
+SYS005,Community Knowledge and Participatory Planning Platform,community governance and co-production,8,background adaptive governance stress,0.14981,0.5504,1.0,0.61292,1.0
+SYS005,Community Knowledge and Participatory Planning Platform,community governance and co-production,9,background adaptive governance stress,0.15205,0.55071,1.0,0.60991,1.0
+SYS005,Community Knowledge and Participatory Planning Platform,community governance and co-production,10,background adaptive governance stress,0.15048,0.55101,1.0,0.60685,1.0
+SYS005,Community Knowledge and Participatory Planning Platform,community governance and co-production,11,background adaptive governance stress,0.14976,0.55131,1.0,0.60378,1.0
+SYS005,Community Knowledge and Participatory Planning Platform,community governance and co-production,12,Extreme climate uncertainty and conflicting projections,0.8081,0.55162,1.0,0.61388,0.86896
+SYS005,Community Knowledge and Participatory Planning Platform,community governance and co-production,13,background adaptive governance stress,0.15113,0.55061,1.0,0.61084,1.0
+SYS005,Community Knowledge and Participatory Planning Platform,community governance and co-production,14,background adaptive governance stress,0.15096,0.55092,1.0,0.6078,1.0
+SYS005,Community Knowledge and Participatory Planning Platform,community governance and co-production,15,background adaptive governance stress,0.15431,0.55122,1.0,0.60483,1.0
+SYS005,Community Knowledge and Participatory Planning Platform,community governance and co-production,16,background adaptive governance stress,0.15039,0.55152,1.0,0.60177,1.0
+SYS005,Community Knowledge and Participatory Planning Platform,community governance and co-production,17,background adaptive governance stress,0.15214,0.55182,1.0,0.59874,1.0
+SYS005,Community Knowledge and Participatory Planning Platform,community governance and co-production,18,background adaptive governance stress,0.15153,0.55213,1.0,0.5957,1.0
+SYS005,Community Knowledge and Participatory Planning Platform,community governance and co-production,19,background adaptive governance stress,0.15018,0.55243,1.0,0.59262,1.0
+SYS005,Community Knowledge and Participatory Planning Platform,community governance and co-production,20,background adaptive governance stress,0.15345,0.55274,1.0,0.58961,1.0
+SYS005,Community Knowledge and Participatory Planning Platform,community governance and co-production,21,background adaptive governance stress,0.15213,0.55304,1.0,0.58657,1.0
+SYS005,Community Knowledge and Participatory Planning Platform,community governance and co-production,22,background adaptive governance stress,0.15509,0.55334,1.0,0.58359,1.0
+SYS005,Community Knowledge and Participatory Planning Platform,community governance and co-production,23,background adaptive governance stress,0.15027,0.55364,1.0,0.5805,1.0
+SYS005,Community Knowledge and Participatory Planning Platform,community governance and co-production,24,background adaptive governance stress,0.14902,0.55395,1.0,0.57739,1.0
+SYS005,Community Knowledge and Participatory Planning Platform,community governance and co-production,25,background adaptive governance stress,0.14817,0.55426,1.0,0.57426,1.0
+SYS005,Community Knowledge and Participatory Planning Platform,community governance and co-production,26,background adaptive governance stress,0.14925,0.55457,1.0,0.57114,1.0
+SYS005,Community Knowledge and Participatory Planning Platform,community governance and co-production,27,Multi-agency coordination breakdown during compound event,0.85409,0.55489,1.0,0.58212,0.85216
+SYS005,Community Knowledge and Participatory Planning Platform,community governance and co-production,28,background adaptive governance stress,0.14835,0.55379,1.0,0.57899,1.0
+SYS005,Community Knowledge and Participatory Planning Platform,community governance and co-production,29,background adaptive governance stress,0.15159,0.5541,1.0,0.57593,1.0
+SYS005,Community Knowledge and Participatory Planning Platform,community governance and co-production,30,background adaptive governance stress,0.15107,0.55441,1.0,0.57285,1.0
+SYS005,Community Knowledge and Participatory Planning Platform,community governance and co-production,31,background adaptive governance stress,0.15312,0.55471,1.0,0.56981,1.0
+SYS005,Community Knowledge and Participatory Planning Platform,community governance and co-production,32,background adaptive governance stress,0.15202,0.55502,1.0,0.56675,1.0
+SYS005,Community Knowledge and Participatory Planning Platform,community governance and co-production,33,background adaptive governance stress,0.15136,0.55533,1.0,0.56367,1.0
+SYS005,Community Knowledge and Participatory Planning Platform,community governance and co-production,34,background adaptive governance stress,0.15365,0.55563,1.0,0.56063,1.0
+SYS005,Community Knowledge and Participatory Planning Platform,community governance and co-production,35,background adaptive governance stress,0.15464,0.55594,1.0,0.55761,1.0
+SYS005,Community Knowledge and Participatory Planning Platform,community governance and co-production,36,background adaptive governance stress,0.15262,0.55624,1.0,0.55454,1.0
+SYS005,Community Knowledge and Participatory Planning Platform,community governance and co-production,37,background adaptive governance stress,0.15264,0.55655,1.0,0.55147,1.0
+SYS005,Community Knowledge and Participatory Planning Platform,community governance and co-production,38,background adaptive governance stress,0.14915,0.55685,1.0,0.54833,1.0
+SYS005,Community Knowledge and Participatory Planning Platform,community governance and co-production,39,background adaptive governance stress,0.15104,0.55717,1.0,0.54522,1.0
+SYS005,Community Knowledge and Participatory Planning Platform,community governance and co-production,40,background adaptive governance stress,0.15087,0.55748,1.0,0.54211,1.0
+SYS005,Community Knowledge and Participatory Planning Platform,community governance and co-production,41,background adaptive governance stress,0.1502,0.55779,1.0,0.53897,1.0
+SYS005,Community Knowledge and Participatory Planning Platform,community governance and co-production,42,Public trust shock after failed adaptation project,0.82112,0.5581,1.0,0.54926,0.84656
+SYS005,Community Knowledge and Participatory Planning Platform,community governance and co-production,43,background adaptive governance stress,0.15392,0.55707,1.0,0.54621,1.0
+SYS005,Community Knowledge and Participatory Planning Platform,community governance and co-production,44,background adaptive governance stress,0.15134,0.55738,1.0,0.5431,1.0
+SYS005,Community Knowledge and Participatory Planning Platform,community governance and co-production,45,background adaptive governance stress,0.15445,0.55769,1.0,0.54006,1.0
+SYS005,Community Knowledge and Participatory Planning Platform,community governance and co-production,46,background adaptive governance stress,0.15403,0.55799,1.0,0.537,1.0
+SYS005,Community Knowledge and Participatory Planning Platform,community governance and co-production,47,background adaptive governance stress,0.15117,0.5583,1.0,0.53388,1.0
+SYS005,Community Knowledge and Participatory Planning Platform,community governance and co-production,48,background adaptive governance stress,0.14906,0.55861,1.0,0.53072,1.0
+SYS005,Community Knowledge and Participatory Planning Platform,community governance and co-production,49,background adaptive governance stress,0.14944,0.55893,1.0,0.52756,1.0
+SYS005,Community Knowledge and Participatory Planning Platform,community governance and co-production,50,background adaptive governance stress,0.14876,0.55924,1.0,0.52438,1.0
+SYS005,Community Knowledge and Participatory Planning Platform,community governance and co-production,51,background adaptive governance stress,0.14934,0.55956,1.0,0.52122,1.0
+SYS005,Community Knowledge and Participatory Planning Platform,community governance and co-production,52,background adaptive governance stress,0.15024,0.55988,1.0,0.51806,1.0
+SYS005,Community Knowledge and Participatory Planning Platform,community governance and co-production,53,background adaptive governance stress,0.1481,0.56019,1.0,0.51486,1.0
+SYS005,Community Knowledge and Participatory Planning Platform,community governance and co-production,54,background adaptive governance stress,0.1499,0.56051,1.0,0.51169,1.0
+SYS005,Community Knowledge and Participatory Planning Platform,community governance and co-production,55,background adaptive governance stress,0.14995,0.56083,1.0,0.50852,1.0
+SYS005,Community Knowledge and Participatory Planning Platform,community governance and co-production,56,Data-platform disruption and misinformation surge,0.83568,0.56115,1.0,0.51906,0.85776
+SYS005,Community Knowledge and Participatory Planning Platform,community governance and co-production,57,background adaptive governance stress,0.1511,0.56009,1.0,0.51593,1.0
+SYS005,Community Knowledge and Participatory Planning Platform,community governance and co-production,58,background adaptive governance stress,0.15265,0.56041,1.0,0.51281,1.0
+SYS005,Community Knowledge and Participatory Planning Platform,community governance and co-production,59,background adaptive governance stress,0.15166,0.56072,1.0,0.50968,1.0
+SYS005,Community Knowledge and Participatory Planning Platform,community governance and co-production,60,background adaptive governance stress,0.15437,0.56103,1.0,0.5066,1.0
+SYS005,Community Knowledge and Participatory Planning Platform,community governance and co-production,61,background adaptive governance stress,0.1513,0.56134,1.0,0.50345,1.0
+SYS005,Community Knowledge and Participatory Planning Platform,community governance and co-production,62,background adaptive governance stress,0.15027,0.56166,1.0,0.50027,1.0
+SYS005,Community Knowledge and Participatory Planning Platform,community governance and co-production,63,background adaptive governance stress,0.15316,0.56197,1.0,0.49716,1.0
+SYS005,Community Knowledge and Participatory Planning Platform,community governance and co-production,64,background adaptive governance stress,0.15296,0.56228,1.0,0.49403,1.0
+SYS005,Community Knowledge and Participatory Planning Platform,community governance and co-production,65,background adaptive governance stress,0.14966,0.5626,1.0,0.49083,1.0
+SYS005,Community Knowledge and Participatory Planning Platform,community governance and co-production,66,background adaptive governance stress,0.1545,0.56292,1.0,0.48773,1.0
+SYS005,Community Knowledge and Participatory Planning Platform,community governance and co-production,67,background adaptive governance stress,0.1488,0.56323,1.0,0.48451,1.0
+SYS005,Community Knowledge and Participatory Planning Platform,community governance and co-production,68,background adaptive governance stress,0.15117,0.56355,1.0,0.48134,1.0
+SYS005,Community Knowledge and Participatory Planning Platform,community governance and co-production,69,background adaptive governance stress,0.149,0.56387,1.0,0.47811,1.0
+SYS005,Community Knowledge and Participatory Planning Platform,community governance and co-production,70,Compound governance crisis with equity and legal contestation,0.93245,0.56419,1.0,0.49056,0.83536
+SYS005,Community Knowledge and Participatory Planning Platform,community governance and co-production,71,background adaptive governance stress,0.15124,0.56294,1.0,0.48739,1.0
+SYS005,Community Knowledge and Participatory Planning Platform,community governance and co-production,72,background adaptive governance stress,0.14957,0.56326,1.0,0.48419,1.0
+SYS005,Community Knowledge and Participatory Planning Platform,community governance and co-production,73,background adaptive governance stress,0.1522,0.56358,1.0,0.48103,1.0
+SYS005,Community Knowledge and Participatory Planning Platform,community governance and co-production,74,background adaptive governance stress,0.15364,0.5639,1.0,0.4779,1.0
+SYS005,Community Knowledge and Participatory Planning Platform,community governance and co-production,75,background adaptive governance stress,0.1502,0.56421,1.0,0.4747,1.0
+SYS005,Community Knowledge and Participatory Planning Platform,community governance and co-production,76,background adaptive governance stress,0.15231,0.56453,1.0,0.47153,1.0
+SYS005,Community Knowledge and Participatory Planning Platform,community governance and co-production,77,background adaptive governance stress,0.15123,0.56485,1.0,0.46834,1.0
+SYS005,Community Knowledge and Participatory Planning Platform,community governance and co-production,78,background adaptive governance stress,0.1545,0.56517,1.0,0.46522,1.0
+SYS005,Community Knowledge and Participatory Planning Platform,community governance and co-production,79,background adaptive governance stress,0.14834,0.56548,1.0,0.46196,1.0
+SYS006,Infrastructure Regulation and Adaptive Standards System,infrastructure resilience and regulation,0,background adaptive governance stress,0.16479,0.455,1.0,0.79829,1.0
+SYS006,Infrastructure Regulation and Adaptive Standards System,infrastructure resilience and regulation,1,background adaptive governance stress,0.16763,0.45517,1.0,0.79664,1.0
+SYS006,Infrastructure Regulation and Adaptive Standards System,infrastructure resilience and regulation,2,background adaptive governance stress,0.16521,0.45534,1.0,0.79493,1.0
+SYS006,Infrastructure Regulation and Adaptive Standards System,infrastructure resilience and regulation,3,background adaptive governance stress,0.16224,0.45551,1.0,0.79317,1.0
+SYS006,Infrastructure Regulation and Adaptive Standards System,infrastructure resilience and regulation,4,background adaptive governance stress,0.16532,0.45568,1.0,0.79146,1.0
+SYS006,Infrastructure Regulation and Adaptive Standards System,infrastructure resilience and regulation,5,background adaptive governance stress,0.16425,0.45585,1.0,0.78973,1.0
+SYS006,Infrastructure Regulation and Adaptive Standards System,infrastructure resilience and regulation,6,background adaptive governance stress,0.16244,0.45603,1.0,0.78796,1.0
+SYS006,Infrastructure Regulation and Adaptive Standards System,infrastructure resilience and regulation,7,background adaptive governance stress,0.16384,0.4562,1.0,0.78622,1.0
+SYS006,Infrastructure Regulation and Adaptive Standards System,infrastructure resilience and regulation,8,background adaptive governance stress,0.1665,0.45638,1.0,0.78453,1.0
+SYS006,Infrastructure Regulation and Adaptive Standards System,infrastructure resilience and regulation,9,background adaptive governance stress,0.16469,0.45655,1.0,0.7828,1.0
+SYS006,Infrastructure Regulation and Adaptive Standards System,infrastructure resilience and regulation,10,background adaptive governance stress,0.16691,0.45672,1.0,0.78112,1.0
+SYS006,Infrastructure Regulation and Adaptive Standards System,infrastructure resilience and regulation,11,background adaptive governance stress,0.16791,0.45689,1.0,0.77945,1.0
+SYS006,Infrastructure Regulation and Adaptive Standards System,infrastructure resilience and regulation,12,Extreme climate uncertainty and conflicting projections,0.82216,0.45705,1.0,0.79087,0.86672
+SYS006,Infrastructure Regulation and Adaptive Standards System,infrastructure resilience and regulation,13,background adaptive governance stress,0.16477,0.45591,1.0,0.78915,1.0
+SYS006,Infrastructure Regulation and Adaptive Standards System,infrastructure resilience and regulation,14,background adaptive governance stress,0.16992,0.45609,1.0,0.78753,1.0
+SYS006,Infrastructure Regulation and Adaptive Standards System,infrastructure resilience and regulation,15,background adaptive governance stress,0.1645,0.45625,1.0,0.7858,1.0
+SYS006,Infrastructure Regulation and Adaptive Standards System,infrastructure resilience and regulation,16,background adaptive governance stress,0.16848,0.45642,1.0,0.78415,1.0
+SYS006,Infrastructure Regulation and Adaptive Standards System,infrastructure resilience and regulation,17,background adaptive governance stress,0.16979,0.45659,1.0,0.78252,1.0
+SYS006,Infrastructure Regulation and Adaptive Standards System,infrastructure resilience and regulation,18,background adaptive governance stress,0.16892,0.45675,1.0,0.78088,1.0
+SYS006,Infrastructure Regulation and Adaptive Standards System,infrastructure resilience and regulation,19,background adaptive governance stress,0.16606,0.45691,1.0,0.77917,1.0
+SYS006,Infrastructure Regulation and Adaptive Standards System,infrastructure resilience and regulation,20,background adaptive governance stress,0.16763,0.45708,1.0,0.77749,1.0
+SYS006,Infrastructure Regulation and Adaptive Standards System,infrastructure resilience and regulation,21,background adaptive governance stress,0.1684,0.45725,1.0,0.77583,1.0
+SYS006,Infrastructure Regulation and Adaptive Standards System,infrastructure resilience and regulation,22,background adaptive governance stress,0.16689,0.45742,1.0,0.77414,1.0
+SYS006,Infrastructure Regulation and Adaptive Standards System,infrastructure resilience and regulation,23,background adaptive governance stress,0.16939,0.45759,1.0,0.77249,1.0
+SYS006,Infrastructure Regulation and Adaptive Standards System,infrastructure resilience and regulation,24,background adaptive governance stress,0.16886,0.45775,1.0,0.77084,1.0
+SYS006,Infrastructure Regulation and Adaptive Standards System,infrastructure resilience and regulation,25,background adaptive governance stress,0.1649,0.45792,1.0,0.7691,1.0
+SYS006,Infrastructure Regulation and Adaptive Standards System,infrastructure resilience and regulation,26,background adaptive governance stress,0.16468,0.45809,1.0,0.76735,1.0
+SYS006,Infrastructure Regulation and Adaptive Standards System,infrastructure resilience and regulation,27,Multi-agency coordination breakdown during compound event,0.86979,0.45826,1.0,0.77971,0.84992
+SYS006,Infrastructure Regulation and Adaptive Standards System,infrastructure resilience and regulation,28,background adaptive governance stress,0.16459,0.45703,1.0,0.77797,1.0
+SYS006,Infrastructure Regulation and Adaptive Standards System,infrastructure resilience and regulation,29,background adaptive governance stress,0.16919,0.4572,1.0,0.77632,1.0
+SYS006,Infrastructure Regulation and Adaptive Standards System,infrastructure resilience and regulation,30,background adaptive governance stress,0.17142,0.45737,1.0,0.77472,1.0
+SYS006,Infrastructure Regulation and Adaptive Standards System,infrastructure resilience and regulation,31,background adaptive governance stress,0.16569,0.45753,1.0,0.773,1.0
+SYS006,Infrastructure Regulation and Adaptive Standards System,infrastructure resilience and regulation,32,background adaptive governance stress,0.1647,0.4577,1.0,0.77126,1.0
+SYS006,Infrastructure Regulation and Adaptive Standards System,infrastructure resilience and regulation,33,background adaptive governance stress,0.16825,0.45787,1.0,0.76959,1.0
+SYS006,Infrastructure Regulation and Adaptive Standards System,infrastructure resilience and regulation,34,background adaptive governance stress,0.1685,0.45804,1.0,0.76792,1.0
+SYS006,Infrastructure Regulation and Adaptive Standards System,infrastructure resilience and regulation,35,background adaptive governance stress,0.17015,0.45821,1.0,0.76629,1.0
+SYS006,Infrastructure Regulation and Adaptive Standards System,infrastructure resilience and regulation,36,background adaptive governance stress,0.16647,0.45837,1.0,0.76457,1.0
+SYS006,Infrastructure Regulation and Adaptive Standards System,infrastructure resilience and regulation,37,background adaptive governance stress,0.16787,0.45854,1.0,0.76289,1.0
+SYS006,Infrastructure Regulation and Adaptive Standards System,infrastructure resilience and regulation,38,background adaptive governance stress,0.16856,0.45871,1.0,0.76121,1.0
+SYS006,Infrastructure Regulation and Adaptive Standards System,infrastructure resilience and regulation,39,background adaptive governance stress,0.1696,0.45888,1.0,0.75956,1.0
+SYS006,Infrastructure Regulation and Adaptive Standards System,infrastructure resilience and regulation,40,background adaptive governance stress,0.16591,0.45904,1.0,0.75782,1.0
+SYS006,Infrastructure Regulation and Adaptive Standards System,infrastructure resilience and regulation,41,background adaptive governance stress,0.17144,0.45922,1.0,0.7562,1.0
+SYS006,Infrastructure Regulation and Adaptive Standards System,infrastructure resilience and regulation,42,Public trust shock after failed adaptation project,0.8385,0.45938,1.0,0.76792,0.84432
+SYS006,Infrastructure Regulation and Adaptive Standards System,infrastructure resilience and regulation,43,background adaptive governance stress,0.1678,0.45821,1.0,0.76623,1.0
+SYS006,Infrastructure Regulation and Adaptive Standards System,infrastructure resilience and regulation,44,background adaptive governance stress,0.16992,0.45838,1.0,0.76459,1.0
+SYS006,Infrastructure Regulation and Adaptive Standards System,infrastructure resilience and regulation,45,background adaptive governance stress,0.16648,0.45854,1.0,0.76288,1.0
+SYS006,Infrastructure Regulation and Adaptive Standards System,infrastructure resilience and regulation,46,background adaptive governance stress,0.16953,0.45871,1.0,0.76122,1.0
+SYS006,Infrastructure Regulation and Adaptive Standards System,infrastructure resilience and regulation,47,background adaptive governance stress,0.1678,0.45888,1.0,0.75953,1.0
+SYS006,Infrastructure Regulation and Adaptive Standards System,infrastructure resilience and regulation,48,background adaptive governance stress,0.17293,0.45905,1.0,0.75794,1.0
+SYS006,Infrastructure Regulation and Adaptive Standards System,infrastructure resilience and regulation,49,background adaptive governance stress,0.16948,0.45921,1.0,0.75628,1.0
+SYS006,Infrastructure Regulation and Adaptive Standards System,infrastructure resilience and regulation,50,background adaptive governance stress,0.17096,0.45937,1.0,0.75464,1.0
+SYS006,Infrastructure Regulation and Adaptive Standards System,infrastructure resilience and regulation,51,background adaptive governance stress,0.1708,0.45954,1.0,0.753,1.0
+SYS006,Infrastructure Regulation and Adaptive Standards System,infrastructure resilience and regulation,52,background adaptive governance stress,0.17121,0.4597,1.0,0.75137,1.0
+SYS006,Infrastructure Regulation and Adaptive Standards System,infrastructure resilience and regulation,53,background adaptive governance stress,0.16741,0.45986,1.0,0.74966,1.0
+SYS006,Infrastructure Regulation and Adaptive Standards System,infrastructure resilience and regulation,54,background adaptive governance stress,0.16995,0.46003,1.0,0.748,1.0
+SYS006,Infrastructure Regulation and Adaptive Standards System,infrastructure resilience and regulation,55,background adaptive governance stress,0.17132,0.4602,1.0,0.74636,1.0
+SYS006,Infrastructure Regulation and Adaptive Standards System,infrastructure resilience and regulation,56,Data-platform disruption and misinformation surge,0.85471,0.46036,1.0,0.75839,0.85552
+SYS006,Infrastructure Regulation and Adaptive Standards System,infrastructure resilience and regulation,57,background adaptive governance stress,0.1711,0.45916,1.0,0.75677,1.0
+SYS006,Infrastructure Regulation and Adaptive Standards System,infrastructure resilience and regulation,58,background adaptive governance stress,0.17426,0.45932,1.0,0.7552,1.0
+SYS006,Infrastructure Regulation and Adaptive Standards System,infrastructure resilience and regulation,59,background adaptive governance stress,0.17302,0.45948,1.0,0.7536,1.0
+SYS006,Infrastructure Regulation and Adaptive Standards System,infrastructure resilience and regulation,60,background adaptive governance stress,0.17025,0.45964,1.0,0.75195,1.0
+SYS006,Infrastructure Regulation and Adaptive Standards System,infrastructure resilience and regulation,61,background adaptive governance stress,0.17123,0.4598,1.0,0.75032,1.0
+SYS006,Infrastructure Regulation and Adaptive Standards System,infrastructure resilience and regulation,62,background adaptive governance stress,0.1726,0.45997,1.0,0.74871,1.0
+SYS006,Infrastructure Regulation and Adaptive Standards System,infrastructure resilience and regulation,63,background adaptive governance stress,0.16952,0.46013,1.0,0.74704,1.0
+SYS006,Infrastructure Regulation and Adaptive Standards System,infrastructure resilience and regulation,64,background adaptive governance stress,0.16919,0.4603,1.0,0.74536,1.0
+SYS006,Infrastructure Regulation and Adaptive Standards System,infrastructure resilience and regulation,65,background adaptive governance stress,0.17423,0.46046,1.0,0.74378,1.0
+SYS006,Infrastructure Regulation and Adaptive Standards System,infrastructure resilience and regulation,66,background adaptive governance stress,0.1707,0.46062,1.0,0.74213,1.0
+SYS006,Infrastructure Regulation and Adaptive Standards System,infrastructure resilience and regulation,67,background adaptive governance stress,0.17269,0.46079,1.0,0.74051,1.0
+SYS006,Infrastructure Regulation and Adaptive Standards System,infrastructure resilience and regulation,68,background adaptive governance stress,0.17359,0.46095,1.0,0.73891,1.0
+SYS006,Infrastructure Regulation and Adaptive Standards System,infrastructure resilience and regulation,69,background adaptive governance stress,0.17151,0.46111,1.0,0.73727,1.0
+SYS006,Infrastructure Regulation and Adaptive Standards System,infrastructure resilience and regulation,70,Compound governance crisis with equity and legal contestation,0.95318,0.46127,1.0,0.75126,0.83312
+SYS006,Infrastructure Regulation and Adaptive Standards System,infrastructure resilience and regulation,71,background adaptive governance stress,0.174,0.45987,1.0,0.74968,1.0
+SYS006,Infrastructure Regulation and Adaptive Standards System,infrastructure resilience and regulation,72,background adaptive governance stress,0.17307,0.46003,1.0,0.74808,1.0
+SYS006,Infrastructure Regulation and Adaptive Standards System,infrastructure resilience and regulation,73,background adaptive governance stress,0.17084,0.46019,1.0,0.74644,1.0
+SYS006,Infrastructure Regulation and Adaptive Standards System,infrastructure resilience and regulation,74,background adaptive governance stress,0.1734,0.46036,1.0,0.74484,1.0
+SYS006,Infrastructure Regulation and Adaptive Standards System,infrastructure resilience and regulation,75,background adaptive governance stress,0.17163,0.46052,1.0,0.74321,1.0
+SYS006,Infrastructure Regulation and Adaptive Standards System,infrastructure resilience and regulation,76,background adaptive governance stress,0.17152,0.46068,1.0,0.74157,1.0
+SYS006,Infrastructure Regulation and Adaptive Standards System,infrastructure resilience and regulation,77,background adaptive governance stress,0.17055,0.46084,1.0,0.73992,1.0
+SYS006,Infrastructure Regulation and Adaptive Standards System,infrastructure resilience and regulation,78,background adaptive governance stress,0.17573,0.46101,1.0,0.73836,1.0
+SYS006,Infrastructure Regulation and Adaptive Standards System,infrastructure resilience and regulation,79,background adaptive governance stress,0.17227,0.46116,1.0,0.73673,1.0

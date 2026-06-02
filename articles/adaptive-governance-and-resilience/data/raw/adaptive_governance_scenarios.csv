@@ -1,0 +1,9 @@
+scenario,learning_capacity_weight,flexibility_weight,coordination_weight,knowledge_integration_weight,legitimacy_weight,accountability_weight,equity_protection_weight,implementation_burden_weight,description
+Balanced,0.15,0.14,0.14,0.14,0.14,0.14,0.15,0.02,Balanced adaptive governance across learning flexibility coordination knowledge legitimacy accountability equity and implementation burden.
+Learning-first,0.38,0.10,0.10,0.11,0.10,0.10,0.10,0.01,Prioritizes monitoring feedback institutional memory after-action implementation and evidence-based rule revision.
+Flexibility-first,0.10,0.38,0.10,0.11,0.10,0.10,0.10,0.01,Prioritizes adaptive rules decision triggers legal revision pathways and capacity to change course.
+Coordination-first,0.10,0.10,0.38,0.11,0.10,0.10,0.10,0.01,Prioritizes cross-sector cross-scale polycentric coordination.
+Knowledge-first,0.10,0.10,0.10,0.38,0.11,0.10,0.10,0.01,Prioritizes scientific local Indigenous practitioner and lived knowledge integration.
+Legitimacy-first,0.10,0.10,0.10,0.11,0.38,0.10,0.10,0.01,Prioritizes trust transparency fairness participation and public consent.
+Equity-first,0.10,0.10,0.10,0.11,0.10,0.10,0.38,0.01,Prioritizes vulnerable groups rights safeguards participation and unequal-burden reduction.
+Implementation-aware,0.14,0.13,0.13,0.13,0.13,0.13,0.14,0.10,Penalizes higher implementation burden when administrative finance or political bandwidth is constrained.

@@ -1,0 +1,6 @@
+event_id,event_name,primary_stress,shock_intensity,uncertainty_pressure,coordination_stress,legitimacy_pressure,information_stress,legal_accountability_stress,equity_burden,dependency_amplification,affected_functions
+EV001,Extreme climate uncertainty and conflicting projections,climate uncertainty,0.82,0.92,0.70,0.66,0.78,0.64,0.82,0.76,adaptation planning infrastructure standards risk communication community trust and decision triggers
+EV002,Multi-agency coordination breakdown during compound event,coordination failure,0.86,0.78,0.92,0.74,0.76,0.70,0.88,0.88,emergency response public health utilities transport shelters recovery finance and public communication
+EV003,Public trust shock after failed adaptation project,legitimacy crisis,0.80,0.70,0.72,0.92,0.78,0.76,0.90,0.78,participation trust appeals public communication project legitimacy rights protection and reform
+EV004,Data-platform disruption and misinformation surge,information and data governance,0.78,0.76,0.74,0.80,0.92,0.78,0.86,0.82,monitoring dashboards warnings public messaging decision support and internal coordination
+EV005,Compound governance crisis with equity and legal contestation,compound adaptive governance stress,0.92,0.90,0.88,0.90,0.86,0.88,0.94,0.92,adaptive authority equity safeguards public trust accountability coordination and vulnerable-group protection
