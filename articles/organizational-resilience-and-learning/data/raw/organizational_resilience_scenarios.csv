@@ -1,0 +1,9 @@
+scenario,anticipation_weight,absorption_weight,adaptation_weight,learning_weight,memory_weight,coordination_weight,governance_weight,workforce_protection_weight,workforce_burden_weight,implementation_burden_weight,description
+Balanced,0.11,0.11,0.11,0.12,0.12,0.11,0.11,0.12,0.05,0.04,Balanced organizational resilience priorities.
+Continuity-first,0.10,0.28,0.10,0.10,0.10,0.12,0.10,0.08,0.04,0.03,Prioritizes continuity redundancy backups and absorption.
+Learning-first,0.10,0.09,0.12,0.30,0.14,0.09,0.10,0.10,0.04,0.02,Prioritizes after-action review learning and corrective action.
+Memory-first,0.10,0.09,0.10,0.14,0.30,0.09,0.10,0.10,0.04,0.02,Prioritizes institutional memory and knowledge transfer.
+Coordination-first,0.10,0.10,0.10,0.10,0.10,0.30,0.12,0.10,0.04,0.02,Prioritizes cross-functional coordination.
+Governance-first,0.10,0.10,0.10,0.12,0.10,0.10,0.30,0.10,0.04,0.02,Prioritizes accountability decision rights and governance.
+Workforce-protection,0.09,0.09,0.10,0.11,0.11,0.09,0.10,0.30,0.07,0.02,Prioritizes worker voice wellbeing workload and burnout prevention.
+Implementation-aware,0.11,0.11,0.11,0.12,0.12,0.11,0.11,0.12,0.04,0.10,Penalizes implementation burden and feasibility constraints.

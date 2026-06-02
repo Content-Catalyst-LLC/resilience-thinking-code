@@ -1,0 +1,7 @@
+strategy_id,strategy,mean_value,median_value,probability_ranked_first,probability_top_two,probability_bottom_two
+OR005,Psychological Safety and Weak-Signal Reporting System,7.42241,7.42729,30.25,53.65,14.55
+OR006,Operational Resilience and Continuity Exercise Program,7.40981,7.41075,27.5,50.95,16.0
+OR003,After-Action Learning and Corrective Action System,7.38571,7.38557,22.95,45.3,18.95
+OR004,Institutional Memory and Knowledge Architecture Program,7.2738,7.27919,8.6,21.2,41.8
+OR001,Critical Function and Dependency Mapping,7.23798,7.23471,6.15,16.7,49.45
+OR002,Cross-Training and Role Redundancy Program,7.19943,7.19618,4.55,12.2,59.25

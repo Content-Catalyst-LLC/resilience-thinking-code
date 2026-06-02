@@ -1,0 +1,7 @@
+strategy_id,strategy,domain,organizational_resilience_value,adjusted_value,workforce_adjusted_value,diagnostic,critical_function
+OR005,Psychological Safety and Weak-Signal Reporting System,psychological safety and early warning,7.422,7.404,6.98559,promising but requires stress testing,protects worker voice dissent near-miss reporting and weak-signal detection
+OR006,Operational Resilience and Continuity Exercise Program,continuity testing and operational resilience,7.41,7.396,6.76385,workforce-burden review needed,tests continuity plans compound disruption scenarios and recovery objectives
+OR003,After-Action Learning and Corrective Action System,learning loops and incident review,7.395,7.395,6.80044,promising but requires stress testing,turns incidents near misses and exercises into assigned corrective action
+OR004,Institutional Memory and Knowledge Architecture Program,knowledge management and institutional memory,7.275,7.259,6.6348,implementation-burden review needed,preserves critical knowledge decisions procedures archives mentoring and lessons
+OR002,Cross-Training and Role Redundancy Program,staffing depth and role redundancy,7.199,7.175,6.65332,promising but requires stress testing,reduces person dependency through cross-training backup roles and succession coverage
+OR001,Critical Function and Dependency Mapping,continuity and dependency visibility,7.227,7.169,6.59102,learning-system review needed,maps essential functions dependencies single points of failure and impact tolerances

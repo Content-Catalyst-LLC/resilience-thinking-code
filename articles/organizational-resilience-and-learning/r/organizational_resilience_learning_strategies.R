@@ -1,0 +1,11 @@
+suppressPackageStartupMessages({ library(tidyverse) })
+args <- commandArgs(trailingOnly = FALSE); file_arg <- args[grepl("^--file=", args)]
+root <- if (length(file_arg) > 0) normalizePath(file.path(dirname(sub("^--file=", "", file_arg[1])), "..")) else getwd()
+strategies <- read_csv(file.path(root,"data","raw","organizational_resilience_strategies.csv"), show_col_types = FALSE)
+out_tables <- file.path(root,"outputs","tables"); out_figures <- file.path(root,"outputs","figures")
+dir.create(out_tables, recursive=TRUE, showWarnings=FALSE); dir.create(out_figures, recursive=TRUE, showWarnings=FALSE)
+profiles <- strategies %>% mutate(value=0.11*anticipation+0.11*absorption+0.11*adaptation+0.12*learning+0.12*memory+0.11*coordination+0.11*governance+0.12*workforce_protection-0.05*workforce_burden-0.04*implementation_burden, adjusted_value=value-0.06*pmax(0,8.4-learning)-0.06*pmax(0,8.3-memory)-0.08*pmax(0,8.2-workforce_protection)) %>% arrange(desc(adjusted_value))
+write_csv(profiles, file.path(out_tables,"r_organizational_resilience_strategy_profiles.csv"))
+p <- ggplot(profiles, aes(x=reorder(strategy, adjusted_value), y=adjusted_value)) + geom_col() + coord_flip() + theme_minimal(base_size=12) + labs(title="Organizational Resilience Strategy Comparison", x="Strategy", y="Adjusted value")
+ggsave(file.path(out_figures,"r_organizational_resilience_strategy_profiles.png"), p, width=10, height=6, dpi=160)
+print(profiles %>% select(strategy, adjusted_value))

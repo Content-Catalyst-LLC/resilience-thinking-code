@@ -1,0 +1,7 @@
+event_id,event_name,shock_intensity,operational_disruption,staffing_stress,knowledge_loss,coordination_stress,digital_disruption,reputational_pressure,ethical_burden,learning_opportunity
+EV001,Cyber and communications disruption,0.74,0.82,0.58,0.52,0.78,0.94,0.70,0.72,0.86
+EV002,Staffing shortage and demand surge,0.78,0.70,0.94,0.56,0.72,0.58,0.66,0.88,0.82
+EV003,Supplier facility and infrastructure disruption,0.76,0.88,0.64,0.60,0.76,0.64,0.62,0.74,0.80
+EV004,Reputational and governance crisis,0.82,0.62,0.70,0.72,0.86,0.66,0.94,0.90,0.88
+EV005,Leadership turnover and institutional memory loss,0.72,0.58,0.62,0.92,0.72,0.56,0.74,0.70,0.84
+EV006,Compound organizational disruption,0.92,0.90,0.88,0.84,0.90,0.86,0.92,0.96,0.94

@@ -1,0 +1,5 @@
+organization_id,organization,baseline_function,anticipation_capacity,absorptive_capacity,adaptive_capacity,learning_capacity,memory_capacity,coordination_capacity,governance_capacity,workforce_strain,ethical_burden_sensitivity
+OG001,Highly efficient but brittle organization,0.86,0.50,0.48,0.52,0.45,0.42,0.56,0.58,0.50,0.84
+OG002,Continuity-focused organization,0.82,0.66,0.82,0.68,0.65,0.70,0.76,0.74,0.42,0.74
+OG003,Learning-oriented resilient organization,0.84,0.82,0.78,0.86,0.90,0.88,0.86,0.86,0.30,0.66
+OG004,Overloaded organization with hidden fragility,0.80,0.54,0.50,0.58,0.48,0.44,0.58,0.55,0.72,0.92

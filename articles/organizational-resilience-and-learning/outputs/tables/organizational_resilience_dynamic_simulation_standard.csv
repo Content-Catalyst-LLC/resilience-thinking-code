@@ -1,0 +1,361 @@
+organization,time,event,disruption_load,function,adaptive_response,learning_stock,memory_stock,workforce_strain,resilience_score
+Highly efficient but brittle organization,0,background organizational pressure,0.09935,0.95449,0.4977,0.42644,0.42746,0.40428,0.59192
+Highly efficient but brittle organization,1,background organizational pressure,0.10022,1,0.50095,0.40716,0.43861,0.30872,0.6098
+Highly efficient but brittle organization,2,background organizational pressure,0.10111,1,0.50536,0.39215,0.45355,0.21332,0.62004
+Highly efficient but brittle organization,3,background organizational pressure,0.10108,1,0.51092,0.38142,0.47238,0.11792,0.63176
+Highly efficient but brittle organization,4,background organizational pressure,0.10128,1,0.51767,0.37495,0.49521,0.02255,0.645
+Highly efficient but brittle organization,5,background organizational pressure,0.10069,1,0.52562,0.36949,0.51919,0,0.65149
+Highly efficient but brittle organization,6,background organizational pressure,0.1017,1,0.52951,0.364,0.54345,0,0.65511
+Highly efficient but brittle organization,7,background organizational pressure,0.10119,1,0.53208,0.35849,0.56797,0,0.65857
+Highly efficient but brittle organization,8,background organizational pressure,0.10023,1,0.53469,0.35296,0.59277,0,0.66207
+Highly efficient but brittle organization,9,background organizational pressure,0.10126,1,0.53733,0.34741,0.61786,0,0.66562
+Highly efficient but brittle organization,10,Cyber and communications disruption,0.7228,0.97144,0.54001,0.37406,0.62924,0.03593,0.66283
+Highly efficient but brittle organization,11,background organizational pressure,0.10054,1,0.54345,0.36847,0.65504,0,0.67591
+Highly efficient but brittle organization,12,background organizational pressure,0.1028,1,0.54838,0.36287,0.68114,0,0.67998
+Highly efficient but brittle organization,13,background organizational pressure,0.10296,1,0.55119,0.35724,0.70754,0,0.68375
+Highly efficient but brittle organization,14,background organizational pressure,0.10162,1,0.55404,0.35159,0.73424,0,0.68758
+Highly efficient but brittle organization,15,background organizational pressure,0.10169,1,0.55693,0.34592,0.76125,0,0.69146
+Highly efficient but brittle organization,16,background organizational pressure,0.10292,1,0.55986,0.34023,0.78857,0,0.69539
+Highly efficient but brittle organization,17,background organizational pressure,0.1017,1,0.56283,0.33453,0.81621,0,0.69937
+Highly efficient but brittle organization,18,background organizational pressure,0.10177,1,0.56585,0.3288,0.84417,0,0.70341
+Highly efficient but brittle organization,19,background organizational pressure,0.10192,1,0.5689,0.32305,0.87245,0,0.7075
+Highly efficient but brittle organization,20,background organizational pressure,0.10243,1,0.572,0.31728,0.90107,0,0.71166
+Highly efficient but brittle organization,21,background organizational pressure,0.10323,1,0.57514,0.31149,0.93002,0,0.71587
+Highly efficient but brittle organization,22,background organizational pressure,0.10417,1,0.57833,0.30569,0.95931,0,0.72013
+Highly efficient but brittle organization,23,background organizational pressure,0.1025,1,0.58156,0.29986,0.98895,0,0.72446
+Highly efficient but brittle organization,24,Staffing shortage and demand surge,0.7286,0.98007,0.58483,0.32314,1,0.03744,0.72275
+Highly efficient but brittle organization,25,background organizational pressure,0.10454,1,0.58762,0.31727,1,0,0.72998
+Highly efficient but brittle organization,26,background organizational pressure,0.10371,1,0.58899,0.31138,1,0,0.72926
+Highly efficient but brittle organization,27,background organizational pressure,0.10467,1,0.58811,0.30548,1,0,0.72817
+Highly efficient but brittle organization,28,background organizational pressure,0.1046,1,0.58722,0.29955,1,0,0.72708
+Highly efficient but brittle organization,29,background organizational pressure,0.10316,1,0.58633,0.2936,1,0,0.72599
+Highly efficient but brittle organization,30,background organizational pressure,0.10446,1,0.58544,0.28763,1,0,0.72489
+Highly efficient but brittle organization,31,background organizational pressure,0.10333,1,0.58454,0.28164,1,0,0.72379
+Highly efficient but brittle organization,32,background organizational pressure,0.10317,1,0.58365,0.27564,1,0,0.72269
+Highly efficient but brittle organization,33,background organizational pressure,0.10424,1,0.58275,0.26961,1,0,0.72158
+Highly efficient but brittle organization,34,background organizational pressure,0.10528,1,0.58184,0.26356,1,0,0.72046
+Highly efficient but brittle organization,35,background organizational pressure,0.10491,1,0.58093,0.25749,1,0,0.71935
+Highly efficient but brittle organization,36,background organizational pressure,0.10414,1,0.58002,0.2514,1,0,0.71823
+Highly efficient but brittle organization,37,background organizational pressure,0.10583,1,0.57911,0.2453,1,0,0.71711
+Highly efficient but brittle organization,38,Supplier facility and infrastructure disruption,0.7072,0.98633,0.57819,0.26678,1,0.03187,0.71447
+Highly efficient but brittle organization,39,background organizational pressure,0.10626,1,0.57951,0.26063,1,0,0.71962
+Highly efficient but brittle organization,40,background organizational pressure,0.10477,1,0.5805,0.25447,1,0,0.71879
+Highly efficient but brittle organization,41,background organizational pressure,0.10541,1,0.57957,0.24828,1,0,0.71766
+Highly efficient but brittle organization,42,background organizational pressure,0.10599,1,0.57864,0.24207,1,0,0.71651
+Highly efficient but brittle organization,43,background organizational pressure,0.10676,1,0.57771,0.23584,1,0,0.71537
+Highly efficient but brittle organization,44,background organizational pressure,0.10502,1,0.57678,0.22959,1,0,0.71422
+Highly efficient but brittle organization,45,background organizational pressure,0.10618,1,0.57584,0.22333,1,0,0.71307
+Highly efficient but brittle organization,46,background organizational pressure,0.1073,1,0.5749,0.21704,1,0,0.71191
+Highly efficient but brittle organization,47,background organizational pressure,0.10657,1,0.57396,0.21073,1,0,0.71075
+Highly efficient but brittle organization,48,background organizational pressure,0.10696,1,0.57301,0.2044,1,0,0.70959
+Highly efficient but brittle organization,49,background organizational pressure,0.10723,1,0.57206,0.19805,1,0,0.70842
+Highly efficient but brittle organization,50,background organizational pressure,0.10672,1,0.57111,0.19169,1,0,0.70725
+Highly efficient but brittle organization,51,background organizational pressure,0.10633,1,0.57015,0.1853,1,0,0.70607
+Highly efficient but brittle organization,52,Reputational and governance crisis,0.7702,0.96106,0.56919,0.20864,1,0.04825,0.69704
+Highly efficient but brittle organization,53,background organizational pressure,0.10731,1,0.5698,0.20221,1,0,0.70872
+Highly efficient but brittle organization,54,background organizational pressure,0.10729,1,0.57173,0.19576,1,0,0.708
+Highly efficient but brittle organization,55,background organizational pressure,0.10697,1,0.57076,0.1893,1,0,0.70681
+Highly efficient but brittle organization,56,background organizational pressure,0.10833,1,0.56979,0.18281,1,0,0.70562
+Highly efficient but brittle organization,57,background organizational pressure,0.10728,1,0.56882,0.1763,1,0,0.70442
+Highly efficient but brittle organization,58,background organizational pressure,0.1077,1,0.56784,0.16977,1,0,0.70322
+Highly efficient but brittle organization,59,background organizational pressure,0.1085,1,0.56687,0.16322,1,0,0.70201
+Highly efficient but brittle organization,60,background organizational pressure,0.10875,1,0.56588,0.15666,1,0,0.70081
+Highly efficient but brittle organization,61,background organizational pressure,0.10907,1,0.5649,0.15007,1,0,0.69959
+Highly efficient but brittle organization,62,background organizational pressure,0.10862,1,0.56391,0.14346,1,0,0.69838
+Highly efficient but brittle organization,63,background organizational pressure,0.1078,1,0.56292,0.13683,1,0,0.69716
+Highly efficient but brittle organization,64,background organizational pressure,0.10935,1,0.56192,0.13018,1,0,0.69594
+Highly efficient but brittle organization,65,background organizational pressure,0.10963,1,0.56093,0.12352,1,0,0.69471
+Highly efficient but brittle organization,66,Leadership turnover and institutional memory loss,0.6932,0.98708,0.55993,0.14126,1,0.02823,0.69198
+Highly efficient but brittle organization,67,background organizational pressure,0.10943,1,0.5609,0.13455,1,0,0.69647
+Highly efficient but brittle organization,68,background organizational pressure,0.10968,1,0.56158,0.12782,1,0,0.69551
+Highly efficient but brittle organization,69,background organizational pressure,0.1092,1,0.56057,0.12108,1,0,0.69426
+Highly efficient but brittle organization,70,background organizational pressure,0.10928,1,0.55956,0.11431,1,0,0.69302
+Highly efficient but brittle organization,71,background organizational pressure,0.10963,1,0.55855,0.10752,1,0,0.69177
+Highly efficient but brittle organization,72,background organizational pressure,0.10871,1,0.55753,0.10071,1,0,0.69052
+Highly efficient but brittle organization,73,background organizational pressure,0.11011,1,0.55651,0.09388,1,0,0.68926
+Highly efficient but brittle organization,74,background organizational pressure,0.11069,1,0.55548,0.08704,1,0,0.688
+Highly efficient but brittle organization,75,background organizational pressure,0.10915,1,0.55446,0.08017,1,0,0.68674
+Highly efficient but brittle organization,76,background organizational pressure,0.11069,1,0.55343,0.07328,1,0,0.68547
+Highly efficient but brittle organization,77,background organizational pressure,0.1107,1,0.55239,0.06637,1,0,0.6842
+Highly efficient but brittle organization,78,Compound organizational disruption,0.8958,0.91071,0.55136,0.08959,1,0.08091,0.6618
+Highly efficient but brittle organization,79,background organizational pressure,0.10956,1,0.54998,0.08264,1,0,0.68642
+Highly efficient but brittle organization,80,background organizational pressure,0.10952,1,0.5538,0.07567,1,0,0.68591
+Highly efficient but brittle organization,81,background organizational pressure,0.11096,1,0.55275,0.06868,1,0,0.68463
+Highly efficient but brittle organization,82,background organizational pressure,0.11019,1,0.5517,0.06168,1,0,0.68334
+Highly efficient but brittle organization,83,background organizational pressure,0.11053,1,0.55065,0.05465,1,0,0.68205
+Highly efficient but brittle organization,84,background organizational pressure,0.11141,1,0.5496,0.0476,1,0,0.68075
+Highly efficient but brittle organization,85,background organizational pressure,0.11161,1,0.54854,0.04053,1,0,0.67945
+Highly efficient but brittle organization,86,background organizational pressure,0.11198,1,0.54748,0.03344,1,0,0.67815
+Highly efficient but brittle organization,87,background organizational pressure,0.11167,1,0.54642,0.02634,1,0,0.67684
+Highly efficient but brittle organization,88,background organizational pressure,0.11124,1,0.54535,0.01921,1,0,0.67553
+Highly efficient but brittle organization,89,background organizational pressure,0.1106,1,0.54428,0.01206,1,0,0.67421
+Continuity-focused organization,0,background organizational pressure,0.10039,1,0.7043,0.63214,0.72021,0.31967,0.7623
+Continuity-focused organization,1,background organizational pressure,0.0996,1,0.71047,0.61877,0.74456,0.2192,0.77509
+Continuity-focused organization,2,background organizational pressure,0.10158,1,0.7179,0.6099,0.77315,0.11908,0.78944
+Continuity-focused organization,3,background organizational pressure,0.10161,1,0.72658,0.60551,0.8061,0.01897,0.80541
+Continuity-focused organization,4,background organizational pressure,0.10064,1,0.73654,0.60195,0.84023,0,0.8138
+Continuity-focused organization,5,background organizational pressure,0.10124,1,0.74193,0.59837,0.87481,0,0.81962
+Continuity-focused organization,6,background organizational pressure,0.10029,1,0.74623,0.59477,0.90983,0,0.82533
+Continuity-focused organization,7,background organizational pressure,0.10044,1,0.75059,0.59115,0.94531,0,0.83113
+Continuity-focused organization,8,background organizational pressure,0.10073,1,0.75502,0.58752,0.98126,0,0.83701
+Continuity-focused organization,9,background organizational pressure,0.10183,1,0.7595,0.58386,1,0,0.84014
+Continuity-focused organization,10,Cyber and communications disruption,0.7228,1,0.76158,0.62063,1,0.0117,0.84518
+Continuity-focused organization,11,background organizational pressure,0.10094,1,0.76639,0.61693,1,0,0.84653
+Continuity-focused organization,12,background organizational pressure,0.10289,1,0.76654,0.61321,1,0,0.84596
+Continuity-focused organization,13,background organizational pressure,0.10086,1,0.76598,0.60947,1,0,0.84527
+Continuity-focused organization,14,background organizational pressure,0.10128,1,0.76542,0.60571,1,0,0.84458
+Continuity-focused organization,15,background organizational pressure,0.10116,1,0.76486,0.60194,1,0,0.84389
+Continuity-focused organization,16,background organizational pressure,0.10293,1,0.76429,0.59814,1,0,0.84319
+Continuity-focused organization,17,background organizational pressure,0.10209,1,0.76372,0.59432,1,0,0.84249
+Continuity-focused organization,18,background organizational pressure,0.10247,1,0.76315,0.59048,1,0,0.84178
+Continuity-focused organization,19,background organizational pressure,0.10225,1,0.76257,0.58662,1,0,0.84107
+Continuity-focused organization,20,background organizational pressure,0.10313,1,0.76199,0.58275,1,0,0.84036
+Continuity-focused organization,21,background organizational pressure,0.1027,1,0.76141,0.57885,1,0,0.83964
+Continuity-focused organization,22,background organizational pressure,0.10236,1,0.76083,0.57493,1,0,0.83892
+Continuity-focused organization,23,background organizational pressure,0.10302,1,0.76024,0.57099,1,0,0.8382
+Continuity-focused organization,24,Staffing shortage and demand surge,0.7286,1,0.75965,0.604,1,0.01275,0.84211
+Continuity-focused organization,25,background organizational pressure,0.10298,1,0.76383,0.60002,1,0,0.84342
+Continuity-focused organization,26,background organizational pressure,0.10265,1,0.764,0.59602,1,0,0.8428
+Continuity-focused organization,27,background organizational pressure,0.10449,1,0.7634,0.592,1,0,0.84206
+Continuity-focused organization,28,background organizational pressure,0.10427,1,0.7628,0.58796,1,0,0.84132
+Continuity-focused organization,29,background organizational pressure,0.10437,1,0.76219,0.58391,1,0,0.84058
+Continuity-focused organization,30,background organizational pressure,0.10502,1,0.76159,0.57983,1,0,0.83983
+Continuity-focused organization,31,background organizational pressure,0.10398,1,0.76097,0.57573,1,0,0.83907
+Continuity-focused organization,32,background organizational pressure,0.10407,1,0.76036,0.57161,1,0,0.83832
+Continuity-focused organization,33,background organizational pressure,0.10431,1,0.75974,0.56747,1,0,0.83755
+Continuity-focused organization,34,background organizational pressure,0.10439,1,0.75912,0.56332,1,0,0.83679
+Continuity-focused organization,35,background organizational pressure,0.10516,1,0.7585,0.55914,1,0,0.83602
+Continuity-focused organization,36,background organizational pressure,0.1037,1,0.75787,0.55494,1,0,0.83525
+Continuity-focused organization,37,background organizational pressure,0.10492,1,0.75724,0.55072,1,0,0.83447
+Continuity-focused organization,38,Supplier facility and infrastructure disruption,0.7072,1,0.75661,0.58164,1,0.0089,0.83843
+Continuity-focused organization,39,background organizational pressure,0.10535,1,0.76071,0.57738,1,0,0.8393
+Continuity-focused organization,40,background organizational pressure,0.10503,1,0.76061,0.57311,1,0,0.83859
+Continuity-focused organization,41,background organizational pressure,0.10438,1,0.75997,0.56881,1,0,0.8378
+Continuity-focused organization,42,background organizational pressure,0.10615,1,0.75932,0.56449,1,0,0.83701
+Continuity-focused organization,43,background organizational pressure,0.10461,1,0.75867,0.56015,1,0,0.83621
+Continuity-focused organization,44,background organizational pressure,0.10607,1,0.75802,0.55579,1,0,0.83541
+Continuity-focused organization,45,background organizational pressure,0.10522,1,0.75737,0.55142,1,0,0.83461
+Continuity-focused organization,46,background organizational pressure,0.10506,1,0.75671,0.54702,1,0,0.8338
+Continuity-focused organization,47,background organizational pressure,0.10554,1,0.75605,0.5426,1,0,0.83298
+Continuity-focused organization,48,background organizational pressure,0.1054,1,0.75539,0.53816,1,0,0.83217
+Continuity-focused organization,49,background organizational pressure,0.10573,1,0.75472,0.5337,1,0,0.83135
+Continuity-focused organization,50,background organizational pressure,0.10714,1,0.75406,0.52923,1,0,0.83053
+Continuity-focused organization,51,background organizational pressure,0.10738,1,0.75338,0.52473,1,0,0.8297
+Continuity-focused organization,52,Reputational and governance crisis,0.7702,1,0.75271,0.55857,1,0.02024,0.83298
+Continuity-focused organization,53,background organizational pressure,0.10676,1,0.75657,0.55403,1,0,0.8349
+Continuity-focused organization,54,background organizational pressure,0.10759,1,0.7571,0.54947,1,0,0.83425
+Continuity-focused organization,55,background organizational pressure,0.10729,1,0.75642,0.5449,1,0,0.83341
+Continuity-focused organization,56,background organizational pressure,0.10748,1,0.75573,0.5403,1,0,0.83257
+Continuity-focused organization,57,background organizational pressure,0.10851,1,0.75504,0.53568,1,0,0.83172
+Continuity-focused organization,58,background organizational pressure,0.10729,1,0.75435,0.53104,1,0,0.83086
+Continuity-focused organization,59,background organizational pressure,0.10876,1,0.75366,0.52638,1,0,0.83001
+Continuity-focused organization,60,background organizational pressure,0.10846,1,0.75296,0.52171,1,0,0.82915
+Continuity-focused organization,61,background organizational pressure,0.10857,1,0.75226,0.51701,1,0,0.82828
+Continuity-focused organization,62,background organizational pressure,0.10707,1,0.75155,0.51229,1,0,0.82741
+Continuity-focused organization,63,background organizational pressure,0.10739,1,0.75084,0.50755,1,0,0.82654
+Continuity-focused organization,64,background organizational pressure,0.1074,1,0.75013,0.50279,1,0,0.82567
+Continuity-focused organization,65,background organizational pressure,0.10828,1,0.74942,0.49802,1,0,0.82479
+Continuity-focused organization,66,Leadership turnover and institutional memory loss,0.6932,1,0.7487,0.52556,1,0.00638,0.82845
+Continuity-focused organization,67,background organizational pressure,0.10998,1,0.75245,0.52075,1,0,0.82891
+Continuity-focused organization,68,background organizational pressure,0.10994,1,0.75211,0.51591,1,0,0.82808
+Continuity-focused organization,69,background organizational pressure,0.10998,1,0.75139,0.51105,1,0,0.82719
+Continuity-focused organization,70,background organizational pressure,0.10839,1,0.75066,0.50617,1,0,0.82629
+Continuity-focused organization,71,background organizational pressure,0.10992,1,0.74993,0.50127,1,0,0.82539
+Continuity-focused organization,72,background organizational pressure,0.11022,1,0.74919,0.49636,1,0,0.82449
+Continuity-focused organization,73,background organizational pressure,0.11043,1,0.74845,0.49142,1,0,0.82358
+Continuity-focused organization,74,background organizational pressure,0.11052,1,0.74771,0.48646,1,0,0.82267
+Continuity-focused organization,75,background organizational pressure,0.10909,1,0.74697,0.48148,1,0,0.82175
+Continuity-focused organization,76,background organizational pressure,0.10931,1,0.74622,0.47648,1,0,0.82083
+Continuity-focused organization,77,background organizational pressure,0.11091,1,0.74547,0.47147,1,0,0.81991
+Continuity-focused organization,78,Compound organizational disruption,0.8958,0.98847,0.74472,0.50599,1,0.04891,0.81812
+Continuity-focused organization,79,background organizational pressure,0.11104,1,0.74696,0.50093,1,0,0.82486
+Continuity-focused organization,80,background organizational pressure,0.11154,1,0.74914,0.49586,1,0,0.8244
+Continuity-focused organization,81,background organizational pressure,0.1106,1,0.74838,0.49076,1,0,0.82346
+Continuity-focused organization,82,background organizational pressure,0.11179,1,0.74761,0.48564,1,0,0.82252
+Continuity-focused organization,83,background organizational pressure,0.11012,1,0.74685,0.4805,1,0,0.82158
+Continuity-focused organization,84,background organizational pressure,0.11222,1,0.74608,0.47534,1,0,0.82063
+Continuity-focused organization,85,background organizational pressure,0.11217,1,0.7453,0.47017,1,0,0.81967
+Continuity-focused organization,86,background organizational pressure,0.11099,1,0.74452,0.46497,1,0,0.81872
+Continuity-focused organization,87,background organizational pressure,0.11047,1,0.74375,0.45975,1,0,0.81776
+Continuity-focused organization,88,background organizational pressure,0.11176,1,0.74296,0.45451,1,0,0.8168
+Continuity-focused organization,89,background organizational pressure,0.11222,1,0.74218,0.44925,1,0,0.81583
+Learning-oriented resilient organization,0,background organizational pressure,0.09936,1,0.8436,0.889,0.91237,0.19628,0.89277
+Learning-oriented resilient organization,1,background organizational pressure,0.10061,1,0.8527,0.88264,0.94926,0.09279,0.90946
+Learning-oriented resilient organization,2,background organizational pressure,0.09967,1,0.86313,0.88044,0.99036,0,0.92663
+Learning-oriented resilient organization,3,background organizational pressure,0.1011,1,0.87412,0.87822,1,0,0.92957
+Learning-oriented resilient organization,4,background organizational pressure,0.10098,1,0.87513,0.87597,1,0,0.92938
+Learning-oriented resilient organization,5,background organizational pressure,0.10057,1,0.8748,0.87371,1,0,0.92896
+Learning-oriented resilient organization,6,background organizational pressure,0.10126,1,0.87446,0.87142,1,0,0.92854
+Learning-oriented resilient organization,7,background organizational pressure,0.10127,1,0.87411,0.86912,1,0,0.92812
+Learning-oriented resilient organization,8,background organizational pressure,0.10014,1,0.87377,0.8668,1,0,0.92769
+Learning-oriented resilient organization,9,background organizational pressure,0.10144,1,0.87342,0.86445,1,0,0.92726
+Learning-oriented resilient organization,10,Cyber and communications disruption,0.7228,1,0.87307,0.90764,1,0.0085,0.93326
+Learning-oriented resilient organization,11,background organizational pressure,0.10192,1,0.87904,0.90526,1,0,0.93469
+Learning-oriented resilient organization,12,background organizational pressure,0.10181,1,0.87919,0.90285,1,0,0.93433
+Learning-oriented resilient organization,13,background organizational pressure,0.1028,1,0.87883,0.90043,1,0,0.93388
+Learning-oriented resilient organization,14,background organizational pressure,0.10258,1,0.87846,0.89798,1,0,0.93343
+Learning-oriented resilient organization,15,background organizational pressure,0.10186,1,0.8781,0.89552,1,0,0.93298
+Learning-oriented resilient organization,16,background organizational pressure,0.10162,1,0.87773,0.89304,1,0,0.93252
+Learning-oriented resilient organization,17,background organizational pressure,0.10152,1,0.87736,0.89053,1,0,0.93206
+Learning-oriented resilient organization,18,background organizational pressure,0.10328,1,0.87698,0.88801,1,0,0.9316
+Learning-oriented resilient organization,19,background organizational pressure,0.10313,1,0.8766,0.88546,1,0,0.93113
+Learning-oriented resilient organization,20,background organizational pressure,0.10306,1,0.87622,0.8829,1,0,0.93066
+Learning-oriented resilient organization,21,background organizational pressure,0.10279,1,0.87584,0.88032,1,0,0.93018
+Learning-oriented resilient organization,22,background organizational pressure,0.10306,1,0.87545,0.87771,1,0,0.92971
+Learning-oriented resilient organization,23,background organizational pressure,0.10252,1,0.87506,0.87509,1,0,0.92922
+Learning-oriented resilient organization,24,Staffing shortage and demand surge,0.7286,1,0.87466,0.91422,1,0.00955,0.93447
+Learning-oriented resilient organization,25,background organizational pressure,0.10352,1,0.87996,0.91156,1,0,0.93584
+Learning-oriented resilient organization,26,background organizational pressure,0.10273,1,0.88013,0.90888,1,0,0.93544
+Learning-oriented resilient organization,27,background organizational pressure,0.104,1,0.87973,0.90617,1,0,0.93494
+Learning-oriented resilient organization,28,background organizational pressure,0.10415,1,0.87933,0.90345,1,0,0.93444
+Learning-oriented resilient organization,29,background organizational pressure,0.10438,1,0.87892,0.9007,1,0,0.93394
+Learning-oriented resilient organization,30,background organizational pressure,0.10349,1,0.87851,0.89794,1,0,0.93343
+Learning-oriented resilient organization,31,background organizational pressure,0.10325,1,0.87809,0.89516,1,0,0.93292
+Learning-oriented resilient organization,32,background organizational pressure,0.10396,1,0.87767,0.89235,1,0,0.9324
+Learning-oriented resilient organization,33,background organizational pressure,0.10494,1,0.87725,0.88953,1,0,0.93188
+Learning-oriented resilient organization,34,background organizational pressure,0.10464,1,0.87683,0.88668,1,0,0.93136
+Learning-oriented resilient organization,35,background organizational pressure,0.10534,1,0.8764,0.88382,1,0,0.93084
+Learning-oriented resilient organization,36,background organizational pressure,0.10471,1,0.87597,0.88094,1,0,0.93031
+Learning-oriented resilient organization,37,background organizational pressure,0.10477,1,0.87554,0.87803,1,0,0.92977
+Learning-oriented resilient organization,38,Supplier facility and infrastructure disruption,0.7072,1,0.8751,0.91493,1,0.0057,0.93504
+Learning-oriented resilient organization,39,background organizational pressure,0.10625,1,0.8803,0.91199,1,0,0.93597
+Learning-oriented resilient organization,40,background organizational pressure,0.1046,1,0.8802,0.90903,1,0,0.93548
+Learning-oriented resilient organization,41,background organizational pressure,0.10483,1,0.87975,0.90604,1,0,0.93493
+Learning-oriented resilient organization,42,background organizational pressure,0.10587,1,0.87931,0.90304,1,0,0.93438
+Learning-oriented resilient organization,43,background organizational pressure,0.10611,1,0.87886,0.90001,1,0,0.93382
+Learning-oriented resilient organization,44,background organizational pressure,0.10576,1,0.8784,0.89697,1,0,0.93326
+Learning-oriented resilient organization,45,background organizational pressure,0.10619,1,0.87795,0.89391,1,0,0.9327
+Learning-oriented resilient organization,46,background organizational pressure,0.10604,1,0.87749,0.89082,1,0,0.93213
+Learning-oriented resilient organization,47,background organizational pressure,0.10671,1,0.87702,0.88772,1,0,0.93156
+Learning-oriented resilient organization,48,background organizational pressure,0.10737,1,0.87656,0.88459,1,0,0.93098
+Learning-oriented resilient organization,49,background organizational pressure,0.10735,1,0.87609,0.88145,1,0,0.93041
+Learning-oriented resilient organization,50,background organizational pressure,0.10703,1,0.87562,0.87829,1,0,0.92982
+Learning-oriented resilient organization,51,background organizational pressure,0.10676,1,0.87514,0.8751,1,0,0.92924
+Learning-oriented resilient organization,52,Reputational and governance crisis,0.7702,1,0.87467,0.91551,1,0.01704,0.93392
+Learning-oriented resilient organization,53,background organizational pressure,0.10816,1,0.8797,0.91229,1,0,0.93592
+Learning-oriented resilient organization,54,background organizational pressure,0.10709,1,0.88024,0.90904,1,0,0.93549
+Learning-oriented resilient organization,55,background organizational pressure,0.10765,1,0.87976,0.90578,1,0,0.93489
+Learning-oriented resilient organization,56,background organizational pressure,0.10836,1,0.87927,0.9025,1,0,0.93428
+Learning-oriented resilient organization,57,background organizational pressure,0.10805,1,0.87877,0.89919,1,0,0.93367
+Learning-oriented resilient organization,58,background organizational pressure,0.10748,1,0.87828,0.89587,1,0,0.93306
+Learning-oriented resilient organization,59,background organizational pressure,0.10845,1,0.87778,0.89252,1,0,0.93245
+Learning-oriented resilient organization,60,background organizational pressure,0.10824,1,0.87728,0.88916,1,0,0.93183
+Learning-oriented resilient organization,61,background organizational pressure,0.10913,1,0.87677,0.88578,1,0,0.93121
+Learning-oriented resilient organization,62,background organizational pressure,0.10856,1,0.87627,0.88237,1,0,0.93058
+Learning-oriented resilient organization,63,background organizational pressure,0.10847,1,0.87576,0.87895,1,0,0.92995
+Learning-oriented resilient organization,64,background organizational pressure,0.10966,1,0.87524,0.8755,1,0,0.92932
+Learning-oriented resilient organization,65,background organizational pressure,0.10872,1,0.87473,0.87204,1,0,0.92868
+Learning-oriented resilient organization,66,Leadership turnover and institutional memory loss,0.6932,1,0.87421,0.90587,1,0.00318,0.93369
+Learning-oriented resilient organization,67,background organizational pressure,0.10867,1,0.87909,0.90236,1,0,0.93423
+Learning-oriented resilient organization,68,background organizational pressure,0.11009,1,0.87875,0.89884,1,0,0.93361
+Learning-oriented resilient organization,69,background organizational pressure,0.11024,1,0.87823,0.89529,1,0,0.93296
+Learning-oriented resilient organization,70,background organizational pressure,0.10851,1,0.87769,0.89173,1,0,0.93231
+Learning-oriented resilient organization,71,background organizational pressure,0.1084,1,0.87716,0.88815,1,0,0.93165
+Learning-oriented resilient organization,72,background organizational pressure,0.11042,1,0.87662,0.88454,1,0,0.93099
+Learning-oriented resilient organization,73,background organizational pressure,0.11061,1,0.87608,0.88092,1,0,0.93032
+Learning-oriented resilient organization,74,background organizational pressure,0.10954,1,0.87554,0.87727,1,0,0.92965
+Learning-oriented resilient organization,75,background organizational pressure,0.10936,1,0.87499,0.87361,1,0,0.92898
+Learning-oriented resilient organization,76,background organizational pressure,0.11052,1,0.87444,0.86993,1,0,0.9283
+Learning-oriented resilient organization,77,background organizational pressure,0.11127,1,0.87389,0.86622,1,0,0.92762
+Learning-oriented resilient organization,78,Compound organizational disruption,0.8958,1,0.87333,0.90761,1,0.04891,0.92926
+Learning-oriented resilient organization,79,background organizational pressure,0.10978,1,0.87661,0.90386,1,0,0.93408
+Learning-oriented resilient organization,80,background organizational pressure,0.11047,1,0.87898,0.9001,1,0,0.93385
+Learning-oriented resilient organization,81,background organizational pressure,0.11112,1,0.87842,0.89632,1,0,0.93316
+Learning-oriented resilient organization,82,background organizational pressure,0.11019,1,0.87785,0.89251,1,0,0.93246
+Learning-oriented resilient organization,83,background organizational pressure,0.11079,1,0.87728,0.88869,1,0,0.93175
+Learning-oriented resilient organization,84,background organizational pressure,0.11026,1,0.8767,0.88484,1,0,0.93105
+Learning-oriented resilient organization,85,background organizational pressure,0.1112,1,0.87613,0.88098,1,0,0.93034
+Learning-oriented resilient organization,86,background organizational pressure,0.11073,1,0.87555,0.8771,1,0,0.92962
+Learning-oriented resilient organization,87,background organizational pressure,0.1105,1,0.87496,0.87319,1,0,0.92891
+Learning-oriented resilient organization,88,background organizational pressure,0.11137,1,0.87438,0.86927,1,0,0.92818
+Learning-oriented resilient organization,89,background organizational pressure,0.11093,1,0.87379,0.86532,1,0,0.92746
+Overloaded organization with hidden fragility,0,background organizational pressure,0.10135,0.85736,0.5088,0.44714,0.43961,0.62064,0.5573
+Overloaded organization with hidden fragility,1,background organizational pressure,0.10023,0.93324,0.50978,0.41873,0.44286,0.52108,0.57856
+Overloaded organization with hidden fragility,2,background organizational pressure,0.10099,1,0.51194,0.39478,0.44984,0.42166,0.59948
+Overloaded organization with hidden fragility,3,background organizational pressure,0.10115,1,0.51529,0.37528,0.46065,0.32227,0.60857
+Overloaded organization with hidden fragility,4,background organizational pressure,0.10004,1,0.51985,0.36025,0.47542,0.22267,0.61921
+Overloaded organization with hidden fragility,5,background organizational pressure,0.09984,1,0.52563,0.34967,0.49424,0.12305,0.63142
+Overloaded organization with hidden fragility,6,background organizational pressure,0.10123,1,0.53266,0.34355,0.51723,0.02367,0.64518
+Overloaded organization with hidden fragility,7,background organizational pressure,0.1002,1,0.54093,0.33848,0.54142,0,0.65193
+Overloaded organization with hidden fragility,8,background organizational pressure,0.10096,1,0.54497,0.33338,0.56589,0,0.65568
+Overloaded organization with hidden fragility,9,background organizational pressure,0.10231,1,0.54763,0.32826,0.59064,0,0.65925
+Overloaded organization with hidden fragility,10,Cyber and communications disruption,0.7228,0.97472,0.55033,0.35723,0.60194,0.03033,0.65803
+Overloaded organization with hidden fragility,11,background organizational pressure,0.10252,1,0.55444,0.35207,0.62743,0,0.67003
+Overloaded organization with hidden fragility,12,background organizational pressure,0.10084,1,0.55905,0.34689,0.65322,0,0.67407
+Overloaded organization with hidden fragility,13,background organizational pressure,0.10089,1,0.56188,0.3417,0.6793,0,0.67786
+Overloaded organization with hidden fragility,14,background organizational pressure,0.10135,1,0.56476,0.33648,0.70569,0,0.68171
+Overloaded organization with hidden fragility,15,background organizational pressure,0.10294,1,0.56767,0.33125,0.73239,0,0.68561
+Overloaded organization with hidden fragility,16,background organizational pressure,0.10114,1,0.57062,0.32599,0.7594,0,0.68956
+Overloaded organization with hidden fragility,17,background organizational pressure,0.10175,1,0.57362,0.32071,0.78673,0,0.69357
+Overloaded organization with hidden fragility,18,background organizational pressure,0.1016,1,0.57665,0.31542,0.81438,0,0.69763
+Overloaded organization with hidden fragility,19,background organizational pressure,0.10178,1,0.57973,0.3101,0.84236,0,0.70175
+Overloaded organization with hidden fragility,20,background organizational pressure,0.10286,1,0.58285,0.30477,0.87067,0,0.70592
+Overloaded organization with hidden fragility,21,background organizational pressure,0.10217,1,0.58601,0.29941,0.89931,0,0.71016
+Overloaded organization with hidden fragility,22,background organizational pressure,0.10284,1,0.58922,0.29403,0.9283,0,0.71445
+Overloaded organization with hidden fragility,23,background organizational pressure,0.10375,1,0.59247,0.28864,0.95763,0,0.7188
+Overloaded organization with hidden fragility,24,Staffing shortage and demand surge,0.7286,0.9835,0.59576,0.31414,0.97269,0.03184,0.71933
+Overloaded organization with hidden fragility,25,background organizational pressure,0.10399,1,0.59979,0.30871,1,0,0.72996
+Overloaded organization with hidden fragility,26,background organizational pressure,0.10338,1,0.60471,0.30325,1,0,0.72987
+Overloaded organization with hidden fragility,27,background organizational pressure,0.1044,1,0.60389,0.29777,1,0,0.72887
+Overloaded organization with hidden fragility,28,background organizational pressure,0.10401,1,0.60307,0.29228,1,0,0.72786
+Overloaded organization with hidden fragility,29,background organizational pressure,0.10475,1,0.60224,0.28676,1,0,0.72684
+Overloaded organization with hidden fragility,30,background organizational pressure,0.1035,1,0.60141,0.28123,1,0,0.72582
+Overloaded organization with hidden fragility,31,background organizational pressure,0.10392,1,0.60058,0.27567,1,0,0.7248
+Overloaded organization with hidden fragility,32,background organizational pressure,0.10455,1,0.59975,0.27009,1,0,0.72378
+Overloaded organization with hidden fragility,33,background organizational pressure,0.10556,1,0.59891,0.2645,1,0,0.72275
+Overloaded organization with hidden fragility,34,background organizational pressure,0.1049,1,0.59807,0.25888,1,0,0.72171
+Overloaded organization with hidden fragility,35,background organizational pressure,0.10469,1,0.59723,0.25325,1,0,0.72068
+Overloaded organization with hidden fragility,36,background organizational pressure,0.10428,1,0.59639,0.24759,1,0,0.71964
+Overloaded organization with hidden fragility,37,background organizational pressure,0.10449,1,0.59554,0.24191,1,0,0.71859
+Overloaded organization with hidden fragility,38,Supplier facility and infrastructure disruption,0.7072,0.99109,0.59469,0.26557,1,0.02627,0.71783
+Overloaded organization with hidden fragility,39,background organizational pressure,0.10459,1,0.59666,0.25986,1,0,0.72164
+Overloaded organization with hidden fragility,40,background organizational pressure,0.10657,1,0.59738,0.25412,1,0,0.72084
+Overloaded organization with hidden fragility,41,background organizational pressure,0.10646,1,0.59652,0.24836,1,0,0.71978
+Overloaded organization with hidden fragility,42,background organizational pressure,0.10661,1,0.59565,0.24259,1,0,0.71872
+Overloaded organization with hidden fragility,43,background organizational pressure,0.10586,1,0.59479,0.23679,1,0,0.71765
+Overloaded organization with hidden fragility,44,background organizational pressure,0.10642,1,0.59392,0.23098,1,0,0.71658
+Overloaded organization with hidden fragility,45,background organizational pressure,0.10556,1,0.59305,0.22514,1,0,0.71551
+Overloaded organization with hidden fragility,46,background organizational pressure,0.10614,1,0.59217,0.21928,1,0,0.71443
+Overloaded organization with hidden fragility,47,background organizational pressure,0.10546,1,0.59129,0.21341,1,0,0.71335
+Overloaded organization with hidden fragility,48,background organizational pressure,0.10625,1,0.59041,0.20751,1,0,0.71227
+Overloaded organization with hidden fragility,49,background organizational pressure,0.10598,1,0.58953,0.2016,1,0,0.71118
+Overloaded organization with hidden fragility,50,background organizational pressure,0.10574,1,0.58864,0.19566,1,0,0.71009
+Overloaded organization with hidden fragility,51,background organizational pressure,0.10784,1,0.58775,0.1897,1,0,0.70899
+Overloaded organization with hidden fragility,52,Reputational and governance crisis,0.7702,0.9661,0.58686,0.21541,1,0.04265,0.70192
+Overloaded organization with hidden fragility,53,background organizational pressure,0.10612,1,0.58815,0.20941,1,0,0.71221
+Overloaded organization with hidden fragility,54,background organizational pressure,0.10797,1,0.58981,0.2034,1,0,0.71151
+Overloaded organization with hidden fragility,55,background organizational pressure,0.10783,1,0.58891,0.19736,1,0,0.7104
+Overloaded organization with hidden fragility,56,background organizational pressure,0.1065,1,0.588,0.1913,1,0,0.70929
+Overloaded organization with hidden fragility,57,background organizational pressure,0.10757,1,0.5871,0.18523,1,0,0.70817
+Overloaded organization with hidden fragility,58,background organizational pressure,0.10893,1,0.58618,0.17913,1,0,0.70705
+Overloaded organization with hidden fragility,59,background organizational pressure,0.10904,1,0.58527,0.17302,1,0,0.70593
+Overloaded organization with hidden fragility,60,background organizational pressure,0.10815,1,0.58435,0.16688,1,0,0.7048
+Overloaded organization with hidden fragility,61,background organizational pressure,0.10878,1,0.58343,0.16072,1,0,0.70366
+Overloaded organization with hidden fragility,62,background organizational pressure,0.10876,1,0.58251,0.15455,1,0,0.70253
+Overloaded organization with hidden fragility,63,background organizational pressure,0.10789,1,0.58158,0.14835,1,0,0.70139
+Overloaded organization with hidden fragility,64,background organizational pressure,0.10864,1,0.58065,0.14214,1,0,0.70025
+Overloaded organization with hidden fragility,65,background organizational pressure,0.10888,1,0.57972,0.1359,1,0,0.6991
+Overloaded organization with hidden fragility,66,Leadership turnover and institutional memory loss,0.6932,0.99241,0.57879,0.15591,1,0.02263,0.69837
+Overloaded organization with hidden fragility,67,background organizational pressure,0.10866,1,0.58043,0.14964,1,0,0.70141
+Overloaded organization with hidden fragility,68,background organizational pressure,0.10981,1,0.58085,0.14334,1,0,0.70047
+Overloaded organization with hidden fragility,69,background organizational pressure,0.10904,1,0.5799,0.13703,1,0,0.69931
+Overloaded organization with hidden fragility,70,background organizational pressure,0.1099,1,0.57895,0.13069,1,0,0.69814
+Overloaded organization with hidden fragility,71,background organizational pressure,0.10839,1,0.578,0.12433,1,0,0.69697
+Overloaded organization with hidden fragility,72,background organizational pressure,0.10943,1,0.57705,0.11796,1,0,0.6958
+Overloaded organization with hidden fragility,73,background organizational pressure,0.1086,1,0.57609,0.11156,1,0,0.69462
+Overloaded organization with hidden fragility,74,background organizational pressure,0.11017,1,0.57513,0.10515,1,0,0.69344
+Overloaded organization with hidden fragility,75,background organizational pressure,0.11084,1,0.57417,0.09871,1,0,0.69226
+Overloaded organization with hidden fragility,76,background organizational pressure,0.11018,1,0.57321,0.09225,1,0,0.69107
+Overloaded organization with hidden fragility,77,background organizational pressure,0.11037,1,0.57224,0.08578,1,0,0.68988
+Overloaded organization with hidden fragility,78,Compound organizational disruption,0.8958,0.91629,0.57127,0.1115,1,0.07531,0.66957
+Overloaded organization with hidden fragility,79,background organizational pressure,0.11076,1,0.57061,0.10498,1,0,0.69269
+Overloaded organization with hidden fragility,80,background organizational pressure,0.10995,1,0.57415,0.09845,1,0,0.69222
+Overloaded organization with hidden fragility,81,background organizational pressure,0.11046,1,0.57317,0.09189,1,0,0.69101
+Overloaded organization with hidden fragility,82,background organizational pressure,0.11105,1,0.57218,0.08532,1,0,0.6898
+Overloaded organization with hidden fragility,83,background organizational pressure,0.11134,1,0.5712,0.07872,1,0,0.68859
+Overloaded organization with hidden fragility,84,background organizational pressure,0.11083,1,0.57021,0.0721,1,0,0.68737
+Overloaded organization with hidden fragility,85,background organizational pressure,0.1112,1,0.56922,0.06547,1,0,0.68615
+Overloaded organization with hidden fragility,86,background organizational pressure,0.11097,1,0.56822,0.05881,1,0,0.68493
+Overloaded organization with hidden fragility,87,background organizational pressure,0.11164,1,0.56722,0.05214,1,0,0.6837
+Overloaded organization with hidden fragility,88,background organizational pressure,0.11206,1,0.56622,0.04544,1,0,0.68247
+Overloaded organization with hidden fragility,89,background organizational pressure,0.11136,1,0.56522,0.03872,1,0,0.68123

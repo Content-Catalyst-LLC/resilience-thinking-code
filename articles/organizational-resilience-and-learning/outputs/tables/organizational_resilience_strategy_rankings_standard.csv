@@ -1,0 +1,49 @@
+scenario,rank,strategy_id,strategy,organizational_resilience_value
+Balanced,1,OR005,Psychological Safety and Weak-Signal Reporting System,7.422
+Balanced,2,OR006,Operational Resilience and Continuity Exercise Program,7.41
+Balanced,3,OR003,After-Action Learning and Corrective Action System,7.395
+Balanced,4,OR004,Institutional Memory and Knowledge Architecture Program,7.275
+Balanced,5,OR001,Critical Function and Dependency Mapping,7.227
+Balanced,6,OR002,Cross-Training and Role Redundancy Program,7.199
+Continuity-first,1,OR006,Operational Resilience and Continuity Exercise Program,8.132
+Continuity-first,2,OR002,Cross-Training and Role Redundancy Program,7.935
+Continuity-first,3,OR003,After-Action Learning and Corrective Action System,7.928
+Continuity-first,4,OR005,Psychological Safety and Weak-Signal Reporting System,7.906
+Continuity-first,5,OR001,Critical Function and Dependency Mapping,7.879
+Continuity-first,6,OR004,Institutional Memory and Knowledge Architecture Program,7.839
+Learning-first,1,OR003,After-Action Learning and Corrective Action System,8.748
+Learning-first,2,OR005,Psychological Safety and Weak-Signal Reporting System,8.668
+Learning-first,3,OR006,Operational Resilience and Continuity Exercise Program,8.591
+Learning-first,4,OR004,Institutional Memory and Knowledge Architecture Program,8.569
+Learning-first,5,OR002,Cross-Training and Role Redundancy Program,8.325
+Learning-first,6,OR001,Critical Function and Dependency Mapping,8.317
+Memory-first,1,OR004,Institutional Memory and Knowledge Architecture Program,8.501
+Memory-first,2,OR003,After-Action Learning and Corrective Action System,8.464
+Memory-first,3,OR006,Operational Resilience and Continuity Exercise Program,8.387
+Memory-first,4,OR005,Psychological Safety and Weak-Signal Reporting System,8.37
+Memory-first,5,OR002,Cross-Training and Role Redundancy Program,8.221
+Memory-first,6,OR001,Critical Function and Dependency Mapping,8.187
+Coordination-first,1,OR006,Operational Resilience and Continuity Exercise Program,8.52
+Coordination-first,2,OR005,Psychological Safety and Weak-Signal Reporting System,8.428
+Coordination-first,3,OR003,After-Action Learning and Corrective Action System,8.372
+Coordination-first,4,OR001,Critical Function and Dependency Mapping,8.332
+Coordination-first,5,OR004,Institutional Memory and Knowledge Architecture Program,8.22
+Coordination-first,6,OR002,Cross-Training and Role Redundancy Program,8.17
+Governance-first,1,OR003,After-Action Learning and Corrective Action System,8.5
+Governance-first,2,OR006,Operational Resilience and Continuity Exercise Program,8.494
+Governance-first,3,OR005,Psychological Safety and Weak-Signal Reporting System,8.454
+Governance-first,4,OR004,Institutional Memory and Knowledge Architecture Program,8.306
+Governance-first,5,OR001,Critical Function and Dependency Mapping,8.298
+Governance-first,6,OR002,Cross-Training and Role Redundancy Program,8.15
+Workforce-protection,1,OR005,Psychological Safety and Weak-Signal Reporting System,8.194
+Workforce-protection,2,OR003,After-Action Learning and Corrective Action System,8.042
+Workforce-protection,3,OR006,Operational Resilience and Continuity Exercise Program,8.011
+Workforce-protection,4,OR004,Institutional Memory and Knowledge Architecture Program,7.897
+Workforce-protection,5,OR002,Cross-Training and Role Redundancy Program,7.895
+Workforce-protection,6,OR001,Critical Function and Dependency Mapping,7.83
+Implementation-aware,1,OR005,Psychological Safety and Weak-Signal Reporting System,7.27
+Implementation-aware,2,OR006,Operational Resilience and Continuity Exercise Program,7.24
+Implementation-aware,3,OR003,After-Action Learning and Corrective Action System,7.233
+Implementation-aware,4,OR004,Institutional Memory and Knowledge Architecture Program,7.097
+Implementation-aware,5,OR001,Critical Function and Dependency Mapping,7.073
+Implementation-aware,6,OR002,Cross-Training and Role Redundancy Program,7.032
