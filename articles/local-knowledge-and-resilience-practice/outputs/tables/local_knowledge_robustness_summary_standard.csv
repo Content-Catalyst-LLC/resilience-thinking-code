@@ -1,0 +1,7 @@
+strategy_id,strategy,mean_knowledge_integration_value,median_knowledge_integration_value,probability_ranked_first,probability_top_two,probability_bottom_two
+LK003,Indigenous Knowledge Governance Protocol,8.82918,8.8384,52.7,85.6,0.9
+LK004,Funded Community Resilience Advisory Council,8.78646,8.79164,39.77,81.23,1.63
+LK006,Recovery Feedback and Administrative Burden Review,8.44203,8.44215,4.3,17.2,24.1
+LK001,Participatory Risk Mapping and Action Triggers,8.35315,8.35443,2.13,9.13,37.6
+LK005,Trusted Messenger and Local Warning System,8.30515,8.30729,0.97,5.97,47.67
+LK002,Community Science Environmental Monitoring Network,8.03776,8.0372,0.13,0.87,88.1

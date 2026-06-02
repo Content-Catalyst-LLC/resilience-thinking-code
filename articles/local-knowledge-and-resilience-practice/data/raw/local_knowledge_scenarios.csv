@@ -1,0 +1,10 @@
+scenario,participation_access_weight,knowledge_diversity_weight,decision_influence_weight,trust_building_weight,knowledge_protection_weight,reciprocity_weight,implementation_accountability_weight,implementation_burden_weight,description
+Balanced,0.14,0.14,0.15,0.14,0.14,0.14,0.15,0.02,Balanced local-knowledge integration across participation diversity influence trust protection reciprocity accountability and implementation burden.
+Participation-first,0.38,0.10,0.11,0.10,0.10,0.10,0.10,0.01,Prioritizes accessible compensated inclusive participation.
+Knowledge-diversity-first,0.10,0.38,0.11,0.10,0.10,0.10,0.10,0.01,Prioritizes multiple knowledge systems including scientific local Indigenous practitioner and lived knowledge.
+Decision-influence-first,0.10,0.11,0.38,0.10,0.10,0.10,0.10,0.01,Prioritizes whether local knowledge actually changes decisions resources rules and plans.
+Trust-first,0.10,0.10,0.11,0.38,0.10,0.10,0.10,0.01,Prioritizes legitimacy relationship repair trusted institutions and follow-through.
+Protection-first,0.10,0.10,0.11,0.10,0.38,0.10,0.10,0.01,Prioritizes consent privacy Indigenous data sovereignty and protection against knowledge extraction or harm.
+Reciprocity-first,0.10,0.10,0.11,0.10,0.10,0.38,0.10,0.01,Prioritizes community benefit shared products compensation and return of useful knowledge.
+Accountability-first,0.10,0.10,0.11,0.10,0.10,0.10,0.38,0.01,Prioritizes implementation tracking public reporting decision-change logs and corrective action.
+Implementation-aware,0.13,0.13,0.14,0.13,0.13,0.13,0.13,0.10,Penalizes implementation burden when administrative finance legal or political capacity is constrained.
