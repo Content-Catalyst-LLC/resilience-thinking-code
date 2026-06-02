@@ -1,0 +1,7 @@
+strategy_id,strategy,mean_resilience_value,median_resilience_value,probability_ranked_first,probability_top_two,probability_bottom_two
+URB002,Green-Blue Stormwater and Floodplain Network,7.56858,7.56853,28.03,50.73,16.47
+URB006,Anti-Displacement Climate Adaptation Framework,7.53842,7.53734,24.43,44.67,21.87
+URB005,Community Resilience Hub Network,7.49044,7.4918,18.33,36.77,26.93
+URB001,Heat-Resilient Housing Retrofit Program,7.47104,7.47561,15.47,33.77,29.83
+URB004,Transit Access and Evacuation Equity Plan,7.4149,7.41696,10.8,24.27,38.43
+URB003,Critical Service Microgrid and Water Backup Program,7.25737,7.25743,2.93,9.8,66.47

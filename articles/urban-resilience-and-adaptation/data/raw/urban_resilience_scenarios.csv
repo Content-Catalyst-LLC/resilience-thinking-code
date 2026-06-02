@@ -1,0 +1,9 @@
+scenario,exposure_reduction_weight,vulnerability_reduction_weight,service_continuity_weight,adaptive_capacity_weight,ecological_buffering_weight,equity_protection_weight,maladaptation_risk_weight,description
+Balanced,0.16,0.17,0.17,0.15,0.14,0.15,0.06,Balanced urban resilience across exposure vulnerability service continuity adaptation ecology equity and maladaptation risk.
+Exposure-first,0.40,0.12,0.12,0.10,0.12,0.10,0.04,Prioritizes reducing exposure to heat flood coastal fire and infrastructure hazards.
+Vulnerability-first,0.12,0.40,0.12,0.10,0.12,0.10,0.04,Prioritizes housing health income energy burden disability access and social vulnerability.
+Service-continuity-first,0.12,0.12,0.40,0.10,0.12,0.10,0.04,Prioritizes water power transport sanitation health cooling communications and emergency services.
+Adaptation-first,0.12,0.12,0.12,0.38,0.12,0.10,0.04,Prioritizes monitoring learning flexible standards institutional capacity and adaptation pathways.
+Ecology-first,0.12,0.12,0.12,0.10,0.38,0.12,0.04,Prioritizes trees wetlands parks soils water absorption biodiversity and urban ecological function.
+Equity-first,0.10,0.14,0.12,0.10,0.12,0.38,0.04,Prioritizes vulnerable residents anti-displacement community authority and fair recovery.
+Maladaptation-sensitive,0.13,0.13,0.13,0.12,0.12,0.11,0.26,Prioritizes penalties for displacement false security risk transfer emissions-intensive adaptation and digital exclusion.

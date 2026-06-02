@@ -1,0 +1,7 @@
+system,mean_urban_function,minimum_urban_function,final_urban_function,mean_equity_adjusted_function,maximum_dependency_coupling,final_dependency_coupling
+Community Resilience Hub Network,0.99993,0.99478,1.0,0.99036,0.6189,0.61339
+Urban Watershed and Floodplain District,0.9994,0.96155,1.0,0.98949,0.74921,0.74921
+Transit-Dependent Neighborhood Network,0.99744,0.92618,1.0,0.98862,0.88212,0.88212
+Coastal Mixed-Use Adaptation Zone,0.99626,0.91531,1.0,0.98779,0.96242,0.96242
+Downtown Critical Service Corridor,0.99625,0.90097,1.0,0.98658,1.0,1.0
+Heat-Vulnerable Residential District,0.99392,0.88026,1.0,0.98604,0.90399,0.90399

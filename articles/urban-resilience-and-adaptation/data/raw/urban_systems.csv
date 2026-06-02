@@ -1,0 +1,7 @@
+system_id,system,system_domain,baseline_function,hazard_exposure,chronic_stress,infrastructure_support,community_capacity,ecological_condition,adaptive_capacity,equity_sensitivity,dependency_coupling,critical_function
+SYS001,Heat-Vulnerable Residential District,housing and heat,0.78,0.82,0.68,0.56,0.62,0.44,0.64,0.88,0.70,thermal safety housing stability utility affordability and public-health outreach
+SYS002,Downtown Critical Service Corridor,service infrastructure,0.86,0.70,0.58,0.76,0.58,0.42,0.68,0.72,0.84,power water hospitals transit communications food logistics and emergency operations
+SYS003,Transit-Dependent Neighborhood Network,mobility and access,0.80,0.72,0.60,0.64,0.74,0.48,0.70,0.84,0.76,transit access evacuation care access jobs schools food access and social connection
+SYS004,Urban Watershed and Floodplain District,green-blue infrastructure,0.82,0.78,0.62,0.60,0.66,0.74,0.78,0.76,0.68,stormwater absorption flood storage drainage water quality and ecological buffering
+SYS005,Community Resilience Hub Network,social infrastructure,0.84,0.64,0.58,0.62,0.86,0.56,0.82,0.82,0.62,cooling shelter mutual aid trusted communication distribution care and local coordination
+SYS006,Coastal Mixed-Use Adaptation Zone,coastal and housing risk,0.76,0.84,0.70,0.66,0.64,0.58,0.72,0.86,0.80,coastal flood protection housing stability transit access business continuity and relocation pathways

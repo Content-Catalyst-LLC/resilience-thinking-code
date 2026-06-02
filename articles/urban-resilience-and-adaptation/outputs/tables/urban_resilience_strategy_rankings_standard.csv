@@ -1,0 +1,49 @@
+scenario,strategy_id,strategy,system_domain,rank,resilience_value,maladaptation_risk,critical_function
+Balanced,URB002,Green-Blue Stormwater and Floodplain Network,green-blue infrastructure,1,7.561,3.2,reduces flood heat runoff water-quality and ecological stress through hybrid urban landscapes
+Balanced,URB006,Anti-Displacement Climate Adaptation Framework,housing justice and governance,2,7.547,2.5,prevents green displacement supports participation preserves community continuity and aligns adaptation with housing justice
+Balanced,URB005,Community Resilience Hub Network,social infrastructure,3,7.49,2.6,provides trusted local coordination cooling shelter supplies communication and mutual aid capacity
+Balanced,URB001,Heat-Resilient Housing Retrofit Program,housing and heat adaptation,4,7.473,2.9,improves thermal safety housing quality utility affordability and tenant protection
+Balanced,URB004,Transit Access and Evacuation Equity Plan,mobility and evacuation,5,7.416,2.8,protects mobility emergency access evacuation commuting care access and freight alternatives
+Balanced,URB003,Critical Service Microgrid and Water Backup Program,infrastructure service continuity,6,7.254,3.5,maintains power water cooling communications and critical facilities during disruption
+Exposure-first,URB002,Green-Blue Stormwater and Floodplain Network,green-blue infrastructure,1,7.906,3.2,reduces flood heat runoff water-quality and ecological stress through hybrid urban landscapes
+Exposure-first,URB001,Heat-Resilient Housing Retrofit Program,housing and heat adaptation,2,7.58,2.9,improves thermal safety housing quality utility affordability and tenant protection
+Exposure-first,URB004,Transit Access and Evacuation Equity Plan,mobility and evacuation,3,7.558,2.8,protects mobility emergency access evacuation commuting care access and freight alternatives
+Exposure-first,URB006,Anti-Displacement Climate Adaptation Framework,housing justice and governance,4,7.542,2.5,prevents green displacement supports participation preserves community continuity and aligns adaptation with housing justice
+Exposure-first,URB005,Community Resilience Hub Network,social infrastructure,5,7.418,2.6,provides trusted local coordination cooling shelter supplies communication and mutual aid capacity
+Exposure-first,URB003,Critical Service Microgrid and Water Backup Program,infrastructure service continuity,6,7.398,3.5,maintains power water cooling communications and critical facilities during disruption
+Vulnerability-first,URB006,Anti-Displacement Climate Adaptation Framework,housing justice and governance,1,7.934,2.5,prevents green displacement supports participation preserves community continuity and aligns adaptation with housing justice
+Vulnerability-first,URB001,Heat-Resilient Housing Retrofit Program,housing and heat adaptation,2,7.86,2.9,improves thermal safety housing quality utility affordability and tenant protection
+Vulnerability-first,URB005,Community Resilience Hub Network,social infrastructure,3,7.782,2.6,provides trusted local coordination cooling shelter supplies communication and mutual aid capacity
+Vulnerability-first,URB002,Green-Blue Stormwater and Floodplain Network,green-blue infrastructure,4,7.738,3.2,reduces flood heat runoff water-quality and ecological stress through hybrid urban landscapes
+Vulnerability-first,URB004,Transit Access and Evacuation Equity Plan,mobility and evacuation,5,7.642,2.8,protects mobility emergency access evacuation commuting care access and freight alternatives
+Vulnerability-first,URB003,Critical Service Microgrid and Water Backup Program,infrastructure service continuity,6,7.454,3.5,maintains power water cooling communications and critical facilities during disruption
+Service-continuity-first,URB003,Critical Service Microgrid and Water Backup Program,infrastructure service continuity,1,7.706,3.5,maintains power water cooling communications and critical facilities during disruption
+Service-continuity-first,URB002,Green-Blue Stormwater and Floodplain Network,green-blue infrastructure,2,7.682,3.2,reduces flood heat runoff water-quality and ecological stress through hybrid urban landscapes
+Service-continuity-first,URB004,Transit Access and Evacuation Equity Plan,mobility and evacuation,3,7.67,2.8,protects mobility emergency access evacuation commuting care access and freight alternatives
+Service-continuity-first,URB001,Heat-Resilient Housing Retrofit Program,housing and heat adaptation,4,7.664,2.9,improves thermal safety housing quality utility affordability and tenant protection
+Service-continuity-first,URB005,Community Resilience Hub Network,social infrastructure,5,7.642,2.6,provides trusted local coordination cooling shelter supplies communication and mutual aid capacity
+Service-continuity-first,URB006,Anti-Displacement Climate Adaptation Framework,housing justice and governance,6,7.598,2.5,prevents green displacement supports participation preserves community continuity and aligns adaptation with housing justice
+Adaptation-first,URB002,Green-Blue Stormwater and Floodplain Network,green-blue infrastructure,1,7.85,3.2,reduces flood heat runoff water-quality and ecological stress through hybrid urban landscapes
+Adaptation-first,URB005,Community Resilience Hub Network,social infrastructure,2,7.81,2.6,provides trusted local coordination cooling shelter supplies communication and mutual aid capacity
+Adaptation-first,URB006,Anti-Displacement Climate Adaptation Framework,housing justice and governance,3,7.794,2.5,prevents green displacement supports participation preserves community continuity and aligns adaptation with housing justice
+Adaptation-first,URB004,Transit Access and Evacuation Equity Plan,mobility and evacuation,4,7.642,2.8,protects mobility emergency access evacuation commuting care access and freight alternatives
+Adaptation-first,URB001,Heat-Resilient Housing Retrofit Program,housing and heat adaptation,5,7.636,2.9,improves thermal safety housing quality utility affordability and tenant protection
+Adaptation-first,URB003,Critical Service Microgrid and Water Backup Program,infrastructure service continuity,6,7.51,3.5,maintains power water cooling communications and critical facilities during disruption
+Ecology-first,URB002,Green-Blue Stormwater and Floodplain Network,green-blue infrastructure,1,7.97,3.2,reduces flood heat runoff water-quality and ecological stress through hybrid urban landscapes
+Ecology-first,URB006,Anti-Displacement Climate Adaptation Framework,housing justice and governance,2,7.574,2.5,prevents green displacement supports participation preserves community continuity and aligns adaptation with housing justice
+Ecology-first,URB005,Community Resilience Hub Network,social infrastructure,3,7.556,2.6,provides trusted local coordination cooling shelter supplies communication and mutual aid capacity
+Ecology-first,URB001,Heat-Resilient Housing Retrofit Program,housing and heat adaptation,4,7.492,2.9,improves thermal safety housing quality utility affordability and tenant protection
+Ecology-first,URB004,Transit Access and Evacuation Equity Plan,mobility and evacuation,5,7.34,2.8,protects mobility emergency access evacuation commuting care access and freight alternatives
+Ecology-first,URB003,Critical Service Microgrid and Water Backup Program,infrastructure service continuity,6,7.27,3.5,maintains power water cooling communications and critical facilities during disruption
+Equity-first,URB006,Anti-Displacement Climate Adaptation Framework,housing justice and governance,1,8.018,2.5,prevents green displacement supports participation preserves community continuity and aligns adaptation with housing justice
+Equity-first,URB005,Community Resilience Hub Network,social infrastructure,2,7.92,2.6,provides trusted local coordination cooling shelter supplies communication and mutual aid capacity
+Equity-first,URB001,Heat-Resilient Housing Retrofit Program,housing and heat adaptation,3,7.824,2.9,improves thermal safety housing quality utility affordability and tenant protection
+Equity-first,URB004,Transit Access and Evacuation Equity Plan,mobility and evacuation,4,7.788,2.8,protects mobility emergency access evacuation commuting care access and freight alternatives
+Equity-first,URB002,Green-Blue Stormwater and Floodplain Network,green-blue infrastructure,5,7.698,3.2,reduces flood heat runoff water-quality and ecological stress through hybrid urban landscapes
+Equity-first,URB003,Critical Service Microgrid and Water Backup Program,infrastructure service continuity,6,7.43,3.5,maintains power water cooling communications and critical facilities during disruption
+Maladaptation-sensitive,URB006,Anti-Displacement Climate Adaptation Framework,housing justice and governance,1,5.392,2.5,prevents green displacement supports participation preserves community continuity and aligns adaptation with housing justice
+Maladaptation-sensitive,URB005,Community Resilience Hub Network,social infrastructure,2,5.328,2.6,provides trusted local coordination cooling shelter supplies communication and mutual aid capacity
+Maladaptation-sensitive,URB002,Green-Blue Stormwater and Floodplain Network,green-blue infrastructure,3,5.285,3.2,reduces flood heat runoff water-quality and ecological stress through hybrid urban landscapes
+Maladaptation-sensitive,URB001,Heat-Resilient Housing Retrofit Program,housing and heat adaptation,4,5.251,2.9,improves thermal safety housing quality utility affordability and tenant protection
+Maladaptation-sensitive,URB004,Transit Access and Evacuation Equity Plan,mobility and evacuation,5,5.225,2.8,protects mobility emergency access evacuation commuting care access and freight alternatives
+Maladaptation-sensitive,URB003,Critical Service Microgrid and Water Backup Program,infrastructure service continuity,6,4.956,3.5,maintains power water cooling communications and critical facilities during disruption

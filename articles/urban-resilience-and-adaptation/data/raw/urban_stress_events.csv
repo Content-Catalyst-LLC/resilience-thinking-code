@@ -1,0 +1,6 @@
+event_id,event_name,primary_stress,hazard_intensity,infrastructure_disruption,health_burden,housing_stress,market_stress,equity_burden,dependency_amplification,affected_functions
+EV001,Extreme heatwave with grid stress,heat,0.86,0.72,0.84,0.78,0.52,0.88,0.76,cooling health housing power labor transit schools and social isolation
+EV002,Extreme rainfall and urban flooding,flood,0.84,0.78,0.66,0.74,0.56,0.82,0.78,transport drainage housing sanitation water quality emergency access and business continuity
+EV003,Power water and communications outage,service outage,0.76,0.88,0.78,0.66,0.58,0.86,0.88,power water hospitals communications elevators refrigeration cooling and emergency response
+EV004,Housing displacement and adaptation pressure,housing stress,0.58,0.54,0.62,0.88,0.76,0.90,0.64,rent displacement community continuity recovery access health and local businesses
+EV005,Compound heat flood transit and health disruption,compound,0.90,0.86,0.88,0.84,0.70,0.92,0.90,health housing water power transit food access communication and emergency services
