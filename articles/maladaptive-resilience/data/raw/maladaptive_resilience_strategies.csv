@@ -1,0 +1,11 @@
+strategy_id,strategy,persistence_capacity,harm_reduction,lock_in_reduction,equity,transformation_capacity,ecological_integrity,burden_shift,implementation_burden,critical_function
+MRS001,Rebuild Same Floodplain Housing,8.8,3.2,2.8,4.2,3.0,3.8,6.8,3.2,rebuilds quickly but restores repeated exposure and floodplain lock-in
+MRS002,Floodplain Restoration and Housing Transition,7.6,8.8,8.6,8.7,8.9,9.0,2.9,4.0,reduces exposure through ecological restoration housing support and planned transition
+MRS003,Private Cooling Expansion Only,8.4,4.4,3.4,5.0,3.8,4.5,6.2,2.9,reduces heat risk for those with access while reinforcing household cost and energy dependency
+MRS004,Housing Retrofit and Public Cooling Network,8.2,8.7,8.0,9.0,8.4,7.8,2.8,3.7,pairs building upgrades cooling access energy affordability and public health outreach
+MRS005,Fossil Backup Power Expansion,8.6,3.8,2.9,4.4,3.2,3.4,6.5,3.1,improves short-term continuity while reinforcing emissions fuel dependency and carbon lock-in
+MRS006,Distributed Renewable Resilience Hubs,8.1,8.5,8.2,8.6,8.7,8.2,3.0,3.8,builds community-scale energy resilience with lower emissions and local service continuity
+MRS007,Dashboard Monitoring Without Repair,7.9,3.6,3.0,4.8,3.5,4.2,6.0,2.6,improves visibility but leaves material repair governance and exposure reduction unresolved
+MRS008,Maintenance Backlog Repair and Governance Reform,8.0,8.4,8.1,8.5,8.3,7.6,3.1,3.9,links infrastructure repair with accountability budgeting and institutional learning
+MRS009,Supply Chain Buffering Through Worker Flexibility,8.5,4.2,3.7,4.6,3.8,4.8,6.7,3.0,preserves continuity by shifting volatility and labor burden onto workers and suppliers
+MRS010,Diversified Supply Chain with Labor and Ecological Standards,8.0,8.3,7.9,8.4,8.2,8.0,3.2,3.8,diversifies supply while reducing worker burden ecological damage and dependency lock-in

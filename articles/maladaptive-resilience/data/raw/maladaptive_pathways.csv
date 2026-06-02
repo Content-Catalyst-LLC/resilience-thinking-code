@@ -1,0 +1,9 @@
+pathway_id,pathway,initial_persistence,initial_harm,initial_lock_in,burden_shift,transformation_capacity,ecological_integrity,equity,description
+MP001,Rebuild Same Floodplain Development,0.82,0.70,0.76,0.72,0.30,0.38,0.42,disaster recovery restores exposed land use and repeated flood risk
+MP002,Just Transition and Exposure Reduction,0.70,0.42,0.44,0.28,0.82,0.86,0.84,transition reduces exposure while protecting housing livelihoods and ecological function
+MP003,Private Cooling Dependence,0.78,0.66,0.68,0.66,0.36,0.44,0.50,heat adaptation depends on household cooling energy consumption and unequal access
+MP004,Public Retrofit and Cooling Network,0.74,0.38,0.42,0.26,0.78,0.72,0.88,public retrofits cooling networks and outreach reduce heat vulnerability and energy burden
+MP005,Fossil Backup Lock-In,0.80,0.72,0.78,0.70,0.32,0.34,0.44,short-term energy continuity reinforces emissions fuel dependency and transition delay
+MP006,Distributed Renewable Resilience Hubs,0.72,0.36,0.40,0.30,0.84,0.80,0.86,distributed clean energy strengthens critical services while reducing lock-in and emissions
+MP007,Monitoring Without Repair,0.76,0.64,0.66,0.62,0.34,0.42,0.48,risk visibility improves but repair funding authority and transformation remain weak
+MP008,Institutional Reform and Corrective Action,0.72,0.40,0.46,0.32,0.80,0.70,0.82,governance reform turns repeated failures into repair budgets and accountability mechanisms

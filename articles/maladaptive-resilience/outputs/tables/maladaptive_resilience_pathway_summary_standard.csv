@@ -1,0 +1,9 @@
+pathway,mean_maladaptive_risk,max_maladaptive_risk,final_maladaptive_risk,mean_adaptive_resilience,final_adaptive_resilience,final_harm,final_lock_in,final_equity
+Distributed Renewable Resilience Hubs,0.00972,0.17251,0.0,0.88384,0.8816,0.0,0.0,1.0
+Just Transition and Exposure Reduction,0.01222,0.19501,0.0,0.87699,0.8768,0.0,0.0,1.0
+Institutional Reform and Corrective Action,0.01629,0.21489,0.0,0.86753,0.872,0.0,0.0,1.0
+Public Retrofit and Cooling Network,0.01411,0.19593,0.0,0.86701,0.8672,0.0,0.0,1.0
+Private Cooling Dependence,0.76585,0.827,0.827,0.11236,0.03408,1.0,1.0,0.0
+Monitoring Without Repair,0.75981,0.825,0.825,0.1044,0.0296,1.0,1.0,0.0
+Fossil Backup Lock-In,0.81252,0.841,0.841,0.05918,0.02224,1.0,1.0,0.0
+Rebuild Same Floodplain Development,0.8215,0.848,0.848,0.05502,0.01632,1.0,1.0,0.0

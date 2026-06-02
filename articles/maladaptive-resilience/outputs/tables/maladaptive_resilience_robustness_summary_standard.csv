@@ -1,0 +1,11 @@
+strategy_id,strategy,mean_adjusted_value,median_adjusted_value,mean_maladaptive_risk,probability_ranked_first,probability_top_two,probability_bottom_two
+MRS002,Floodplain Restoration and Housing Transition,7.68577,7.70091,0.49226,59.64,83.32,0.0
+MRS004,Housing Retrofit and Public Cooling Network,7.38732,7.40184,0.53362,16.8,45.04,0.0
+MRS006,Distributed Renewable Resilience Hubs,7.38553,7.4025,0.54947,16.72,43.72,0.0
+MRS008,Maintenance Backlog Repair and Governance Reform,7.12479,7.14766,0.59913,4.04,16.88,0.0
+MRS010,Diversified Supply Chain with Labor and Ecological Standards,7.03057,7.05527,0.65851,2.8,11.04,0.0
+MRS001,Rebuild Same Floodplain Housing,-1.47208,-1.47091,5.13154,0.0,0.0,89.84
+MRS003,Private Cooling Expansion Only,0.00686,0.00849,4.31588,0.0,0.0,3.24
+MRS005,Fossil Backup Power Expansion,-1.03756,-1.04533,4.82649,0.0,0.0,65.44
+MRS007,Dashboard Monitoring Without Repair,-0.74523,-0.74547,4.6753,0.0,0.0,35.76
+MRS009,Supply Chain Buffering Through Worker Flexibility,-0.09881,-0.08997,4.41516,0.0,0.0,5.72

@@ -1,0 +1,9 @@
+scenario,persistence_capacity_weight,harm_reduction_weight,lock_in_reduction_weight,equity_weight,transformation_capacity_weight,ecological_integrity_weight,burden_shift_weight,implementation_burden_weight,description
+Balanced,0.12,0.20,0.16,0.16,0.18,0.14,0.03,0.01,Balanced scoring across persistence harm reduction lock-in reduction equity transformation ecological integrity burden shifting and implementation burden.
+Persistence-first,0.36,0.14,0.12,0.12,0.12,0.10,0.03,0.01,Prioritizes persistence and continuity while still penalizing burden shifting.
+Harm-reduction-first,0.10,0.38,0.14,0.14,0.14,0.12,0.03,0.01,Prioritizes strategies that reduce harm rather than merely preserve system function.
+Transformation-first,0.10,0.14,0.16,0.14,0.38,0.12,0.03,0.01,Prioritizes transformation capacity and structural redesign.
+Equity-first,0.10,0.16,0.14,0.36,0.14,0.12,0.03,0.01,Prioritizes distributional justice and reduction of unequal vulnerability.
+Ecology-first,0.10,0.14,0.14,0.14,0.14,0.36,0.03,0.01,Prioritizes ecological integrity and social-ecological repair.
+Burden-sensitive,0.10,0.18,0.15,0.15,0.16,0.12,0.13,0.01,Strongly penalizes strategies that shift cost risk labor displacement pollution or ecological harm onto others.
+Implementation-aware,0.12,0.20,0.16,0.16,0.18,0.14,0.02,0.10,Penalizes high implementation burden where capacity sequencing or public finance are constrained.

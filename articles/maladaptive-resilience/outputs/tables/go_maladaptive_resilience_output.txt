@@ -1,0 +1,1 @@
+adaptive_resilience_value=7.92700
